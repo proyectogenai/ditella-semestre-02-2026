@@ -7,8 +7,7 @@ por mil instrumentos sin quedarme con ninguno, hasta que encontré mi lugar
 en el diseño y elegí Di Tella justamente por ser una carrera "sin
 apellido". Hoy estoy en una pasantía en la universidad, tengo clientes
 freelance y doy esta materia, todo al mismo tiempo — hace poco hice las
-paces con la idea de que no sé elegir una sola cosa para hacer (y está
-todo bien).
+paces con la idea de que no sé elegir una sola cosa para hacer (y está bien).
 
 ## Mis superpoderes tecnológicos
 
@@ -17,13 +16,8 @@ todo bien).
    3D de espacios, y perdí el miedo a cualquier herramienta nueva de IA. Ya
    ni sé cuántas probé.
 
-2. **Racha de Duolingo indestructible.** Terminé italiano entero y ahora voy
-   por portugués. Aprender no aprendí mucho, pero la racha sigue intacta y
-   eso también es una habilidad.
+2. **Tengo una racha de Duolingo indestructible.** Terminé italiano entero y ahora voy
+   por portugués. (Aprender no aprendí mucho, pero la racha está intacta).
 
 3. **Los Sims 4 y Minecraft me formaron el ojo.** Diseñaba casas y espacios
-   virtuales años antes de saber que eso podía ser una carrera. Mi facultad
-   empezó mucho antes que la facultad.
-
-Moraleja: no hace falta elegir una sola cosa para hacerla bien. Nos vemos
-en clase 🚀
+   virtuales años antes de saber que eso podía ser una carrera.

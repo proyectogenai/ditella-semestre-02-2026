@@ -6,8 +6,8 @@ había caso, salí *jack of all trades*. Canto en una banda hace años y pasé
 por mil instrumentos sin quedarme con ninguno, hasta que encontré mi lugar
 en el diseño y elegí Di Tella justamente por ser una carrera "sin
 apellido". Hoy estoy en una pasantía en la universidad, tengo clientes
-freelance y doy esta materia, todo al mismo tiempo — hace poco hice las
-paces con la idea de que no sé elegir una sola cosa para hacer (y está bien).
+freelance y doy esta materia. Hace poco hice las paces con la idea 
+de que no sé elegir una sola cosa para hacer (y está bien).
 
 ## Mis superpoderes tecnológicos
 

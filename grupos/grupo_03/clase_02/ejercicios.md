@@ -118,7 +118,7 @@ Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
 Agregué una restricción nueva al bloque de RESTRICCIONES: *"Nunca generes sillas ni asientos: Bruma es un café al paso, se toma parado o se lleva."* Así el problema no vuelve a aparecer en ninguna generación futura.
 
-**Volví a probar el pedido que peor salió y ahora:**
+**Volví a probar el pedido que peor salió y ahora:** ya no aparecen sillas. Las imágenes muestran a la gente parada en la barra, al paso, como corresponde a Bruma. (Imágenes en `imagenes/system_1.png`, `system_2.png` y `system_3.png`.)
 
 ---
 

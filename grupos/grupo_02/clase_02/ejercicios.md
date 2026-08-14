@@ -95,6 +95,39 @@ naturaleza distinta.
 
 Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
+**Prompts exactos que devolvió el asistente (uno por imagen):**
+
+1. _people enjoying a coffee standing together during a relaxed happy hour
+   at a warm neighborhood café, one person holding a freshly served coffee
+   while casually chatting with another person near the bar, intimate and
+   spontaneous atmosphere, inviting interior with earthy materials and
+   subtle evening ambiance, photorealistic editorial photography, warm
+   cinematic lighting with soft side light, earthy and green color palette:
+   terracotta #A0522D, ochre #C19A4B, sand beige #D8C3A5, olive green
+   #6B705C, and forest green #344E41, 35mm lens with fine analog film grain
+   texture, high resolution, professional poster composition, sharp details,
+   no text, no logos, 4:5_
+
+2. _a warm neighborhood café storefront at opening time, viewed from the
+   street with the inviting interior visible through the windows, subtle
+   signs of a freshly opened space without any readable text or logos, warm
+   earthy materials, terracotta and olive accents, soft morning atmosphere,
+   photorealistic editorial photography, warm cinematic lighting with soft
+   side light, earthy and green color palette: terracotta #A0522D, ochre
+   #C19A4B, sand beige #D8C3A5, olive green #6B705C, and forest green
+   #344E41, 35mm lens with fine analog film grain texture, high resolution,
+   professional poster composition, sharp details, no text, no logos, 4:5_
+
+3. _close-up of a warm ceramic coffee cup resting on the café counter,
+   freshly prepared coffee with subtle steam rising, surrounded by a simple
+   wooden counter and softly blurred earthy-toned café interior, intimate
+   everyday atmosphere, photorealistic editorial photography, warm cinematic
+   lighting with soft side light, earthy and green color palette: terracotta
+   #A0522D, ochre #C19A4B, sand beige #D8C3A5, olive green #6B705C, and
+   forest green #344E41, 35mm lens with fine analog film grain texture, high
+   resolution, professional poster composition, sharp details, no text, no
+   logos, 4:5_
+
 ---
 
 ## A.4 — La iteración (lo más importante)

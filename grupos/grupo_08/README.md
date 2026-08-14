@@ -7,5 +7,6 @@ experimentar y ver hasta dónde podemos llegar con IA generativa.
 
 - **Lourdes Eriksen** — Estudiante de Diseño, le encanta la visualidad y
   aprender cosas nuevas. Siempre probando hasta dónde se puede llegar.
-- **Pilar Laudano** — *(su línea va acá, en cuanto Pili la mande)*
+- **Pilar Laudano** — Creativa y curiosa, amante del diseño visual: saca
+  fotos, inventa imágenes con IA y se maneja fluido con Illustrator y Figma.
 - **+1 integrante** — todavía no sabemos quién, pero ya lo vamos a sumar.

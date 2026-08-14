@@ -75,6 +75,8 @@ no text, no logos
 - Nunca dejes de poner el granulado de la imagen.
 - Las personas que aparezcan tienen que ser adultos, hombres y mujeres,
   cancheros, tipo muy palermitanos. Nunca niños ni adolescentes.
+- Nunca generes sillas ni asientos: Bruma es un café al paso, se toma
+  parado o se lleva.
 - Si el pedido es ambiguo, elegí vos y avanzá. No preguntes.
 ```
 
@@ -94,9 +96,9 @@ naturaleza distinta.
 
 | # | Mi pedido | ¿Qué tal salió? |
 | --- | --- | --- |
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | la imagen del post de apertura de la cafetería | Bien: vista desde la vereda, paleta correcta. Aparecieron sillas que no corresponden. |
+| 2 | una foto para la web con gente tomando café | Bien: personas en movimiento, paleta correcta. Aparecieron sillas que no corresponden. |
+| 3 | la foto para la sección "nuestro equipo" del menú | Bien: baristas trabajando, paleta correcta. Aparecieron sillas que no corresponden. |
 
 Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
@@ -108,11 +110,13 @@ Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
 | Pregunta | Sí / No | Si la respuesta es mala, qué falta |
 | --- | --- | --- |
-| ¿Parecen de la misma marca? | | Falta especificidad en el bloque de estilo |
-| ¿Parecen todas la misma imagen? | | Falta una regla de variación |
-| ¿Tuviste que arreglar algo a mano? | | Esa corrección va al sistema |
+| ¿Parecen de la misma marca? | Sí | — |
+| ¿Parecen todas la misma imagen? | No | — |
+| ¿Tuviste que arreglar algo a mano? | Sí | Las imágenes traían sillas, y Bruma es un café al paso: esa corrección va al sistema |
 
 **El cambio que hice al system prompt:**
+
+Agregué una restricción nueva al bloque de RESTRICCIONES: *"Nunca generes sillas ni asientos: Bruma es un café al paso, se toma parado o se lleva."* Así el problema no vuelve a aparecer en ninguna generación futura.
 
 **Volví a probar el pedido que peor salió y ahora:**
 

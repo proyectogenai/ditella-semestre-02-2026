@@ -39,5 +39,7 @@ no text, no logos
 - Nunca dejes de poner el granulado de la imagen.
 - Las personas que aparezcan tienen que ser adultos, hombres y mujeres,
   cancheros, tipo muy palermitanos. Nunca niños ni adolescentes.
+- Nunca generes sillas ni asientos: Bruma es un café al paso, se toma
+  parado o se lleva.
 - Si el pedido es ambiguo, elegí vos y avanzá. No preguntes.
 ```

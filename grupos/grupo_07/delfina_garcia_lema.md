@@ -1,23 +1,19 @@
-# Delfina García Lema
+# Delfina Garcia Lema
 
-Soy Delfina, estudiante de tercer año de Diseño en Di Tella y porteña de
-nacimiento. Cuando no estoy con la facultad, la paso con mis amigas, mi
-familia y mis perros (sí, en plural). Me encanta pintar y aprender sobre
-arte, y dicen que tengo cabeza creativa e innovadora pero ojo de detalle —
-esa combinación la aplico a todo, incluso a la vida digital.
+Soy Delfina, estudiante de tercer año de Diseño. Disfruto mucho 
+compartir tiempo con mis amigas, mi familia y mis perros. Me apasiona 
+pintar y descubrir nuevas formas de expresión a través del arte. 
+Soy una persona muy detallista, curiosa y comprometida, cualidades 
+que aplico con entusiasmo en los diferentes aspectos de mi vida. 
 
 ## Mis superpoderes tecnológicos
 
-1. **Bilingüe digital.** Manejo de apps y redes sociales con total fluidez:
+1. Manejo de apps y redes sociales con total fluidez:
    si hay una plataforma nueva, la descifro en un rato y sin instrucciones.
 
-2. **Curadora de Pinterest.** Uso Pinterest como motor de inspiración y
-   referencia: cuando necesito encontrar el mood perfecto para algo, lo
-   encuentro (y el tablero queda como obra de arte).
+2. Uso Pinterest como motor de inspiración y referencia: 
+   cuando necesito encontrar el mood perfecto para algo, lo
+   encuentro (y el tablero queda como una obra de arte).
 
-3. **Alianza con la IA.** Manejo herramientas de inteligencia artificial
-   para crear, editar y desarrollar propuestas — la materia me vino como
-   anillo al dedo.
-
-Comunicación, organización, responsabilidad y perseverancia: así me
-describen, y no pienso discutirlo. 😄
+3. Manejo herramientas de inteligencia artificial para crear, 
+   editar y desarrollar propuestas.

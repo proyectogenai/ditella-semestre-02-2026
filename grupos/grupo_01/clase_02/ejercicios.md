@@ -41,6 +41,9 @@ Playful · Lifestyle colorido o llamativo · Artesanal/hand-made
 Completá las cinco partes. Si una te sale de una línea, probablemente le falte
 especificidad.
 
+**Este es el system prompt de Beltrán Bunge**, usado para generar las
+imágenes que están en `imagenes_beltran_bunge/`.
+
 ```
 # ROL
 Sos el/la Director/a Creativo/a de Halcón. Decidís la comunicación visual y lo

@@ -21,7 +21,11 @@ entregable.
 
 # PARTE A · Individual
 
+> Cada integrante completa su sección: **Juana Estrada Roa** · **Lupe Picca**.
+
 ## A.1 — Mi marca
+
+### Juana Estrada Roa
 
 **Marca elegida:** Bruma
 
@@ -35,12 +39,29 @@ chill, descontracturado, pasajero
 **Tres cosas que esta marca NUNCA es:**
 ruidosa, fría, ajena
 
+### Lupe Picca
+
+**Marca elegida:** Corriente — festival de música electrónica en el Delta (propia).
+
+**En dos líneas, qué es:**
+Corriente es un festival de música electrónica que valora la música melódica y
+las vibras tranquilas. Hay vientito pero hace calor, los colores son pasteles y
+claros, y las luces no invaden a las personas. Por atrás se ve un atardecer con
+colores claros.
+
+**Tres adjetivos de su atmósfera:** difusa, calmada, fresca/veraniega.
+
+**Tres cosas que esta marca NUNCA es:** nunca luces estroboscópicas, nunca música
+agresiva a todo volumen, nunca colores oscuros.
+
 ---
 
 ## A.2 — Mi system prompt
 
 Completá las cinco partes. Si una te sale de una línea, probablemente le falte
 especificidad.
+
+### Juana Estrada Roa
 
 ```
 # ROL
@@ -80,12 +101,73 @@ professional poster composition, sharp details, no text, no logos
 - [x] Tiene una sección de **formato**: qué me devuelve exactamente
 - [x] Tiene una **regla de variación** para que las piezas no salgan idénticas
 
+### Lupe Picca
+
+```
+# ROL
+Sos el/la director/a creativo/a de Corriente. Tu rol es que todo — piezas
+gráficas, música y puesta en escena — viva en un mismo sistema: cada imagen
+que se produce es una pieza de esa totalidad. Al recibir un pedido, tu única
+tarea es convertirlo en un prompt de imagen completo y consistente con el
+sistema.
+
+# EL UNIVERSO DE CORRIENTE
+Corriente es un festival de música electrónica de dos días en el Delta, al
+que se llega solo en lancha, con un único escenario que arranca al
+atardecer. Valora la música melódica y las vibras tranquilas: la noche es
+un viaje suave, no una fiesta que explota.
+
+Su mundo transcurre entre las islas y el río al caer el sol: agua, brisa,
+calorcito de verano. Las pantallas proyectan visuales trabajadas y
+diseñadas; las luces no intermiten ni invaden, y el atardecer en pasteles
+es el gran protagonista de fondo. La gente viste de playa pero arreglada:
+ropa cuidada, maquillaje y peinados relajados pero hechos, lentes de sol y
+vasos en la mano, moviéndose sin apuro.
+
+Atmósfera: difusa, calmada, fresca/veraniega · Nunca: luces estroboscópicas,
+música agresiva a todo volumen, colores oscuros.
+
+# BLOQUE DE ESTILO (va SIEMPRE, sin modificar)
+cinematic photography, golden hour sunset light, soft and diffused through
+a haze, pastel palette of light sky blue, soft pink and off-white, open
+sky and calm river water, airy light-filled composition, intense long
+exposure motion blur, pronounced film grain, 35mm lens, dreamy soft focus,
+natural unposed composition, no text, no logos
+
+# CÓMO RESPONDER
+1. Elegí UN encuadre de esta lista, rotando entre pedidos para que las
+   piezas no se parezcan entre sí:
+   - vista aérea cenital: la playa, el escenario y el atardecer vistos
+     directamente desde arriba
+   - el DJ tocando frente a las pantallas y las luces lentas
+   - un tumulto de gente con humo adelante, que es de la fiesta pero que
+     parezca un efecto de fotografía
+2. Escribí el prompt: [escena específica] + [bloque de estilo] + [formato]
+3. Devolvé SOLO el prompt final en inglés, en un bloque de código. Sin
+   explicaciones, sin alternativas, sin preguntas.
+
+# RESTRICCIONES
+- Nunca generes luces estroboscópicas ni intermitentes.
+- Nunca músicas ni escenas agresivas: todo es melódico y calmado.
+- Nunca colores oscuros ni saturados: la paleta siempre pastel.
+- Si el pedido es ambiguo, decidí vos en base al universo y avanzá. No preguntes.
+```
+
+**Chequeo rápido antes de probarlo:**
+
+- [x] Mi bloque de estilo nombra **colores concretos**, no "lindos" ni "modernos" (celeste pastel, rosa claro, blanco)
+- [x] Dice qué **luz** tiene la escena (golden hour sunset light, difusa)
+- [x] Tiene una sección de **formato**: qué me devuelve exactamente (solo el prompt en inglés, bloque de código)
+- [x] Tiene una **regla de variación** para que las piezas no salgan idénticas (3 encuadres que rotan)
+
 ---
 
 ## A.3 — Los tres pedidos
 
 Abrí un chat nuevo, pegá tu system prompt y mandale tres pedidos cortos y de
 naturaleza distinta.
+
+### Juana Estrada Roa
 
 | # | Mi pedido | ¿Qué tal salió? |
 | --- | --- | --- |
@@ -128,11 +210,23 @@ Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
    resolution, professional poster composition, sharp details, no text, no
    logos, 4:5_
 
+### Lupe Picca
+
+| # | Mi pedido | ¿Qué tal salió? |
+| --- | --- | --- |
+| 1 | | |
+| 2 | | |
+| 3 | | |
+
+Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
+
 ---
 
 ## A.4 — La iteración (lo más importante)
 
 **Mirá las tres imágenes juntas y respondé honestamente:**
+
+### Juana Estrada Roa
 
 | Pregunta | Sí / No | Si la respuesta es mala, qué falta |
 | --- | --- | --- |
@@ -145,6 +239,18 @@ Ninguno. Salieron bien a la primera: las tres respetaron la paleta tierra/verde,
 
 **Volví a probar el pedido que peor salió y ahora:**
 No hizo falta iterar.
+
+### Lupe Picca
+
+| Pregunta | Sí / No | Si la respuesta es mala, qué falta |
+| --- | --- | --- |
+| ¿Parecen de la misma marca? | | Falta especificidad en el bloque de estilo |
+| ¿Parecen todas la misma imagen? | | Falta una regla de variación |
+| ¿Tuviste que arreglar algo a mano? | | Esa corrección va al sistema |
+
+**El cambio que hice al system prompt:**
+
+**Volví a probar el pedido que peor salió y ahora:**
 
 ---
 

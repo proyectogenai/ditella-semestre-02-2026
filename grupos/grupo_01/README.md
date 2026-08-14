@@ -1,8 +1,14 @@
-# Grupo 1
+# Grupo 01
 
-## Integrantes
+Somos dos, listos para meterle mano a la IA generativa desde el diseño.
 
-- **Beltrán Bunge Marquez** — diseño y música. Arma identidades visuales y
-  compone temas, sin mucha distancia entre las dos cosas.
+## Quiénes somos
 
-<!-- Si se suman más integrantes, agréguense acá con su propia línea -->
+- **Bautista Zacchino** — arma la playlist que todos terminan pidiendo,
+  organiza los planes por el chat en tiempo récord y es el soporte técnico
+  oficial de su casa. [Ficha completa](./bautista_zacchino.md)
+- **Beltrán Bunge** — diseño y música: arma identidades visuales y compone
+  temas, sin mucha distancia entre las dos cosas.
+  [Ficha completa](./beltran_bunge.md)
+
+Más adelante vamos sumando lo que nos identifique como equipo.

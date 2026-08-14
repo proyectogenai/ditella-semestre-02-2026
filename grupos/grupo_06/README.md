@@ -8,7 +8,7 @@
 | Amadeo Riva | [amadeo_riva.md](./amadeo_riva.md) *(próximamente)* |
 | Geronimo Zimerman | [geronimo_zimerman.md](./geronimo_zimerman.md) *(próximamente)* |
 
-- **Valentino Famá Marinelli** — completá tu línea acá cuando subas tu ficha.
+- **Valentino Famá Marinelli** — le apasiona el diseño audiovisual, el punto donde se cruzan música y diseño.
 - **Amadeo Riva** — completa su propia ficha próximamente.
 - **Geronimo Zimerman** — completa su propia ficha próximamente.
 

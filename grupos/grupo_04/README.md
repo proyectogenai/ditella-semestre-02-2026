@@ -4,7 +4,8 @@
 
 - **Naomi Benadon** — le encanta viajar y comer rico; la guía gastronómica
   del grupo, editora de videos con el iPad y fotógrafa oficial.
-- **Priscila Duhalde** — <!-- TODO: nombre + una línea de presentación -->
+- **Priscila Duhalde** — diseño de interiores, música y viajes; hace renders 2D
+  de cuartos, arma las playlists que nunca fallan y saca fotos que quedan.
 - **Liz Park** — <!-- TODO: nombre + una línea de presentación -->
 
 <!-- TODO (opcional): algo que los identifique como equipo -->

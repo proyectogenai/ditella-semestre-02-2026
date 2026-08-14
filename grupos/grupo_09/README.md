@@ -10,4 +10,4 @@
 
 ## Sobre nosotros
 
-Somos el grupo 09. Todavía nos estamos conociendo — pronto acá van a encontrar más sobre nosotros.
+Somos estudiantes de tercer año de diseño. Nos genera curiosidad cómo funciona la inteligencia artificial, y queremos aprender a usarla como un asistente integrado a nuestro trabajo.

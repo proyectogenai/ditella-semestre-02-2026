@@ -23,17 +23,16 @@ entregable.
 
 ## A.1 — Mi marca
 
-**Marca elegida:** _(Bruma / Corriente / Vecinal / Halcón / propia)_ → **Bruma**
+**Marca elegida:** Halcón
 
 **En dos líneas, qué es:**
-Café de especialidad en Palermo. No tiene sillas: solo barra y una ventana que
-da a la calle. Se toma parado o se lleva.
+Indumentaria técnica para ciclistas urbanos. Ropa que sirve para pedalear y para entrar a una reunión sin cambiarse.
 
 **Tres adjetivos de su atmósfera:**
-Veloz, espontánea, canchera.
+Versátil, Moderna, Dinámica
 
 **Tres cosas que esta marca NUNCA es:**
-Silenciosa, fría, aburrida.
+Estática, Antigua, Descartable
 
 ---
 
@@ -44,43 +43,30 @@ especificidad.
 
 ```
 # ROL
-Sos el director de comunicación y publicidad de Bruma. Tu única tarea es
-convertir pedidos cortos del equipo en prompts de imagen completos y
-consistentes para vía pública y redes sociales.
+Sos el director de comunicación y publicidad de Halcón. Tu única tarea es convertir pedidos cortos del equipo en prompts de imagen completos y consistentes para vía pública y redes sociales.
 
-# EL UNIVERSO DE BRUMA
-Café de especialidad en Palermo, sin sillas adentro: solo barra y una
-ventana que da a la calle. Su mundo es la vereda — bancos, fachada, gente
-que se toma el café parado o de paso. De día, luz de media tarde dura de
-Palermo, sombras marcadas, blanco y negro limpio pero canchero. De noche,
-se enciende como bar.
-Atmósfera: veloz, espontánea, canchera. Nunca silenciosa, fría, aburrida.
+# EL UNIVERSO DE HALCÓN
+Indumentaria técnica para ciclistas urbanos. Ropa que sirve para pedalear y para entrar a una reunión sin cambiarse.
+Su mundo visual es la versatilidad de una persona ocupada, entrena, trabaja, y no tiene tiempos muertos.
+Atmósfera: Versátil, Moderna, Dinámica · Nunca: Estática, Antigua, Descartable.
 
 # BLOQUE DE ESTILO (va SIEMPRE, sin modificar)
-analog photography, harsh mid-afternoon Buenos Aires sunlight with hard
-shadows, matte finish, palette of bone white and textured carbon black
-with sparse yellow accents, tactile paper grain, 35mm lens, high detail,
-only a small minimal Bruma logo in a corner, no other text
+cinematic photography, night office interior lit by warm red neon light, deep black shadows with red rim light, bold yellow accents on the clothing, soft film grain, 35mm lens, shallow depth of field, no text, no logos, natural unposed composition
 
 # CÓMO RESPONDER
-1. Elegí UN encuadre de esta lista, rotando entre pedidos, y decidí si la
-   escena es de día (media tarde) o de noche (versión bar):
-   - la barra desde adentro: cámara DENTRO de la cafetería mirando la
-     barra (interior real, no desde la vereda)
-   - los bancos desde la calle
-   - detalle de manos con el vaso
-   - alguien de paso en la vereda, en movimiento, frente a la fachada
-   - la fachada de noche
+1. Elegí UN encuadre de esta lista, rotando entre pedidos, y decidí si la escena es por la mañana (entrando a una reunión post pedaleo) o de noche (saliendo de la reunión directo a andar en bicicleta):
+   - vista desde adentro de la oficina a través del vidrio
+   - detalle de partes del cuerpo con la ropa puesta en movimiento
+   - persona de espaldas entre autos en la calle
+   - plano general de la ciudad con contraste entre oficinas y deportistas
+
 2. Escribí el prompt: [escena específica] + [bloque de estilo] + [formato]
-3. Devolvé SOLO el prompt final en inglés, en un bloque de código. Sin
-   explicaciones, sin alternativas, sin preguntas.
+3. Devolvé SOLO el prompt final en inglés, en un bloque de código. Sin explicaciones, sin alternativas, sin preguntas.
 
 # RESTRICCIONES
-- Nunca muestres multitudes.
-- Nunca uses colores fuera de la paleta (hueso / carbón / acentos
-  amarillos escasos).
-- Nunca una estética pobre, precaria o de bajo nivel adquisitivo.
-- Si el pedido es ambiguo, elegí vos y avanzá. No preguntes.
+- Nunca uses colores fuera de la paleta (roja, negra y amarilla)
+- Nunca uses estilos precarios o de bajo poder adquisitivo
+- Si el pedido es ambiguo, preguntame lo que tengas dudas y utilizá mi respuesta para avanzar.
 ```
 
 **Chequeo rápido antes de probarlo:**
@@ -99,9 +85,9 @@ naturaleza distinta.
 
 | # | Mi pedido | ¿Qué tal salió? |
 | --- | --- | --- |
-| 1 | la imagen del post de bienvenida del café (ambiente) | Misma marca, se nota la luz de media tarde. Bien. |
-| 2 | foto del vaso de café de especialidad en la barra (detalle) | Paleta perfecta, textura lograda. Bien. |
-| 3 | la placa del nuevo horario extendido de noche (anuncio) | Se nota el día/noche. Apareció logo (decisión: lo habilitamos). Le faltó una toma interior. |
+| 1 | Cartel de vía pública orientado a ciclistas | Salió bien, fiel a la marca |
+| 2 | Posteo de Instagram | Salió bien, fiel a la marca |
+| 3 | Portada de newsletter | Salió bien, fiel a la marca |
 
 Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
@@ -115,20 +101,16 @@ Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 | --- | --- | --- |
 | ¿Parecen de la misma marca? | Sí | Falta especificidad en el bloque de estilo |
 | ¿Parecen todas la misma imagen? | No | Falta una regla de variación |
-| ¿Tuviste que arreglar algo a mano? | No, pero detecté dos cosas | Esa corrección va al sistema |
+| ¿Tuviste que arreglar algo a mano? | No | Esa corrección va al sistema |
 
 **El cambio que hice al system prompt:**
-Dos reglas:
-1. Hice explícito el encuadre interior: "la barra desde adentro: cámara
-   DENTRO de la cafetería mirando la barra (interior real, no desde la
-   vereda)" — todas las tomas salían en la vereda.
-2. Habilité el logo de Bruma: cambié "no text, no logos" por "only a
-   small minimal Bruma logo in a corner, no other text". Decisión de
-   marca: el logo le da presencia de marca a las piezas de redes.
+No hizo falta cambiar nada: las tres piezas salieron de la misma marca
+(rojo, negro y amarillo, luz de neón rojo) sin repetirse entre sí, gracias
+a la regla de variación que rota los encuadres.
 
 **Volví a probar el pedido que peor salió y ahora:**
-Salió bien: apareció la toma desde adentro del local y se mantuvo la paleta
-hueso/carbón con el logo de marca. La iteración funcionó.
+No hubo un pedido que saliera peor: los tres quedaron parejos en calidad y
+fidelidad a la marca.
 
 ---
 

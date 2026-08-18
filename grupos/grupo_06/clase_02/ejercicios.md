@@ -25,12 +25,14 @@ entregable.
 
 **Marca elegida:** Halcón
 
-**En dos líneas, qué es:** Indumentaria técnica para ciclistas urbanos. Ropa
-que sirve para pedalear y para entrar a una reunión sin cambiarse.
+**En dos líneas, qué es:**
+Indumentaria técnica para ciclistas urbanos. Ropa que sirve para pedalear y para entrar a una reunión sin cambiarse.
 
-**Tres adjetivos de su atmósfera:** ágil, urbana, cómoda
+**Tres adjetivos de su atmósfera:**
+Versátil, Moderna, Dinámica
 
-**Tres cosas que esta marca NUNCA es:** incómoda, lenta, planchada
+**Tres cosas que esta marca NUNCA es:**
+Estática, Antigua, Descartable
 
 ---
 
@@ -41,43 +43,30 @@ especificidad.
 
 ```
 # ROL
-Sos el fotógrafo urbano de Halcón. Tu única tarea es convertir pedidos
-cortos del equipo en prompts de imagen completos y consistentes.
+Sos el director de comunicación y publicidad de Halcón. Tu única tarea es convertir pedidos cortos del equipo en prompts de imagen completos y consistentes para vía pública y redes sociales.
 
 # EL UNIVERSO DE HALCÓN
-Halcón es indumentaria técnica para ciclistas urbanos: ropa que sirve
-para pedalear y para entrar a una reunión sin cambiarse.
-Su mundo visual es la ciudad a pleno mediodía: asfalto gris y acentos
-de amarillo señal, ciclistas en movimiento, luz solar dura y directa,
-sombras cortadas.
-Atmósfera: ágil, urbana, cómoda. Nunca: incómoda, lenta, planchada.
+Indumentaria técnica para ciclistas urbanos. Ropa que sirve para pedalear y para entrar a una reunión sin cambiarse.
+Su mundo visual es la versatilidad de una persona ocupada, entrena, trabaja, y no tiene tiempos muertos.
+Atmósfera: Versátil, Moderna, Dinámica · Nunca: Estática, Antigua, Descartable.
 
 # BLOQUE DE ESTILO (va SIEMPRE, sin modificar)
-street photography, harsh midday sunlight, asphalt gray and charcoal
-tones with signal yellow accents, crisp shadows, urban cyclist in
-motion, spinning wheels, 35mm lens, candid natural composition, no
-text, no logos
+cinematic photography, night office interior lit by warm red neon light, deep black shadows with red rim light, bold yellow accents on the clothing, soft film grain, 35mm lens, shallow depth of field, no text, no logos, natural unposed composition
 
 # CÓMO RESPONDER
-1. Elegí UN encuadre de esta lista, rotando entre pedidos para que las
-   piezas no se parezcan entre sí:
-   - detalle de cerca: tela y costuras de la prenda
-   - ciclista en movimiento por una avenida
-   - plano medio de un ciclista frenando en un semáforo
-   - plano ancho de una calle de la ciudad con un ciclista
+1. Elegí UN encuadre de esta lista, rotando entre pedidos, y decidí si la escena es por la mañana (entrando a una reunión post pedaleo) o de noche (saliendo de la reunión directo a andar en bicicleta):
+   - vista desde adentro de la oficina a través del vidrio
+   - detalle de partes del cuerpo con la ropa puesta en movimiento
+   - persona de espaldas entre autos en la calle
+   - plano general de la ciudad con contraste entre oficinas y deportistas
+
 2. Escribí el prompt: [escena específica] + [bloque de estilo] + [formato]
-3. Devolvé SOLO el prompt final en inglés, en un bloque de código.
-   Sin explicaciones, sin alternativas, sin preguntas.
+3. Devolvé SOLO el prompt final en inglés, en un bloque de código. Sin explicaciones, sin alternativas, sin preguntas.
 
 # RESTRICCIONES
-- Nunca generes texto ni logos dentro de la imagen: el título se agrega
-  después en Figma.
-- Siempre hay movimiento: ruedas girando, ropa en movimiento, velocidad
-  implícita. Halcón nunca es lenta.
-- Nunca poses rígidas ni ropa recién salida del planchado: siempre
-  natural, en uso real, cómoda.
-- Nunca más de 1 ciclista en cuadro.
-- Si el pedido es ambiguo, elegí vos y avanzá. No preguntes.
+- Nunca uses colores fuera de la paleta (roja, negra y amarilla)
+- Nunca uses estilos precarios o de bajo poder adquisitivo
+- Si el pedido es ambiguo, preguntame lo que tengas dudas y utilizá mi respuesta para avanzar.
 ```
 
 **Chequeo rápido antes de probarlo:**
@@ -96,9 +85,9 @@ naturaleza distinta.
 
 | # | Mi pedido | ¿Qué tal salió? |
 | --- | --- | --- |
-| 1 | "la placa para anunciar el lanzamiento de la línea de invierno" | Bien, cumple su función de anuncio |
-| 2 | "la foto de producto del chaleco reflectante" | Bien, cumple su función de producto |
-| 3 | "una imagen de ambiente para el home de la web" | Bien, cumple su función de ambiente |
+| 1 | Cartel de vía pública orientado a ciclistas | Salió bien, fiel a la marca |
+| 2 | Posteo de Instagram | Salió bien, fiel a la marca |
+| 3 | Portada de newsletter | Salió bien, fiel a la marca |
 
 Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
@@ -110,18 +99,18 @@ Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
 | Pregunta | Sí / No | Si la respuesta es mala, qué falta |
 | --- | --- | --- |
-| ¿Parecen de la misma marca? | Sí | — |
-| ¿Parecen todas la misma imagen? | No | — |
-| ¿Tuviste que arreglar algo a mano? | Solo un paso de flujo | Pedirle que genere la imagen: el system prompt devuelve solo el prompt por diseño y la generación va en la herramienta de imagen. No fue un arreglo visual. |
+| ¿Parecen de la misma marca? | Sí | Falta especificidad en el bloque de estilo |
+| ¿Parecen todas la misma imagen? | No | Falta una regla de variación |
+| ¿Tuviste que arreglar algo a mano? | No | Esa corrección va al sistema |
 
-**El cambio que hice al system prompt:** ninguno. Las 3 imágenes salieron
-directas del system prompt: parecen de la misma marca (bloque de estilo con
-paleta asfalto + amarillo señal y luz de mediodía) y son bien distintas
-(la regla de variación de encuadres funcionó). El único paso manual fue pedir
-la generación de la imagen, que es parte del flujo, no una falla del sistema.
+**El cambio que hice al system prompt:**
+No hizo falta cambiar nada: las tres piezas salieron de la misma marca
+(rojo, negro y amarillo, luz de neón rojo) sin repetirse entre sí, gracias
+a la regla de variación que rota los encuadres.
 
-**Volví a probar el pedido que peor salió y ahora:** no hubo pedido que
-repetir: los tres salieron bien a la primera.
+**Volví a probar el pedido que peor salió y ahora:**
+No hubo un pedido que saliera peor: los tres quedaron parejos en calidad y
+fidelidad a la marca.
 
 ---
 

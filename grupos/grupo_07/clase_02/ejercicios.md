@@ -23,47 +23,45 @@ entregable.
 
 ## A.1 — Mi marca
 
-**Marca elegida:** Bruma
+**Marca elegida:** Bruma (café de especialidad en Palermo)
 
 **En dos líneas, qué es:**
-Café de especialidad cool, con onda, que grita y que llama, pero que tiene sentido. Es "Graphic Maximalism" con rayas, colores y las cosas en BOLD: un café llamativo que se distingue de la arquitectura y el urbanismo que vemos hoy en la calle.
+Bruma es un punto de encuentro, un lugar al paso en el que distintos vecinos
+del barrio se encuentran para disfrutar de un café y seguir camino.
 
 **Tres adjetivos de su atmósfera:**
-Gráfica, potente, eléctrica.
+social · energética · cotidiana
 
 **Tres cosas que esta marca NUNCA es:**
-Simple, minimalista, clásica (como Blanca Cafe).
+mesas · sillas · frío
 
 ---
 
 ## A.2 — Mi system prompt
 
-Completá las cinco partes. Si una te sale de una línea, probablemente le falte
-especificidad.
-
 ```
 # ROL
-Sos el/la [rol] de [marca]. Tu única tarea es [qué convierte en qué].
+Sos el fotógrafo de marca de Bruma. Tu única tarea es convertir los pedidos cortos del equipo en prompts de imagen completos y consistentes.
 
-# EL UNIVERSO DE [MARCA]
-[Qué es la marca, en dos líneas]
-[Su mundo visual: dónde transcurre, qué se ve, qué luz hay]
-Atmósfera: [tres adjetivos] · Nunca: [tres cosas que la marca no es]
+# EL UNIVERSO DE BRUMA
+Bruma es un café de especialidad en Palermo. Es un punto de encuentro al paso: no hay mesas ni sillas, solo barra y una ventana grande que da a la calle.
+Su mundo visual es un interior cálido visto desde una vereda fría: luz ámbar, ventanales grandes, pared verde, gente tomando café de pie.
+Atmósfera: social, energética, cotidiana. Nunca: mesas, sillas, frío.
 
 # BLOQUE DE ESTILO (va SIEMPRE, sin modificar)
-[técnica de imagen], [tipo de luz], [paleta con colores concretos],
-[lente o textura], [calidad], no text, no logos
+35mm photography, direct daylight, amber, dark green, sage and concrete palette, sharp focus, high resolution, no text, no logos
 
 # CÓMO RESPONDER
-1. [Regla de variación: qué rota entre pedido y pedido]
+1. Elegí UN encuadre de esta lista, rotando entre pedidos: plano general, plano medio.
 2. Escribí el prompt: [escena específica] + [bloque de estilo] + [formato]
-3. Devolvé SOLO [qué exactamente], sin [qué no querés recibir].
+3. Si el pedido es de ambiente, generá 2 imágenes. Si es de producto, generá 1.
+4. Devolvé SOLO el prompt final en español, en un bloque de código. Sin explicaciones, sin alternativas, sin preguntas.
 
 # RESTRICCIONES
-- Nunca generes texto ni tipografía dentro de la imagen
-- Nunca uses luz fría o luz artificial como luz principal
-- Nunca muestres más de 6 personas en cuadro
-- Si el pedido es ambiguo, elegí vos y avanzá. No preguntes
+- Nunca incluyas mesas en la imagen.
+- Nunca incluyas sillas en la imagen.
+- Nunca uses luz fría como luz principal.
+- Si el pedido es ambiguo, elegí vos y avanzá. No preguntes.
 ```
 
 **Chequeo rápido antes de probarlo:**
@@ -72,8 +70,6 @@ Atmósfera: [tres adjetivos] · Nunca: [tres cosas que la marca no es]
 - [x] Dice qué **luz** tiene la escena
 - [x] Tiene una sección de **formato**: qué me devuelve exactamente
 - [x] Tiene una **regla de variación** para que las piezas no salgan idénticas
-
-El system prompt final completo está en `asistente_clementina_ogallar.md`.
 
 ---
 
@@ -84,11 +80,11 @@ naturaleza distinta.
 
 | # | Mi pedido | ¿Qué tal salió? |
 | --- | --- | --- |
-| 1 | Ambiente: imagen del local vista desde la vereda, con gente | Salió con la paleta y las rayas de la marca, pero el negro predominaba de más en los patrones |
-| 2 | Detalle: primer plano de manos y objetos sobre la mesada | Bien, plano chico con el detalle correcto; se ve el mostrador y los objetos |
-| 3 | Mockup: pieza gráfica de Bruma dentro del local, en la barra | La pieza quedó bien pero el sistema imaginó patrones con mil colores y el espacio con lugares para sentarse adentro, que yo no quería |
+| 1 | Imagen del post de apertura | |
+| 2 | Algo para anunciar el café del día | |
+| 3 | Foto de ambiente para el feed | |
 
-Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
+Guardá las imágenes en `imagenes/` con nombres claros (`martina_01.png`).
 
 ---
 
@@ -98,15 +94,13 @@ Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
 | Pregunta | Sí / No | Si la respuesta es mala, qué falta |
 | --- | --- | --- |
-| ¿Parecen de la misma marca? | Sí | — |
-| ¿Parecen todas la misma imagen? | No | Diferencia de planos y espacios, pero dentro de un mismo sistema |
-| ¿Tuviste que arreglar algo a mano? | Sí | Faltó especificar mejor el uso del negro, el espacio (sin lugares para sentarse) y los patrones de rayas y el contraste de colores |
+| ¿Parecen de la misma marca? | | Falta especificidad en el bloque de estilo |
+| ¿Parecen todas la misma imagen? | | Falta una regla de variación |
+| ¿Tuviste que arreglar algo a mano? | | Esa corrección va al sistema |
 
 **El cambio que hice al system prompt:**
-Sumé tres precisiones al system prompt: el negro como acento secundario (nunca como color dominante), el local como mostrador sin mesas ni sillas ni lugares para sentarse (cliente en la vereda, empleado adentro), y los patrones rayados en dúos de dos colores contrastantes (nunca más de dos colores por patrón). Además sumé a RESTRICCIONES que, ante un pedido ambiguo, el agente prefiera los dúos de dos colores y el negro como acento.
 
 **Volví a probar el pedido que peor salió y ahora:**
-Iteré in situ sobre las primeras pruebas (ajustando sobre la imagen, sin tocar el system prompt) y esas correcciones que hice a mano fueron las que volqué al system prompt: el negro pasa a ser secundario, el espacio es solo mostrador sin asientos, y los patrones se mantienen en dúos de dos colores.
 
 ---
 
@@ -132,7 +126,7 @@ Cada integrante, desde **su propia compu** y en un **chat limpio**:
 
 | Integrante | Su pedido (tipo) | Imagen |
 | --- | --- | --- |
-| | ambiente | |
+| Martina | ambiente | |
 | | detalle | |
 | | anuncio | |
 

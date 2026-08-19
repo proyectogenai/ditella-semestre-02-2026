@@ -11,7 +11,7 @@ las carpetas de presentación de cada grupo.
 
 | Carpeta | Qué hay |
 | --- | --- |
-| `tareas/` | Las consignas de cada tarea, empezando por la [Tarea 01](./tareas/tarea_01.md) |
+| `tareas/` | Las consignas de cada tarea: [Tarea 01](./tareas/tarea_01.md), [Tarea 02](./tareas/tarea_02.md) |
 | `grupos/` | La carpeta de cada grupo (la crean ustedes en la Tarea 01) |
 | `profesores/` | Quiénes somos los que damos la materia |
 | `.claude/skills/` y `.opencode/skill/` | La skill `alumno-ditella`, su ayudante de cátedra virtual |
@@ -28,27 +28,10 @@ las carpetas de presentación de cada grupo.
 
 ## Antes de la Clase 3 (viernes 21/8)
 
-Tres cosas para hacer antes del **jueves 20/8 a la noche**:
-
-1. **Si te quedó pendiente algo de la Clase 2** (la parte grupal, o tu
-   `ejercicios.md`), traelo resuelto o lo más avanzado posible — el taller
-   del viernes arranca directo desde el asistente que escribiste ahí. Si no
-   llegaste a nada, no pasa nada, pero avisale a la cátedra.
-
-2. **Actualizá tu carpeta y hacé un repaso con tu agente.** Abrí un chat y
-   pegale esto:
-
-   > "Traeme al día: actualizá mi carpeta con lo último del repo del curso
-   > (revisá primero que no tenga nada sin commitear) y después hagamos un
-   > repaso de la Clase 2 con preguntas, una por vez. Al final guardá mis
-   > dudas en un archivo y avisame para que lo suba."
-
-   Es un repaso, no una evaluación: el agente va despacio y pregunta, no te
-   explica todo de nuevo de una. Al final guarda tus dudas en un archivo y
-   hace el push — eso nos sirve para saber por dónde entrar el viernes.
-
-3. Hacé estas dos cosas **antes del jueves a la noche**, así llegamos a
-   revisar las dudas antes de la clase.
+Hagan la [Tarea 02](./tareas/tarea_02.md): completar lo que haya quedado
+pendiente de la Clase 2 y correr un repaso guiado con el agente, que además
+junta las dudas de cada uno para que la cátedra sepa por dónde entrar el
+viernes. Plazo: **jueves 20/8 a la noche**.
 
 ## Mantener todo al día
 

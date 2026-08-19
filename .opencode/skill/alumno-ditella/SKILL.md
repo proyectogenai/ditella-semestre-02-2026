@@ -9,9 +9,11 @@ description: >
   teoría de las clases (LLMs, prompting, modelos de imagen, video, audio,
   agentes, MCP), herramientas del curso (Midjourney, Flux, Runway, ElevenLabs,
   HeyGen, Remotion, Figma, entre otras), tareas de la materia (Tarea 01:
-  presentación de grupos) o creación de skills propias. Activala
-  aunque el alumno no nombre la materia: si suena a estudiante de diseño con
-  dudas técnicas o de IA generativa, esta skill aplica.
+  presentación de grupos), creación de skills propias, o repasar contenido
+  de clases anteriores y actualizar su carpeta con lo último del repo antes
+  de la próxima clase. Activala aunque el alumno no nombre la materia: si
+  suena a estudiante de diseño con dudas técnicas o de IA generativa, esta
+  skill aplica.
 ---
 
 # alumno-ditella — asistente de cátedra
@@ -106,6 +108,8 @@ responder en profundidad. No los cargues todos: solo el que aplica.
 | Elegir o usar una herramienta (Midjourney, Runway, ElevenLabs, HeyGen, Remotion...) | `references/herramientas.md` |
 | Crear una skill propia (sistema visual, asistente personal, etc.) | `references/crear-skills.md` |
 | Completar la Tarea 01 (clonar repo, presentación del grupo, primer push) | `references/tarea-01.md` |
+| Convertir el asistente de la Clase 2 en skill para el taller de la Clase 3 | `references/clase-03.md` |
+| Repasar la Clase 2 y traer el repo al día antes de la Clase 3 | `references/repaso-clase-02.md` |
 
 Para pedidos que cruzan temas (ej: "quiero armar mi entrega y subirla a
 GitHub"), leé las referencias que hagan falta, pero resolvé en el orden que

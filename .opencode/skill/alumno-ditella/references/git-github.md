@@ -105,6 +105,20 @@ parte de la documentación de proceso que piden el parcial y el final.
 - **`git push` rechazado ("fetch first" / "non-fast-forward")** → otro grupo
   pusheó antes. Solución: `git pull` y después `git push` de nuevo. Es lo
   esperable cuando muchos comparten `main`, no es un error de ellos.
+- **`git pull` dice "las ramas se han divergido" o pide especificar cómo
+  reconciliar** → le pasa a quien no actualiza el repo hace mucho tiempo, no
+  es culpa suya. Primero asegurate con `git status` que no tenga cambios
+  propios sin commitear (si los tiene, commitealos o hacé `git stash`).
+  Como cada alumno solo toca su propia carpeta y ya tiene todo pusheado, es
+  seguro traer el historial nuevo así:
+  ```
+  git fetch origin
+  git reset --hard origin/main
+  ```
+  Aclarale que esto no borra nada que ya haya pusheado a GitHub — sí
+  borraría commits locales que nunca subió, por eso el `git status` de
+  antes es el paso que no hay que saltear. No uses `rebase` acá (ver "Qué NO
+  hacer" más abajo): esta vía es más simple y alcanza.
 - **Conflicto de merge** → tranquilizá: nada se perdió. Como cada grupo toca
   solo su carpeta, los conflictos reales son rarísimos; si aparece uno,
   resolvelo vos con el alumno mirando qué versión conservar. Evitá explicar

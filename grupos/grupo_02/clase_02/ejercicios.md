@@ -258,17 +258,19 @@ No hizo falta iterar.
 
 ## B.1 — La marca del grupo
 
-**Marca elegida y por qué:**
+**Marca elegida y por qué:** **Corriente** (festival de música electrónica en el Delta), la marca de Lupe Picca.
+
+La elegimos porque ya traía un sistema de identidad visual sólido y coherente (universo y bloque de estilo bien definidos, que le salieron consistentes a la primera), y porque nos dejaba fusionar lo mejor de las otras dos asistentes en la *estructura* sin mezclar universos de marcas distintas.
 
 ## B.2 — Qué tomamos de cada asistente
 
 | De quién | Qué le tomamos | Por qué |
 | --- | --- | --- |
-| | | |
-| | | |
-| | | |
+| Lupe Picca | Universo y bloque de estilo de Corriente (la base del asistente) | Es su marca y ya funcionaba coherente a la primera; define la identidad. |
+| Juana Estrada Roa | Formato fijo `4:5` y regla de variación explícita | Su sistema salió bien a la primera; aporta disciplina de formato y consistencia. |
+| María Lucía Racciatti | Mapeo de tipo de pedido → encuadre distinto | Evita que las piezas salgan idénticas (lección de su A.4). |
 
-**Qué decidimos dejar afuera y por qué:**
+**Qué decidimos dejar afuera y por qué:** dejamos afuera la paleta cálida/tierra de Bruma (Juana) y la versión fresca de Bruma (María Lucía), porque elegimos Corriente y no queríamos mezclar universos de marcas distintas (eso rompería la coherencia de la marca grupal).
 
 ## B.3 — La prueba cruzada
 
@@ -276,9 +278,9 @@ Cada integrante, desde **su propia compu** y en un **chat limpio**:
 
 | Integrante | Su pedido (tipo) | Imagen |
 | --- | --- | --- |
-| | ambiente | |
-| | detalle | |
-| | anuncio | |
+| María Lucía Racciatti | ambiente | grupal_ambiente.png |
+| Juana Estrada Roa | detalle | grupal_detalle.png |
+| Lupe Picca | anuncio | grupal_anuncio.png |
 
 **Las tres imágenes juntas, ¿parecen de la misma marca?**
 

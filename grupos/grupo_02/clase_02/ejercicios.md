@@ -54,6 +54,18 @@ colores claros.
 **Tres cosas que esta marca NUNCA es:** nunca luces estroboscópicas, nunca música
 agresiva a todo volumen, nunca colores oscuros.
 
+### María Lucía Racciatti
+
+**Marca elegida:** Bruma
+
+**En dos líneas, qué es:**
+Café de especialidad en Palermo, healthy y de wellness. No tiene sillas: solo barra
+y un gran ventanal que da a la calle. Se toma parado o se lleva.
+
+**Tres adjetivos de su atmósfera:** fresca, verde, tranquila.
+
+**Tres cosas que esta marca NUNCA es:** aburrida, disruptiva, abrumante.
+
 ---
 
 ## A.2 — Mi system prompt
@@ -160,6 +172,43 @@ natural unposed composition, no text, no logos
 - [x] Tiene una sección de **formato**: qué me devuelve exactamente (solo el prompt en inglés, bloque de código)
 - [x] Tiene una **regla de variación** para que las piezas no salgan idénticas (3 encuadres que rotan)
 
+### María Lucía Racciatti
+
+**Chequeo rápido antes de probarlo:**
+
+- [x] Mi bloque de estilo nombra **colores concretos** (beige arena, verde salvia, blanco crema, madera clara)
+- [x] Dice qué **luz** tiene la escena (luz natural suave y difusa)
+- [x] Tiene una sección de **formato**: qué me devuelve exactamente (prompt final en español, bloque de código)
+- [x] Tiene una **regla de variación** para que las piezas no salgan idénticas (encuadres mapeados por tipo de pedido)
+
+```
+# ROL
+Sos el/la director de arte de Bruma. Tu única tarea es convertir pedidos cortos del equipo en prompts de imagen completos, coherentes y consistentes con la marca.
+
+# EL UNIVERSO DE BRUMA
+Bruma es un café de especialidad en Palermo, healthy y de wellness: no tiene sillas ni mesas, solo barra y un gran ventanal que da a la calle. Se toma parado o se lleva.
+Su mundo visual es fresco, verde y tranquilo: interiores luminosos, luz natural difusa entrando por los ventanales, plantas naturales y materiales honestos. Se siente por la luz, la madera, el verde y el espacio vacío.
+Atmósfera: fresca, verde, tranquila. Nunca aburrida, nunca disruptiva, nunca abrumante.
+
+# BLOQUE DE ESTILO (va SIEMPRE, sin modificar)
+fotografía arquitectónica editorial, luz natural suave y difusa entrando por grandes ventanales, paleta de beige arena, verde salvia, blanco crema y madera clara, lente gran angular de 24 mm, textura orgánica y materiales naturales, alta resolución 8K, hiperrealista, detalles nítidos, estética minimalista y sofisticada
+
+# CÓMO RESPONDER
+1. Asigná un encuadre distinto de esta lista a cada pedido y NO repitas el del pedido anterior, para que las piezas no se parezcan entre sí:
+   - vista desde la vereda a través del ventanal, con la barra al fondo (usalo para pedidos de ambiente)
+   - plano detalle: la taza takeaway y la mano sobre la barra (usalo para pedidos de producto)
+   - la barra con las plantas y la luz entrando de costado (usalo para posts o anuncios)
+   - preparación del café: la máquina y el grano en primer plano (usalo para pedidos de preparación)
+2. Escribí el prompt: [escena específica] + [bloque de estilo] + [formato].
+3. Devolvé SOLO el prompt final en español, dentro de un bloque de código. Sin explicaciones, sin alternativas, sin preguntas.
+
+# RESTRICCIONES
+- Nunca incorpores personas, textos, logotipos ni elementos que no hayan sido solicitados.
+- Nunca muestres sillas ni mesas de comedor: Bruma solo tiene barra y ventanal.
+- Nunca modifiques la identidad visual ni te alejes de la estética wellness, natural y minimalista.
+- Si el pedido es ambiguo, mantené la estética definida y elegí la opción más coherente con el concepto de café wellness.
+```
+
 ---
 
 ## A.3 — Los tres pedidos
@@ -220,6 +269,16 @@ Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
 Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
+### María Lucía Racciatti
+
+| # | Mi pedido | ¿Qué tal salió? |
+| --- | --- | --- |
+| 1 | Imagen para el post de apertura de Instagram (ambiente) | De la misma marca, pero muy parecida a las otras |
+| 2 | Foto de producto: la taza takeaway de Bruma (producto) | De la misma marca, pero muy parecida a las otras |
+| 3 | Ambiente del local, visto desde la vereda | De la misma marca, pero muy parecida a las otras |
+
+Guardá las imágenes en `imagenes/` con nombres claros: `maria_individual_01.jpeg`, `maria_individual_02.jpeg`, `maria_individual_03.jpeg`.
+
 ---
 
 ## A.4 — La iteración (lo más importante)
@@ -252,6 +311,20 @@ No hizo falta iterar.
 
 **Volví a probar el pedido que peor salió y ahora:**
 
+### María Lucía Racciatti
+
+| Pregunta | Sí / No | Si la respuesta es mala, qué falta |
+| --- | --- | --- |
+| ¿Parecen de la misma marca? | Sí | — |
+| ¿Parecen todas la misma imagen? | Sí (al principio) | Faltaba una regla de variación |
+| ¿Tuviste que arreglar algo a mano? | No | — |
+
+**El cambio que hice al system prompt:**
+Agregué la regla de variación mapeando cada tipo de pedido a un encuadre distinto (vereda / detalle de taza / barra con plantas / preparación), para que las piezas no salgan idénticas entre sí.
+
+**Volví a probar el pedido que peor salió y ahora:**
+Con el system prompt corregido, cada pedido usa un encuadre distinto y las imágenes dejan de parecer la misma foto.
+
 ---
 
 # PARTE B · Grupal
@@ -282,9 +355,9 @@ Cada integrante, desde **su propia compu** y en un **chat limpio**:
 | Juana Estrada Roa | detalle | grupal_detalle.png |
 | Lupe Picca | anuncio | grupal_anuncio.png |
 
-**Las tres imágenes juntas, ¿parecen de la misma marca?**
+**Las tres imágenes juntas, ¿parecen de la misma marca?** Sí: las tres parecen de la misma marca Corriente, como fotos del mismo festival.
 
-**Si no: ¿qué regla le falta al asistente del grupo?**
+**Si no: ¿qué regla le falta al asistente del grupo?** No aplica: el asistente grupal ya mantiene coherencia (misma paleta pastel, luz golden hour y encuadres por tipo de pedido).
 
 > Esta última pregunta es la que se va a evaluar en el parcial, pero con la
 > skill de **otro grupo**. Un sistema que solo funciona en las manos de quien

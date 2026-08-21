@@ -10,11 +10,13 @@ pendiente llegue después en forma ordenada.
 Antes de la Tarea 02, los alumnos hicieron un repaso guiado de la Clase 2
 con su agente y, al final, dejaron una duda propia en
 `grupos/grupo_XX/repaso_clase_02/dudas_nombre.md`. Ya llegaron dudas de los
-grupos 02, 04, 05, 06 y 08 — siete alumnos en total — y cada una tiene su
-respuesta personalizada en `respuestas_profesor.md` (raíz del repo). Si un
-alumno de esos grupos vuelve a traer la misma pregunta, ahí está la
-respuesta ya pensada para esa persona puntual: úsenla como base, no hace
-falta reinventarla en el momento.
+grupos 02, 04, 05, 06 y 08 — ocho alumnos en total, incluyendo el pedido
+puntual de Pilar Gallino — y cada uno tiene su respuesta personalizada en
+`respuestas/grupo_XX/repaso_clase_02/nombre_apellido.md` (mismo grupo y
+misma clase que su duda, pero bajo `respuestas/` en la raíz del repo en
+vez de `grupos/`). Si un alumno de esos grupos vuelve a traer la misma
+pregunta, ahí está la respuesta ya pensada para esa persona puntual:
+úsenla como base, no hace falta reinventarla en el momento.
 
 Los grupos 01, 03, 07, 09, 10 y 11 todavía no dejaron nada registrado. Puede
 ser que lleguen hoy sin haber hecho ese repaso en casa — más abajo hay una
@@ -28,14 +30,15 @@ no se entrega hecho. Aplicado a hoy, en la práctica queda así:
 
 Si la consulta es sobre terminal, git, instalación o "esto tira un error
 raro", resuélvanlo directo — ahí no hay nada que enseñar, es puro
-desbloqueo. Si la consulta ya está en `respuestas_profesor.md`, apóyense en
-esa respuesta tal cual está escrita, dirigida a esa persona. Y si aparece
-algo conceptual que no está ahí — una duda nueva, distinta a las siete que
-ya tenemos — resuélvanla con su propio criterio y el tono que ya conocen de
-la skill (preguntar antes de responder, no tirar la respuesta entera de
-una), pero después anótenla en un archivo nuevo con el mismo formato que
-los demás, para que quede para revisión. No hace falta escribirme ni
-esperar nada en el momento — la idea es que el viernes fluya solo.
+desbloqueo. Si la consulta ya tiene respuesta en `respuestas/grupo_XX/`,
+apóyense en esa respuesta tal cual está escrita, dirigida a esa persona. Y
+si aparece algo conceptual que no está ahí — una duda nueva, distinta a
+las ocho que ya tenemos — resuélvanla con su propio criterio y el tono que
+ya conocen de la skill (preguntar antes de responder, no tirar la
+respuesta entera de una), pero después anótenla en un archivo nuevo con el
+mismo formato que los demás, para que quede para revisión. No hace falta
+escribirme ni esperar nada en el momento — la idea es que el viernes fluya
+solo.
 
 Las únicas dos cosas que si o si tienen que derivarme a mí, aunque sea
 después de la clase, son: cualquier cosa que toque fechas de evaluación o
@@ -62,10 +65,26 @@ lo único que se agrega es ese enganche de arriba.
 ## La ejercitación de hoy
 
 El taller de hoy convierte el asistente de la Clase 2 en una skill —lo
-tienen armado en `clases/clase_03/ejercicios.md`, que cada alumno ya copió
-a su carpeta de grupo. Vale la pena que tengan clara la lógica de fondo
-antes de circular entre los grupos, porque no todos los pasos se
-acompañan de la misma manera.
+tienen armado en `clases/clase_03/ejercicios.md`. Vale la pena que tengan
+clara la lógica de fondo antes de circular entre los grupos, porque no
+todos los pasos se acompañan de la misma manera.
+
+> **Pedile esto, tal cual, a cada alumno para arrancar** — ningún comando,
+> todo se lo pide al agente:
+>
+> 1. Que el agente actualice el repo y le copie el archivo a su carpeta
+>    de grupo:
+>    > "Actualizá el repo (`git pull`, guardando antes cualquier cambio
+>    > pendiente) y después copiame `clases/clase_03/ejercicios.md` a mi
+>    > carpeta de grupo, `grupos/grupo_XX/clase_03/`."
+> 2. Pegarle esta otra frase al agente, en el mismo chat, antes de tocar
+>    nada del `description` o el cuerpo de la skill:
+>    > "Trabajemos en modo tutor: guiame de a un paso por vez, hacéme las
+>    > preguntas que necesites y esperá mi respuesta antes de seguir. No
+>    > escribas por mí el description ni el cuerpo de la skill."
+>
+> Sin el paso 2, el agente les tira la skill hecha y se pierde el
+> ejercicio — insistan en que lo peguen antes de arrancar C.1.
 
 Los dos primeros pasos (elegir qué asistente empaquetar, y escribir el
 `description`) son pura decisión de diseño del alumno. El `description` en
@@ -94,9 +113,26 @@ conviene mirar (el `description` si no carga o carga de más, el cuerpo si
 carga pero ignora las reglas, la sección de formato si devuelve de más),
 pero dejen que sea el alumno quien decida qué palabras cambiar.
 
-El entregable final (la carpeta de la skill en `clase_03/`, las dos líneas
-en el README contando qué corrigieron, y el push) es de nuevo mecánico:
-resuélvanlo directo para que no se les vaya el tiempo de taller en eso.
+El entregable final es de nuevo mecánico: resuélvanlo directo para que no
+se les vaya el tiempo de taller en eso.
+
+> **Pedile esto, tal cual, a cada alumno antes de dejarlo ir:**
+>
+> 1. La carpeta de su skill en `grupos/grupo_XX/clase_03/<nombre-de-tu-skill>/SKILL.md`
+> 2. Dos líneas en el README de su grupo contando qué corrigieron después
+>    de probarla en un chat limpio (paso C.5 del `ejercicios.md`)
+> 3. El push hecho — no alcanza con el commit local:
+>    ```
+>    git pull
+>    git add grupos/grupo_XX/
+>    git commit -m "grupo XX: clase 03"
+>    git push
+>    ```
+>
+> No den por cerrado a nadie sin verificar las tres, en ese orden.
+
+Esto está tal cual en `clases/clase_03/ejercicios.md` — si alguien duda,
+remítanlo ahí.
 
 Un dato que ayuda a sostener todo esto sin desgastarse: el propio
 `ejercicios.md` que los alumnos copiaron ya arranca pidiéndoles trabajar en
@@ -146,20 +182,22 @@ acompañarlo un poco más de cerca durante el taller.
 ## Un caso puntual: Pilar Gallino (grupo 05)
 
 Pilar dejó una nota en `grupos/grupo_05/repaso_clase_02/consultas_clase_02.md`
-— no faltó a la Clase 2, faltó y además se sintió abrumada al intentar
-avanzar sola con la Tarea 02, y pidió explícitamente poder hacerla con la
-cátedra presente. Hoy no voy a estar, así que trátenla como el caso de "no
-hizo el repaso" de más arriba, pero con un poco más de cercanía: denle la
-versión exprés de 5 minutos apenas arranque el taller (antes de que se
-sume a la parte de la skill), y si ven que sigue perdida, prioricen pasar
-por su mesa más seguido que por las demás. No hace falta que resuelvan la
-Tarea 02 entera con ella en el momento — con que salga del taller sin
-sentirse más perdida que al llegar, alcanza. Yo la sigo el lunes.
+— faltó a la Clase 2, se sintió abrumada al intentar avanzar sola con la
+Tarea 02, y pidió explícitamente poder hacerla con la cátedra presente. Ya
+tiene una respuesta mía en `respuestas/grupo_05/repaso_clase_02/pilar_gallino.md`
+que pueden mostrarle tal cual si pregunta. Hoy no voy a estar, así que
+trátenla como el caso de "no hizo el repaso" de más arriba, pero con un
+poco más de cercanía: denle la versión exprés de 5 minutos apenas arranque
+el taller (antes de que se sume a la parte de la skill), y si ven que
+sigue perdida, prioricen pasar por su mesa más seguido que por las demás.
+No hace falta que resuelvan la Tarea 02 entera con ella en el momento —
+con que salga del taller sin sentirse más perdida que al llegar, alcanza.
+Yo la sigo el lunes.
 
 ## Cómo dejar registro de lo nuevo que surja
 
 Cuando aparezca una duda conceptual que no esté ya cubierta en
-`respuestas_profesor.md`, que quede anotada con el mismo formato que las
+`respuestas/grupo_XX/`, que quede anotada con el mismo formato que las
 demás: un archivo `dudas_nombre_apellido.md` (en
 `repaso_clase_02/` si es algo que arrastraba de la Clase 2, o directamente
 en su `clase_03/` si nace del taller de hoy), con la duda citada tal cual

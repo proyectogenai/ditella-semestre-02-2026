@@ -5,7 +5,7 @@
 | Integrante | Ficha |
 | --- | --- |
 | Valentino Famá Marinelli | [valentino_fama_marinelli.md](./valentino_fama_marinelli.md) |
-| Amadeo Riva | [amadeo_riva.md](./amadeo_riva.md) *(próximamente)* |
+| Amadeo Riva | [amadeo_riva.md](./amadeo_riva.md) |
 | Geronimo Zimmermann | [geronimo_zimmermann.md](./geronimo_zimmermann.md) |
 
 - **Valentino Famá Marinelli** — le apasiona el diseño audiovisual, el punto donde se cruzan música y diseño.

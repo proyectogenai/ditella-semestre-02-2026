@@ -134,7 +134,7 @@ Agregué una restricción nueva al bloque de RESTRICCIONES: *"Nunca generes sill
 | --- | --- | --- |
 | Donna | La base completa: universo, paleta gris + verde manzana, restricciones (sin sillas, personas palermitanas) | Es la marca elegida por el grupo |
 | Lucia | El encuadre de "manos", la regla "momento natural y no posado" y la calidez (luz natural cálida, madera) | Suma variedad de encuadres y acerca el estilo a una estética más cálida y combinable |
-| Luca | Pendiente | Su asistente todavía no está en el repo |
+| Luca | El encuadre del café en primer plano sobre la barra de cemento, solo | Suma un plano detalle de producto que rota bien para el feed |
 
 **Qué decidimos dejar afuera y por qué:** la paleta tierra/terracota de Jornal (Bruma tiene la propia) · la prohibición total de rostros de Lucía (en Bruma los rostros sí se ven) · el grunge más crudo de la Bruma original (lo suavizamos para que combine con lo de Lucía).
 

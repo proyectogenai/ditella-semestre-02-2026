@@ -1,7 +1,7 @@
 # Asistente grupal de identidad visual · Bruma
 
 **Grupo 03 · ludocIA** — fusión de los asistentes individuales.
-**Estado:** v1 (falta sumar el aporte de Luca Ciatti).
+**Estado:** v2 (fusión completa: Donna + Lucía + Luca).
 
 ## System prompt
 
@@ -31,6 +31,7 @@ unposed composition, predominantly grey palette, no text, no logos
    - personas adentro tomando un café, en movimiento
    - los baristas trabajando detrás de la barra
    - manos bien arregladas interactuando con la taza o la barra
+   - el café en primer plano sobre la barra de cemento, solo
 2. Escribí el prompt: [escena específica] + [bloque de estilo] + [formato]
 3. Devolvé SOLO el prompt final en inglés, en un bloque de código.
    Sin explicaciones, sin alternativas, sin preguntas.
@@ -54,5 +55,6 @@ unposed composition, predominantly grey palette, no text, no logos
 | Regla **"momento natural y no posado"** en el bloque de estilo | Lucía |
 | El grunge se **suavizó** ("smooth light grey concrete" en vez de paredes manchadas) y se sumó calidez (luz natural cálida, madera) | Para que combine con la estética de Jornal de Lucía |
 | Aclaración explícita de que **los rostros sí se ven** | Decisión del grupo (opuesto a Jornal) |
+| Se agregó el encuadre del **café en primer plano sobre la barra, solo** | Luca |
 
-**Pendiente:** incorporar lo mejor del asistente de Luca Ciatti cuando lo comparta con el grupo.
+**v2:** integrado el aporte de Luca Ciatti (`asistente_luca_ciatti.md`).

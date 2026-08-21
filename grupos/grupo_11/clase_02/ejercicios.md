@@ -89,9 +89,9 @@ naturaleza distinta.
 
 | # | Mi pedido | ¿Qué tal salió? |
 | --- | --- | --- |
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | un cuarto de infancia de tarde, visto desde la puerta | La paleta de colores quedó muy bien. Me gustó mucho el estilo de ilustración y la calidez de la luz. |
+| 2 | primer plano de objetos chiquitos sobre una mesa de luz | Me gustó también. Al ser más de cerca, se ven más detalles. La luz y los colores también quedaron en sistema con la otra imagen. |
+| 3 | alguien guardando objetos personales en una caja | Hay una chica en esta foto. Quedó cálida y relajada. Transmite nostalgia. |
 
 Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
@@ -103,13 +103,13 @@ Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
 | Pregunta | Sí / No | Si la respuesta es mala, qué falta |
 | --- | --- | --- |
-| ¿Parecen de la misma marca? | | Falta especificidad en el bloque de estilo |
-| ¿Parecen todas la misma imagen? | | Falta una regla de variación |
-| ¿Tuviste que arreglar algo a mano? | | Esa corrección va al sistema |
+| ¿Parecen de la misma marca? | **Sí** | Falta especificidad en el bloque de estilo |
+| ¿Parecen todas la misma imagen? | **No** | Falta una regla de variación |
+| ¿Tuviste que arreglar algo a mano? | **No** | Esa corrección va al sistema |
 
-**El cambio que hice al system prompt:**
+**El cambio que hice al system prompt:** No hizo falta cambiar nada.
 
-**Volví a probar el pedido que peor salió y ahora:**
+**Volví a probar el pedido que peor salió y ahora:** No fue necesario: ningún pedido salió mal.
 
 ---
 

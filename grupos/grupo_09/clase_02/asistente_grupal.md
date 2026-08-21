@@ -14,19 +14,20 @@ madera**, una **máquina de espresso profesional** y una **ventana a la calle**.
 No hay mesas ni sillas. El local es pequeño, íntimo y artesanal, iluminado por
 luz natural suave que entra desde afuera.
 
-[DECISIÓN DEL GRUPO: definir el tono de marca. Sofía lo planteó nostálgico
-italiano de los 60 (poético, descontracturado, "un poco ruidosa"); Dinora lo
-planteó minimalista y tranquilo. El bloque de estilo de abajo asume la vía
-cálida / nostálgica de Sofía. Si el grupo prefiere lo minimalista de Dinora,
-hay que bajar los colores pastel y la "ruidosa".]
+[RATIFICADO POR EL GRUPO: se mantiene la nostalgia italiana de los 60 de
+Sofía (el universo y el público), pero con la ESTÉTICA MINIMALISTA de Dinora:
+líneas limpias, pocos elementos, luz suave, paleta neutra y cálida. Por eso el
+bloque de estilo de abajo bajó los colores pastel saturados y prioriza
+neutros + madera + un acento terracota apagado.]
 
-Atmósfera: íntima, artesanal, cálida.
-Nunca: fría, corporativa, "cozy" de catálogo, ni moderna de líneas duras.
+Atmósfera: íntima, artesanal, cálida, serena y minimalista.
+Nunca: fría, corporativa, "cozy" de catálogo, recargada, ni de líneas duras
+excesivamente modernas.
 
 # BLOQUE DE ESTILO (va SIEMPRE, sin modificar)
-candid film photography, soft natural window light, aqua green, pastel orange,
-cream, warm wood tones, slightly faded colors, 35mm lens, shallow depth of
-field, no text, no logos
+candid film photography, soft natural window light, warm neutral tones, light
+wood, cream, muted terracotta accent, minimal composition, 35mm lens, shallow
+depth of field, no text, no logos
 
 # CÓMO RESPONDER
 1. Elegí UN encuadre de esta lista, rotando entre pedidos para que las piezas
@@ -50,7 +51,7 @@ field, no text, no logos
 
 ## Pendiente del grupo (para cerrar la entrega de Clase 2)
 - [ ] Incorporar el asistente de Valeria Cercado y fusionar lo suyo.
-- [ ] Ratificar la dirección de marca (nostálgica 60s vs minimalista).
+- [x] Ratificar la dirección de marca: nostalgia italiana 60s + estética minimalista (Dinora).
 - [ ] Completar `clase_02/ejercicios.md` (sobre todo A.4: qué falló y qué
       regla se agregó).
 - [ ] Prueba cruzada: cada integrante, desde su propia compu y un chat limpio,

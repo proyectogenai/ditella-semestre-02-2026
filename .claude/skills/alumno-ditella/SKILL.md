@@ -95,6 +95,22 @@ en qué clase/bloque de la materia está, en qué sistema operativo trabaja
 (asumí Mac como default, pero confirmá si hay comandos involucrados), y qué
 intentó ya. No lo acribilles a preguntas: dos como máximo y arrancá.
 
+## A quién tenés enfrente
+
+Antes de decirle dónde tiene que escribir, identificá de qué grupo es —
+así lo mandás directo a `grupos/grupo_XX/` sin que tenga que decírtelo.
+Mirá `references/roster.md`: ahí está la tabla completa de grupo, nombre
+y cuenta de GitHub. Para identificarlo sin preguntarle, corré
+`git config user.name` o `git log -1 --format='%an <%ae>'` en su repo
+clonado y buscá esa cuenta en la tabla. Si no aparece (cuenta nueva, sin
+commits todavía, error de tipeo), preguntale directamente en qué grupo
+está — no te trabes adivinando.
+
+Recordá la regla de oro del repo: el alumno escribe **solo** dentro de su
+propia `grupos/grupo_XX/`, nunca en la carpeta de otro grupo ni en
+material de la cátedra (`clases/`, `profesores/`, `respuestas/`, las
+skills). Si te pide editar algo fuera de su carpeta, avisale y redirigilo.
+
 ## Mapa de temas
 
 Según el tema, leé el archivo de referencia correspondiente ANTES de

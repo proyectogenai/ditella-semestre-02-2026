@@ -81,10 +81,16 @@ Cada integrante, desde **su propia compu** y en un **chat limpio**:
 
 | Integrante | Su pedido (tipo) | Imagen |
 | --- | --- | --- |
-| Mora | ambiente | |
-| Delfina | detalle | |
-| Mora/Delfina | anuncio | |
+| Mora | ambiente | [grupal_mora_ambiente.png](./imagenes/grupal_mora_ambiente.png) |
+| Delfina | detalle | [grupal_delfina_detalle.png](./imagenes/grupal_delfina_detalle.png) |
 
 **Las imágenes juntas, ¿parecen de la misma marca?**
 
+Sí: las dos responden al mismo universo (misma noche, misma paleta
+flúo, mismo festival íntimo en el Delta), aunque fueron generadas por
+dos personas distintas en chats separados.
+
 **Si no: ¿qué regla le falta al asistente del grupo?**
+
+No hizo falta: la prueba cruzada confirmó que el sistema funciona en
+manos de cualquiera de las dos.

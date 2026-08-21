@@ -263,9 +263,9 @@ Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
 | # | Mi pedido | ¿Qué tal salió? |
 | --- | --- | --- |
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | Ambiente — imagen de portada para la web del festival, vista cenital | Bien — colores, vestimenta y efecto coherentes con la marca |
+| 2 | Detalle — DJ de costado, de perfil, hombre con auriculares, pantallas y luces difuminadas de fondo, para Instagram | Bien — mantuvo la paleta y el efecto de movimiento |
+| 3 | Anuncio — placa para anunciar el lineup, personas en primer plano de cerca, fondo difuso | Bien — humo, grano y colores pasteles consistentes |
 
 Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
@@ -278,6 +278,55 @@ Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 | 3 | Ambiente del local, visto desde la vereda | De la misma marca, pero muy parecida a las otras |
 
 Guardá las imágenes en `imagenes/` con nombres claros: `maria_individual_01.jpeg`, `maria_individual_02.jpeg`, `maria_individual_03.jpeg`.
+
+**Prompts exactos que devolvió el asistente (uno por imagen):**
+
+1. _Aerial top-down view of the Corriente electronic music festival in the Delta
+   at sunset, photographed from high above in a true bird's-eye perspective,
+   revealing the festival as a small gathering immersed in the landscape between
+   the islands and the river. A single stage sits near the water surrounded by a
+   dense but relaxed crowd, with large projection screens displaying subtle
+   abstract visuals and gentle non-flashing lights. Small boats are visible
+   arriving along the river and gathering near the shore, reinforcing that the
+   festival is accessible only by boat. The composition emphasizes the
+   relationship between people, stage, water and surrounding island vegetation,
+   with the river reflecting the pastel sunset and atmospheric haze softly
+   dissolving the edges of the crowd. The scene feels warm, summery, calm and
+   immersive, with people moving slowly together rather than an aggressive party
+   atmosphere. cinematic photography, golden hour sunset light, soft and diffused
+   through a haze, pastel palette of light sky blue, soft pink and off-white, open
+   sky and calm river water, airy light-filled composition, intense long exposure
+   motion blur, pronounced film grain, 35mm lens, dreamy soft focus, natural
+   unposed composition, no text, no logos, vertical 4:5 format_
+
+2. _The DJ performing calmly at the center of a melodic electronic music set,
+   framed from a close side angle, standing in front of large outdoor projection
+   screens displaying abstract soft pastel visual art, subtle warm stage lights
+   moving slowly through light haze, relaxed summer crowd softly blurred in the
+   background, intimate and serene festival atmosphere, the DJ naturally immersed
+   in the music, no aggressive energy, no strobing or flashing lights, cinematic
+   photography, golden hour sunset light, soft and diffused through a haze, pastel
+   palette of light sky blue, soft pink and off-white, open sky and calm river
+   water, airy light-filled composition, intense long exposure motion blur,
+   pronounced film grain, 35mm lens, dreamy soft focus, natural unposed
+   composition, no text, no logos, 4:5_
+
+3. _A dense crowd gathered at the Corriente electronic music festival in the
+   Delta at sunset, photographed from within the audience so the scene feels
+   immersive and spontaneous, bodies overlapping and moving slowly together,
+   stylish summer beachwear, relaxed but polished looks, sunglasses and drinks in
+   hand, soft atmospheric smoke drifting across the foreground and partially
+   obscuring people as if created by an analog photographic effect, silhouettes
+   softly dissolving into motion blur, the single festival stage visible in the
+   distance with large projection screens displaying abstract slow-moving visuals
+   and gentle non-flashing lights, glimpses of the river, islands and pastel
+   sunset behind the stage, peaceful melodic electronic festival energy rather
+   than an aggressive party, cinematic photography, golden hour sunset light, soft
+   and diffused through a haze, pastel palette of light sky blue, soft pink and
+   off-white, open sky and calm river water, airy light-filled composition,
+   intense long exposure motion blur, pronounced film grain, 35mm lens, dreamy
+   soft focus, natural unposed composition, no text, no logos, vertical 4:5
+   format_
 
 ---
 
@@ -303,13 +352,17 @@ No hizo falta iterar.
 
 | Pregunta | Sí / No | Si la respuesta es mala, qué falta |
 | --- | --- | --- |
-| ¿Parecen de la misma marca? | | Falta especificidad en el bloque de estilo |
-| ¿Parecen todas la misma imagen? | | Falta una regla de variación |
-| ¿Tuviste que arreglar algo a mano? | | Esa corrección va al sistema |
+| ¿Parecen de la misma marca? | Sí | — |
+| ¿Parecen todas la misma imagen? | No | — |
+| ¿Tuviste que arreglar algo a mano? | No | — |
 
 **El cambio que hice al system prompt:**
+Ninguno. Las tres imágenes respetaron la paleta pastel, la vestimenta de playa arreglada, el efecto de movimiento y el grano. El sistema funcionó bien a la primera.
+
+**Nota importante:** al generar las 3 con la misma herramienta (ChatGPT), los resultados fueron muy coherentes entre sí. Al mezclar herramientas (2 con Gemini y 1 con ChatGPT), las imágenes se diferenciaron notablemente: cada IA interpreta el mismo prompt de forma distinta. Esto es algo a tener en cuenta para la consistencia del sistema.
 
 **Volví a probar el pedido que peor salió y ahora:**
+No hizo falta iterar.
 
 ### María Lucía Racciatti
 

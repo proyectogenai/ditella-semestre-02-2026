@@ -136,17 +136,21 @@ Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
 ## B.1 — La marca del grupo
 
-**Marca elegida y por qué:**
+**Marca elegida y por qué:** Bruma. Es la marca con el sistema visual más completo y detallado: tiene identidad gráfica propia (personaje cartoon), paleta definida, universo visual claro (fachada, ventanilla, vereda, barista) y restricciones específicas que el modelo puede entender. Un sistema con ese nivel de detalle tiene más chances de funcionar para cualquiera, no solo para quien lo escribió — y eso es justamente lo que se evalúa en la prueba cruzada.
 
 ## B.2 — Qué tomamos de cada asistente
 
 | De quién | Qué le tomamos | Por qué |
 | --- | --- | --- |
-| | | |
-| | | |
-| | | |
+| Priscila | El universo completo de Bruma (fachada, ventanilla, vereda, barista, cliente siempre afuera) y las restricciones específicas de la marca | Es la base de todo: sin ese mundo visual detallado, el modelo no sabe qué dibujar |
+| Naomi | La paleta con hexadecimales (#8B6914, #5BA4CF, #F5E6C8), la técnica fotográfica (editorial, grano analógico, 35mm) y la regla de variación (3 escenas que rotan) | Los colores hexadecimales son más precisos que "marrón y celeste"; la regla de variación evita que las imágenes salgan todas iguales |
+| Liz | Las restricciones en inglés (el modelo de imagen responde mejor) y la regla "si el pedido es ambiguo, elegí y avanzá" | El inglés es la lengua nativa de los modelos de imagen; la regla de ambigüedad evita que el asistente frene el flujo de trabajo |
 
 **Qué decidimos dejar afuera y por qué:**
+
+- El personaje cartoon de Priscila: es un logo/mascota, no un elemento de prompt de imagen. Si aparece en el prompt, el modelo lo va a meter en todas las fotos y arruina la identidad editorial.
+- Todo lo que dice de restaurante/festival (los asistentes individuales de Naomi y Liz eran de Corriente, no de Bruma): no aplica a la marca.
+- El formato 16:9 horizontal de Naomi: lo reemplazamos por [formato] para que cada quien decida según la pieza (1:1 para feed,9:16 para stories).
 
 ## B.3 — La prueba cruzada
 
@@ -154,13 +158,17 @@ Cada integrante, desde **su propia compu** y en un **chat limpio**:
 
 | Integrante | Su pedido (tipo) | Imagen |
 | --- | --- | --- |
-| | ambiente | |
-| | detalle | |
-| | anuncio | |
+| Liz | ambiente de Bruma desde la vereda | grupal_01.png |
+| Naomi | detalle de alguien recibiendo café por la ventanilla | grupal_02.jpeg |
+| Priscila | anuncio de Bruma en Instagram | grupal_03.jpeg |
 
 **Las tres imágenes juntas, ¿parecen de la misma marca?**
 
+Sí. Las tres comparten la paleta (marrón, celeste, crema), la luz natural cálida, la estética editorial y la atmósfera sofisticada pero relajada. Aunque cada una pidió algo distinto (ambiente / detalle / anuncio), el sistema visual se mantuvo coherente.
+
 **Si no: ¿qué regla le falta al asistente del grupo?**
+
+No hace falta: el asistente funcionó para las tres personas, cada una desde su propia compu y en un chat limpio.
 
 > Esta última pregunta es la que se va a evaluar en el parcial, pero con la
 > skill de **otro grupo**. Un sistema que solo funciona en las manos de quien

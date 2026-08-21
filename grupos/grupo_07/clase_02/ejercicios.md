@@ -80,9 +80,9 @@ naturaleza distinta.
 
 | # | Mi pedido | ¿Qué tal salió? |
 | --- | --- | --- |
-| 1 | Imagen del post de apertura | |
-| 2 | Algo para anunciar el café del día | |
-| 3 | Foto de ambiente para el feed | |
+| 1 | Imagen del post de apertura | OK — salió bien de una |
+| 2 | Algo para anunciar el café del día | OK — salió bien de una |
+| 3 | Foto de ambiente para el feed | Iterar — mostraba el local desde adentro con consumidores adentro, pero el concepto es take away (el cliente está afuera en la vereda) |
 
 Guardá las imágenes en `imagenes/` con nombres claros (`martina_01.png`).
 
@@ -94,13 +94,15 @@ Guardá las imágenes en `imagenes/` con nombres claros (`martina_01.png`).
 
 | Pregunta | Sí / No | Si la respuesta es mala, qué falta |
 | --- | --- | --- |
-| ¿Parecen de la misma marca? | | Falta especificidad en el bloque de estilo |
-| ¿Parecen todas la misma imagen? | | Falta una regla de variación |
-| ¿Tuviste que arreglar algo a mano? | | Esa corrección va al sistema |
+| ¿Parecen de la misma marca? | Sí | — |
+| ¿Parecen todas la misma imagen? | No | — (variaron bien por la regla de rotación de encuadres) |
+| ¿Tuviste que arreglar algo a mano? | Sí | La imagen de ambiente mostraba gente adentro del local, pero Bruma es take away |
 
 **El cambio que hice al system prompt:**
+Modifiqué el contexto de "El Universo de Bruma" para aclarar que el local funciona como un mostrador: el cliente está afuera en la vereda y el empleado atiende desde adentro. Eso ya estaba, pero no era lo suficientemente explícito — lo reforcé para que el modelo entendiera que nunca hay personas del lado de adentro del local.
 
 **Volví a probar el pedido que peor salió y ahora:**
+La imagen mostró correctamente a la persona en la vereda mirando hacia adentro, sin consumidores dentro del local.
 
 ---
 
@@ -109,16 +111,18 @@ Guardá las imágenes en `imagenes/` con nombres claros (`martina_01.png`).
 ## B.1 — La marca del grupo
 
 **Marca elegida y por qué:**
+Bruma — elegimos Bruma porque dos de las tres ya la habían trabajado individualmente (Clementina y Martina), tenía una identidad visual clara y el concepto de "Graphic Maximalism" con colores bold y rayas contrastantes daba mucho juego para las imágenes. Delfina había trabajado una marca propia de empanadas, pero para el asistente grupal unificamos en Bruma.
 
 ## B.2 — Qué tomamos de cada asistente
 
 | De quién | Qué le tomamos | Por qué |
 | --- | --- | --- |
-| | | |
-| | | |
-| | | |
+| Clementina | El estilo gráfico ("Graphic Maximalism") y las rayas bold con patrones de dos colores contrastantes | Definían la identidad visual de Bruma de forma muy clara |
+| Delfina | Algo de composición | Su enfoque de encuadres y simplificación sumaba aunque la marca era distinta |
+| Martina | La tipología de productos y los formatos de imagen | Tenía el prompt más ordenado y con buena estructura de respuesta |
 
 **Qué decidimos dejar afuera y por qué:**
+Los elementos que no correspondían a Bruma (food photography, luz suave de ventana, mesa de madera, empanadas) — eran de la marca de Delfina y no aplicaban al universo visual del café.
 
 ## B.3 — La prueba cruzada
 
@@ -126,13 +130,15 @@ Cada integrante, desde **su propia compu** y en un **chat limpio**:
 
 | Integrante | Su pedido (tipo) | Imagen |
 | --- | --- | --- |
-| Martina | ambiente | |
-| | detalle | |
-| | anuncio | |
+| Martina | ambiente exterior con personas | Imagen 1.jpeg |
+| Clementina | close up producto | Imagen 2.png |
+| Delfina | ambiente desde adentro hacia la vereda | Imagen 3.jpeg |
 
 **Las tres imágenes juntas, ¿parecen de la misma marca?**
+Sí, las tres parecen de Bruma.
 
 **Si no: ¿qué regla le falta al asistente del grupo?**
+La de contenido: el asistente no tenía una regla explícita sobre que el local es take away y que nunca se muestra gente del lado de adentro. Delfina, al pedir "ambiente desde adentro hacia la vereda", generó una imagen con consumidores dentro del local — algo que no podría pasar en Bruma. Esa regla faltaba en el asistente grupal y se resolvió reforzando el contexto de que el cliente siempre está afuera en la vereda.
 
 > Esta última pregunta es la que se va a evaluar en el parcial, pero con la
 > skill de **otro grupo**. Un sistema que solo funciona en las manos de quien

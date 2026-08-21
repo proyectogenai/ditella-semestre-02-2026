@@ -1,10 +1,12 @@
 # Clase 3 · Ejercicios
 
-**Copiá este archivo a tu carpeta de grupo antes de empezar:**
+**Antes de empezar, pedile a tu agente que actualice el repo y después
+copie este archivo a tu carpeta de grupo** — no hace falta que escribas
+ningún comando:
 
-```
-cp clases/clase_03/ejercicios.md grupos/grupo_XX/clase_03/
-```
+> "Actualizá el repo (`git pull`, guardando antes cualquier cambio
+> pendiente) y después copiame `clases/clase_03/ejercicios.md` a mi
+> carpeta de grupo, `grupos/grupo_XX/clase_03/`."
 
 Después completalo ahí. Es tu hoja de trabajo de la clase y parte del
 entregable.

@@ -5,6 +5,6 @@
 ## Integrantes
 
 - **Mercedes Fernandez Lahore** — último semestre de Diseño, recién vuelta de un intercambio en Madrid.
-- **Gallino** — <!-- TODO: nombre completo + una línea de presentación -->
+- **Pilar Gallino** — 4to año de Diseño Integral, directora de arte, productora y fotógrafa.
 
 <!-- TODO (opcional): algo que los identifique como equipo -->

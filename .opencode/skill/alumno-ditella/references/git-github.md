@@ -105,6 +105,20 @@ parte de la documentación de proceso que piden el parcial y el final.
 - **`git push` rechazado ("fetch first" / "non-fast-forward")** → otro grupo
   pusheó antes. Solución: `git pull` y después `git push` de nuevo. Es lo
   esperable cuando muchos comparten `main`, no es un error de ellos.
+- **`git pull` dice "las ramas se han divergido" o pide especificar cómo
+  reconciliar** → le pasa a quien no actualiza el repo hace mucho tiempo, no
+  es culpa suya. Primero asegurate con `git status` que no tenga cambios
+  propios sin commitear (si los tiene, commitealos o hacé `git stash`).
+  Como cada alumno solo toca su propia carpeta y ya tiene todo pusheado, es
+  seguro traer el historial nuevo así:
+  ```
+  git fetch origin
+  git reset --hard origin/main
+  ```
+  Aclarale que esto no borra nada que ya haya pusheado a GitHub — sí
+  borraría commits locales que nunca subió, por eso el `git status` de
+  antes es el paso que no hay que saltear. No uses `rebase` acá (ver "Qué NO
+  hacer" más abajo): esta vía es más simple y alcanza.
 - **Conflicto de merge** → tranquilizá: nada se perdió. Como cada grupo toca
   solo su carpeta, los conflictos reales son rarísimos; si aparece uno,
   resolvelo vos con el alumno mirando qué versión conservar. Evitá explicar
@@ -115,6 +129,36 @@ parte de la documentación de proceso que piden el parcial y el final.
 - **`git pull` dice que tiene cambios locales en el repo del curso** →
   reforzar la regla: el trabajo propio va en su repo. Para salir del paso:
   `git stash` (guardar los cambios a un costado) y después decidir con calma.
+
+## Si nada de esto funciona: clonar de cero en una carpeta nueva
+
+A veces lo más rápido y seguro es no seguir peleando con un repo roto. Si el
+alumno te lo pide, o ves que ninguna de las soluciones de arriba resuelve
+el problema, guialo así — el objetivo es que nunca se quede sin poder
+conectarse al repo:
+
+1. **Antes de nada, revisá si hay trabajo sin subir.** Mirá si
+   `grupos/grupo_XX/` tiene archivos que no están todavía en GitHub
+   (`git status`, o comparando a ojo con lo que ven en github.com). Si hay
+   algo, copialo a un lugar seguro fuera del repo (el escritorio, por
+   ejemplo) antes de tocar nada más.
+2. **Cloná de nuevo, en una carpeta con otro nombre** — no borres la vieja
+   todavía, por las dudas:
+   ```
+   git clone https://github.com/proyectogenai/ditella-semestre-02-2026.git ditella-nuevo
+   ```
+3. **Instalá la skill de nuevo** desde la carpeta nueva:
+   ```
+   cd ditella-nuevo
+   bash scripts/instalar-skill.sh
+   ```
+4. Si había trabajo sin subir, copialo a `grupos/grupo_XX/` dentro de la
+   carpeta nueva y hacé el push de siempre.
+5. Recién ahí, y solo si confirmaste que en la carpeta nueva está todo lo
+   que hacía falta, borrá la carpeta vieja.
+
+Nunca borres la carpeta vieja como primer paso — solo al final, cuando ya
+verificaste que no se perdió nada.
 
 ## Qué NO hacer
 

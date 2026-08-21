@@ -54,6 +54,18 @@ colores claros.
 **Tres cosas que esta marca NUNCA es:** nunca luces estroboscópicas, nunca música
 agresiva a todo volumen, nunca colores oscuros.
 
+### María Lucía Racciatti
+
+**Marca elegida:** Bruma
+
+**En dos líneas, qué es:**
+Café de especialidad en Palermo, healthy y de wellness. No tiene sillas: solo barra
+y un gran ventanal que da a la calle. Se toma parado o se lleva.
+
+**Tres adjetivos de su atmósfera:** fresca, verde, tranquila.
+
+**Tres cosas que esta marca NUNCA es:** aburrida, disruptiva, abrumante.
+
 ---
 
 ## A.2 — Mi system prompt
@@ -160,6 +172,43 @@ natural unposed composition, no text, no logos
 - [x] Tiene una sección de **formato**: qué me devuelve exactamente (solo el prompt en inglés, bloque de código)
 - [x] Tiene una **regla de variación** para que las piezas no salgan idénticas (3 encuadres que rotan)
 
+### María Lucía Racciatti
+
+**Chequeo rápido antes de probarlo:**
+
+- [x] Mi bloque de estilo nombra **colores concretos** (beige arena, verde salvia, blanco crema, madera clara)
+- [x] Dice qué **luz** tiene la escena (luz natural suave y difusa)
+- [x] Tiene una sección de **formato**: qué me devuelve exactamente (prompt final en español, bloque de código)
+- [x] Tiene una **regla de variación** para que las piezas no salgan idénticas (encuadres mapeados por tipo de pedido)
+
+```
+# ROL
+Sos el/la director de arte de Bruma. Tu única tarea es convertir pedidos cortos del equipo en prompts de imagen completos, coherentes y consistentes con la marca.
+
+# EL UNIVERSO DE BRUMA
+Bruma es un café de especialidad en Palermo, healthy y de wellness: no tiene sillas ni mesas, solo barra y un gran ventanal que da a la calle. Se toma parado o se lleva.
+Su mundo visual es fresco, verde y tranquilo: interiores luminosos, luz natural difusa entrando por los ventanales, plantas naturales y materiales honestos. Se siente por la luz, la madera, el verde y el espacio vacío.
+Atmósfera: fresca, verde, tranquila. Nunca aburrida, nunca disruptiva, nunca abrumante.
+
+# BLOQUE DE ESTILO (va SIEMPRE, sin modificar)
+fotografía arquitectónica editorial, luz natural suave y difusa entrando por grandes ventanales, paleta de beige arena, verde salvia, blanco crema y madera clara, lente gran angular de 24 mm, textura orgánica y materiales naturales, alta resolución 8K, hiperrealista, detalles nítidos, estética minimalista y sofisticada
+
+# CÓMO RESPONDER
+1. Asigná un encuadre distinto de esta lista a cada pedido y NO repitas el del pedido anterior, para que las piezas no se parezcan entre sí:
+   - vista desde la vereda a través del ventanal, con la barra al fondo (usalo para pedidos de ambiente)
+   - plano detalle: la taza takeaway y la mano sobre la barra (usalo para pedidos de producto)
+   - la barra con las plantas y la luz entrando de costado (usalo para posts o anuncios)
+   - preparación del café: la máquina y el grano en primer plano (usalo para pedidos de preparación)
+2. Escribí el prompt: [escena específica] + [bloque de estilo] + [formato].
+3. Devolvé SOLO el prompt final en español, dentro de un bloque de código. Sin explicaciones, sin alternativas, sin preguntas.
+
+# RESTRICCIONES
+- Nunca incorpores personas, textos, logotipos ni elementos que no hayan sido solicitados.
+- Nunca muestres sillas ni mesas de comedor: Bruma solo tiene barra y ventanal.
+- Nunca modifiques la identidad visual ni te alejes de la estética wellness, natural y minimalista.
+- Si el pedido es ambiguo, mantené la estética definida y elegí la opción más coherente con el concepto de café wellness.
+```
+
 ---
 
 ## A.3 — Los tres pedidos
@@ -214,11 +263,70 @@ Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
 
 | # | Mi pedido | ¿Qué tal salió? |
 | --- | --- | --- |
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 | Ambiente — imagen de portada para la web del festival, vista cenital | Bien — colores, vestimenta y efecto coherentes con la marca |
+| 2 | Detalle — DJ de costado, de perfil, hombre con auriculares, pantallas y luces difuminadas de fondo, para Instagram | Bien — mantuvo la paleta y el efecto de movimiento |
+| 3 | Anuncio — placa para anunciar el lineup, personas en primer plano de cerca, fondo difuso | Bien — humo, grano y colores pasteles consistentes |
 
 Guardá las imágenes en `imagenes/` con nombres claros (`individual_01.png`).
+
+### María Lucía Racciatti
+
+| # | Mi pedido | ¿Qué tal salió? |
+| --- | --- | --- |
+| 1 | Imagen para el post de apertura de Instagram (ambiente) | De la misma marca, pero muy parecida a las otras |
+| 2 | Foto de producto: la taza takeaway de Bruma (producto) | De la misma marca, pero muy parecida a las otras |
+| 3 | Ambiente del local, visto desde la vereda | De la misma marca, pero muy parecida a las otras |
+
+Guardá las imágenes en `imagenes/` con nombres claros: `maria_individual_01.jpeg`, `maria_individual_02.jpeg`, `maria_individual_03.jpeg`.
+
+**Prompts exactos que devolvió el asistente (uno por imagen):**
+
+1. _Aerial top-down view of the Corriente electronic music festival in the Delta
+   at sunset, photographed from high above in a true bird's-eye perspective,
+   revealing the festival as a small gathering immersed in the landscape between
+   the islands and the river. A single stage sits near the water surrounded by a
+   dense but relaxed crowd, with large projection screens displaying subtle
+   abstract visuals and gentle non-flashing lights. Small boats are visible
+   arriving along the river and gathering near the shore, reinforcing that the
+   festival is accessible only by boat. The composition emphasizes the
+   relationship between people, stage, water and surrounding island vegetation,
+   with the river reflecting the pastel sunset and atmospheric haze softly
+   dissolving the edges of the crowd. The scene feels warm, summery, calm and
+   immersive, with people moving slowly together rather than an aggressive party
+   atmosphere. cinematic photography, golden hour sunset light, soft and diffused
+   through a haze, pastel palette of light sky blue, soft pink and off-white, open
+   sky and calm river water, airy light-filled composition, intense long exposure
+   motion blur, pronounced film grain, 35mm lens, dreamy soft focus, natural
+   unposed composition, no text, no logos, vertical 4:5 format_
+
+2. _The DJ performing calmly at the center of a melodic electronic music set,
+   framed from a close side angle, standing in front of large outdoor projection
+   screens displaying abstract soft pastel visual art, subtle warm stage lights
+   moving slowly through light haze, relaxed summer crowd softly blurred in the
+   background, intimate and serene festival atmosphere, the DJ naturally immersed
+   in the music, no aggressive energy, no strobing or flashing lights, cinematic
+   photography, golden hour sunset light, soft and diffused through a haze, pastel
+   palette of light sky blue, soft pink and off-white, open sky and calm river
+   water, airy light-filled composition, intense long exposure motion blur,
+   pronounced film grain, 35mm lens, dreamy soft focus, natural unposed
+   composition, no text, no logos, 4:5_
+
+3. _A dense crowd gathered at the Corriente electronic music festival in the
+   Delta at sunset, photographed from within the audience so the scene feels
+   immersive and spontaneous, bodies overlapping and moving slowly together,
+   stylish summer beachwear, relaxed but polished looks, sunglasses and drinks in
+   hand, soft atmospheric smoke drifting across the foreground and partially
+   obscuring people as if created by an analog photographic effect, silhouettes
+   softly dissolving into motion blur, the single festival stage visible in the
+   distance with large projection screens displaying abstract slow-moving visuals
+   and gentle non-flashing lights, glimpses of the river, islands and pastel
+   sunset behind the stage, peaceful melodic electronic festival energy rather
+   than an aggressive party, cinematic photography, golden hour sunset light, soft
+   and diffused through a haze, pastel palette of light sky blue, soft pink and
+   off-white, open sky and calm river water, airy light-filled composition,
+   intense long exposure motion blur, pronounced film grain, 35mm lens, dreamy
+   soft focus, natural unposed composition, no text, no logos, vertical 4:5
+   format_
 
 ---
 
@@ -244,13 +352,31 @@ No hizo falta iterar.
 
 | Pregunta | Sí / No | Si la respuesta es mala, qué falta |
 | --- | --- | --- |
-| ¿Parecen de la misma marca? | | Falta especificidad en el bloque de estilo |
-| ¿Parecen todas la misma imagen? | | Falta una regla de variación |
-| ¿Tuviste que arreglar algo a mano? | | Esa corrección va al sistema |
+| ¿Parecen de la misma marca? | Sí | — |
+| ¿Parecen todas la misma imagen? | No | — |
+| ¿Tuviste que arreglar algo a mano? | No | — |
 
 **El cambio que hice al system prompt:**
+Ninguno. Las tres imágenes respetaron la paleta pastel, la vestimenta de playa arreglada, el efecto de movimiento y el grano. El sistema funcionó bien a la primera.
+
+**Nota importante:** al generar las 3 con la misma herramienta (ChatGPT), los resultados fueron muy coherentes entre sí. Al mezclar herramientas (2 con Gemini y 1 con ChatGPT), las imágenes se diferenciaron notablemente: cada IA interpreta el mismo prompt de forma distinta. Esto es algo a tener en cuenta para la consistencia del sistema.
 
 **Volví a probar el pedido que peor salió y ahora:**
+No hizo falta iterar.
+
+### María Lucía Racciatti
+
+| Pregunta | Sí / No | Si la respuesta es mala, qué falta |
+| --- | --- | --- |
+| ¿Parecen de la misma marca? | Sí | — |
+| ¿Parecen todas la misma imagen? | Sí (al principio) | Faltaba una regla de variación |
+| ¿Tuviste que arreglar algo a mano? | No | — |
+
+**El cambio que hice al system prompt:**
+Agregué la regla de variación mapeando cada tipo de pedido a un encuadre distinto (vereda / detalle de taza / barra con plantas / preparación), para que las piezas no salgan idénticas entre sí.
+
+**Volví a probar el pedido que peor salió y ahora:**
+Con el system prompt corregido, cada pedido usa un encuadre distinto y las imágenes dejan de parecer la misma foto.
 
 ---
 
@@ -258,31 +384,33 @@ No hizo falta iterar.
 
 ## B.1 — La marca del grupo
 
-**Marca elegida y por qué:**
+**Marca elegida y por qué:** **Corriente** (festival de música electrónica en el Delta), la marca de Lupe Picca.
+
+La elegimos porque ya traía un sistema de identidad visual sólido y coherente (universo y bloque de estilo bien definidos, que le salieron consistentes a la primera), y porque nos dejaba fusionar lo mejor de las otras dos asistentes en la *estructura* sin mezclar universos de marcas distintas.
 
 ## B.2 — Qué tomamos de cada asistente
 
 | De quién | Qué le tomamos | Por qué |
 | --- | --- | --- |
-| | | |
-| | | |
-| | | |
+| Lupe Picca | Universo y bloque de estilo de Corriente (la base del asistente) | Es su marca y ya funcionaba coherente a la primera; define la identidad. |
+| Juana Estrada Roa | Formato fijo `4:5` y regla de variación explícita | Su sistema salió bien a la primera; aporta disciplina de formato y consistencia. |
+| María Lucía Racciatti | Mapeo de tipo de pedido → encuadre distinto | Evita que las piezas salgan idénticas (lección de su A.4). |
 
-**Qué decidimos dejar afuera y por qué:**
+**Qué decidimos dejar afuera y por qué:** dejamos afuera la paleta cálida/tierra de Bruma (Juana) y la versión fresca de Bruma (María Lucía), porque elegimos Corriente y no queríamos mezclar universos de marcas distintas (eso rompería la coherencia de la marca grupal).
 
 ## B.3 — La prueba cruzada
 
 Cada integrante, desde **su propia compu** y en un **chat limpio**:
 
-| Integrante | Su pedido (tipo) | Imagen |
-| --- | --- | --- |
-| | ambiente | |
-| | detalle | |
-| | anuncio | |
+| Integrante | Su pedido (tipo) | Prompt que devolvió el asistente | Imagen |
+| --- | --- | --- | --- |
+| María Lucía Racciatti | ambiente | Top-down aerial view of the Corriente electronic music festival on a river island in the Delta at sunset, the entire beach, single outdoor stage and calm winding river visible from above, small groups of elegantly dressed festivalgoers moving slowly and naturally across the sand, people holding drinks and wearing sunglasses, boats arriving along the river, the stage glowing softly with large screens displaying abstract atmospheric visuals, gentle warm haze drifting across the scene, pastel sunset stretching across the open sky and reflecting on the water, serene summer atmosphere, spacious composition emphasizing the connection between the festival, the island and the river, cinematic photography, golden hour sunset light, soft and diffused through a haze, pastel palette of light sky blue, soft pink and off-white, open sky and calm river water, airy light-filled composition, intense long exposure motion blur, pronounced film grain, 35mm lens, dreamy soft focus, natural unposed composition, no text, no logos, 4:5 vertical format | grupal_ambiente.png |
+| Juana Estrada Roa | detalle | The DJ performing calmly at the center of a melodic electronic music set, framed from a close side angle, standing in front of large outdoor projection screens displaying abstract soft pastel visual art, subtle warm stage lights moving slowly through light haze, relaxed summer crowd softly blurred in the background, intimate and serene festival atmosphere, the DJ naturally immersed in the music, no aggressive energy, no strobing or flashing lights, cinematic photography, golden hour sunset light, soft and diffused through a haze, pastel palette of light sky blue, soft pink and off-white, open sky and calm river water, airy light-filled composition, intense long exposure motion blur, pronounced film grain, 35mm lens, dreamy soft focus, natural unposed composition, no text, no logos, 4:5 | grupal_detalle.png |
+| Lupe Picca | anuncio | A dense crowd gathered at the Corriente electronic music festival in the Delta at sunset, photographed from within the audience so the scene feels immersive and spontaneous, bodies overlapping and moving slowly together, stylish summer beachwear, relaxed but polished looks, sunglasses and drinks in hand, soft atmospheric smoke drifting across the foreground and partially obscuring people as if created by an analog photographic effect, silhouettes softly dissolving into motion blur, the single festival stage visible in the distance with large projection screens displaying abstract slow-moving visuals and gentle non-flashing lights, glimpses of the river, islands and pastel sunset behind the stage, peaceful melodic electronic festival energy rather than an aggressive party, cinematic photography, golden hour sunset light, soft and diffused through a haze, pastel palette of light sky blue, soft pink and off-white, open sky and calm river water, airy light-filled composition, intense long exposure motion blur, pronounced film grain, 35mm lens, dreamy soft focus, natural unposed composition, no text, no logos, vertical 4:5 format | grupal_anuncio.png |
 
-**Las tres imágenes juntas, ¿parecen de la misma marca?**
+**Las tres imágenes juntas, ¿parecen de la misma marca?** Sí: las tres parecen de la misma marca Corriente, como fotos del mismo festival.
 
-**Si no: ¿qué regla le falta al asistente del grupo?**
+**Si no: ¿qué regla le falta al asistente del grupo?** No aplica: el asistente grupal ya mantiene coherencia (misma paleta pastel, luz golden hour y encuadres por tipo de pedido).
 
 > Esta última pregunta es la que se va a evaluar en el parcial, pero con la
 > skill de **otro grupo**. Un sistema que solo funciona en las manos de quien

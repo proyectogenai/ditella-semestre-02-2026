@@ -126,17 +126,17 @@ Agregué una restricción nueva al bloque de RESTRICCIONES: *"Nunca generes sill
 
 ## B.1 — La marca del grupo
 
-**Marca elegida y por qué:**
+**Marca elegida y por qué:** Bruma. Ganó la marca de Donna: su mundo gris + verde manzana con onda urbana se combina bien con la calidez del asistente de Lucía, y como grupo queríamos un sistema que mezcle lo canchero con lo cálido.
 
 ## B.2 — Qué tomamos de cada asistente
 
 | De quién | Qué le tomamos | Por qué |
 | --- | --- | --- |
-| | | |
-| | | |
-| | | |
+| Donna | La base completa: universo, paleta gris + verde manzana, restricciones (sin sillas, personas palermitanas) | Es la marca elegida por el grupo |
+| Lucia | El encuadre de "manos", la regla "momento natural y no posado" y la calidez (luz natural cálida, madera) | Suma variedad de encuadres y acerca el estilo a una estética más cálida y combinable |
+| Luca | Pendiente | Su asistente todavía no está en el repo |
 
-**Qué decidimos dejar afuera y por qué:**
+**Qué decidimos dejar afuera y por qué:** la paleta tierra/terracota de Jornal (Bruma tiene la propia) · la prohibición total de rostros de Lucía (en Bruma los rostros sí se ven) · el grunge más crudo de la Bruma original (lo suavizamos para que combine con lo de Lucía).
 
 ## B.3 — La prueba cruzada
 

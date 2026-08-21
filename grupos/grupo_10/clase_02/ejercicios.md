@@ -234,17 +234,21 @@ de manos), sin vista desde la calle.
 
 ## B.1 — La marca del grupo
 
-**Marca elegida y por qué:**
+**Marca elegida y por qué:** Bruma (el café de Mora). Nos pareció que
+teníamos más material para generar piezas gráficas con esta marca.
 
 ## B.2 — Qué tomamos de cada asistente
 
 | De quién | Qué le tomamos | Por qué |
 | --- | --- | --- |
-| | | |
-| | | |
-| | | |
+| Mora (Bruma) | La base completa: rol, universo, bloque de estilo, encuadres, restricciones. | Es la marca elegida por el grupo; ya estaba bien armada y probada. |
+| Ana (Halcón) | La regla de "elemento distintivo obligatorio en cada imagen" (adaptada: pared de azulejos, plantas, ventanales o madera). | Sin esa regla, las imágenes de Halcón salían genéricas — la misma lógica aplica acá. |
+| Tere (Bravo) | "Si el pedido es ambiguo, elegí vos y avanzá. No preguntes." | Evita que el asistente se trabe pidiendo aclaraciones. |
 
-**Qué decidimos dejar afuera y por qué:**
+**Qué decidimos dejar afuera y por qué:** el resto del contenido específico
+de Halcón y Bravo (paletas de colores, encuadres, restricciones propias de
+esas marcas) — cada marca tiene su propio mundo visual, y mezclarlas
+hubiera roto la coherencia de Bruma.
 
 ## B.3 — La prueba cruzada
 
@@ -252,13 +256,20 @@ Cada integrante, desde **su propia compu** y en un **chat limpio**:
 
 | Integrante | Su pedido (tipo) | Imagen |
 | --- | --- | --- |
-| | ambiente | |
-| | detalle | |
-| | anuncio | |
+| Mora | ambiente | `grupal_ambiente.png` |
+| Ana | detalle | `grupal_detalle2.png` |
+| Tere | anuncio | `grupal_detalle1.jpeg` |
 
-**Las tres imágenes juntas, ¿parecen de la misma marca?**
+(Prueba extra de Mora, no oficial de la tabla: `grupal_detalle3.png`.)
 
-**Si no: ¿qué regla le falta al asistente del grupo?**
+**Las tres imágenes juntas, ¿parecen de la misma marca?** Sí. La pared de
+azulejos de colores y las plantas verdes aparecen en las tres (incluso en
+la de detalle, se ve la pared borrosa de fondo) — el elemento obligatorio
+que sumamos en el B.2 funcionó, aunque cada una lo pidió desde su propia
+cuenta y sin coordinarse en el momento.
+
+**Si no: ¿qué regla le falta al asistente del grupo?** No aplica — sí
+parecen de la misma marca.
 
 > Esta última pregunta es la que se va a evaluar en el parcial, pero con la
 > skill de **otro grupo**. Un sistema que solo funciona en las manos de quien

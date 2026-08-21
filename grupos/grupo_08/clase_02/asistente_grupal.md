@@ -72,3 +72,14 @@ wide angle from behind, no text, no logos
 - Agregamos "no text, no logos" en el Bloque de Estilo (no solo en restricciones) porque Gemini nos metía texto inventado
 - Pasamos de 3 a 4 encuadres para mayor variedad
 - Agregamos la restricción de ambigüedad de Pilar
+
+## Prueba cruzada
+
+Cada integrante, desde su propia compu y en un chat limpio, le manda un
+pedido distinto al asistente:
+
+| Integrante | Tipo de pedido | Imagen |
+| --- | --- | --- |
+| Pilar Laudano | ambiente | `grupal_ambiente.png` |
+| Pilar Laudano | detalle | `grupal_detalle.png` |
+| Pilar Laudano | anuncio | `grupal_anuncio.png` |

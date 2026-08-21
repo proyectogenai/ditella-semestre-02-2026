@@ -38,11 +38,21 @@ y no quedarme solo probando al azar.
 
 ### Mis dudas
 
-_Completar con las dudas que te surgieron después de repasar la Clase 2._
+**¿Cuánto iterar es correcto en un system prompt?**
+
+No me queda claro si lo normal es iterar mucho o si hay formas de crear un prompt más claro desde el inicio para tener que iterar menos. Sé que iterar siempre va a pasar, pero ¿hay un punto donde ya estás iterando de más?
+
+**Diferencia entre system prompt y prompt suelto**
+
+Al principio confundí la diferencia: pensé que era solo que el system prompt era "más específico". Ahora entiendo que la diferencia clave es que el system prompt queda activo durante toda la conversación y resuelve todos los pedidos de ese tipo, no solo uno.
 
 ### Lo que me quedó claro
 
-_Completar con lo que te quedó más claro del tema._
+- Las cinco partes de un prompt: ROL, CONTEXTO, TAREA, FORMATO, RESTRICCIONES
+- Formato es la parte que más se olvida y la que más frustración genera
+- La diferencia entre system prompt y prompt suelto (queda activo durante toda la conversación)
+- Que cuando un resultado sale mal, hay que arreglar el sistema, no la imagen
+- La iteración es el proceso normal, no un error
 
 ---
 

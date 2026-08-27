@@ -26,11 +26,14 @@ entregable.
 **Elegí una:**
 
 - [ ] Mi asistente individual de la Clase 2
-- [ ] El asistente grupal de la Clase 2
+- [x] El asistente grupal de la Clase 2
 - [ ] Algo nuevo, inspirado en los casos de hoy — si no llegué con nada de
       la C2
 
 **¿Cuál, y por qué esa y no otra?**
+El asistente grupal de Bruma: es el resultado del trabajo colectivo de las
+tres integrantes, la prueba cruzada ya la pasamos, y es el que el feed del
+grupo más necesita tener siempre disponible y consistente.
 
 ---
 
@@ -40,24 +43,32 @@ Escribilo acá antes de pasarlo al `SKILL.md` — es más fácil corregirlo en
 texto plano que ya adentro del archivo.
 
 **Mi description:**
+Asistente visual del café Bruma, de identidad maximalista gráfica: usá esta
+skill cuando haya que generar una imagen para el feed, un post o cualquier
+pieza visual de Bruma. Convierte pedidos cortos en prompts de imagen completos
+y consistentes con el estilo (café al paso en Palermo, rayas atrevidas en
+dúos de dos colores como naranja/rosa y amarillo/naranja, luz ámbar, gente
+tomando café de pie). NO es el Bruma minimalista gris: esta marca es gráfica,
+potente y colorida.
 
 **Chequeo rápido:**
 
-- [ ] Dice **qué hace** la skill
-- [ ] Dice **cuándo** usarla
-- [ ] Usa las palabras con las que **yo** pediría esta tarea (no jerga
+- [x] Dice **qué hace** la skill
+- [x] Dice **cuándo** usarla
+- [x] Usa las palabras con las que **yo** pediría esta tarea (no jerga
       técnica ni genérica tipo "ayuda con diseño")
 
 ---
 
 ## C.3 — El `SKILL.md`
 
-Nombre de la carpeta de mi skill: `______________`
+Nombre de la carpeta de mi skill: `bruma-asistente`
 
 **Ruta donde la instalé:**
 
-- [ ] Personal (`~/.claude/skills/` o `~/.config/opencode/skill/`)
-- [ ] De proyecto (`.claude/skills/` o `.opencode/skill/` de este repo)
+- [x] Personal (`~/.claude/skills/` y `~/.config/opencode/skill/`)
+- [x] De proyecto (`.claude/skills/` o `.opencode/skill/` de este repo — como
+      carpeta de entrega en `grupos/grupo_07/clase_03/bruma-asistente/`)
 
 ---
 
@@ -67,8 +78,9 @@ Abrí una conversación nueva y pedile algo del tema, sin mencionar la skill
 directamente.
 
 **¿Qué le pedí?**
+"Necesito una imagen para el feed de Bruma, un post que muestre la barra."
 
-**¿La cargó sola?** Sí / No
+**¿La cargó sola?** Sí
 
 **Con la tabla de la guía del estudiante, ¿cuál de los cuatro síntomas tuve?**
 
@@ -80,13 +92,25 @@ directamente.
 | Funciona pero devuelve de más | |
 | Ninguno — funcionó a la primera | |
 
+> Nota: la cargó, pero al haber varias skills de "Bruma" en el entorno el
+> agente tomó la identidad de otra (la minimalista gris) en vez de la
+> nuestra (maximalismo gráfico). Se corrigió en C.5.
+
 ---
 
 ## C.5 — La corrección
 
 **Qué le cambié después de la prueba:**
+Ajusté el `description` de la skill para que mencione explícitamente la
+identidad gráfica de nuestra Bruma (rayas atrevidas en dúos de dos colores
+como naranja/rosa y amarillo/naranja, maximalismo gráfico) y agregué un "NO es
+el Bruma minimalista gris", para que el agente elija la skill correcta cuando
+haya varias "Bruma" disponibles.
 
 **Volví a probar y ahora:**
+La skill ahora se distingue por identidad: con el description corregido, el
+agente reconoce que la nuestra es la gráfica/colorida y debería usar la paleta
+de rayas en dúos de dos colores en vez de la gris minimalista.
 
 > Si funcionó a la primera en C.4, contá igual qué le pedirías a otra
 > persona que pruebe para forzarla a fallar — no hace falta que lo hagas,

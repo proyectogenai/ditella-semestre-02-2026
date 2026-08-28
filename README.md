@@ -11,7 +11,8 @@ las carpetas de presentación de cada grupo.
 
 | Carpeta | Qué hay |
 | --- | --- |
-| `tareas/` | Las consignas de cada tarea: [Tarea 01](./tareas/tarea_01.md), [Tarea 02](./tareas/tarea_02.md) |
+| `tareas/` | Las consignas: [Tarea 01](./tareas/tarea_01.md), [Tarea 02](./tareas/tarea_02.md) y el [Parcial](./tareas/parcial.md) |
+| `clases/` | El material de cada clase: guía del estudiante y ejercicios |
 | `grupos/` | La carpeta de cada grupo (la crean ustedes en la Tarea 01) |
 | `profesores/` | Quiénes somos los que damos la materia |
 | `.claude/skills/` y `.opencode/skill/` | La skill `alumno-ditella`, su ayudante de cátedra virtual |
@@ -32,6 +33,13 @@ Hagan la [Tarea 02](./tareas/tarea_02.md): completar lo que haya quedado
 pendiente de la Clase 2 y correr un repaso guiado con el agente, que además
 junta las dudas de cada uno para que la cátedra sepa por dónde entrar el
 viernes. Plazo: **jueves 20/8 a la noche**.
+
+## El parcial
+
+**[Identidad Generativa](./tareas/parcial.md)** — cada grupo construye la
+identidad de una marca, un producto o un personaje, la skill que la produce,
+y la entrega como libro impreso. Se lanza en la Clase 4 (28/8) y se entrega
+el **viernes 9/10**.
 
 ## Mantener todo al día
 

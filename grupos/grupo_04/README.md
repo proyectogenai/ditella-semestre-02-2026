@@ -13,5 +13,6 @@
 
 Creamos la skill `aspecto`: un director de marketing digital para el bar
 biblioteca Aspecto, con su universo, paleta de rojos profundos y madera,
-encuadres rotativos y restricciones. Después de probarla en un chat limpio
-corregimos: [COMPLETAR con la corrección luego de la prueba].
+encuadres rotativos y restricciones. Al probarla en un chat limpio corregimos
+la ubicación de la carpeta dentro de `.opencode/skill/` del proyecto — una
+vez bien instalada, la skill se cargó sola y generó el prompt correcto.

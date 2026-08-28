@@ -76,8 +76,11 @@ Abrí una conversación nueva y pedile algo del tema, sin mencionar la skill
 directamente.
 
 **¿Qué le pedí?**
+"Generame un prompt de imagen del bar Aspecto para Instagram". En una
+segunda prueba, al entrar a un chat totalmente nuevo y limpio, le pedí lo
+mismo y la skill se activó sola.
 
-**¿La cargó sola?** Sí / No
+**¿La cargó sola?** Sí
 
 **Con la tabla de la guía del estudiante, ¿cuál de los cuatro síntomas tuve?**
 
@@ -87,19 +90,30 @@ directamente.
 | La carga pero ignora las reglas | |
 | La carga cuando no corresponde | |
 | Funciona pero devuelve de más | |
-| Ninguno — funcionó a la primera | |
+| Ninguno — funcionó a la primera | x |
 
 ---
 
 ## C.5 — La corrección
 
 **Qué le cambié después de la prueba:**
+En la primera prueba la skill no se activaba, así que revisamos la
+configuración dentro del repo: el problema era que la carpeta de la skill
+no estaba bien ubicada en `.opencode/skill/` del proyecto. La corregimos
+(e instalamos la copia en el lugar que el agente escanea) y desde ahí
+funcionó.
 
 **Volví a probar y ahora:**
+Al abrir un chat nuevo y limpio, le pedí el prompt de Aspecto del mismo
+modo y la skill se cargó sola y generó el prompt correcto. Ese prompt lo
+pegué en ChatGPT y generó la imagen con el universo de Aspecto.
 
 > Si funcionó a la primera en C.4, contá igual qué le pedirías a otra
 > persona que pruebe para forzarla a fallar — no hace falta que lo hagas,
 > alcanza con la idea.
+> Para forzarla a fallar, le pediría una pieza de otra marca o un formato
+> muy distinto (ej. un logo con texto), que es justo lo que la skill
+> restringe; se vería si las reglas se mantienen o si las ignora.
 
 ---
 

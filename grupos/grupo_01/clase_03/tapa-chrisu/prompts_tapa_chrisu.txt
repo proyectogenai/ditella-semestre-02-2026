@@ -1,0 +1,82 @@
+TAPA DEL DISCO DE CHRISU — 20 PROMPTS LISTOS PARA GENERADOR DE IMAGENES
+(pegar cada uno completo, tal cual, en tu generador — Midjourney, DALL-E, Flux, etc.)
+
+=========================================================
+VERSION A — PAISAJE SOLO, SIN CHRISU (10 imagenes)
+=========================================================
+
+--- SIN VARIACION (misma composicion exacta x5) ---
+
+1.
+Fotografia real de campana discografica: un campo de lavandas con un sendero central de tierra que sube una pendiente leve, fotografiado a la altura de los ojos desde el propio sendero, mirando hacia la subida. Las plantas de lavanda son altas, le pasan la cintura a una persona parada, flanquean el sendero a ambos lados. Centrado al fondo, arriba de la loma, un arbol no muy grande. Detras y por debajo de la colina, un molino de viento gigante que aparece con fuerza asomando desde atras. Dia completamente nublado, luz blanca pareja y difusa. Paleta dominada por el violeta de las lavandas y el verde medio lavado de sus hojas y del arbol. Foco nitido, sin grano artificial ni look ilustrado — se lee como una foto genuina de un rodaje real, nunca como un render o una imitacion. Atmosfera luminosa, misteriosa, con un dejo de incertidumbre. No text, no logos.
+
+2.
+[Repetir exactamente el prompt 1, palabra por palabra]
+
+3.
+[Repetir exactamente el prompt 1, palabra por palabra]
+
+4.
+[Repetir exactamente el prompt 1, palabra por palabra]
+
+5.
+[Repetir exactamente el prompt 1, palabra por palabra]
+
+(Nota: repetir el mismo prompt 5 veces en un generador con seed/semilla aleatoria ya te da variaciones sutiles manteniendo la misma composicion. Si tu herramienta permite fijar un "seed", proba variarlo apenas entre estas 5 para tener opciones sin cambiar el encuadre.)
+
+--- CON VARIACION (variando plano, angulo y cercania x5) ---
+
+6.
+Fotografia real de campana discografica: plano general amplio de un campo de lavandas, camara retrasada mostrando un sendero de tierra largo que sube una pendiente leve hasta perderse en la loma. Las lavandas son altas, hasta la cintura de una persona, cubriendo ambos lados del sendero. Centrado al fondo, un arbol no muy grande sobre la loma. Detras y por debajo de la colina, un molino de viento gigante gana protagonismo, asomando con fuerza sobre la cresta. Dia completamente nublado, luz blanca pareja y difusa. Paleta dominada por el violeta de las lavandas y el verde medio lavado de sus hojas y del arbol. Foco nitido, sin grano artificial ni look ilustrado — se lee como una foto genuina de un rodaje real, nunca como un render o una imitacion. Atmosfera luminosa, misteriosa, con un dejo de incertidumbre. No text, no logos.
+
+7.
+Fotografia real de campana discografica: plano bajo y cercano dentro de un campo de lavandas, las plantas altas (hasta la cintura de una persona) casi rozando el encuadre en primer plano. El sendero de tierra se ve subiendo la pendiente leve hacia el fondo, donde un arbol no muy grande queda mas chico en la distancia. Detras y por debajo de la colina, un molino de viento gigante asoma con fuerza desde atras. Dia completamente nublado, luz blanca pareja y difusa. Paleta dominada por el violeta de las lavandas y el verde medio lavado de sus hojas y del arbol. Foco nitido, sin grano artificial ni look ilustrado — se lee como una foto genuina de un rodaje real, nunca como un render o una imitacion. Atmosfera luminosa, misteriosa, con un dejo de incertidumbre. No text, no logos.
+
+8.
+Fotografia real de campana discografica: angulo ligeramente elevado mirando hacia abajo por el sendero de tierra de un campo de lavandas, que sube una pendiente leve hacia un arbol no muy grande centrado al fondo. Las lavandas altas, hasta la cintura de una persona, flanquean el sendero. Detras y por debajo de la colina, un molino de viento gigante asoma con fuerza sobre la cresta de la loma. Dia completamente nublado, luz blanca pareja y difusa. Paleta dominada por el violeta de las lavandas y el verde medio lavado de sus hojas y del arbol. Foco nitido, sin grano artificial ni look ilustrado — se lee como una foto genuina de un rodaje real, nunca como un render o una imitacion. Atmosfera luminosa, misteriosa, con un dejo de incertidumbre. No text, no logos.
+
+9.
+Fotografia real de campana discografica: plano medio, mas cerrado, centrado en un arbol no muy grande al final de un sendero de tierra que sube una pendiente leve en un campo de lavandas. Las lavandas altas, hasta la cintura de una persona, enmarcan los costados del encuadre mas cerca de camara. Detras y por debajo de la colina, un molino de viento gigante asoma con fuerza desde atras. Dia completamente nublado, luz blanca pareja y difusa. Paleta dominada por el violeta de las lavandas y el verde medio lavado de sus hojas y del arbol. Foco nitido, sin grano artificial ni look ilustrado — se lee como una foto genuina de un rodaje real, nunca como un render o una imitacion. Atmosfera luminosa, misteriosa, con un dejo de incertidumbre. No text, no logos.
+
+10.
+Fotografia real de campana discografica: gran angular, tomado muy cerca y desde abajo, con las lavandas altas casi tocando el lente en primer plano. El sendero de tierra sube una pendiente leve hacia un arbol no muy grande al fondo. Detras y por debajo de la colina, un molino de viento gigante emerge con fuerza sobre la cresta de la loma. Dia completamente nublado, luz blanca pareja y difusa. Paleta dominada por el violeta de las lavandas y el verde medio lavado de sus hojas y del arbol. Foco nitido, sin grano artificial ni look ilustrado — se lee como una foto genuina de un rodaje real, nunca como un render o una imitacion. Atmosfera luminosa, misteriosa, con un dejo de incertidumbre. No text, no logos.
+
+
+=========================================================
+VERSION B — CON CHRISU (10 imagenes)
+=========================================================
+Chrisu: pelo oscuro corto-medio con onda natural, anteojos de marco oscuro grueso, contextura delgada. Jean celeste de corte ancho y ligeramente holgado, buzo/sweater blanco, bandolera cruzada al cuerpo. De pie en el sendero, entre las lavandas.
+
+--- SIN VARIACION (misma composicion exacta x5) ---
+
+11.
+Fotografia real de campana discografica: un joven llamado Chrisu, de pelo oscuro corto-medio con onda natural, anteojos de marco oscuro grueso, contextura delgada, vestido con jean celeste de corte ancho y ligeramente holgado, buzo/sweater blanco y bandolera cruzada al cuerpo, de pie en el sendero central de tierra de un campo de lavandas que sube una pendiente leve, fotografiado a la altura de los ojos. Las lavandas son altas, le pasan la cintura, flanquean el sendero a ambos lados. Centrado al fondo, arriba de la loma, un arbol no muy grande. Detras y por debajo de la colina, un molino de viento gigante que aparece con fuerza asomando desde atras. Dia completamente nublado, luz blanca pareja y difusa. Paleta dominada por el violeta de las lavandas y el verde medio lavado de sus hojas y del arbol. Foco nitido, sin grano artificial ni look ilustrado — se lee como una foto genuina de un rodaje real, nunca como un render o una imitacion. Atmosfera luminosa, misteriosa, con un dejo de incertidumbre. No text, no logos.
+
+12.
+[Repetir exactamente el prompt 11, palabra por palabra]
+
+13.
+[Repetir exactamente el prompt 11, palabra por palabra]
+
+14.
+[Repetir exactamente el prompt 11, palabra por palabra]
+
+15.
+[Repetir exactamente el prompt 11, palabra por palabra]
+
+--- CON VARIACION (variando plano, angulo y cercania x5) ---
+
+16.
+Fotografia real de campana discografica: plano general amplio de un campo de lavandas, Chrisu (pelo oscuro corto-medio con onda natural, anteojos de marco oscuro grueso, contextura delgada, jean celeste ancho y ligeramente holgado, buzo/sweater blanco, bandolera cruzada) se ve pequeno de pie en el sendero de tierra lejano, que sube una pendiente leve. Las lavandas altas, hasta la cintura, flanquean el sendero. Centrado al fondo, un arbol no muy grande. Detras y por debajo de la colina, un molino de viento gigante domina la escena, asomando con fuerza. Dia completamente nublado, luz blanca pareja y difusa. Paleta dominada por el violeta de las lavandas y el verde medio lavado de sus hojas y del arbol. Foco nitido, sin grano artificial ni look ilustrado — se lee como una foto genuina de un rodaje real, nunca como un render o una imitacion. Atmosfera luminosa, misteriosa, con un dejo de incertidumbre. No text, no logos.
+
+17.
+Fotografia real de campana discografica: plano medio-cercano de Chrisu (pelo oscuro corto-medio con onda natural, anteojos de marco oscuro grueso, contextura delgada, jean celeste ancho y ligeramente holgado, buzo/sweater blanco, bandolera cruzada) de pie entre las lavandas altas, visible hasta la cintura entre las plantas, en el sendero de tierra de un campo de lavandas. Al fondo, un arbol no muy grande y, detras y por debajo de la colina, un molino de viento gigante asomando con fuerza. Dia completamente nublado, luz blanca pareja y difusa. Paleta dominada por el violeta de las lavandas y el verde medio lavado de sus hojas y del arbol. Foco nitido, sin grano artificial ni look ilustrado — se lee como una foto genuina de un rodaje real, nunca como un render o una imitacion. Atmosfera luminosa, misteriosa, con un dejo de incertidumbre. No text, no logos.
+
+18.
+Fotografia real de campana discografica: angulo elevado desde atras de Chrisu (pelo oscuro corto-medio con onda natural, anteojos de marco oscuro grueso, contextura delgada, jean celeste ancho y ligeramente holgado, buzo/sweater blanco, bandolera cruzada), de pie en el sendero de tierra de un campo de lavandas, mirando hacia un arbol no muy grande y, mas alla, un molino de viento gigante asomando con fuerza detras y por debajo de la colina. Las lavandas altas flanquean el sendero. Dia completamente nublado, luz blanca pareja y difusa. Paleta dominada por el violeta de las lavandas y el verde medio lavado de sus hojas y del arbol. Foco nitido, sin grano artificial ni look ilustrado — se lee como una foto genuina de un rodaje real, nunca como un render o una imitacion. Atmosfera luminosa, misteriosa, con un dejo de incertidumbre. No text, no logos.
+
+19.
+Fotografia real de campana discografica: plano cerrado de tres cuartos, Chrisu (pelo oscuro corto-medio con onda natural, anteojos de marco oscuro grueso, contextura delgada, jean celeste ancho y ligeramente holgado, buzo/sweater blanco, bandolera cruzada) de perfil, caminando por el sendero de tierra de un campo de lavandas altas. El arbol no muy grande y la lavanda quedan desenfocados detras; mas alla, un molino de viento gigante asoma con fuerza por debajo de la colina. Dia completamente nublado, luz blanca pareja y difusa. Paleta dominada por el violeta de las lavandas y el verde medio lavado de sus hojas y del arbol. Foco nitido, sin grano artificial ni look ilustrado — se lee como una foto genuina de un rodaje real, nunca como un render o una imitacion. Atmosfera luminosa, misteriosa, con un dejo de incertidumbre. No text, no logos.
+
+20.
+Fotografia real de campana discografica: gran angular tomado desde abajo, a nivel de la lavanda, con Chrisu (pelo oscuro corto-medio con onda natural, anteojos de marco oscuro grueso, contextura delgada, jean celeste ancho y ligeramente holgado, buzo/sweater blanco, bandolera cruzada) de espaldas, alejandose por el sendero de tierra hacia un arbol no muy grande. Las lavandas altas rozan el encuadre en primer plano. Detras y por debajo de la colina, un molino de viento gigante aparece con fuerza al fondo. Dia completamente nublado, luz blanca pareja y difusa. Paleta dominada por el violeta de las lavandas y el verde medio lavado de sus hojas y del arbol. Foco nitido, sin grano artificial ni look ilustrado — se lee como una foto genuina de un rodaje real, nunca como un render o una imitacion. Atmosfera luminosa, misteriosa, con un dejo de incertidumbre. No text, no logos.

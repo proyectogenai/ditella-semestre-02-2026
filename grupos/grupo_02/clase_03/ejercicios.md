@@ -26,11 +26,15 @@ entregable.
 **Elegí una:**
 
 - [ ] Mi asistente individual de la Clase 2
-- [ ] El asistente grupal de la Clase 2
+- [x] El asistente grupal de la Clase 2
 - [ ] Algo nuevo, inspirado en los casos de hoy — si no llegué con nada de
       la C2
 
 **¿Cuál, y por qué esa y no otra?**
+Empaquetamos el asistente grupal de la Clase 2, sobre la marca **CHERBA**
+(marca de mates de calabaza revestidos en cuero con bases bordadas). Elegimos
+esta por darle al grupo una identidad propia para la skill, y porque ya había
+un universo y un bloque de estilo definidos y consistentes.
 
 ---
 
@@ -40,23 +44,25 @@ Escribilo acá antes de pasarlo al `SKILL.md` — es más fácil corregirlo en
 texto plano que ya adentro del archivo.
 
 **Mi description:**
+Convierte pedidos cortos en prompts de imagen completos y consistentes con
+la marca de mates CHERBA. Usá esta skill cuando haya que hacer una imagen
+para redes, un post, un aviso o la web de CHERBA.
 
 **Chequeo rápido:**
 
-- [ ] Dice **qué hace** la skill
-- [ ] Dice **cuándo** usarla
-- [ ] Usa las palabras con las que **yo** pediría esta tarea (no jerga
-      técnica ni genérica tipo "ayuda con diseño")
+- [x] Dice **qué hace** la skill
+- [x] Dice **cuándo** usarla
+- [x] Usa las palabras con las que **yo** pediría esta tarea (post, redes, aviso, web)
 
 ---
 
 ## C.3 — El `SKILL.md`
 
-Nombre de la carpeta de mi skill: `______________`
+Nombre de la carpeta de mi skill: `asistente-cherba`
 
 **Ruta donde la instalé:**
 
-- [ ] Personal (`~/.claude/skills/` o `~/.config/opencode/skill/`)
+- [x] Personal (`~/.claude/skills/` o `~/.config/opencode/skill/`)
 - [ ] De proyecto (`.claude/skills/` o `.opencode/skill/` de este repo)
 
 ---

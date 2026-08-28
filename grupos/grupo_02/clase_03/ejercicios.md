@@ -31,10 +31,11 @@ entregable.
       la C2
 
 **¿Cuál, y por qué esa y no otra?**
-Empaquetamos el asistente grupal de la Clase 2, sobre la marca **CHERBA**
-(marca de mates de calabaza revestidos en cuero con bases bordadas). Elegimos
-esta por darle al grupo una identidad propia para la skill, y porque ya había
-un universo y un bloque de estilo definidos y consistentes.
+El asistente grupal de la Clase 2: la marca **Cherba** (mates de calabaza
+revestidos en cuero con bases bordadas). Lo elegimos porque ya teníamos el
+system prompt consensuado entre las tres y es el que vamos a usar de verdad
+para la identidad visual de la marca, así que empaquetarlo como skill nos
+sirve a las tres, no solo a una.
 
 ---
 
@@ -44,9 +45,12 @@ Escribilo acá antes de pasarlo al `SKILL.md` — es más fácil corregirlo en
 texto plano que ya adentro del archivo.
 
 **Mi description:**
-Convierte pedidos cortos en prompts de imagen completos y consistentes con
-la marca de mates CHERBA. Usá esta skill cuando haya que hacer una imagen
-para redes, un post, un aviso o la web de CHERBA.
+Asistente de identidad visual de Cherba, marca de mates de calabaza
+revestidos en cuero con bases bordadas. Usala cada vez que necesites un
+prompt de imagen para Cherba para crear su identidad visual (redes,
+catálogo, cartelería, web): define el universo, el bloque de estilo, los
+encuadres rotativos y las restricciones de la marca, y devuelve el prompt
+final en inglés listo para pegar.
 
 **Chequeo rápido:**
 
@@ -73,15 +77,16 @@ Abrí una conversación nueva y pedile algo del tema, sin mencionar la skill
 directamente.
 
 **¿Qué le pedí?**
+"necesito que me crees un prompt para crear una imagen para un post de Instagram de un mate Cherba con base bordada"
 
-**¿La cargó sola?** Sí / No
+**¿La cargó sola?** Sí (aplicó la regla de idioma inglés luego de corregir).
 
-**Con la tabla de la guía del estudiante, ¿cuál de los cuatro síntomas tuve?**
+**Con la tabla de la guía del estudiante, ¿cuál de los cuatro síntomas tuviste?**
 
 | Síntoma | Marcá el que te pasó |
 | --- | --- |
 | No la carga nunca | |
-| La carga pero ignora las reglas | |
+| La carga pero ignora las reglas | x |
 | La carga cuando no corresponde | |
 | Funciona pero devuelve de más | |
 | Ninguno — funcionó a la primera | |
@@ -91,8 +96,15 @@ directamente.
 ## C.5 — La corrección
 
 **Qué le cambié después de la prueba:**
+- Forcé el idioma inglés (antes devolvía el prompt en español).
+- Exigí salida exclusiva en bloque de código markdown, sin nada fuera.
+- Fijé que el mate es SIEMPRE calabaza revestida en cuero (nunca madera,
+  cerámica ni tela), porque inventaba otros materiales.
+- Exigí pegar el bloque de estilo literal e íntegro, sin parafrasearlo.
 
 **Volví a probar y ahora:**
+Devuelve el prompt en inglés dentro del bloque de código y respeta el
+universo de Cherba (cuero + base bordada).
 
 > Si funcionó a la primera en C.4, contá igual qué le pedirías a otra
 > persona que pruebe para forzarla a fallar — no hace falta que lo hagas,

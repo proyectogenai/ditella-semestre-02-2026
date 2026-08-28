@@ -13,3 +13,11 @@
 - **Geronimo Zimmermann** — cuarto año de Diseño, branding e identidad visual, hincha de Boca y casi instructor de esquí.
 
 Cada integrante sube su propia ficha desde su compu cuando le toque.
+
+## Clase 3 · Correcciones
+
+- **Amadeo** — su skill no cargaba en un chat limpio; corrigió cerrando la
+  sesión y volviendo a abrirla, y ahí la cargó sola (C.4: "no la carga nunca").
+- **Geronimo** — su skill no cargaba porque la app de escritorio tenía
+  abierto el repo desde otra carpeta; la reinstaló en la ruta correcta y
+  entonces la cargó sola y siguió todas las reglas a la primera.

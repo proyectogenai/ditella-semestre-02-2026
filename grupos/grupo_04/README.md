@@ -9,4 +9,9 @@
 - **Liz Park** — a un semestre de recibirse de diseño, DJ del grupo y
   orgullosa dueña de Seri.
 
-<!-- TODO (opcional): algo que los identifique como equipo -->
+## Clase 03 · Skill Aspecto
+
+Creamos la skill `aspecto`: un director de marketing digital para el bar
+biblioteca Aspecto, con su universo, paleta de rojos profundos y madera,
+encuadres rotativos y restricciones. Después de probarla en un chat limpio
+corregimos: [COMPLETAR con la corrección luego de la prueba].

@@ -12,8 +12,5 @@ Fecha: 2026-08-21
 - Diferencia entre chatbot (responde) y agente (responde Y actúa: usa herramientas, lee y escribe archivos, corre comandos)
 - La iteración de su system prompt de Bravo: tras ver las imágenes aclaró mejor cómo quería que apareciera el pez y cómo quería el resultado
 
-## Lo que le costó o quedó a medias
-- Reconocer qué partes tenía realmente su system prompt: creía que le faltaba especificar el formato de respuesta, pero ya lo tenía en la sección "CÓMO RESPONDER"; lo que realmente iteró fue el detalle de la escena y la regla de variación de encuadres
-
 ## Su duda, en sus palabras
-> "No me acuerdo de nada porque fue hace dos semanas — la teoría de la Clase 2 se me olvidó entre clases. Me cuesta retener cuando pasa tiempo entre una clase y el repaso."
+> "La verdad me quedó todo bastante claro así que no tengo dudas."

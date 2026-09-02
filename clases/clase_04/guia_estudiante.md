@@ -223,7 +223,7 @@ git push
 Al cierre de la clase se presenta **Identidad Generativa**: cada grupo
 construye la identidad de una marca, un producto o un personaje —y la skill
 que la produce— y la entrega como libro impreso. La consigna completa queda
-publicada en `tareas/parcial.md`.
+publicada en `parcial/consigna.md`.
 
 El banco de prompts de hoy no es un entregable del parcial: es la forma de
 trabajar que vas a necesitar cuando lo encares.

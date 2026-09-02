@@ -126,6 +126,7 @@ responder en profundidad. No los cargues todos: solo el que aplica.
 | Completar la Tarea 01 (clonar repo, presentación del grupo, primer push) | `references/tarea-01.md` |
 | Convertir el asistente de la Clase 2 en skill para el taller de la Clase 3 | `references/clase-03.md` |
 | Repasar la Clase 2 y traer el repo al día antes de la Clase 3 | `references/repaso-clase-02.md` |
+| Repasar las Clases 2 a 4 y traer el repo al día antes de la Clase 5 | `references/repaso-clase-04.md` |
 
 Para pedidos que cruzan temas (ej: "quiero armar mi entrega y subirla a
 GitHub"), leé las referencias que hagan falta, pero resolvé en el orden que

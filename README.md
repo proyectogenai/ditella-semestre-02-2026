@@ -11,7 +11,8 @@ las carpetas de presentación de cada grupo.
 
 | Carpeta | Qué hay |
 | --- | --- |
-| `tareas/` | Las consignas: [Tarea 01](./tareas/tarea_01.md), [Tarea 02](./tareas/tarea_02.md) y el [Parcial](./tareas/parcial.md) |
+| `tareas/` | Las consignas de entrega chica: [Tarea 01](./tareas/tarea_01.md) y [Tarea 02](./tareas/tarea_02.md) |
+| `parcial/` | La consigna del parcial ([Identidad Generativa](./parcial/consigna.md)) y el material de apoyo que se va sumando para las entregas |
 | `clases/` | El material de cada clase: guía del estudiante y ejercicios |
 | `grupos/` | La carpeta de cada grupo (la crean ustedes en la Tarea 01) |
 | `profesores/` | Quiénes somos los que damos la materia |
@@ -34,9 +35,24 @@ pendiente de la Clase 2 y correr un repaso guiado con el agente, que además
 junta las dudas de cada uno para que la cátedra sepa por dónde entrar el
 viernes. Plazo: **jueves 20/8 a la noche**.
 
+## Antes de la Clase 5 (viernes 4/9)
+
+No hay tarea nueva para entregar, pero sí conviene llegar a la clase con
+el repo al día y la cabeza puesta en lo que vimos hasta ahora — la C5 es
+la clase donde arranca de verdad el parcial. Pégenle esto a su agente:
+
+> "Traeme el repo al día y hacé un repaso de lo que vimos hasta ahora,
+> antes de la Clase 5."
+
+Con la skill instalada, el agente actualiza tu carpeta, te repasa las
+Clases 2 a 4 con preguntas cortas (no es un examen, es para ubicarse), y
+te cuenta cómo viene armada la clase de hoy. Al final junta tus dudas en
+tu carpeta de grupo, para que la cátedra sepa por dónde entrar el
+viernes.
+
 ## El parcial
 
-**[Identidad Generativa](./tareas/parcial.md)** — cada grupo construye la
+**[Identidad Generativa](./parcial/consigna.md)** — cada grupo construye la
 identidad de una marca, un producto o un personaje, la skill que la produce,
 y la entrega como libro impreso. Se lanza en la Clase 4 (28/8) y se entrega
 el **viernes 9/10**.

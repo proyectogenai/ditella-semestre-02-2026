@@ -25,11 +25,17 @@ entregable.
 
 | # | Prompt | Herramienta | ¿Se sintió coherente con mi marca? |
 | --- | --- | --- | --- |
-| 1 | Overhead flat lay of a Cherba mate wrapped in tan leather with an intricately embroidered base, surrounded by dried yerba leaves, a small linen cloth, and wildflowers on a weathered wooden table. + bloque de estilo + 4:5 | ChatGPT (prompt) → Gemini Nano Banana (imagen) | Sí — paleta tierra, materiales naturales, vibra campestre chic |
-| 2 | Medium shot of a hand holding a Cherba mate... local con estanterías de maderas + bloque de estilo + 16:9 | ChatGPT (prompt) → Gemini Nano Banana (imagen) | Sí — el local, la luz cálida, los materiales |
-| 3 | Slightly angled shot of two Cherba mates... tag "2x1" con twine + bloque de estilo + 4:5 | ChatGPT (prompt) → Gemini Nano Banana (imagen) | Sí — promo, producto, detalle artesanal |
+| 1 | A premium Argentine mate "Cherba" gourd with a hand-embroidered fabric base, intricate colorful thread patterns, soft natural daylight, neutral beige background, elegant flat-lay composition, high-end product photography, sharp focus, 4k, minimalist aesthetic, Instagram post style | ChatGPT | Sí, acertado. Mejoraría el bordado |
+| 2 | Close-up shot of a mate gourd brimming with yerba mate, bombilla straw slightly tilted, steam rising gently, soft morning sunlight, wooden table background with bokeh, cozy artisanal atmosphere, editorial food photography, rich natural colors, detailed texture of yerba mate leaves | ChatGPT | Sí, me re gustó |
+| 3 | Two friends sharing mate outdoors on a sunny day, one person holding a Cherba mate gourd with bombilla straw, passing it in the traditional Argentine way, natural relaxed conversation, green park or backyard setting, casual comfortable clothing, golden hour backlight, candid lifestyle photography, vibrant natural colors, warm atmosphere, editorial style, 4:5 format | ChatGPT | Sí, le quedó muy bien |
+| 4 | A Cherba mate gourd with metal bombilla straw, centered on a pure white background, studio product photography, soft even lighting, no shadows, clean minimalist composition, high resolution, sharp focus, e-commerce catalog style, 4k, professional product shot, front-facing angle | ChatGPT | Sí, le quedó muy bien |
 
 Guardá las imágenes en `imagenes/` (`sistema_01.png`, etc.).
+
+> De los 4 que generé, el Nº1 (flat-lay) quedó acertado pero el modelo me
+> puso "fabric base"; el universo de Cherba es calabaza **revestida en
+> cuero**, así que lo corregiría pidiendo la base bordada pero el mate de
+> cuero, y no tela.
 
 > Si probaste image-to-image con un boceto propio, anotalo acá también y
 > contá qué tanto más control te dio.
@@ -39,20 +45,13 @@ Guardá las imágenes en `imagenes/` (`sistema_01.png`, etc.).
 ## D.2 — El ejercicio del rubro
 
 **Mi rubro:**
-Productos de salud y bienestar del futuro
 
 **Mi prompt:**
-Una persona usando anteojos con luz roja para disminuir las ojeras, en el baño de su casa, fotografía realista con iluminación cálida de interior. (sin indicar género ni edad, a propósito)
 
 **Las imágenes que generó:** (nombres de archivo en `imagenes/`)
-3 imágenes muy similares entre sí; no les puse una regla de variación. En las tres aparece una mujer joven, con bata blanca y celular en la mano.
 
 **¿Qué asumió el modelo que vos no le dijiste?** (completá esto recién
 después de la puesta en común del módulo 4, no antes)
-- Mujer joven (asumió género y edad de "la persona que se cuida")
-- Bata blanca (asumió qué iba vestida en su casa)
-- Celular en la mano (asumió el celular como parte del ritual)
-- Las tres imágenes casi idénticas → falta regla de variación para piezas distintas
 
 ---
 
@@ -60,16 +59,13 @@ después de la puesta en común del módulo 4, no antes)
 
 **¿Le pedí al agente que arme el archivo?** Sí
 
-**Cuántos prompts entraron al banco final:**
-4 (3 de Cherba + 1 del rubro como ejemplo de sesgo)
+**Cuántos prompts entraron al banco final:** 4
 
-**De todo lo que probé, ¿qué dejé afuera y por qué?** (esta pregunta es la
-que muestra criterio de selección, no solo volumen)
-Dejé afuera el prompt de los anteojos en la versión "solo una persona" sin
-detalle (el primero), porque generó imágenes demasiado genéricas y sin valor
-de marca. En el banco quedaron los que demostraron consistencia de sistema
-(los de Cherba) y el del rubro porque documenta un fallo interesante (el
-sesgo + la falta de regla de variación), que es de donde se aprende.
+**De todo lo que probé, ¿qué dejé afuera y por qué?** No salieron malas
+imágenes, pero ajusté la nº1: el modelo me puso "fabric base" y el universo
+de Cherba es calabaza revestida en **cuero**. Corregiría ese detalle para
+que el mate de la escena sea coherente con la marca, no los guardé tal cual
+como venían.
 
 ---
 

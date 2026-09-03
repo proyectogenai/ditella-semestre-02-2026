@@ -21,6 +21,7 @@ A premium Argentine mate "Cherba" gourd with a hand-embroidered fabric base, int
 - **Herramienta:** ChatGPT
 - **Parámetros:** sin seed ni aspect ratio definido
 - **Para qué sirvió:** pieza de feed/producto. Acertado pero corregiría "fabric base" → base bordada sobre **calabaza revestida en cuero**.
+- **Imagen:** `imagenes_maria_lucia/sistema_01.png`
 
 ---
 
@@ -34,6 +35,7 @@ Close-up shot of a mate gourd brimming with yerba mate, bombilla straw slightly 
 - **Herramienta:** ChatGPT
 - **Parámetros:** sin seed ni aspect ratio definido
 - **Para qué sirvió:** detalle de producto/materialidad; la textura de la yerba y el ambiente cálido refuerzan la vibra artesanal.
+- **Imagen:** `imagenes_maria_lucia/sistema_02.png`
 
 ---
 
@@ -47,6 +49,7 @@ Two friends sharing mate outdoors on a sunny day, one person holding a Cherba ma
 - **Herramienta:** ChatGPT
 - **Parámetros:** aspect ratio 4:5 · sin seed
 - **Para qué sirvió:** comunicación de la experiencia personalizada y campestre de la marca; le dio contexto humano a Cherba.
+- **Imagen:** `imagenes_maria_lucia/sistema_03.png`
 
 ---
 
@@ -60,3 +63,4 @@ A Cherba mate gourd with metal bombilla straw, centered on a pure white backgrou
 - **Herramienta:** ChatGPT
 - **Parámetros:** sin seed ni aspect ratio definido
 - **Para qué sirvió:** pieza de catálogo/web, limpia y sin contexto, pensada para listar el producto.
+- **Imagen:** `imagenes_maria_lucia/sistema_04.png`

@@ -254,16 +254,26 @@ Guardá las imágenes en `imagenes/` con nombres claros (`pilar_individual_01.pn
 ## B.1 — La marca del grupo
 
 **Marca elegida y por qué:**
+Bruma (café de especialidad en Palermo), el asistente individual de Mercedes.
+Elegimos ese como marca del grupo porque es el más desarrollado: tiene universo,
+bloque de estilo con colores concretos y tres imágenes ya probadas e iteradas.
+Halcón (indumentaria técnica, de Pilar) vive en un mundo opuesto —luz fría,
+Patagonia—, así que en vez de fusionar los dos universos tomamos de Halcón el
+oficio, no el mundo.
 
 ## B.2 — Qué tomamos de cada asistente
 
 | De quién | Qué le tomamos | Por qué |
 | --- | --- | --- |
-| | | |
-| | | |
-| | | |
+| Bruma (Mercedes) | Todo el universo, el bloque de estilo y las restricciones de marca | Es la marca elegida: define paleta, luz, atmósfera y qué nunca es |
+| Halcón (Pilar) | La lista de encuadres escrita como planos de cine concretos ("extreme close-up of…", "lone subject small in frame, sense of scale") | Los encuadres de Bruma eran genéricos; los de Halcón dan una instrucción visual precisa y variada |
+| Halcón (Pilar) | La redacción afilada y en negativo de las restricciones ("Nunca…") | Reglas más cortas y tajantes se obedecen mejor que párrafos explicativos |
 
 **Qué decidimos dejar afuera y por qué:**
+El universo visual de Halcón (luz natural fría, azul marino, paisaje de montaña,
+lujo silencioso deportivo). Es coherente para una marca de indumentaria técnica
+pero rompe por completo la calidez nórdica de Bruma. Mezclarlos daría un sistema
+sin identidad.
 
 ## B.3 — La prueba cruzada
 
@@ -271,13 +281,19 @@ Cada integrante, desde **su propia compu** y en un **chat limpio**:
 
 | Integrante | Su pedido (tipo) | Imagen |
 | --- | --- | --- |
-| | ambiente | |
-| | detalle | |
-| | anuncio | |
+| _(pendiente)_ | ambiente | |
+| _(pendiente)_ | detalle | |
+| _(pendiente)_ | anuncio | |
+
+> PENDIENTE: hacer la prueba cruzada con Pilar — cada una carga
+> `asistente_grupal.md` en un chat limpio desde su compu, pide una pieza
+> (ambiente / detalle / anuncio) y guarda la imagen en `imagenes/`.
 
 **Las tres imágenes juntas, ¿parecen de la misma marca?**
+_(a completar después de la prueba cruzada)_
 
 **Si no: ¿qué regla le falta al asistente del grupo?**
+_(a completar después de la prueba cruzada)_
 
 > Esta última pregunta es la que se va a evaluar en el parcial, pero con la
 > skill de **otro grupo**. Un sistema que solo funciona en las manos de quien

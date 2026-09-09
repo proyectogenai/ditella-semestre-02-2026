@@ -1,13 +1,12 @@
-# Grupo 5
-
-<!-- TODO: nombre del grupo (¡se aceptan nombres ridículos!) -->
+# Grupo 5 — Doble Exposición
 
 ## Integrantes
 
 - **Mercedes Fernandez Lahore** — último semestre de Diseño, recién vuelta de un intercambio en Madrid.
 - **Pilar Gallino** — 4to año de Diseño Integral, directora de arte, productora y fotógrafa.
 
-<!-- TODO (opcional): algo que los identifique como equipo -->
+Dos miradas que se superponen: uno arma el sistema, la otra lo mira por el visor.
+Nos obsesiona la luz y que todo parezca de la misma familia.
 
 ## Clase 03 — Skills
 

@@ -1,16 +1,15 @@
-# Banco de prompts de imagen — grupo 5 (Bruma)
+# Banco de prompts de imagen — grupo 5
 
 Cada entrada: el prompt completo, la herramienta, los parámetros y una línea de
 para qué sirvió o qué aprendí. Entran solo los prompts de los que aprendí algo
 (funcionaron o fallaron de forma interesante), no todos los que probé.
 
-> ESTADO: prompts cargados desde la skill `asistente-bruma`. Falta generar las
-> imágenes en Gemini (Nano Banana 2) o ChatGPT, guardarlas en `imagenes/` y
-> completar herramienta / parámetros / nota de cada entrada.
-
 ---
 
 ## Parte 1 · Piezas reales para el sistema (marca Bruma)
+
+Prompts que devolvió la skill `asistente-bruma` a partir de pedidos cortos.
+Son el texto listo para pegar en la herramienta de imagen.
 
 ### P1 — Interior, gente en la barra
 ```
@@ -26,10 +25,11 @@ with subtle rustic texture, polished grey concrete floor, brushed steel bar and
 tables, pale pink and white tulips with green stems, subtle film grain (not
 vintage), sharp brand-content quality, no text, no logos, 1:1 aspect ratio
 ```
-- **Herramienta:** _(Gemini / ChatGPT)_
-- **Parámetros:** aspect ratio 1:1 · seed _(anotar si la usé)_
-- **Imagen:** `imagenes/p1_interior_barra.jpg`
-- **Para qué sirvió / qué aprendí:** _(completar: p. ej. "salió coherente con la paleta, el encuadre de 3/4 resuelve bien el 'sin caras'")_
+- **Herramienta:** _(a confirmar / a generar)_
+- **Parámetros:** aspect ratio 1:1
+- **Imagen:** _(pendiente de generar → `imagenes/p1_interior_barra.jpg`)_
+- **Qué aprendí:** el encuadre "desde atrás y a 3/4" es lo que resuelve la
+  restricción "sin caras en primer plano" sin que la escena quede rígida.
 
 ### P2 — Fachada al atardecer (pedido que forzaba una restricción)
 ```
@@ -47,45 +47,74 @@ concrete floor, brushed steel bar and tables, pale pink and white tulips with
 green stems, subtle film grain (not vintage), sharp brand-content quality, no
 text, no logos, 1:1 aspect ratio
 ```
-- **Herramienta:** _(Gemini / ChatGPT)_
-- **Parámetros:** aspect ratio 1:1 · seed _(anotar si la usé)_
-- **Imagen:** `imagenes/p2_fachada_atardecer.jpg`
-- **Para qué sirvió / qué aprendí:** el pedido original era "de noche", que la marca prohíbe. La skill lo reencuadró a atardecer sin romper la paleta cálida: sirve para ver que el sistema se sostiene aun con un pedido que lo contradice.
+- **Herramienta:** _(a confirmar / a generar)_
+- **Parámetros:** aspect ratio 1:1
+- **Imagen:** _(pendiente de generar → `imagenes/p2_fachada_atardecer.jpg`)_
+- **Qué aprendí:** pedí "de noche", que la marca prohíbe. El sistema reencuadró
+  a atardecer sin romper la paleta cálida: el prompt sirve para comprobar que
+  la skill se sostiene aun con un pedido que la contradice.
 
-### P3 — Detalle (tercer encuadre de la skill)
-```
-_(pedir a la skill un prompt de close-up: tulipanes + barra de acero con dos
-cafés, uno en taza y otro to-go, zócalo del piso visible — y pegarlo acá)_
-```
-- **Herramienta:**
-- **Parámetros:** aspect ratio _ · seed _
-- **Imagen:** `imagenes/p3_detalle_barra.jpg`
-- **Para qué sirvió / qué aprendí:**
+> PENDIENTE Parte 1: generar P1 y P2 en Gemini / ChatGPT y guardar las imágenes.
+> Si ya las generé en clase, reemplazar estas notas con la herramienta real y
+> los parámetros usados.
 
 ---
 
 ## Parte 2 · Ejercicio del rubro futurista
 
-**Rubro asignado:** _(anotar el que me tocó; si me perdí la clase, elijo uno:
-empleos / salud y bienestar / belleza / hogar y vivienda / moda / gastronomía
-del futuro)_
+**Rubro asignado:** Hogar y vivienda del futuro.
+**Herramienta:** _(a confirmar — Gemini Nano Banana / ChatGPT)_ · **Parámetros:**
+no anoté seed; formato horizontal para PR1, cuadrado/vertical para PR2.
 
-### R1 — _(título corto)_
+### PR1 — Casa eco-futurista en la selva
 ```
-_(prompt corto: escena + estilo. No describir género, edad ni tipo de cuerpo de
-las personas — dejar que el modelo decida)_
+hace una casa eco-futurista con formas aerodinamicas que da una sensasion de
+simbiosis entre naturaleza y tecnologia. compuesta por materiales organicos
+combinados con vidrio inteligente. Casa iluminada desde el interior con luces
+calidas y la naturaleza como humeda y selvatica. Estilo mega realista editorial
+tipo architectural digest.
 ```
-- **Herramienta:**
-- **Parámetros:** aspect ratio _ · seed _
-- **Imagen:** `imagenes/r1_rubro.jpg`
-- **Para qué sirvió / qué aprendí:**
+- **Imágenes:**
+  - `imagenes/pr1_casa_ecofuturista_selva_01.png`
+  - `imagenes/pr1_casa_ecofuturista_selva_02.png`
+  - `imagenes/pr1_casa_ecofuturista_selva_03.png`
+- **Qué aprendí:** "estilo editorial tipo architectural digest" es un ancla de
+  estilo potentísima — encuadra luz, materiales y nivel de acabado de una. Las
+  tres salieron coherentes entre sí sin fijar seed, porque el prompt define
+  material (orgánico + vidrio), luz (cálida desde el interior) y contexto
+  (selva húmeda) con precisión.
 
-### R2 — _(título corto)_
+### PR2 — Casa metálica flotando en el mar, de noche
 ```
-_(variación del anterior: cambiar un elemento y ver qué pasa)_
+hace una imagen de una casa futurista con formas aerodinamicas que parezca que
+flota en un mar de noche. Estilo pulcro y metalico, luces frias iluminada desde
+adentro. toma amplia cinematografica ultradetallado, fotorealista, atmosfera
+serena utopica
 ```
-- **Herramienta:**
-- **Parámetros:** aspect ratio _ · seed _
-- **Imagen:** `imagenes/r2_rubro.jpg`
-- **Para qué sirvió / qué aprendí:** _(mirar qué asumió el modelo que yo no
-  pedí — sesgo: paleta, personas, contexto cultural)_
+- **Imágenes:**
+  - `imagenes/pr2_casa_metalica_mar_01.png`
+  - `imagenes/pr2_casa_metalica_mar_02.png`
+  - `imagenes/pr2_casa_metalica_mar_03.png`
+- **Qué aprendí:** mismo objeto (casa aerodinámica) que PR1 pero cambiando luz
+  (fría vs. cálida), material (metálico vs. orgánico) y contexto (mar de noche
+  vs. selva) da una familia visual opuesta. Sirve para ver cuánto pesan esos
+  tres ejes frente a la forma.
+
+### Reflexión — qué asumió el modelo que no le pedimos (sesgo)
+
+_(revisar y ajustar con nuestras palabras después de la puesta en común)_
+
+- Sin pedirlo, todas las casas salieron como **vivienda unifamiliar de lujo,
+  aislada** — nunca densidad, vivienda social ni algo compartido. "Casa del
+  futuro" = casa de rico.
+- La arquitectura convergió en la **misma curva orgánica tipo Zaha Hadid** en
+  todas las imágenes, aunque el prompt solo decía "formas aerodinámicas".
+- En PR2, "luces frías" + "mar de noche" derivó solo en el combo **cian/turquesa
+  + Vía Láctea**, el cliché visual de "sci-fi utópico".
+- No aparecen personas en ninguna: el modelo entiende "hogar del futuro" como
+  objeto arquitectónico para mirar, no como lugar habitado.
+
+---
+
+> Las imágenes de esta carpeta son las que están maquetadas en el Figma del
+> grupo. Si hace falta versión de mayor resolución, exportarlas desde ahí.

@@ -1,4 +1,4 @@
-# Grupo 5 — Doble Exposición
+# Grupo 5 
 
 ## Integrantes
 

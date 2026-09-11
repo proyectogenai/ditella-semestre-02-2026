@@ -71,13 +71,38 @@ Fuente: `clase_03/familia_monstrix/monstrix/SKILL.md` (NODI) + brief y decisione
 - Pelo: celeste profundo #5eafd5, le cubre todo el cuerpo
 - Rostro: tres ojos iguales a NODI; gesto pensativo; cejas finas; ojos entrecerrados
 - Boca: sonrisa leve y sutil, SIN mostrar colmillos. Tiene dos colmillos (herencia paterna) pero SOLO se le ven cuando se ríe a carcajadas, con la boca abierta
-- Cuerpo: flaco
+- Cuerpo: complexión media (ni panzón ni flaco), dos brazos y dos patas, sin errores de extremidades
 - Vestuario: corbata roja
 - Gestos: estresado llora / contento se ríe a carcajadas (acá sí se le ven los colmillos, boca abierta)
 - Nunca: tonto, puntiagudo, terrorífico
 
 ---
 
+## Abuelo
+- Rol: abuelo · 72 años (el más viejo → pelaje más oscuro de la familia)
+- Lugar: el museo (escena 6)
+- Pelo: celeste hielo muy oscuro, un poco más claro que #2e1cba (POR AJUSTAR exacto, ej. #4a61c2), le cubre todo el cuerpo
+- Rostro: tres ojos iguales a NODI; orejas de gato erguidas (no caídas); sin cejas; sin barba
+- Boca: sonrisa leve y sutil con colmillos (herencia paterna — es el origen de la línea)
+- Cuerpo: contextura media, patas cortas
+- Vestuario: sin ropa. Un gorro rojo + un bastón rojo con blanco (de madera clara, que no parezca caramelo)
+- Gestos: pensativo se agarra la cabeza / enojado levanta los brazos y su bastón
+- Nunca: puntiagudo, terrorífico
+
+---
+
+## Mejor amiga
+- Rol: mejor amiga de NODI · 11 años · NO es de la familia Monstrix (no tiene gen: dos ojos, sin colmillos, nariz de corazón)
+- Lugar: la tienda de ropa (escena 7)
+- Pelo: rosa #e08dca, le cubre todo el cuerpo
+- Rostro: SOLO dos ojos redondos blancos con pupila negra (sin tercer ojo, bien arriba); nariz en forma de corazón; orejas chiquitas redondeadas, ubicadas arriba (cerca de la cabeza, no a los costados); ojos redondos de caricatura, no humanos
+- Boca: sonrisa ancha, sin colmillos, sin dientes
+- Cuerpo: misma complexión que NODI (gordita, regordete), sin cuello, de tamaño grande (más grande de lo que sugiere su edad)
+- Vestuario: collar dorado DELICADO (cadena finita, dije rojo pequeño). Sin vestido, sin vincha.
+- Gestos: feliz da saltitos / triste hace un pucherito
+- Nunca: puntiagudo, terrorífico, fea
+
+---
+
 ## Pendientes
-- Abuelo (escena 6) y mejor amiga (escena 7): fichas sin completar.
 - Papá: confirmar accesorio rojo definitivo.

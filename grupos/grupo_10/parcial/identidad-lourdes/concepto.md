@@ -92,18 +92,24 @@ mano, no generada con IA).
 
 | Campo | Tu respuesta |
 | --- | --- |
-| **Concepto del universo** | |
-| **Técnica de ilustración** *(específica, no "estilo ilustración")* | |
-| **Paleta** *(3-5 colores, nombre o hex)* | |
-| **Referencia artística** *(1-2 reales)* | |
-| **Parámetros de calidad** *(aspect ratio, detalle, restricciones)* | |
+| **Concepto del universo** | Lourdes, una chica fiestera que recorre fiestas del mundo — el libro consiste en encontrarla en cada una |
+| **Técnica de ilustración** | Acuarela/gouache suelta, trazo expresivo, textura de pincelada visible, línea de tinta suave |
+| **Paleta** | `#BBA289` (beige), `#AD545A` (rojo apagado — fijo en Lourdes), `#BAAB9F` (gris-taupe), `#FAEBDB` (crema/papel) — cada escena suma su propia paleta vívida según la fiesta |
+| **Referencia artística** | Isabela Sande (@isabelasande), ilustración editorial de moda en acuarela |
+| **Parámetros de calidad** | Formato horizontal (spread A3 abierto), 1414×1000px, alta densidad tipo "¿Dónde está Wally?", sin texto ni marcas reales |
 
 **PROMPT MADRE (Capas 2-5 concatenadas — texto exacto para copiar sin
 modificar en cada generación, cuando arranquen a generar):**
 
 ```
-
-
+loose expressive watercolor and gouache illustration, visible brushstroke
+texture, soft ink outline, in the editorial fashion illustration style of
+Isabela Sande (@isabelasande), warm base palette of tan (#BBA289), muted
+red (#AD545A), warm taupe grey (#BAAB9F) and cream paper background
+(#FAEBDB) — each scene also carries its own vivid accent palette specific
+to that party, densely populated "Where's Waldo" style crowd scene with
+many people and simultaneous micro-actions, highly detailed, no text, no
+watermark, no real brand names or logos, landscape format, 1414x1000px
 ```
 
 ---

@@ -36,6 +36,14 @@ Sí. La familia es un sistema de personajes con la misma receta (ficha física f
 - Colecciones/capítulos: cada etapa de la búsqueda = pieza distinta del mismo universo.
 - La skill es el universo vivo: correcciones se anotan ahí.
 
+## 5. Sistema de familia (reglas de código entre personajes)
+
+- **Gen común (aporta mamá)**: nariz + tercer ojo + orejas de gato + pelo que cubre todo el cuerpo. Lista cerrada, idéntica en las seis fichas.
+- **Herencia paterna**: colmillos. Papá tiene 2, NODI 2, la hermana menor 1. Mamá no tiene porque no viene de esa línea.
+- **Código de color por personaje**: cada uno tiene un color de pelo propio e irrepetible (celeste #91d3eb = NODI, violeta #b39ad1 = mamá, azul #74A8BC = papá, lila #b0bcf5 = hermana menor, celeste profundo #5eafd5 = hermano mayor). El mundo se mantiene en paleta; los personajes aportan su color.
+- **Accesorio rojo**: el accesorio que identifica a cada personaje es de color rojo (bufanda/orejeras rojas de NODI, cartera roja de mamá, pañuelo rojo de papá, tutú rojo de la hermana, corbata roja del hermano mayor, ...). El rojo es el color familiar.
+- **Aparición**: el personaje buscable es NODI; cada escena agrega un miembro al grupo. Ver `parcial/atlas_de_escenas.md`.
+
 Pendientes para el grupo:
 - Diseñar las fichas de los demás monstruos (mamá, papá, hermana menor, hermano mayor, abuelo, mejor amiga).
 - Generar/confirmar el canon a color de NODI.

@@ -1,0 +1,5 @@
+# la API key es una contraseña: nunca la subas
+gemini.key
+
+# imágenes generadas: quedan locales hasta que el grupo decida qué subir
+salida/

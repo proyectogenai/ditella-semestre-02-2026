@@ -1,0 +1,18 @@
+{
+  "proveedor": "pollinations",
+  "apiKey": "",
+  "modelo": "gemini-3.1-flash-image",
+  "ratio": "16:9",
+  "ancho": 1280,
+  "alto": 720,
+  "resolucion": "1K",
+  "modeloPollinations": "flux",
+  "seedBase": 7,
+  "plantillaPrompt": "prompt_flux.txt",
+  "variantes": 1,
+  "densidad": "300+",
+  "escena": "La plaza nevada del mercado de la aldea invernal, llena de monstruitos peludos en la feria del fin de la hibernacion: puestos de mercado, la pista de hielo, la colina de trineos y el desfile con banderas rojas.",
+  "referencia": "",
+  "carpetaSalida": "salida",
+  "prefijo": "monstrix_wally"
+}

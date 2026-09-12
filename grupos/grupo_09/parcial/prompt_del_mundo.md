@@ -37,14 +37,27 @@ Bloque de estilo (en 4 categorías fijas):
 
 ## Regla Wally (fija en todas las escenas)
 
-Escena EXTREMADAMENTE concurrida y caótica, vista amplia, más de 30
-monstruos por cuadro, en tres planos de profundidad (muy cerca, al medio, al
-fondo pequeño). Múltiples acciones conviviendo al mismo tiempo. El fondo se
-mezcla con los personajes buscables: que no se destaquen por brillo, tamaño
-ni color. Como buscar a Wally.
-
-Los personajes buscables están SEPARADOS entre sí, en distintas zonas de la
-escena, integrados a la multitud en tamaño chico.
+Atlas = dónde-está-Wally del mundo Monstrix. Reglas:
+- UN SOLO ejemplar de cada buscable: exactamente un NODI por escena.
+  Cualquier celeste+rojo que no sea él es un OBJETO TRAMPA o un patrón,
+  jamás otro personaje idéntico. Contar antes de terminar.
+- Vista MUY amplia y alejada: plano aéreo panorámico, mirado desde arriba y
+  desde afuera del pueblo, tipo maqueta de la aldea. El paisaje domina; los
+  monstruos son puntitos y la multitud se lee como textura de cabezas
+  peludas.
+- Densidad extrema: 300+ figuras. La escena se extiende más allá de los
+  cuatro bordes del cuadro.
+- Caos: accidentes en el aire, varias microescenas en pleno desarrollo a la
+  vez, multitud que se superpone y se tapa entre sí, mezcla de escalas.
+- TEXTURA EN TODO: piso, faroles, árboles, techos y mercadería llevan la
+  felpa de NODI: imposible distinguir personaje de objeto a simple vista.
+- OBJETOS TRAMPA: decorados celeste hielo + rojo que disparan falsos
+  positivos (faroles-columna con globo rojo, pilas de bolas de felpa celeste
+  con palitos rojos, esculturas con bufanda y orejeras rojas, árboles con
+  frutos rojos). Ninguno es NODI.
+- Los buscables van integrados, en tamaño chico y sin foco (sin brillo ni
+  halo).
+- Formato: 16:9 apaisado panorámico.
 
 ---
 

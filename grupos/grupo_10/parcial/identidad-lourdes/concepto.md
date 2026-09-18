@@ -43,7 +43,7 @@ gente, en cada una.
 4. Fiesta al amanecer en la playa
 5. Fiesta en un rooftop, de noche
 6. Festival de música al aire libre en el campo
-7. Rave subterráneo en un club de noche
+7. Celebración multitudinaria en el Obelisco de Buenos Aires
 8. Garden party de tarde
 
 ---

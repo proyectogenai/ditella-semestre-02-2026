@@ -31,9 +31,14 @@ de tu `SKILL.md` del parcial, así que lo que escribas acá no se descarta.
 
 **Concepto en 1 oración — ¿qué es este mundo?**
 
-Lourdes es una chica muy fiestera que recorre el mundo entero yendo de
-fiesta en fiesta — el libro consiste en encontrarla, escondida entre la
-gente, en cada una.
+Lourdes es una leona muy fiestera que recorre el mundo entero yendo de
+fiesta en fiesta — el libro consiste en encontrarla, escondida entre una
+multitud de animales, en cada una.
+
+> **Actualización:** el mundo pasó de estar poblado por personas a estar
+> poblado por **animales** (Lourdes incluida, ahora una leona). Cambio de
+> concepto grande, hecho a mitad de la Clase 5 — ver D.2 para los rasgos
+> distintivos de Lourdes-leona, todavía en definición.
 
 **Si tuviéramos que mostrar 8 escenas distintas, ¿cuáles serían?**
 
@@ -92,9 +97,9 @@ mano, no generada con IA).
 
 | Campo | Tu respuesta |
 | --- | --- |
-| **Concepto del universo** | Lourdes, una chica fiestera que recorre fiestas del mundo — el libro consiste en encontrarla en cada una |
-| **Técnica de ilustración** | Ilustración isométrica/axonométrica, vista tipo "casa de muñecas" en corte mostrando varios planos de profundidad a la vez, **línea de tinta fina y delicada** (ya no gruesa/uniforme), **coloreado en acuarela real** (manchas translúcidas, bordes desparejos, la tinta se filtra levemente fuera de la línea), **personas estilizadas/caricaturescas, bizarras, NO realistas** (proporciones simplificadas), **cabezas de forma normal/humana, pero con ojos MUY saltones y grandes (sin boca/labios exagerados), y peinados bien locos y variados en cada uno**, al estilo del ilustrador Maxim Usik — el mundo se desprende estéticamente del look propio de Lourdes |
-| **Paleta** | **Totalmente libre, vibrante, saturada y bizarra, sin ningún color fijo** — ni siquiera Lourdes mantiene un color constante en el mundo; la reconocen por **silueta y objetos** (pelo bob, pollera larga, el trago, la cartera con corazón), no por color |
+| **Concepto del universo** | Lourdes, una leona muy fiestera que recorre el mundo — el libro consiste en encontrarla en cada fiesta, en medio de una multitud de **animales** (no humanos) |
+| **Técnica de ilustración** | Ilustración isométrica/axonométrica, vista tipo "casa de muñecas" en corte mostrando varios planos de profundidad a la vez, **línea de tinta fina y delicada** (ya no gruesa/uniforme), **coloreado en acuarela real** (manchas translúcidas, bordes desparejos, la tinta se filtra levemente fuera de la línea), **animales estilizados/caricaturescos, bizarros, NO realistas** (proporciones simplificadas), **con ojos MUY saltones y grandes, y cada uno con un peinado/melena y un accesorio bien locos y distintos** (nadie se repite), al estilo del ilustrador Maxim Usik |
+| **Paleta** | **Totalmente libre, vibrante, saturada y bizarra, sin ningún color fijo** — a Lourdes se la reconoce por ser **la única leona** de la escena, no por color (sus rasgos distintivos específicos se terminan de definir aparte) |
 | **Referencia artística** | Maxim Usik — mundos isométricos densos y detallados (reemplaza a Isabela Sande, que no daba la densidad que pedía la cátedra) |
 | **Parámetros de calidad** | Vista isométrica elevada tipo diorama/corte, formato horizontal 1414×1000px, **aproximadamente 200 personas** con una micro-acción distinta cada una, elementos de ambientación sin texto legible, sin marcas reales |
 
@@ -107,21 +112,22 @@ showing multiple depth planes simultaneously, thin, delicate black ink
 outlines (not thick or uniform-heavy), real watercolor coloring with
 translucent washes, uneven bleeding edges and visible paper texture
 (color subtly bleeding past the ink lines, not flat digital fill),
-stylized, bizarre, cartoon-like characters with simplified proportions
-(no photorealistic anatomy or skin detail), every character has a normal
-human head shape, but with EXTREMELY large, bulging, cartoonish eyes
-(mouths and lips stay normal-sized, not exaggerated), and a wild,
-distinct, exaggerated hairstyle unique to each person (never the same
-haircut twice) — eyes must always be clearly visible and never left
-blank, giving each character a distinct graphic expression instead of a
-generic blank face, in the densely detailed character-driven style of
-illustrator Maxim Usik, fully free, vibrant, highly saturated and slightly
-bizarre color palette throughout the scene with NO fixed or repeating
-colors across scenes, approximately 200 individually distinct characters
-distributed across all depth planes, each performing a different
-simultaneous micro-action, environmental props and signage shapes present
-but with NO legible text, highly detailed, no watermark, no real brand
-names or logos, landscape format, 1414x1000px
+the party is populated entirely by anthropomorphic-styled but literal
+four-legged animals (no humans anywhere in the scene), each a different
+species, stylized, bizarre, cartoon-like character design with simplified
+proportions (no photorealistic anatomy or fur detail), every animal has
+EXTREMELY large, bulging, cartoonish eyes, plus its own wild, distinct,
+exaggerated hairstyle or mane styling and a bizarre accessory unique to
+that animal (never repeated) — eyes must always be clearly visible and
+never left blank, giving each animal a distinct graphic expression
+instead of a generic blank face, in the densely detailed character-driven
+style of illustrator Maxim Usik, fully free, vibrant, highly saturated
+and slightly bizarre color palette throughout the scene with NO fixed or
+repeating colors across scenes, approximately 200 individually distinct
+animal characters distributed across all depth planes, each performing a
+different simultaneous micro-action, environmental props and signage
+shapes present but with NO legible text, highly detailed, no watermark,
+no real brand names or logos, landscape format, 1414x1000px
 ```
 
 ---

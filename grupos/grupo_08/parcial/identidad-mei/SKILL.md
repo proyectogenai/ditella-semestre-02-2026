@@ -79,13 +79,13 @@ sitio sin alterar la técnica plana:
 
 ## Modelo y parámetros
 
-Generar una imagen por escena en relación cuadrada **1:1**. Modelo de
-referencia: **Flux** (Flux.1 / Flux Kontext); el grupo confirma el
-definitivo tras la primera tanda de pruebas. Conservar el bloque de estilo
-madre y cambiar únicamente la descripción de la parada y su luz. Usar un
-**seed fijo por escena** para iterar sin que el resto se mueva. Negative
-prompt: `photography, 3D render, realistic skin, glossy, heavy gradients,
-text, letters, logos, watermark, UI`.
+Generar una imagen por escena en relación cuadrada **1:1**. Modelo:
+**Gemini / Nano Banana** (Google AI Studio o la app de Gemini), usando su
+herramienta de edición para insertar a Mei después de generar la escena
+base. Conservar el bloque de estilo madre y cambiar únicamente la
+descripción de la parada y su luz. El modelo no expone seed: la
+consistencia se logra manteniendo intacto el bloque madre e iterando de a
+una frase por vez. El prompt nunca incluye texto, logos ni marcas de agua.
 
 ## Regla de variación
 

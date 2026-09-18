@@ -93,23 +93,26 @@ mano, no generada con IA).
 | Campo | Tu respuesta |
 | --- | --- |
 | **Concepto del universo** | Lourdes, una chica fiestera que recorre fiestas del mundo — el libro consiste en encontrarla en cada una |
-| **Técnica de ilustración** | Acuarela/gouache suelta, trazo expresivo, textura de pincelada visible, línea de tinta suave |
+| **Técnica de ilustración** | Ilustración isométrica/axonométrica, vista tipo "casa de muñecas" en corte mostrando varios planos de profundidad a la vez, línea de tinta negra limpia y de grosor uniforme, coloreado plano con textura suave tipo acuarela, al estilo del ilustrador Maxim Usik |
 | **Paleta** | `#BBA289` (beige), `#AD545A` (rojo apagado — fijo en Lourdes), `#BAAB9F` (gris-taupe), `#FAEBDB` (crema/papel) — cada escena suma su propia paleta vívida según la fiesta |
-| **Referencia artística** | Isabela Sande (@isabelasande), ilustración editorial de moda en acuarela |
-| **Parámetros de calidad** | Formato horizontal (spread A3 abierto), 1414×1000px, alta densidad tipo "¿Dónde está Wally?", sin texto ni marcas reales |
+| **Referencia artística** | Maxim Usik — mundos isométricos densos y detallados (reemplaza a Isabela Sande, que no daba la densidad que pedía la cátedra) |
+| **Parámetros de calidad** | Vista isométrica elevada tipo diorama/corte, formato horizontal 1414×1000px, decenas de personajes con una micro-acción distinta cada uno, elementos de ambientación sin texto legible, sin marcas reales |
 
 **PROMPT MADRE (Capas 2-5 concatenadas — texto exacto para copiar sin
 modificar en cada generación, cuando arranquen a generar):**
 
 ```
-loose expressive watercolor and gouache illustration, visible brushstroke
-texture, soft ink outline, in the editorial fashion illustration style of
-Isabela Sande (@isabelasande), warm base palette of tan (#BBA289), muted
-red (#AD545A), warm taupe grey (#BAAB9F) and cream paper background
+isometric axonometric illustration, dollhouse-style cutaway perspective
+showing multiple depth planes simultaneously, clean black ink outlines
+with uniform line weight, flat coloring with soft watercolor-like texture
+and subtle paper grain, in the densely detailed character-driven style of
+illustrator Maxim Usik, warm base palette of tan (#BBA289), muted red
+(#AD545A), warm taupe grey (#BAAB9F) and cream paper background
 (#FAEBDB) — each scene also carries its own vivid accent palette specific
-to that party, densely populated "Where's Waldo" style crowd scene with
-many people and simultaneous micro-actions, highly detailed, no text, no
-watermark, no real brand names or logos, landscape format, 1414x1000px
+to that party, dozens of individually distinct characters each performing
+a different simultaneous micro-action, environmental props and signage
+shapes present but with NO legible text, highly detailed, no watermark,
+no real brand names or logos, landscape format, 1414x1000px
 ```
 
 ---

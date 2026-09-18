@@ -93,7 +93,7 @@ mano, no generada con IA).
 | Campo | Tu respuesta |
 | --- | --- |
 | **Concepto del universo** | Lourdes, una chica fiestera que recorre fiestas del mundo — el libro consiste en encontrarla en cada una |
-| **Técnica de ilustración** | Ilustración isométrica/axonométrica, vista tipo "casa de muñecas" en corte mostrando varios planos de profundidad a la vez, línea de tinta negra limpia y de grosor uniforme, **coloreado en acuarela real** (manchas translúcidas, bordes desparejos, la tinta se filtra levemente fuera de la línea), al estilo del ilustrador Maxim Usik |
+| **Técnica de ilustración** | Ilustración isométrica/axonométrica, vista tipo "casa de muñecas" en corte mostrando varios planos de profundidad a la vez, línea de tinta negra limpia y de grosor uniforme, **coloreado en acuarela real** (manchas translúcidas, bordes desparejos, la tinta se filtra levemente fuera de la línea), **personas estilizadas/caricaturescas, NO realistas** (proporciones simplificadas, rasgos faciales mínimos tipo puntos/líneas), al estilo del ilustrador Maxim Usik |
 | **Paleta** | `#BBA289` (beige), `#AD545A` (rojo apagado — fijo en Lourdes), `#BAAB9F` (gris-taupe), `#FAEBDB` (crema/papel) — cada escena suma su propia paleta vívida según la fiesta |
 | **Referencia artística** | Maxim Usik — mundos isométricos densos y detallados (reemplaza a Isabela Sande, que no daba la densidad que pedía la cátedra) |
 | **Parámetros de calidad** | Vista isométrica elevada tipo diorama/corte, formato horizontal 1414×1000px, decenas de personajes con una micro-acción distinta cada uno, elementos de ambientación sin texto legible, sin marcas reales |
@@ -106,9 +106,11 @@ isometric axonometric illustration, dollhouse-style cutaway perspective
 showing multiple depth planes simultaneously, clean black ink outlines
 with uniform line weight, real watercolor coloring with translucent
 washes, uneven bleeding edges and visible paper texture (color subtly
-bleeding past the ink lines, not flat digital fill), in the densely
-detailed character-driven style of illustrator Maxim Usik, warm base
-palette of tan (#BBA289), muted red
+bleeding past the ink lines, not flat digital fill), stylized cartoon-like
+characters with simplified proportions and minimal facial features (small
+dot or line eyes, no photorealistic anatomy or skin detail), in the
+densely detailed character-driven style of illustrator Maxim Usik, warm
+base palette of tan (#BBA289), muted red
 (#AD545A), warm taupe grey (#BAAB9F) and cream paper background
 (#FAEBDB) — each scene also carries its own vivid accent palette specific
 to that party, dozens of individually distinct characters each performing

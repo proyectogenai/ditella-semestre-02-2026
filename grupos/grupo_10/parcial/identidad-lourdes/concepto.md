@@ -93,7 +93,7 @@ mano, no generada con IA).
 | Campo | Tu respuesta |
 | --- | --- |
 | **Concepto del universo** | Lourdes, una chica fiestera que recorre fiestas del mundo — el libro consiste en encontrarla en cada una |
-| **Técnica de ilustración** | Ilustración isométrica/axonométrica, vista tipo "casa de muñecas" en corte mostrando varios planos de profundidad a la vez, línea de tinta negra limpia y de grosor uniforme, **coloreado en acuarela real** (manchas translúcidas, bordes desparejos, la tinta se filtra levemente fuera de la línea), **personas estilizadas/caricaturescas, NO realistas** (proporciones simplificadas), **todos con ojos grandes y labios grandes/marcados** (para que se note que son del mismo mundo de Lourdes), al estilo del ilustrador Maxim Usik |
+| **Técnica de ilustración** | Ilustración isométrica/axonométrica, vista tipo "casa de muñecas" en corte mostrando varios planos de profundidad a la vez, línea de tinta negra limpia y de grosor uniforme, **coloreado en acuarela real** (manchas translúcidas, bordes desparejos, la tinta se filtra levemente fuera de la línea), **personas estilizadas/caricaturescas, NO realistas** (proporciones simplificadas), **todos con cabezas de forma geométrica simple (redonda, cuadrada o triangular), ojos saltones y grandes, y labios grandes/marcados** (para que se note que son del mismo mundo de Lourdes), al estilo del ilustrador Maxim Usik |
 | **Paleta** | `#BBA289` (beige), `#AD545A` (rojo apagado — fijo en Lourdes), `#BAAB9F` (gris-taupe), `#FAEBDB` (crema/papel) — cada escena suma su propia paleta vívida según la fiesta |
 | **Referencia artística** | Maxim Usik — mundos isométricos densos y detallados (reemplaza a Isabela Sande, que no daba la densidad que pedía la cátedra) |
 | **Parámetros de calidad** | Vista isométrica elevada tipo diorama/corte, formato horizontal 1414×1000px, decenas de personajes con una micro-acción distinta cada uno, elementos de ambientación sin texto legible, sin marcas reales |
@@ -108,11 +108,13 @@ with uniform line weight, real watercolor coloring with translucent
 washes, uneven bleeding edges and visible paper texture (color subtly
 bleeding past the ink lines, not flat digital fill), stylized cartoon-like
 characters with simplified proportions (no photorealistic anatomy or skin
-detail), every character drawn with exaggerated large eyes with visible
-eyelashes and full, prominent lips, giving each a distinct characterful
-expression instead of a generic blank face, in the densely detailed
-character-driven style of illustrator Maxim Usik, warm base palette of
-tan (#BBA289), muted red
+detail), every character's head is one of three simple geometric shapes
+(round, square, or triangular silhouette), each face clearly showing
+large bulging round eyes and full, prominent lips — facial features must
+always be visible and never left blank, giving each character a distinct
+graphic expression instead of a generic blank face, in the densely
+detailed character-driven style of illustrator Maxim Usik, warm base
+palette of tan (#BBA289), muted red
 (#AD545A), warm taupe grey (#BAAB9F) and cream paper background
 (#FAEBDB) — each scene also carries its own vivid accent palette specific
 to that party, dozens of individually distinct characters each performing

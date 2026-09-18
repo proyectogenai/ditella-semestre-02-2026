@@ -93,35 +93,36 @@ mano, no generada con IA).
 | Campo | Tu respuesta |
 | --- | --- |
 | **Concepto del universo** | Lourdes, una chica fiestera que recorre fiestas del mundo — el libro consiste en encontrarla en cada una |
-| **Técnica de ilustración** | Ilustración isométrica/axonométrica, vista tipo "casa de muñecas" en corte mostrando varios planos de profundidad a la vez, línea de tinta negra limpia y de grosor uniforme, **coloreado en acuarela real** (manchas translúcidas, bordes desparejos, la tinta se filtra levemente fuera de la línea), **personas estilizadas/caricaturescas, NO realistas** (proporciones simplificadas), **cabezas de forma normal/humana, pero con ojos MUY saltones y grandes, labios grandes/marcados, y peinados bien locos y variados en cada uno** (para que se note que son del mismo mundo de Lourdes), al estilo del ilustrador Maxim Usik |
-| **Paleta** | `#BBA289` (beige), `#AD545A` (rojo apagado — fijo en Lourdes), `#BAAB9F` (gris-taupe), `#FAEBDB` (crema/papel) — cada escena suma su propia paleta vívida según la fiesta |
+| **Técnica de ilustración** | Ilustración isométrica/axonométrica, vista tipo "casa de muñecas" en corte mostrando varios planos de profundidad a la vez, **línea de tinta fina y delicada** (ya no gruesa/uniforme), **coloreado en acuarela real** (manchas translúcidas, bordes desparejos, la tinta se filtra levemente fuera de la línea), **personas estilizadas/caricaturescas, NO realistas** (proporciones simplificadas), **cabezas de forma normal/humana, pero con ojos MUY saltones y grandes, labios grandes/marcados, y peinados bien locos y variados en cada uno** (para que se note que son del mismo mundo de Lourdes), al estilo del ilustrador Maxim Usik |
+| **Paleta** | **Colores vibrantes y saturados, libres según cada escena** (se abandona la paleta base muted) — el único fijo es el **rojo `#AD545A` del top y los labios de Lourdes**, que se mantiene igual sin importar cuán vibrante sea el resto del mundo |
 | **Referencia artística** | Maxim Usik — mundos isométricos densos y detallados (reemplaza a Isabela Sande, que no daba la densidad que pedía la cátedra) |
-| **Parámetros de calidad** | Vista isométrica elevada tipo diorama/corte, formato horizontal 1414×1000px, decenas de personajes con una micro-acción distinta cada uno, elementos de ambientación sin texto legible, sin marcas reales |
+| **Parámetros de calidad** | Vista isométrica elevada tipo diorama/corte, formato horizontal 1414×1000px, **aproximadamente 200 personas** con una micro-acción distinta cada una, elementos de ambientación sin texto legible, sin marcas reales |
 
 **PROMPT MADRE (Capas 2-5 concatenadas — texto exacto para copiar sin
 modificar en cada generación, cuando arranquen a generar):**
 
 ```
 isometric axonometric illustration, dollhouse-style cutaway perspective
-showing multiple depth planes simultaneously, clean black ink outlines
-with uniform line weight, real watercolor coloring with translucent
-washes, uneven bleeding edges and visible paper texture (color subtly
-bleeding past the ink lines, not flat digital fill), stylized cartoon-like
-characters with simplified proportions (no photorealistic anatomy or skin
-detail), every character has a normal human head shape, but with EXTREMELY large,
-bulging, cartoonish eyes, full and prominent lips, and a wild, distinct,
-exaggerated hairstyle unique to each person (never the same haircut
-twice) — facial features must always be clearly visible and never left
-blank, giving each character a distinct graphic expression instead of a
-generic blank face, in the densely
-detailed character-driven style of illustrator Maxim Usik, warm base
-palette of tan (#BBA289), muted red
-(#AD545A), warm taupe grey (#BAAB9F) and cream paper background
-(#FAEBDB) — each scene also carries its own vivid accent palette specific
-to that party, dozens of individually distinct characters each performing
-a different simultaneous micro-action, environmental props and signage
-shapes present but with NO legible text, highly detailed, no watermark,
-no real brand names or logos, landscape format, 1414x1000px
+showing multiple depth planes simultaneously, thin, delicate black ink
+outlines (not thick or uniform-heavy), real watercolor coloring with
+translucent washes, uneven bleeding edges and visible paper texture
+(color subtly bleeding past the ink lines, not flat digital fill),
+stylized cartoon-like characters with simplified proportions (no
+photorealistic anatomy or skin detail), every character has a normal
+human head shape, but with EXTREMELY large, bulging, cartoonish eyes,
+full and prominent lips, and a wild, distinct, exaggerated hairstyle
+unique to each person (never the same haircut twice) — facial features
+must always be clearly visible and never left blank, giving each
+character a distinct graphic expression instead of a generic blank face,
+in the densely detailed character-driven style of illustrator Maxim
+Usik, vibrant, highly saturated color palette throughout the scene, free
+and varied per scene — the one fixed exception is Lourdes's muted red
+(#AD545A) top and lips, which stay constant no matter how vibrant the
+rest of the world is, approximately 200 individually distinct characters
+distributed across all depth planes, each performing a different
+simultaneous micro-action, environmental props and signage shapes present
+but with NO legible text, highly detailed, no watermark, no real brand
+names or logos, landscape format, 1414x1000px
 ```
 
 ---

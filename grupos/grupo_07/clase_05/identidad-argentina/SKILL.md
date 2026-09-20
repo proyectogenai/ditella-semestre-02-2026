@@ -1,6 +1,6 @@
 ---
 name: atlas-argentina
-description: Usala cuando haya que generar las escenas del libro "Buscando en Argentina", un producto educativo estilo buscando-a-Wally sobre lugares emblemáticos del país. Cada escena es una doble página en plastilina/stop-motion (estilo Laika) llena de personajes y objetos, donde hay que descubrir a un personaje con gorro rojo escondido entre la multitud. La skill mantiene el mismo universo visual entre las 8 escenas y solo cambia el lugar y su situación.
+description: 'Usala cuando haya que generar las escenas del libro "Buscando en Argentina", un producto educativo estilo buscando-a-Wally sobre lugares emblemáticos del país. Cada escena es una doble página en plastilina/stop-motion (estilo Laika) llena de personajes y objetos, donde hay que descubrir a un personaje con gorro rojo escondido entre la multitud. La skill mantiene el mismo universo visual entre las 8 escenas y solo cambia el lugar y su situación.'
 ---
 
 # Atlas Argentina — skill del parcial

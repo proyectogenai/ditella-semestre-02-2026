@@ -1,6 +1,6 @@
 ---
 name: Organizarnos
-description: Usala cuando necesites convertir apuntes, ideas o textos desordenados en una versión clara y organizada: resumir, reformular, explicar paso a paso o estructurar un texto. La skill siempre pregunta el formato y confirma el objetivo antes de escribir, y no inventa información que no esté en el input.
+description: "Usala cuando necesites convertir apuntes, ideas o textos desordenados en una versión clara y organizada: resumir, reformular, explicar paso a paso o estructurar un texto. La skill siempre pregunta el formato y confirma el objetivo antes de escribir, y no inventa información que no esté en el input."
 ---
 
 # Organizar Textos

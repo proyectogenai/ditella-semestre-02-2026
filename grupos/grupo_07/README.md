@@ -27,3 +27,12 @@ En la prueba en chat limpio notamos que el agente cargó otra "Bruma" y usó la
 paleta minimalista gris; corregimos el `description` agregando la identidad
 gráfica (rayas en dúos de dos colores) y un "NO es el Bruma minimalista gris"
 para que cargue la skill correcta.
+
+## Clase 7 — skill de tarea repetitiva
+
+Skill `organizar-textos/`: convierte apuntes, ideas o textos desordenados en
+una versión clara y organizada (resumen, texto formal, paso a paso,
+estructura/narrativa, guion o frases cortas). Herramientas mapeadas en el
+`AGENTS.md` a partir de hoy: lectura/escritura de archivos locales (para
+recibir el input del usuario y generar el texto) y el chat del agente como
+canal de ida y vuelta para confirmar objetivo y formato antes de escribir.

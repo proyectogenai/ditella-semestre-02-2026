@@ -30,7 +30,7 @@ para que cargue la skill correcta.
 
 ## Clase 7 — skill de tarea repetitiva
 
-Skill `organizar-textos-delfina/`: convierte apuntes, ideas o textos desordenados en
+Skill `Organizarnos/`: convierte apuntes, ideas o textos desordenados en
 una versión clara y organizada (resumen, texto formal, paso a paso,
 estructura/narrativa, guion o frases cortas). Herramientas mapeadas en el
 `AGENTS.md` a partir de hoy: lectura/escritura de archivos locales (para

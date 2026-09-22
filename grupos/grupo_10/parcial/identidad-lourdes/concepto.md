@@ -141,10 +141,11 @@ skin tones and body types widely across the crowd — no repeated
 identical figures.
 
 03 — MOTHER PALETTE
-Flat matte palette: mustard yellow, brick red, olive/forest green, burnt
-orange, dusty blue-grey, warm cream — NO gloss, NO neon, NO pastel-candy
-softness. The environmental palette may vary per scene, but this base
-family of colors must stay recognizable throughout.
+Flat matte palette: mustard yellow, brick red, **pink** (with a strong,
+clearly visible presence throughout the scene — not just a small accent),
+olive/forest green, burnt orange, dusty blue-grey, warm cream — NO gloss,
+NO neon, NO pastel-candy softness. The environmental palette may vary per
+scene, but this base family of colors must stay recognizable throughout.
 
 04 — FIXED CHARACTER: LOURDES
 A party-loving young woman with a chin-length bob haircut in warm
@@ -176,25 +177,28 @@ remain completely visible and realistically findable — never microscopic,
 cropped, partially missing, or impossible to distinguish. Besides
 Lourdes, include 3-4 secondary discoverable details (a small visual joke,
 a recurring prop, an odd character moment) that reward close observation.
-Approximately 200 individually distinct characters populate the scene,
+Approximately 300+ individually distinct characters populate the scene,
 each performing a different specific micro-action — never generic
 repeated poses, never random unrelated filler objects.
 
 07 — COMPOSITION
-Wide panoramic composition for an editorial double-page spread, a
-slightly elevated, comfortable wide-angle viewpoint that lets the viewer
-read the whole environment. Clear foreground, middle ground and
-background. Multiple visual paths for the eye to explore. Avoid placing
-Lourdes exactly at the center. Avoid important elements being cropped at
-the outer edges. Landscape format, 1414x1000px.
+VERY wide, zoomed-out panoramic composition, built for a full A3
+horizontal double-page spread (the printed book opens to this size): pull
+the camera back further than feels natural, so the crowd and the
+environment fill the entire frame edge to edge, with activity extending
+toward and past all four borders. A slightly elevated, comfortable
+wide-angle viewpoint that lets the viewer read the whole environment at
+once. Clear foreground, middle ground and background. Multiple visual
+paths for the eye to explore. Avoid placing Lourdes exactly at the
+center. Landscape format, 1414x1000px.
 
 08 — OUTPUT / EXCLUSIONS
-High-resolution polished editorial illustration in the "Valentina"
-2000s-animation style described above. Rich environmental detail.
-Consistent character design for Lourdes. NO text. NO logos. NO
-watermark. NO photorealism. NO generic modern flat-vector cartoon look.
-NO random unrelated filler objects — everything present must relate to
-this specific party and location. NO real brand names.
+High-resolution polished editorial illustration in "The Parisianer" style
+described above. Rich environmental detail. Consistent character design
+for Lourdes. NO text. NO logos. NO watermark. NO photorealism. NO gloss
+or anime look. NO generic modern flat-vector cartoon look. NO random
+unrelated filler objects — everything present must relate to this
+specific party and location. NO real brand names.
 ```
 
 ---

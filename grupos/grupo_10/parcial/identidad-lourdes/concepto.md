@@ -172,12 +172,21 @@ ENVIRONMENTAL / CULTURAL ELEMENTS: [specific props, decor, food, signage
 shapes matching this particular party — no generic filler]
 
 06 — SEARCH-AND-FIND SYSTEM
-Lourdes must be naturally hidden within the environment through her
-position or activity, blending in via surrounding elements, but she must
-remain completely visible and realistically findable — never microscopic,
-cropped, partially missing, or impossible to distinguish. Besides
-Lourdes, include 3-4 secondary discoverable details (a small visual joke,
-a recurring prop, an odd character moment) that reward close observation.
+Lourdes must be genuinely hard to find at first glance, following these
+placement rules:
+- NEVER in the foreground, NEVER in or near the exact center of the
+  frame, NEVER isolated or standing alone with empty space around her.
+- Always placed in the middle ground or background, inside a cluster of
+  other characters of a similar size and density to her surroundings —
+  she must not be the most prominent or eye-catching figure in the scene.
+- Partially obscured by another character, an object, or the edge of a
+  structure (roughly 20-40% of her covered) — but at least 60% of her
+  must stay visible so she is findable, not impossible.
+- Do NOT give her any special lighting, glow, framing or visual emphasis
+  that singles her out from the crowd around her.
+Besides Lourdes, include 3-4 secondary discoverable details (a small
+visual joke, a recurring prop, an odd character moment) that reward
+close observation.
 Characters in the foreground and middle ground must have clean,
 anatomically correct, complete bodies with clearly separated limbs.
 Characters far in the background may simplify into a dense, textured

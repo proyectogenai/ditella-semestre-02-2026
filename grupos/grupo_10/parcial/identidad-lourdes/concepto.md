@@ -116,48 +116,49 @@ party photo, but a rich inhabited world with its own personality and
 internal logic.
 
 02 — FIXED VISUAL UNIVERSE
-2000s children's animated film illustration, in the specific character
-and world design DNA of "Valentina" (Illusion Studios): clean smooth
-linework, flat cel-shading with glossy rounded highlights, soft warm rim
-lighting glowing around each character against the background, glossy
-specular highlights on hair and skin, painterly matte-style backgrounds.
-Storybook fantasy village architecture: pastel lavender, pink and soft
-blue rounded building facades, domed turret rooftops, golden cobblestone
-paths, neatly rounded green hedges, warm golden-hour glow, soft fluffy
-clouds in a bright sky. The result must feel like a genuine frame lifted
-from a real 2000s animated film — warm, glossy, hand-painted-feeling —
-NEVER a generic modern flat-vector cartoon, NEVER a generic "AI
-illustration" look, NEVER photorealistic.
+Flat European editorial illustration, in the character and world design
+DNA of "The Parisianer" (Éditions de la Martinière): thin, uniform,
+confident ink outlines (NOT thick, NOT glossy), flat matte color fills
+with NO shading gradients, NO cel-shading highlights, NO gloss.
+Elongated, loose, slightly exaggerated bendy character proportions,
+dynamic mid-motion poses (running, falling, reaching, chasing). Dense
+multi-story cutaway building facades showing several levels of activity
+simultaneously, small animals woven naturally into the scene. The result
+must feel like a page from a real published illustrated book — witty,
+graphically confident, editorial — NEVER a generic modern flat-vector
+cartoon, NEVER a generic "AI illustration" look, NEVER glossy or
+anime-styled, NEVER photorealistic.
 
 EVERY character in the scene — not only Lourdes — must share this exact
-facial DNA: large expressive almond-shaped eyes with visible individual
-eyelashes, soft rounded cel-shaded cheeks with a painted blush gradient,
-glossy lip highlights, soft defined eyebrows. NEVER default to a generic
-modern anime/webtoon face template. Each face must still look distinct
-from the others (different eye color, eyebrow shape, freckles or not,
-expression), but all of them recognizably belong to the same "Valentina"
-character-design family. Vary hairstyles, hair colors, skin tones and
-body types widely across the crowd — no repeated identical faces or
-bodies.
+graphic DNA: minimal, confident facial marks (a simple dot, dash or short
+line for eyes and mouth — NOT detailed anime eyes, NOT eyelashes, NOT
+glossy highlights, NOT cel-shaded blush), elongated loose limbs, and a
+dynamic mid-action pose. NEVER default to a generic modern anime/webtoon
+face. Each character still distinct via clothing color, hairstyle, body
+shape and specific action, but all recognizably belonging to the same
+flat, witty "Parisianer" graphic family. Vary hairstyles, hair colors,
+skin tones and body types widely across the crowd — no repeated
+identical figures.
 
 03 — MOTHER PALETTE
-Saturated pastel-candy palette: pinks, sky blues, mint greens, sunny
-yellows, corals — warm and candy-like, never neon, never muted. The
-environmental palette may vary per scene, but this base family of colors
-must stay recognizable throughout.
+Flat matte palette: mustard yellow, brick red, olive/forest green, burnt
+orange, dusty blue-grey, warm cream — NO gloss, NO neon, NO pastel-candy
+softness. The environmental palette may vary per scene, but this base
+family of colors must stay recognizable throughout.
 
 04 — FIXED CHARACTER: LOURDES
 A party-loving young woman with a chin-length bob haircut in warm
-chestnut brown, large warm hazel-green almond-shaped eyes with visible
-eyelashes and soft eyeshadow, rosy cel-shaded cheeks, glossy red lips.
-Wearing a fitted red crop top that leaves her midriff visible, a long
-flowing skirt, a wide belt with a large buckle, ankle boots with buckles
-and a scrunched detail, and a small purse with a pink heart charm slung
-over one shoulder — always holding a drink/cup in one hand. Her red top,
-red lips and chestnut bob hair are her fixed identity colors and must
-stay constant no matter how colorful the rest of the scene is. Her
-clothing, hairstyle, proportions and accessories must remain IDENTICAL
-in every scene — never redesign, age or restyle her.
+chestnut brown. Wearing a fitted red crop top that leaves her midriff
+visible, a long flowing skirt, a wide belt with a large buckle, ankle
+boots with buckles and a scrunched detail, and a small purse with a pink
+heart charm slung over one shoulder — always holding a drink/cup in one
+hand. Rendered with the same thin uniform ink line and flat matte color
+as the rest of the world (no gloss, no cel-shading, minimal facial marks
+like everyone else). Her red top and chestnut bob hair are her fixed identity
+colors and must stay constant no matter how colorful the rest of the
+scene is. Her clothing, hairstyle, proportions and
+accessories must remain IDENTICAL in every scene — never redesign, age
+or restyle her.
 
 05 — SCENE TEMPLATE (fill in differently for each of the 8 scenes)
 LOCATION: [specific party location]

@@ -31,14 +31,16 @@ de tu `SKILL.md` del parcial, así que lo que escribas acá no se descarta.
 
 **Concepto en 1 oración — ¿qué es este mundo?**
 
-Lourdes es una leona muy fiestera que recorre el mundo entero yendo de
-fiesta en fiesta — el libro consiste en encontrarla, escondida entre una
-multitud de animales, en cada una.
+Lourdes es una chica muy fiestera que recorre el mundo entero yendo de
+fiesta en fiesta — el libro consiste en encontrarla, escondida entre la
+gente, en cada una.
 
-> **Actualización:** el mundo pasó de estar poblado por personas a estar
-> poblado por **animales** (Lourdes incluida, ahora una leona). Cambio de
-> concepto grande, hecho a mitad de la Clase 5 — ver D.2 para los rasgos
-> distintivos de Lourdes-leona, todavía en definición.
+> **Historial de cambios de estética (no de concepto):** se probó una
+> versión donde Lourdes era una leona y el mundo estaba poblado por
+> animales — se descartó. Se volvió a la Lourdes humana original del D.2.
+> La técnica de ilustración del mundo si cambió varias veces (ver D.3):
+> de acuarela isométrica, a manga Y2K, a la estética actual (animación 2D
+> estilo "Valentina").
 
 **Si tuviéramos que mostrar 8 escenas distintas, ¿cuáles serían?**
 
@@ -97,34 +99,30 @@ mano, no generada con IA).
 
 | Campo | Tu respuesta |
 | --- | --- |
-| **Concepto del universo** | Lourdes, una leona muy fiestera que recorre el mundo — el libro consiste en encontrarla en cada fiesta, en medio de una multitud de **animales** (no humanos) |
-| **Técnica de ilustración** | Ilustración manga/street style Y2K japonés: línea de tinta **gruesa e irregular**, coloreado **plano y neón** (sin degradé, sin textura de acuarela), **perspectiva dinámica tipo ojo de pez/gran angular** con distorsión de primer plano (reemplaza a la isométrica) — animales estilizados y gráficos (no realistas), **con ojos MUY saltones y grandes, y cada uno con un peinado/melena y un accesorio bien locos y distintos** (nadie se repite) |
-| **Paleta** | **Totalmente libre, EXTREMADAMENTE vibrante, neón y saturada, sin ningún color fijo** — a Lourdes se la reconoce por ser **la única leona** de la escena, no por color (sus rasgos distintivos específicos se terminan de definir aparte) |
-| **Referencia artística** | Sin artista puntual — género: **ilustración manga/street pop-punk Y2K japonesa** (estética Harajuku, colores neón planos, línea gruesa) |
-| **Parámetros de calidad** | Perspectiva de ojo de pez/gran angular dinámica, formato horizontal 1414×1000px, **aproximadamente 200 animales** con una micro-acción distinta cada uno, elementos de ambientación sin texto legible, sin marcas reales |
+| **Concepto del universo** | Lourdes, una chica fiestera que recorre el mundo — el libro consiste en encontrarla en cada fiesta, en medio de la gente |
+| **Técnica de ilustración** | **Animación digital 2D estilo cel-shading**, como los animados infantiles/juveniles de los 2000 (ej. *Valentina*, de Illusion Studios): línea limpia y suave, sombreado plano con brillos/highlights glossy prolijos, colores saturados tipo caramelo, personajes de proporciones suaves y redondeadas, **ojos grandes y expresivos con pestañas marcadas**, pelo con volumen y brillo. El mundo/escenografía TAMBIÉN sigue esta estética (no solo el personaje): pueblos y locaciones de fantasía tipo cuento, arquitectura redondeada y colorida, vegetación estilo caricatura, cielos pastel luminosos |
+| **Paleta** | Saturada pero **pastel-caramelo** (rosas, celestes, verdes menta, amarillos sol, corales) — no neón. Lourdes mantiene su seña: **top y labios rojos**, pelo castaño bob |
+| **Referencia artística** | *Valentina* (película/serie de animación 2D, Illusion Studios, años 2000) — referencia de personaje Y de mundo, tal como pidió la cátedra |
+| **Parámetros de calidad** | Vista amplia tipo ilustración de cuento/storybook, varios planos de profundidad, formato horizontal 1414×1000px, **aproximadamente 200 personas** con una micro-acción distinta cada una, elementos de ambientación sin texto legible, sin marcas reales |
 
 **PROMPT MADRE (Capas 2-5 concatenadas — texto exacto para copiar sin
 modificar en cada generación, cuando arranquen a generar):**
 
 ```
-Y2K Japanese pop-punk manga/street illustration style, thick, uneven,
-bold black ink outlines, flat neon color fills with NO gradients and NO
-watercolor texture, dynamic warped fisheye/wide-angle perspective with
-dramatic foreground distortion, energetic comic-book graphic sensibility,
-the party is populated entirely by four-legged animals (no humans
-anywhere in the scene), each a different species, drawn in a flat,
-graphic, stylized manga way (not realistic anatomy), every animal has
-EXTREMELY large, bulging, cartoonish eyes, plus its own wild, distinct,
-exaggerated hairstyle or mane styling and a bizarre accessory unique to
-that animal (never repeated) — eyes must always be clearly visible and
-never left blank, giving each animal a distinct expression instead of a
-generic blank face, fully free, EXTREMELY vibrant neon, deeply saturated
-color palette throughout the scene with NO fixed or repeating colors
-across scenes, approximately 200 individually distinct animal characters
-distributed across the scene at different depths, each performing a
-different simultaneous micro-action, environmental props and graphic
-background elements present but with NO legible text, highly detailed,
-no watermark, no real brand names or logos, landscape format, 1414x1000px
+2000s-style 2D digital cel-shaded animated film illustration, in the
+character and world design style of "Valentina" (Illusion Studios),
+clean smooth linework, flat cel-shading with glossy rounded highlights,
+soft rounded character proportions, large expressive eyes with visible
+eyelashes, glossy voluminous hair, storybook fantasy world architecture
+with rounded colorful buildings, cartoon-stylized lush greenery, bright
+pastel-candy sky, saturated pastel-candy color palette (pinks, sky blues,
+mint greens, sunny yellows, coral), wide elevated storybook illustration
+view with multiple depth planes, approximately 200 individually distinct
+characters distributed across the scene, each performing a different
+simultaneous micro-action, no two people in the same pose, environmental
+props and signage shapes present but with NO legible text, highly
+detailed, no watermark, no real brand names or logos, landscape format,
+1414x1000px
 ```
 
 ---

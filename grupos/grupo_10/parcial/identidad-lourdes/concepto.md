@@ -167,9 +167,17 @@ LOCATION: [specific party location]
 MOMENT: [time of day / season]
 SITUATION: [type of party or celebration]
 SPECIFIC ACTIVITIES: [5-8 concrete, distinct, simultaneous micro-actions
-happening in the scene]
+happening in the scene — MUST include: (a) one large, bold, graphically
+striking centerpiece object or structure that anchors the composition,
+and (b) at least one small comedic mishap/chaos moment in progress
+(something spilling, crashing, being chased, caught mid-fall) — this
+applies even to calm/elegant settings, don't let the scene go flat]
 ENVIRONMENTAL / CULTURAL ELEMENTS: [specific props, decor, food, signage
 shapes matching this particular party — no generic filler]
+REMINDER: keep the bold flat matte palette from section 03 (mustard,
+brick red, pink, olive, burnt orange) even in settings that would
+naturally pull toward soft/pastel/naturalistic colors (gardens, beaches,
+etc.) — do not let it drift into a muted watercolor look.
 
 06 — SEARCH-AND-FIND SYSTEM
 Lourdes must be genuinely hard to find at first glance, following these
@@ -192,21 +200,26 @@ anatomically correct, complete bodies with clearly separated limbs.
 Characters far in the background may simplify into a dense, textured
 crowd of smaller figures (less individual anatomical precision needed at
 that distance) — this is a stylistic convention of the genre, not a
-flaw. Approximately 150-200 individually distinct characters overall,
-concentrated mostly in the foreground and middle ground, each performing
-a different specific micro-action — never generic repeated poses, never
-random unrelated filler objects.
+flaw. Approximately 250-300 individually distinct figures total across
+the whole scene: a clean, anatomically correct set of characters filling
+the foreground and middle ground, PLUS a dense background crowd
+(simplified, textural, smaller) that pushes the total count much higher
+without needing individual anatomical precision. Never generic repeated
+poses in the foreground, never random unrelated filler objects.
 
 07 — COMPOSITION
-VERY wide, zoomed-out panoramic composition, built for a full A3
+EXTREMELY wide, zoomed-out panoramic composition, built for a full A3
 horizontal double-page spread (the printed book opens to this size): pull
-the camera back further than feels natural, so the crowd and the
-environment fill the entire frame edge to edge, with activity extending
-toward and past all four borders. A slightly elevated, comfortable
-wide-angle viewpoint that lets the viewer read the whole environment at
-once. Clear foreground, middle ground and background. Multiple visual
-paths for the eye to explore. Avoid placing Lourdes exactly at the
-center. Landscape format, 1414x1000px.
+the camera back MUCH further than feels natural — further than a normal
+"wide shot," closer to a high, distant establishing shot where the whole
+location and its surroundings fit in frame at once. The crowd and the
+environment must fill the entire frame edge to edge, with activity
+extending toward and past all four borders, as if the scene keeps going
+beyond what's shown. A slightly elevated, comfortable wide-angle
+viewpoint that lets the viewer read the whole environment at once. Clear
+foreground, middle ground and background. Multiple visual paths for the
+eye to explore. Avoid placing Lourdes exactly at the center. Landscape
+format, 1414x1000px.
 
 08 — OUTPUT / EXCLUSIONS
 High-resolution polished editorial illustration in "The Parisianer" style
@@ -216,6 +229,46 @@ or anime look. NO generic modern flat-vector cartoon look. NO random
 unrelated filler objects — everything present must relate to this
 specific party and location. NO real brand names.
 ```
+
+### Historial de iteraciones (documentación del proceso)
+
+- **v1-v3 — Personaje y mundo:** arrancamos con Lourdes humana, moodboard
+  de acuarela isométrica. Se probó (y descartó) una versión donde Lourdes
+  era una leona y el mundo estaba poblado de animales — quedó demasiado
+  alejada del concepto original, se volvió a la Lourdes humana del D.2.
+- **v4-v11 — Búsqueda de técnica:** se probaron varias estéticas
+  (acuarela isométrica tipo Maxim Usik, manga Y2K neón con ojo de pez,
+  animación 2D estilo "Valentina") — todas salían genéricas o
+  demasiado "IA", sin personalidad propia.
+- **v12 — Reestructuración clave:** en vez de seguir agregando adjetivos
+  a un párrafo cada vez más largo, se reorganizó el bloque madre en 8
+  secciones numeradas (Propósito, Universo, Paleta, Personaje, Plantilla
+  de escena, Búsqueda, Composición, Exclusiones) — inspirado en el
+  prompt de otro grupo ("identidad-argentina"). Esto solo ya mejoró
+  mucho la especificidad.
+- **v13 — Cambio de referencia final:** se adoptó "The Parisianer"
+  (Éditions de la Martinière) como referencia artística real — línea
+  fina uniforme, color plano sin brillo, figuras alargadas dinámicas.
+  Con esta referencia + la estructura de 8 secciones, la escena de
+  Carnaval salió muy bien de entrada.
+- **v14 — Problema: cuerpos deformes y multitud indistinguible.**
+  Usando ChatGPT gratis, escenas con 300+ personajes generaban anatomía
+  rota. Corrección: se diferenció primer plano (anatomía prolija
+  obligatoria) de fondo lejano (puede simplificarse a textura de
+  multitud, es convención del género) y se bajó a ~150-200 personajes.
+- **v15 — Problema: Lourdes en lugares obvios.** El sistema de
+  búsqueda solo decía "que se esconda", sin reglas concretas. Corrección:
+  reglas explícitas de inserción (nunca en primer plano ni centro,
+  siempre en plano medio/fondo, 20-40% tapada, sin luz/brillo que la
+  destaque).
+- **v16 — Problema: escena de garden party salió genérica** comparada
+  con la de carnaval. Diagnóstico: sin un elemento visual grande y
+  llamativo (como la carroza del carnaval) y sin caos/comedia, la escena
+  se aplana; además la paleta plana definida se perdía en escenarios
+  naturalmente pastel. Corrección: se hizo regla fija para las 8
+  escenas — siempre un elemento centralizador grande + un momento de
+  caos/mishap, y recordatorio explícito de mantener la paleta plana
+  aunque el escenario tire para lo suave.
 
 ---
 

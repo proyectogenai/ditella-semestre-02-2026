@@ -97,38 +97,92 @@ mano, no generada con IA).
 
 ## D.3 — Bloque madre *(completar después del recreo, en la parte teórica)*
 
-| Campo | Tu respuesta |
-| --- | --- |
-| **Concepto del universo** | Lourdes, una chica fiestera que recorre el mundo — el libro consiste en encontrarla en cada fiesta, en medio de la gente |
-| **Técnica de ilustración** | **ADN visual específico de *Valentina*** (Illusion Studios, 2000s), no un "cel-shading genérico": pelo ondulado castaño caramelo, con brillo/reflejo marcado, sostenido con **broches/ganchitos de colores** enmarcando la cara; **ojos grandes almendrados color avellana**, con pestañas bien marcadas y sombra suave; mejillas sonrosadas con degradé pintado; labios brillosos; **"glow"/luz de borde cálida** rodeando a cada personaje contra el fondo; brillos especulares prolijos en pelo y piel; ropa casual de principios de los 2000 (tops ajustados con corazones/estrellas, jeans o shorts tiro bajo). El **mundo** también sigue este ADN: pueblo de fantasía tipo cuento, fachadas redondeadas en pastel (lavanda, rosa, celeste), techos abovedados, **calles empedradas doradas**, arbustos prolijos y redondeados, cielo luminoso con nubes suaves, fondos pintados con textura matte y personajes de línea limpia |
-| **Paleta** | Saturada pero **pastel-caramelo** (rosas, celestes, verdes menta, amarillos sol, corales) — no neón. Lourdes mantiene su seña: **top y labios rojos**, pelo castaño bob |
-| **Referencia artística** | *Valentina* (película/serie de animación 2D, Illusion Studios, años 2000) — referencia de personaje Y de mundo, tal como pidió la cátedra |
-| **Parámetros de calidad** | Vista amplia tipo ilustración de cuento/storybook, varios planos de profundidad, formato horizontal 1414×1000px, **aproximadamente 200 personas** con una micro-acción distinta cada una, elementos de ambientación sin texto legible, sin marcas reales |
+Reestructurado en 8 secciones numeradas (inspirado en el prompt de
+"identidad-argentina" de otro grupo) — en vez de un párrafo acumulado,
+separa propósito, universo, personaje, plantilla de escena, sistema de
+búsqueda, composición y exclusiones explícitas.
 
-**PROMPT MADRE (Capas 2-5 concatenadas — texto exacto para copiar sin
-modificar en cada generación, cuando arranquen a generar):**
+**PROMPT MADRE (texto exacto para copiar sin modificar en cada
+generación — la sección `05` se completa distinto para cada una de las
+8 escenas, todo lo demás va siempre igual):**
 
 ```
+01 — PURPOSE
+You are generating a page for an illustrated "search and find" storybook.
+The recurring character, Lourdes, travels the world attending parties.
+Each page is a densely populated scene where the reader must find her,
+hidden among a lively, specific, characterful crowd — not a generic stock
+party photo, but a rich inhabited world with its own personality and
+internal logic.
+
+02 — FIXED VISUAL UNIVERSE
 2000s children's animated film illustration, in the specific character
-and world design DNA of "Valentina" (Illusion Studios): long wavy glossy
-caramel-brown hair with warm highlight sheen, worn with colorful hair
-clips framing the face, large warm hazel-green almond-shaped eyes with
-thick visible eyelashes and soft eyeshadow, defined soft eyebrows, rosy
-cel-shaded cheeks with painted blush gradients, glossy pink-nude lips,
-warm peachy skin tone, characters wearing casual colorful early-2000s
-fashion (fitted cropped tops with heart or star motifs layered over long
-sleeves, low-rise jeans or shorts), soft warm rim lighting glowing around
-each character against the background, glossy specular highlights on
-hair and skin, storybook fantasy village background with pastel lavender,
-pink and soft blue rounded building facades, domed turret rooftops,
-golden cobblestone paths, neatly rounded green hedges, warm golden-hour
-glow, soft fluffy clouds in a bright sky, painterly matte-style
-backgrounds with clean crisp character linework, approximately 200
-individually distinct characters distributed across the scene at
-different depths, each performing a different simultaneous micro-action,
-no two people in the same pose, environmental props and signage shapes
-present but with NO legible text, highly detailed, no watermark, no real
-brand names or logos, landscape format, 1414x1000px
+and world design DNA of "Valentina" (Illusion Studios): clean smooth
+linework, flat cel-shading with glossy rounded highlights, soft warm rim
+lighting glowing around each character against the background, glossy
+specular highlights on hair and skin, painterly matte-style backgrounds.
+Storybook fantasy village architecture: pastel lavender, pink and soft
+blue rounded building facades, domed turret rooftops, golden cobblestone
+paths, neatly rounded green hedges, warm golden-hour glow, soft fluffy
+clouds in a bright sky. The result must feel like a genuine frame lifted
+from a real 2000s animated film — warm, glossy, hand-painted-feeling —
+NEVER a generic modern flat-vector cartoon, NEVER a generic "AI
+illustration" look, NEVER photorealistic.
+
+03 — MOTHER PALETTE
+Saturated pastel-candy palette: pinks, sky blues, mint greens, sunny
+yellows, corals — warm and candy-like, never neon, never muted. The
+environmental palette may vary per scene, but this base family of colors
+must stay recognizable throughout.
+
+04 — FIXED CHARACTER: LOURDES
+A party-loving young woman with a chin-length bob haircut in warm
+chestnut brown, large warm hazel-green almond-shaped eyes with visible
+eyelashes and soft eyeshadow, rosy cel-shaded cheeks, glossy red lips.
+Wearing a fitted red crop top that leaves her midriff visible, a long
+flowing skirt, a wide belt with a large buckle, ankle boots with buckles
+and a scrunched detail, and a small purse with a pink heart charm slung
+over one shoulder — always holding a drink/cup in one hand. Her red top,
+red lips and chestnut bob hair are her fixed identity colors and must
+stay constant no matter how colorful the rest of the scene is. Her
+clothing, hairstyle, proportions and accessories must remain IDENTICAL
+in every scene — never redesign, age or restyle her.
+
+05 — SCENE TEMPLATE (fill in differently for each of the 8 scenes)
+LOCATION: [specific party location]
+MOMENT: [time of day / season]
+SITUATION: [type of party or celebration]
+SPECIFIC ACTIVITIES: [5-8 concrete, distinct, simultaneous micro-actions
+happening in the scene]
+ENVIRONMENTAL / CULTURAL ELEMENTS: [specific props, decor, food, signage
+shapes matching this particular party — no generic filler]
+
+06 — SEARCH-AND-FIND SYSTEM
+Lourdes must be naturally hidden within the environment through her
+position or activity, blending in via surrounding elements, but she must
+remain completely visible and realistically findable — never microscopic,
+cropped, partially missing, or impossible to distinguish. Besides
+Lourdes, include 3-4 secondary discoverable details (a small visual joke,
+a recurring prop, an odd character moment) that reward close observation.
+Approximately 200 individually distinct characters populate the scene,
+each performing a different specific micro-action — never generic
+repeated poses, never random unrelated filler objects.
+
+07 — COMPOSITION
+Wide panoramic composition for an editorial double-page spread, a
+slightly elevated, comfortable wide-angle viewpoint that lets the viewer
+read the whole environment. Clear foreground, middle ground and
+background. Multiple visual paths for the eye to explore. Avoid placing
+Lourdes exactly at the center. Avoid important elements being cropped at
+the outer edges. Landscape format, 1414x1000px.
+
+08 — OUTPUT / EXCLUSIONS
+High-resolution polished editorial illustration in the "Valentina"
+2000s-animation style described above. Rich environmental detail.
+Consistent character design for Lourdes. NO text. NO logos. NO
+watermark. NO photorealism. NO generic modern flat-vector cartoon look.
+NO random unrelated filler objects — everything present must relate to
+this specific party and location. NO real brand names.
 ```
 
 ---

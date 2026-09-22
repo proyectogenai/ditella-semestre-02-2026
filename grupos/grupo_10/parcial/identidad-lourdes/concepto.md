@@ -141,11 +141,12 @@ skin tones and body types widely across the crowd — no repeated
 identical figures.
 
 03 — MOTHER PALETTE
-Flat matte palette: mustard yellow, brick red, **pink** (with a strong,
-clearly visible presence throughout the scene — not just a small accent),
-olive/forest green, burnt orange, dusty blue-grey, warm cream — NO gloss,
-NO neon, NO pastel-candy softness. The environmental palette may vary per
-scene, but this base family of colors must stay recognizable throughout.
+Flat matte palette: mustard yellow, brick red, pink, olive/forest green,
+burnt orange, dusty blue-grey, warm cream — NO gloss, NO neon, NO
+pastel-candy softness. Pink should appear naturally through clothing,
+objects, signage or props here and there, without forcing it into every
+element of the scene. The environmental palette may vary per scene, but
+this base family of colors must stay recognizable throughout.
 
 04 — FIXED CHARACTER: LOURDES
 A party-loving young woman with a chin-length bob haircut in warm
@@ -177,9 +178,15 @@ remain completely visible and realistically findable — never microscopic,
 cropped, partially missing, or impossible to distinguish. Besides
 Lourdes, include 3-4 secondary discoverable details (a small visual joke,
 a recurring prop, an odd character moment) that reward close observation.
-Approximately 300+ individually distinct characters populate the scene,
-each performing a different specific micro-action — never generic
-repeated poses, never random unrelated filler objects.
+Characters in the foreground and middle ground must have clean,
+anatomically correct, complete bodies with clearly separated limbs.
+Characters far in the background may simplify into a dense, textured
+crowd of smaller figures (less individual anatomical precision needed at
+that distance) — this is a stylistic convention of the genre, not a
+flaw. Approximately 150-200 individually distinct characters overall,
+concentrated mostly in the foreground and middle ground, each performing
+a different specific micro-action — never generic repeated poses, never
+random unrelated filler objects.
 
 07 — COMPOSITION
 VERY wide, zoomed-out panoramic composition, built for a full A3

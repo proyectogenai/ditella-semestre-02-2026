@@ -129,6 +129,17 @@ from a real 2000s animated film — warm, glossy, hand-painted-feeling —
 NEVER a generic modern flat-vector cartoon, NEVER a generic "AI
 illustration" look, NEVER photorealistic.
 
+EVERY character in the scene — not only Lourdes — must share this exact
+facial DNA: large expressive almond-shaped eyes with visible individual
+eyelashes, soft rounded cel-shaded cheeks with a painted blush gradient,
+glossy lip highlights, soft defined eyebrows. NEVER default to a generic
+modern anime/webtoon face template. Each face must still look distinct
+from the others (different eye color, eyebrow shape, freckles or not,
+expression), but all of them recognizably belong to the same "Valentina"
+character-design family. Vary hairstyles, hair colors, skin tones and
+body types widely across the crowd — no repeated identical faces or
+bodies.
+
 03 — MOTHER PALETTE
 Saturated pastel-candy palette: pinks, sky blues, mint greens, sunny
 yellows, corals — warm and candy-like, never neon, never muted. The

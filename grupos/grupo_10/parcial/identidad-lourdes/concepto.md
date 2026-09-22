@@ -100,7 +100,7 @@ mano, no generada con IA).
 | Campo | Tu respuesta |
 | --- | --- |
 | **Concepto del universo** | Lourdes, una chica fiestera que recorre el mundo — el libro consiste en encontrarla en cada fiesta, en medio de la gente |
-| **Técnica de ilustración** | **Animación digital 2D estilo cel-shading**, como los animados infantiles/juveniles de los 2000 (ej. *Valentina*, de Illusion Studios): línea limpia y suave, sombreado plano con brillos/highlights glossy prolijos, colores saturados tipo caramelo, personajes de proporciones suaves y redondeadas, **ojos grandes y expresivos con pestañas marcadas**, pelo con volumen y brillo. El mundo/escenografía TAMBIÉN sigue esta estética (no solo el personaje): pueblos y locaciones de fantasía tipo cuento, arquitectura redondeada y colorida, vegetación estilo caricatura, cielos pastel luminosos |
+| **Técnica de ilustración** | **ADN visual específico de *Valentina*** (Illusion Studios, 2000s), no un "cel-shading genérico": pelo ondulado castaño caramelo, con brillo/reflejo marcado, sostenido con **broches/ganchitos de colores** enmarcando la cara; **ojos grandes almendrados color avellana**, con pestañas bien marcadas y sombra suave; mejillas sonrosadas con degradé pintado; labios brillosos; **"glow"/luz de borde cálida** rodeando a cada personaje contra el fondo; brillos especulares prolijos en pelo y piel; ropa casual de principios de los 2000 (tops ajustados con corazones/estrellas, jeans o shorts tiro bajo). El **mundo** también sigue este ADN: pueblo de fantasía tipo cuento, fachadas redondeadas en pastel (lavanda, rosa, celeste), techos abovedados, **calles empedradas doradas**, arbustos prolijos y redondeados, cielo luminoso con nubes suaves, fondos pintados con textura matte y personajes de línea limpia |
 | **Paleta** | Saturada pero **pastel-caramelo** (rosas, celestes, verdes menta, amarillos sol, corales) — no neón. Lourdes mantiene su seña: **top y labios rojos**, pelo castaño bob |
 | **Referencia artística** | *Valentina* (película/serie de animación 2D, Illusion Studios, años 2000) — referencia de personaje Y de mundo, tal como pidió la cátedra |
 | **Parámetros de calidad** | Vista amplia tipo ilustración de cuento/storybook, varios planos de profundidad, formato horizontal 1414×1000px, **aproximadamente 200 personas** con una micro-acción distinta cada una, elementos de ambientación sin texto legible, sin marcas reales |
@@ -109,20 +109,26 @@ mano, no generada con IA).
 modificar en cada generación, cuando arranquen a generar):**
 
 ```
-2000s-style 2D digital cel-shaded animated film illustration, in the
-character and world design style of "Valentina" (Illusion Studios),
-clean smooth linework, flat cel-shading with glossy rounded highlights,
-soft rounded character proportions, large expressive eyes with visible
-eyelashes, glossy voluminous hair, storybook fantasy world architecture
-with rounded colorful buildings, cartoon-stylized lush greenery, bright
-pastel-candy sky, saturated pastel-candy color palette (pinks, sky blues,
-mint greens, sunny yellows, coral), wide elevated storybook illustration
-view with multiple depth planes, approximately 200 individually distinct
-characters distributed across the scene, each performing a different
-simultaneous micro-action, no two people in the same pose, environmental
-props and signage shapes present but with NO legible text, highly
-detailed, no watermark, no real brand names or logos, landscape format,
-1414x1000px
+2000s children's animated film illustration, in the specific character
+and world design DNA of "Valentina" (Illusion Studios): long wavy glossy
+caramel-brown hair with warm highlight sheen, worn with colorful hair
+clips framing the face, large warm hazel-green almond-shaped eyes with
+thick visible eyelashes and soft eyeshadow, defined soft eyebrows, rosy
+cel-shaded cheeks with painted blush gradients, glossy pink-nude lips,
+warm peachy skin tone, characters wearing casual colorful early-2000s
+fashion (fitted cropped tops with heart or star motifs layered over long
+sleeves, low-rise jeans or shorts), soft warm rim lighting glowing around
+each character against the background, glossy specular highlights on
+hair and skin, storybook fantasy village background with pastel lavender,
+pink and soft blue rounded building facades, domed turret rooftops,
+golden cobblestone paths, neatly rounded green hedges, warm golden-hour
+glow, soft fluffy clouds in a bright sky, painterly matte-style
+backgrounds with clean crisp character linework, approximately 200
+individually distinct characters distributed across the scene at
+different depths, each performing a different simultaneous micro-action,
+no two people in the same pose, environmental props and signage shapes
+present but with NO legible text, highly detailed, no watermark, no real
+brand names or logos, landscape format, 1414x1000px
 ```
 
 ---

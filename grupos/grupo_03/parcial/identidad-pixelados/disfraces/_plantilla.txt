@@ -1,0 +1,5 @@
+nombre:   <el personaje a imitar — es la clave con la que se pide la pieza>
+mundo:    <en que mundo transcurre esa escena>
+disfraz:  <el texto exacto que va en el prompt para describir el disfraz>
+paleta:   <4 a 6 colores en hex, tomados de referencias/paleta.txt>
+cubre:    <cabeza, cuello, torso, piernas — las que el disfraz puede tapar>

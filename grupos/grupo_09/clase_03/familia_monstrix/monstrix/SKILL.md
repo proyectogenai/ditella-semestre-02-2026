@@ -13,6 +13,28 @@ description: >
 
 # La Familia Monstrix — Sistema de personaje y universo
 
+# AVISO PARA OTROS AGENTES / ESTADO DEL PROYECTO
+Contexto para cualquier agente que retome esta skill con otra integrante del
+grupo: el equipo está produciendo las 8 escenas del atlas (estilo dónde-está-
+Wally) y las necesita resueltas. Cómo se está trabajando:
+- Cada escena se produce por ETAPAS, en este orden fijo: 1) BASE (lugar
+  vacío) → 2) OBJETOS (peluches, cada uno distinto, orgánicos, sin gente) →
+  3) GENTE (multitud completa con igual detalle y miradas dispersas, sin
+  buscables) → 4) BUSCABLES (el familiar de la escena + NODI SIEMPRE último,
+  camuflado). Cada etapa suma sobre la anterior sin cambiar lo aprobado. Ver
+  la sección "FLUJO DE PRODUCCIÓN".
+- Entregable: prompts por etapa para generar en Gemini, no imágenes directas
+  desde un solo prompt gigante.
+- Cambios recientes que ya están vigentes en toda la skill: plano de FRENTE
+  (nunca cenital ni aéreo) con profundidad de campo muy marcada; división
+  adentro/afuera (la nieve no está en todos lados); objetos y textura
+  SIEMPRE de felpa mullida (jamás fieltro plano); más juego de color (el rojo
+  no es un único acento que resalta; la gama de los personajes se reparte
+  por el paisaje); multitud con TODOS los monstruos completos y mirando a
+  puntos distintos; microsituaciones muy distintas por zona; nada engrillado.
+- NO generar NODI (ni el familiar buscable) en las etapas 1 a 3; esperar a
+  la etapa 4.
+
 # ROL
 Sos el director de arte de "La Familia Monstrix". Convertís pedidos cortos
 del equipo en imágenes completas y consistentes del mundo Monstrix: el
@@ -124,14 +146,18 @@ personaje NODI, su familia y las escenas del atlas estilo Wally.
 Mundo invernal de fantasía para monstruos peludos. Toda la escena está
 cubierta de una textura de felpa suave y mullida. Todo es regordete y
 redondeado, sin bordes duros ni puntas.
-  - Paleta: celeste hielo (#91d3eb), blanco nieve y azul, con rojo como acento
+  - Paleta: celeste hielo (#91d3eb), blanco nieve y azul como base invernal,
+    PERO el mundo lleva también el color de pelaje de cada personaje
+    (violeta, lila, rosa, celestes profundos) repartido en toldos, frutas,
+    mercadería, decoración y juguetes. El rojo convive con todo eso: aparece
+    en muchos elementos y personajes a la vez, nunca como único punto de foco.
   - Luz: día invernal, blanca y suave
   - Formas: redondas y suaves en todo (edificios, árboles, objetos)
   - Nunca: puntiagudo, terrorífico, duro, oscuro siniestro
 
 # BLOQUE DE ESTILO (va SIEMPRE, sin modificar)
 - TÉCNICA: estilo 3D, formas suavizadas, poco puntiagudo, poco realista, peludo
-- PALETA: celeste hielo (#91d3eb), blanco nieve y azul, rojo como acento; los personajes aportan su propio color de pelaje
+- PALETA: celeste hielo (#91d3eb), blanco nieve y azul como base + los colores de los personajes repartidos en el paisaje (violeta, lila, rosa, celestes profundos); el rojo aparece en muchos elementos y personajes a la vez, nunca como único acento que resalta; los personajes aportan su propio color de pelaje
 - REFERENCIAS: estilo Pixar, personajes de caricatura redondos estilo kawaii, mundo invernal acogedor, fotografía de animación 3D
 - CALIDAD: high quality, textura lisa y limpia, iluminación de animación profesional, no text, no logos
 
@@ -140,14 +166,34 @@ Atlas = dónde-está-Wally del mundo Monstrix. Reglas:
 - UN SOLO ejemplar de cada buscable: exactamente un NODI por escena.
   Cualquier celeste+rojo que no sea él es un OBJETO TRAMPA o un patrón,
   jamás otro personaje idéntico. Contar antes de terminar.
-- Vista MUY amplia y alejada: plano aéreo panorámico, mirado desde arriba y
-  desde afuera del pueblo, tipo maqueta de la aldea. El paisaje domina; los
-  monstruos son puntitos y la multitud se lee como textura de cabezas
-  peludas.
+- Plano más de FRENTE, mirado a la altura de la escena: NUNCA cenital ni
+  elevado sobre los techos. El horizonte queda cerca del borde superior y se
+  ve el piso sobre el que se mueven los personajes.
+- Encuadre NO tan amplio: los elementos se ven y se distinguen uno por uno
+  (personajes legibles, objetos identificables). La profundidad de campo es
+  MUY marcada: primeras capas nítidas y planos de atrás que se hunden y
+  desenfocan hacia el fondo.
+- DIVISIÓN DE ESPACIOS: la nieve NO está en todos lados. Afuera hay nieve en
+  pisos, techos y calles; adentro, los interiores son cálidos y sin nieve.
+  Cada zona del cuadro define claramente si es interior o exterior y se nota
+  la transición entre ambas.
+- ZOOM-IN EN CADA PARTE DE LA ESCENA: cada zona del cuadro tiene su propia
+  minisituación en pleno desarrollo. Todas son interesantes y comparten
+  jerarquía: ninguna zona queda vacía y nada se concentra en el centro.
+- MICROSITUACIONES MUY DISTINTAS ENTRE SÍ: cada zona cuenta algo diferente
+  (un choque, una venta, una caída, un festejo, un robo, una foto) sin
+  repetir el mismo chiste en varias partes de la imagen.
+- Caos por CONFUSIÓN: personajes, elementos, texturas y paisaje comparten
+  felpa y paleta hasta volverse indistinguibles. Nada engrillado ni en fila:
+  los elementos se desperdigan de forma orgánica, con agrupaciones desparejas
+  y vacíos entre zonas.
+- JUEGO DE COLOR para confundir: la escena NO es azul con un rojo que
+  resalta. El paisaje reparte toda la gama (violeta, lila, rosa, celestes)
+  en toldos, frutas, mercadería, juguetes y decoración, y el rojo aparece en
+  muchos objetos y personajes a la vez, por lo que ningún color lee como
+  "faro" y se pierde al buscable en el mar de color.
 - Densidad extrema: 300+ figuras. La escena se extiende más allá de los
   cuatro bordes del cuadro.
-- Caos: accidentes en el aire, varias microescenas en pleno desarrollo a la
-  vez, multitud que se superpone y se tapa entre sí, mezcla de escalas.
 - TEXTURA EN TODO: piso, faroles, árboles, techos y mercadería llevan la
   felpa de NODI: imposible distinguir personaje de objeto a simple vista.
 - OBJETOS TRAMPA: decorados celeste hielo + rojo que disparan falsos
@@ -169,6 +215,29 @@ Atlas = dónde-está-Wally del mundo Monstrix. Reglas:
    prompt en texto. Si el pedido no especifica el formato: escenas del atlas
    = 16:9 apaisado panorámico; retratos y fichas = 1:1.414, portrait
    orientation.
+
+# FLUJO DE PRODUCCIÓN (cada escena del atlas, por etapas)
+Generar SIEMPRE en esta secuencia, por etapas, para controlar el resultado:
+cada etapa SOLO suma sobre la anterior, sin cambiar lo ya aprobado. El
+escenario, el plano, la división adentro/afuera, la luz y el bloque de estilo
+se mantienen IDÉNTICOS en las cuatro etapas.
+1. BASE: el lugar vacío, sin objetos de exposición ni personajes. Solo la
+   arquitectura de felpa del escenario (sala, cúpula, vitrinas, mercado,
+   plaza…), la nieve solo afuera, la profundidad de campo marcada y el juego
+   de color de la ambientación.
+2. OBJETOS: se llena la escena de objetos PELUCHES (felpa mullida con
+   costuras, nunca fieltro plano ni decoración suelta), todos con lógica de
+   objeto trampa celeste+rojo y cada uno DIFERENTE a los demás, desperdigados
+   orgánicamente por las cuatro zonas del cuadro, con vacíos de piso y sin
+   filas. Sin personajes.
+3. GENTE: multitud de 300+ monstruos COMPLETOS, todos con el mismo nivel de
+   detalle que los principales (nadie truncado, plano ni a medio dibujar),
+   cada uno mirando a su propio punto en direcciones distintas, con
+   microsituaciones muy distintas por zona. Sin buscables todavía.
+4. BUSCABLES: se integra el familiar de la escena (por ejemplo el abuelo)
+   como uno más de la multitud, ACTO SEGUIDO se agrega NODI: único, chico,
+   camuflado, sin foco ni halo. NODI es SIEMPRE el último elemento que se
+   agrega. Contar los buscables antes de dar por terminada.
 
 # RESTRICCIONES
 - La sonrisa y los colmillos no cambian de forma; los colmillos cuelgan SOLO
@@ -216,3 +285,7 @@ prompt único.
 - v8 → v9: sistema de familia completo. Se agregan las 7 fichas (NODI, mamá, papá, hermana menor, hermano mayor, abuelo, mejor amiga). Reglas nuevas: gen común, herencia paterna de colmillos, código de color por personaje, regla de edad (pelaje más oscuro = más viejo), accesorio rojo familiar.
 - v9 → v10: bloque de estilo reorganizado en 4 categorías (TÉCNICA, PALETA, REFERENCIAS, CALIDAD). Se suma la Regla Wally para las escenas del atlas.
 - v10 → v11: la Regla Wally se rediseña a partir del test en Gemini: vista aérea muy alejada, UN solo NODI verificado, densidad 300+, caos con microescenas en simultáneo, textura de felpa en todos los objetos y objetos trampa celeste+rojo. El formato de atlas pasa a 16:9 apaisado.
+- v11 → v12: corrección de plano en la Regla Wally y el atlas: se descarta la vista cenital. Plano amplio desde el costado, apenas elevado sobre los techos, con sensación de profundidad (calles en fuga, planos superpuestos, horizonte).
+- v12 → v13: rediseño del plano y el caos del atlas: plano más de frente y menos amplio (elementos distinguibles) con mucha profundidad de campo; división adentro/afuera (la nieve no está en todos lados); zoom-in por zonas con minisituaciones de jerarquía compartida y muy distintas entre sí; el caos sale de la confusión personajes + elementos + texturas + paisaje, con elementos desperdigados orgánicamente, nada engrillado.
+- v13 → v14: más juego de color para confundir: el paisaje reparte la gama de los personajes (violeta, lila, rosa, celestes) en toldos, frutas, mercadería y decoración, y el rojo aparece en muchos elementos a la vez: ya no hay un único acento rojo que resalta y delata a los buscables.
+- v14 → v15: se incorpora el FLUJO DE PRODUCCIÓN por etapas para cada escena del atlas: 1) BASE (lugar vacío), 2) OBJETOS (felpados, cada uno distinto, orgánicos), 3) GENTE (multitud completa con igual detalle, miradas dispersas), 4) BUSCABLES (familiar + NODI último, camuflado). Cada etapa suma sobre la anterior sin cambiar lo aprobado.

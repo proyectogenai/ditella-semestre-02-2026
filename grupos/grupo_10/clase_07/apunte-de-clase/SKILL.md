@@ -21,10 +21,21 @@ organizado. No es un resumen: no se pierde detalle de la explicación.
 ## Insumos
 - Apuntes propios de la clase (puede faltar)
 - Presentación/slides del profesor (puede faltar)
-- Textos teóricos de la materia
+- Texto teórico — en esta materia es **un solo libro para toda la
+  cursada**, no un texto ya recortado por clase
 
 Si falta alguno de los tres, armá el apunte igual con lo que haya
 disponible.
+
+### Caso especial: la bibliografía es un libro entero
+
+Si el texto teórico que te pasan es el libro completo de la materia (no
+un capítulo ya aislado): **primero revisá la presentación del profesor**
+para identificar qué capítulo o sección corresponde a esa clase (suele
+estar mencionado ahí, como referencia o cita). Usá SOLO esa parte del
+libro para el apunte — no proceses ni resumas el libro entero. Si no
+encontrás la referencia al capítulo en la presentación, preguntá antes de
+adivinar cuál usar.
 
 ## Cómo organizar
 - Estructura por TEMA, siguiendo el enfoque y el énfasis que le dio el

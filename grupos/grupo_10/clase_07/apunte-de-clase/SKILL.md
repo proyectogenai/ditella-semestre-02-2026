@@ -61,3 +61,20 @@ resumas el libro entero.
 - Nunca resumas perdiendo detalle explicativo — prioridad: completitud.
 - Nunca reemplaces el enfoque particular del profesor por una
   organización genérica del tema.
+
+## Formato de entrega — SIEMPRE en PDF
+
+El apunte final se entrega como **PDF**, no como archivo `.md` suelto.
+Pasos:
+
+1. Escribí el apunte completo primero en Markdown (títulos `#`/`##`,
+   tablas con `|`, listas con `-`, negritas `**así**`) — es más fácil de
+   revisar y corregir en texto plano antes de convertir.
+2. Convertilo a PDF con Python + `reportlab` (instalar con
+   `pip3 install --user reportlab` si hace falta; si el sistema no tiene
+   `poppler`/`brew` para leer PDFs de entrada, usar `pypdf` o `pymupdf`
+   vía `pip3 install --user`, no depender de herramientas del sistema).
+   El PDF tiene que tener títulos, tablas y viñetas con formato legible
+   — no texto plano sin jerarquía.
+3. Entregale al usuario el archivo `.pdf` final (con `SendUserFile` si el
+   entorno lo permite), no el `.md` intermedio.

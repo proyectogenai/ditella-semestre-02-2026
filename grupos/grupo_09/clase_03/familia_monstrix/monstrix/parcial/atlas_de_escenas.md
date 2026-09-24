@@ -11,13 +11,23 @@ Reglas comunes a TODAS las escenas (además de la Regla Wally de la skill):
   (multitud completa con igual detalle, miradas dispersas, sin buscables) →
   4) BUSCABLES (el familiar de la escena + NODI último, camuflado). Cada
   etapa suma sobre la anterior sin cambiar lo aprobado.
+- IDIOMA: prompts en inglés para Gemini, bloque de estilo incluido; las
+  fichas de los personajes siempre intactas.
 
 - Formato: 16:9 apaisado panorámico.
-- Plano de FRENTE, nunca cenital ni elevado: el horizonte cerca del borde
-  superior, se ve el piso donde se mueven los personajes.
-- Encuadre medio-cerrado: elementos visibles y distinguibles uno por uno;
-  profundidad de campo MUY marcada (primeros planos nítidos, fondo que se
-  desenfoca). No es una vista aérea.
+- Plano de FRENTE nunca horizontal perfecto, con la cámara por ENCIMA de la
+  altura de los ojos, con inclinación marcada hacia abajo (nunca cenital ni
+  vista aérea): el horizonte cerca del borde superior, se ve el piso donde se
+  mueven los personajes.
+- VISTA AMPLIA obligatoria, con TRES BANDAS DE DISTANCIA: cerca, pocos
+  elementos grandes y nítidos; medio, bastantes legibles; lejos, muchos y
+  también nítidos. Evitar el encuadre "muy de cerca" (error recurrente).
+- NITIDEZ TOTAL: todo el encuadre perfectamente nítido (cerca, medio y
+  lejos), sin blur ni desenfoque de fondo: la profundidad se logra por
+  escala y superposición de bandas, nunca por desenfoque. Si algo sale
+  borroso, regenerar.
+- Encuadre amplio con NITIDEZ TOTAL en toda la imagen, cerca, medio y lejos;
+  el fondo no se desenfoca nunca.
 - División de espacios: nieve solo AFUERA; interior cálido sin nieve, con
   transición adentro/afuera visible.
 - Zoom-in por zonas: cada zona del cuadro tiene su minisituación, todas
@@ -149,7 +159,8 @@ Reglas comunes a TODAS las escenas (además de la Regla Wally de la skill):
 
 # Checklist previo a generar (aplicar a cada escena)
 
-1. ¿Es 16:9 apaisado, plano de FRENTE (no cenital), con profundidad de campo marcada y se extiende fuera de bordes?
+1. ¿Es 16:9 apaisado, plano de FRENTE con inclinación (no horizontal ni cenital), vista amplia con tres bandas de distancia, y se extiende fuera de bordes?
+2. ¿Está TODO nítido (cerca, medio y lejos)? ¿No hay nada desenfocado ni borroso?
 2. ¿Cada zona del cuadro tiene su minisituación interesante y son todas distintas entre sí? ¿Nada está concentrado en el centro?
 3. ¿Se nota la división adentro/afuera? ¿La nieve no está en todos lados?
 4. ¿Los elementos están desperdigados de forma orgánica (nada engrillado)? ¿Personajes, elementos, texturas y paisaje se confunden?

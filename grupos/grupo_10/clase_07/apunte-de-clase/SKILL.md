@@ -30,12 +30,22 @@ disponible.
 ### Caso especial: la bibliografía es un libro entero
 
 Si el texto teórico que te pasan es el libro completo de la materia (no
-un capítulo ya aislado): **primero revisá la presentación del profesor**
-para identificar qué capítulo o sección corresponde a esa clase (suele
-estar mencionado ahí, como referencia o cita). Usá SOLO esa parte del
-libro para el apunte — no proceses ni resumas el libro entero. Si no
-encontrás la referencia al capítulo en la presentación, preguntá antes de
-adivinar cuál usar.
+un capítulo ya aislado), para encontrar la parte que corresponde a esta
+clase, en este orden:
+
+1. Revisá la presentación del profesor por si cita el capítulo o página
+   directamente.
+2. Si no lo cita, **buscá en el índice/tabla de contenidos del libro**
+   los temas y palabras clave que coincidan con el contenido de la
+   presentación y los apuntes (ej: si la clase es sobre "las 5
+   dimensiones del producto", buscá capítulos de "product levels" o
+   similar — muchos de estos modelos salen textualmente del libro, así
+   que suelen estar en el índice con nombres parecidos).
+3. Solo si ninguna de las dos cosas funciona, preguntale al usuario qué
+   capítulo corresponde — no lo adivines a ciegas.
+
+Usá SOLO la parte del libro que corresponda a la clase — no proceses ni
+resumas el libro entero.
 
 ## Cómo organizar
 - Estructura por TEMA, siguiendo el enfoque y el énfasis que le dio el

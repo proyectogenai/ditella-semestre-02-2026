@@ -141,12 +141,10 @@ skin tones and body types widely across the crowd — no repeated
 identical figures.
 
 03 — MOTHER PALETTE
-Flat matte palette: mustard yellow, brick red, pink, olive/forest green,
-burnt orange, dusty blue-grey, warm cream — NO gloss, NO neon, NO
-pastel-candy softness. Pink should appear naturally through clothing,
-objects, signage or props here and there, without forcing it into every
-element of the scene. The environmental palette may vary per scene, but
-this base family of colors must stay recognizable throughout.
+Flat matte palette: mustard yellow, brick red, olive/forest green, burnt
+orange, dusty blue-grey, warm cream — NO gloss, NO neon, NO pastel-candy
+softness. The environmental palette may vary per scene, but this base
+family of colors must stay recognizable throughout.
 
 04 — FIXED CHARACTER: LOURDES
 A party-loving young woman with a chin-length bob haircut in warm
@@ -228,6 +226,14 @@ for Lourdes. NO text. NO logos. NO watermark. NO photorealism. NO gloss
 or anime look. NO generic modern flat-vector cartoon look. NO random
 unrelated filler objects — everything present must relate to this
 specific party and location. NO real brand names.
+
+MANDATORY FINAL CHECK: Lourdes (described in section 04 above, and shown
+in the attached reference image if one was provided) MUST physically
+appear somewhere in this scene. This is not optional. Before finishing,
+verify you actually placed her — a bob-haired woman in a red crop top
+with a long skirt, wide belt, ankle boots and a heart-charm purse — in
+the crowd, following the placement rules from section 06. If you did not
+include her, add her now before returning the final image.
 ```
 
 ### Historial de iteraciones (documentación del proceso)

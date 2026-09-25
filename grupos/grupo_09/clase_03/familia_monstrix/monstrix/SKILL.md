@@ -33,8 +33,10 @@ y necesita los PROMPTS, no las imágenes directas: los prompts van en INGLÉS
   sobre el anterior sin cambiar lo aprobado.
 - ESTADO: las 8 escenas tienen sus dos prompts escritos en `prompts/` (16
   archivos). Los dos prompts de cada escena se producen SIN NODI ni sin
-  familiar; el paso 3 (buscables) está pendiente para todas las 8. Pendientes
-  de decisión del grupo: el familiar de la escena 8 y el pañuelo rojo de papá.
+  familiar; el paso 3 (buscables) está pendiente para todas las 8. NO quedan
+  decisiones del grupo pendientes: el pañuelo rojo de papá está confirmado, y
+  en la escena 8 NODI no busca a nadie porque la familia completa está junta y
+  feliz (es el desenlace, el único paso 3 que no es "un familiar + NODI").
 - La escena 1 (la casa) es un lugar vacío: no lleva multitud, y su prompt de
   edición sumará objetos y trampas en vez de gente.
 - El detalle de las 8 escenas (lugar, familiar de cada una) está en
@@ -89,7 +91,7 @@ y necesita los PROMPTS, no las imágenes directas: los prompts van en INGLÉS
 - Boca: seria y recta, dos colmillos que cuelgan SOLO debajo de la línea
   inferior, sin colmillos arriba
 - Cuerpo: panzón, sin cuello
-- Vestuario: pañuelo rojo (pendiente de confirmar por el grupo)
+- Vestuario: pañuelo rojo
 - Gestos: pensativo juega con su bigote / cansado se lleva las manos a la
   cabeza
 
@@ -186,6 +188,11 @@ Atlas = dónde-está-Wally del mundo Monstrix.
 - UN SOLO ejemplar de cada buscable: exactamente un NODI por escena.
   Cualquier celeste+rojo que no sea él es un OBJETO TRAMPA o un patrón,
   jamás otro personaje idéntico. Contar antes de terminar.
+- EXCEPCIÓN, ESCENA 8 (la plaza): no hay "un familiar + NODI" camuflado. Ahí
+  la familia completa —NODI, mamá, papá, hermana menor, hermano mayor, abuelo
+  y la mejor amiga— está junta, contenta y en primer plano. Es el desenlace de
+  la historia, no una escena de búsqueda: el reencuentro sí puede ser un
+  grupo central.
 - CÁMARA: plano de FRENTE a TRES CUARTOS, a la ALTURA DE LOS MONSTRUITOS
   (la cámara mira desde los ojos de los personajes, con leve rotación
   lateral). NUNCA desde arriba: prohibida la vista aérea, cenital o
@@ -312,6 +319,12 @@ prompts están en `prompts/`, uno por variante y por escena. Ver
    el prompt NO nombra a NODI ni a la familia (Gemini todavía no los conoce:
   nombrarlos es ruido o abre la puerta a inventarlos). Decir solo "crowd of
    anonymous villagers" y "no featured character".
+   - EXCEPCIÓN, ESCENA 8: el paso 3 no inserta un buscable camuflado sino el
+     reencuentro. Se agrega la familia completa junta (los siete, cada uno con
+     su ficha palabra por palabra), alegres y juntos, sin camuflaje ni halo.
+     Es la única escena donde el grupo puede ser el foco, porque es el final.
+     Los negativos "no family, no reunion" de los prompts 1 y 2 de la escena 8
+     valen para esos dos pasos, no para este.
 - IDIOMA: los prompts se escriben en INGLÉS, incluido el bloque de estilo,
    que es dirección genérica (textura, luz, formas) y se traduce sin pérdida.
    Lo que va SIEMPRE tal cual, sin traducir ni cambiar palabras: las FICHAS

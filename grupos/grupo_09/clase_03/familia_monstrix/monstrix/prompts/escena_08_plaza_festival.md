@@ -3,6 +3,11 @@
 Prompt en inglés, completo y autosuficiente. Se pega tal cual en el generador.
 Formato: 16:9 apaisado panorámico.
 
+OJO con los negativos de este prompt: "no family members, no reunion, no
+central hug" valen para este paso (el paso 1, la base sin la familia), no para
+la escena 8 terminada. En el paso 3 la familia completa aparece junta y feliz:
+ese es el desenlace. No borres esos negativos de acá.
+
 ```text
 A handmade plush miniature of a cozy winter fantasy world built for soft-bodied furry monsters, seen in a wide frontal three-quarter view from the eye level of the little monsters, never from above: a snowy village square hosting a winter festival, with a big plush tree, a small stage, market stalls, lantern posts, garlands and many winter decorations. The whole space is outdoors and snowy; the stalls have warm interiors.
 

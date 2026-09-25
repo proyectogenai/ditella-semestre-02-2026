@@ -4,6 +4,11 @@ Se usa **sobre la imagen ya aprobada** de la escena 8 (plaza / festival), no
 desde cero. Adjuntá la imagen de trabajo + una de `nodi_v1.jpeg` /
 `nodi_v2.jpeg` solo por materiales, felpa, paleta y luz.
 
+OJO con los negativos de este prompt: "no family member, no reunion, no
+central hug" valen para este paso (el paso 2, sumar gente anónima), no para la
+escena 8 terminada. En el paso 3 la familia completa aparece junta y feliz:
+ese es el desenlace. No borres esos negativos de acá.
+
 ```text
 SOURCE IMAGE: the attached image is the already approved base scene, a snowy village square hosting a winter festival with a big plush tree, a small stage, market stalls, lantern posts, garlands and many winter decorations. Keep it exactly as it is: same wide frontal three-quarter camera, same framing, same horizon, same extreme deep focus, same soft white winter daylight, same warm amber accents, same palette, same textures, same six big set pieces, same giant decorated tree and its platform, same big stage and soft staircase, same snow fort wall with towers, same giant bell on its post, same sled carousel, same huge stack of gift boxes, same stalls, lantern posts, garlands, sleds, benches and snow. Do not move, remove, resize, rotate or redesign any existing object, and do not change the composition, the camera or the color balance.
 

@@ -18,11 +18,16 @@ tres cuartos a la altura de los monstruitos.
 | 5 | Universidad | Hermano mayor | base + edición |
 | 6 | Museo | Abuelo | base + edición |
 | 7 | Tienda de ropa | Mejor amiga (no es de la familia) | base + edición |
-| 8 | Plaza central: festival invernal | sin familiar asignado | base + edición |
+| 8 | Plaza central: festival invernal | ninguno: la familia completa junta (desenlace) | base + edición |
 
 Todas las escenas se están produciendo SIN el familiar y SIN NODI: esos se
 insertan al final, sobre las imágenes aprobadas. Ningún prompt base nombra a
 la familia.
+
+La escena 8 es la excepción: NODI no busca a nadie ahí, porque la familia
+completa está junta y feliz. Es el final de la historia. Su paso 3 no es un
+buscable camuflado sino el reencuentro de los siete, y es la única escena
+donde el grupo puede ser el foco del encuadre.
 
 ## 1. Casa de la familia
 
@@ -113,10 +118,10 @@ escrito en los prompts de inglés, que son la versión de uso:
 ## Pendientes
 
 - Paso 3 de todas las escenas: insertar el familiar y NODI sobre las imágenes
-  aprobadas.
-- La escena 8 no tiene familiar asignado: definir a quién busca NODI en la
-  plaza (o confirmar que la escena es solo/multitud).
-- El pañuelo rojo de papá sigue pendiente de confirmación del grupo.
+  aprobadas. En la escena 8, insertar la familia completa junta.
+
+Ya no quedan decisiones del grupo pendientes: el pañuelo rojo de papá está
+confirmado y la escena 8 tiene su desenlace definido.
 
 ## Las seis piezas grandes de cada escena
 

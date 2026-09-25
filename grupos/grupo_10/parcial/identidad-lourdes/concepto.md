@@ -91,7 +91,102 @@ ella misma elegiría, siempre rodeada de gente.
 **Referencia visual:** boceto a mano de Lourdes + versión coloreada por
 Tere (acuarela/gouache suelta, lavado monocromático sepia, trazo
 expresivo con textura de pincel visible — técnica de ilustración a
-mano, no generada con IA).
+mano, no generada con IA). Referencia final para las escenas IA:
+`lourdes_referencia_parisianer.png`.
+
+---
+
+## Narrativa y páginas introductorias del libro
+
+**Quién narra:** una amiga de Lourdes, persiguiéndola de fiesta en
+fiesta por el mundo. Tono: divertida, con humor, con ganas de sumarse
+a la fiesta ella también.
+
+**El elemento oculto oficial de la consigna es Lourdes** (una sola
+búsqueda por página). Aparte, hay un chiste secundario recurrente sin
+peso evaluativo (ver más abajo).
+
+### Página 1 — Epígrafe
+
+> *A Lourdes le gusta un poco todo: el ruido, la gente, el desorden
+> lindo de una fiesta que no sabe cuándo termina. En este libro no la
+> vas a encontrar fácil. Pero está. Siempre está.*
+
+### Página 2 — Presentación
+
+**LOURDES**
+*Ocho fiestas. Un mundo entero. Y vos, buscándola.*
+
+Esta es la historia de una amiga que sale a buscar a Lourdes. No
+porque se haya perdido — Lourdes nunca se pierde, simplemente vive
+así: de fiesta en fiesta, alrededor del mundo, sin parar nunca del
+todo. La encuentra a los tumbos, siempre un rato tarde, siguiendo
+rumores, mensajes de voz a las 4 de la mañana y objetos que Lourdes
+deja tirados por ahí.
+
+Este libro son esas ocho búsquedas. En cada página hay una fiesta
+distinta — un carnaval, un barco, una pileta, un rooftop — y en cada
+una, en algún lugar, está Lourdes. Se reconoce siempre por lo mismo:
+su pelo corto castaño, su top rojo, su pollera larga, su cinturón con
+hebilla, sus botas, y esa cartera con el dije de corazón que nunca
+suelta.
+
+**¿La encontrás?**
+
+### Página 3 — Cómo se lee este libro
+
+Cada doble página es una fiesta completa. Tu única misión: **encontrar
+a Lourdes**. Mirá con calma — nunca está sola en el medio de todo,
+está metida en el bullicio, medio tapada por alguien o por algo, como
+cualquiera de los cientos de personajes que pueblan la escena.
+
+*(Yapa para quien mire dos veces: en cada fiesta de Lourdes, alguien
+termina perdiendo sus anteojos de sol — es una maldición del grupo.
+Buscalos también, sin premio ni obligación.)*
+
+Al pie de cada página vas a encontrar la postal de su amiga — el
+rastro que siguió para llegar hasta ahí.
+
+### Las 8 postales (texto al pie de cada página)
+
+1. **Carnaval:** "Me dijeron que la vieron bailando arriba de una
+   carroza con plumas hasta las cejas. Llegué y solo quedaba confeti.
+   Típico."
+2. **Barco:** "Un mensaje de voz de las 4 AM: 'estoy en un yate, no sé
+   de quién, ¡vení!'. Para cuando llegué al puerto, ya se habían ido
+   mar adentro."
+3. **Pool party:** "Encontré sus anteojos de sol tirados al lado de la
+   pileta y ningún rastro de ella. Alguien juraba haberla visto
+   zambulléndose con ropa y todo."
+4. **Amanecer en la playa:** "Se ve que la fiesta de anoche nunca
+   terminó — la encontré (bah, casi) repartiendo cocos a las 6 de la
+   mañana como si nada."
+5. **Rooftop de noche:** "Subí quince pisos por las escaleras porque
+   el ascensor estaba lleno de gente bailando. Ella ya se había ido a
+   la próxima."
+6. **Festival de música:** "Alguien la vio arriba de los hombros de un
+   desconocido, cantando a los gritos. Yo llegué justo para el final
+   de la canción — y de la búsqueda."
+7. **Obelisco:** "Con la selección campeona, media ciudad salió a la
+   calle. Encontrarla ahí es como buscar una aguja en un pajar... pero
+   con bombos."
+8. **Garden party:** "La más tranquila de las fiestas, dijeron.
+   Mentira: terminé persiguiendo a un perro que le robó una masita a
+   alguien, y a ella ni la vi."
+
+**Frase de cierre del libro:** "Yo la sigo buscando — pero, la verdad,
+tampoco tengo apuro en encontrarla. Esta fiesta también está buena."
+
+### El gag secundario — dónde aparecen los lentes perdidos
+
+1. Carnaval: en el medio de la calle, pisoteados por la comparsa que pasa.
+2. Barco: en la cubierta, cerca de la escalera por donde sube alguien empapado.
+3. Pool party: al lado de la pileta (mismo par que menciona la postal).
+4. Amanecer en la playa: medio enterrados en la arena, cerca de la fogata apagándose.
+5. Rooftop: en el piso, enredados en la guirnalda de luces caída.
+6. Festival de música: pisoteados en el pasto, cerca del escenario.
+7. Obelisco: tirados entre el confetti y las banderas en el piso.
+8. Garden party: en el pasto, junto a las tazas que se cayeron.
 
 ---
 

@@ -158,7 +158,8 @@ like everyone else). Her red top and chestnut bob hair are her fixed identity
 colors and must stay constant no matter how colorful the rest of the
 scene is. Her clothing, hairstyle, proportions and
 accessories must remain IDENTICAL in every scene — never redesign, age
-or restyle her.
+or restyle her. (An attached reference image, `lourdes_referencia_parisianer.png`,
+shows exactly how she should look — match it closely.)
 
 05 — SCENE TEMPLATE (fill in differently for each of the 8 scenes)
 LOCATION: [specific party location]

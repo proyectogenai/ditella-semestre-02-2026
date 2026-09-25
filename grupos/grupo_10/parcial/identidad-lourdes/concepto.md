@@ -286,14 +286,15 @@ poses in the foreground, never random unrelated filler objects.
 07 — COMPOSITION
 EXTREMELY wide, zoomed-out panoramic composition, built for a full A3
 horizontal double-page spread (the printed book opens to this size): pull
-the camera back MUCH further than feels natural, AND much higher up —
-a near-aerial, bird's-eye viewpoint looking mostly downward at the scene
-(not a comfortable eye-level wide shot), like looking at a model diorama
-from above. The whole location and its surroundings must fit in frame at
-once, with the crowd and environment filling the entire frame edge to
-edge, activity extending toward and past all four borders, as if the
-scene keeps going beyond what's shown. Clear foreground, middle ground
-and background, with figures visibly shrinking with distance. Multiple
+the camera back MUCH further than feels natural, so many more people and
+much more environment fit in frame — but keep a slightly elevated,
+comfortable wide-angle viewpoint (like looking down a street or across a
+venue from a bit above eye level), NOT a fully aerial top-down "diorama
+from directly above" shot. The whole location and its surroundings must
+fit in frame at once, with the crowd and environment filling the entire
+frame edge to edge, activity extending toward and past all four borders,
+as if the scene keeps going beyond what's shown. Clear foreground, middle
+ground and background, with figures visibly shrinking with distance. Multiple
 visual paths for the eye to explore. Landscape format, 1414x1000px.
 
 08 — OUTPUT / EXCLUSIONS

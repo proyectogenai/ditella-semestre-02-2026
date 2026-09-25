@@ -209,16 +209,16 @@ poses in the foreground, never random unrelated filler objects.
 07 — COMPOSITION
 EXTREMELY wide, zoomed-out panoramic composition, built for a full A3
 horizontal double-page spread (the printed book opens to this size): pull
-the camera back MUCH further than feels natural — further than a normal
-"wide shot," closer to a high, distant establishing shot where the whole
-location and its surroundings fit in frame at once. The crowd and the
-environment must fill the entire frame edge to edge, with activity
-extending toward and past all four borders, as if the scene keeps going
-beyond what's shown. A slightly elevated, comfortable wide-angle
-viewpoint that lets the viewer read the whole environment at once. Clear
-foreground, middle ground and background. Multiple visual paths for the
-eye to explore. Avoid placing Lourdes exactly at the center. Landscape
-format, 1414x1000px.
+the camera back MUCH further than feels natural, AND much higher up —
+a near-aerial, bird's-eye viewpoint looking mostly downward at the scene
+(not a comfortable eye-level wide shot), like looking at a model diorama
+from above. The whole location and its surroundings must fit in frame at
+once, with the crowd and environment filling the entire frame edge to
+edge, activity extending toward and past all four borders, as if the
+scene keeps going beyond what's shown. Clear foreground, middle ground
+and background, with figures visibly shrinking with distance. Multiple
+visual paths for the eye to explore. Avoid placing Lourdes exactly at the
+center. Landscape format, 1414x1000px.
 
 08 — OUTPUT / EXCLUSIONS
 High-resolution polished editorial illustration in "The Parisianer" style
@@ -228,13 +228,24 @@ or anime look. NO generic modern flat-vector cartoon look. NO random
 unrelated filler objects — everything present must relate to this
 specific party and location. NO real brand names.
 
-MANDATORY FINAL CHECK: Lourdes (described in section 04 above, and shown
-in the attached reference image if one was provided) MUST physically
-appear somewhere in this scene. This is not optional. Before finishing,
-verify you actually placed her — a bob-haired woman in a red crop top
-with a long skirt, wide belt, ankle boots and a heart-charm purse — in
-the crowd, following the placement rules from section 06. If you did not
-include her, add her now before returning the final image.
+MANDATORY FINAL CHECK 1 — STYLE: before returning the image, verify it
+still matches section 02 exactly: thin uniform ink outlines, flat matte
+colors with NO gradients and NO gloss, elongated bendy Parisianer-style
+figures, minimal dot/dash facial marks. If any part of the image drifted
+toward glossy cel-shading, anime-style detailed eyes, photorealism, or a
+generic flat-vector look, redo it before finishing — the whole image,
+every character, must be visibly the same technique from corner to
+corner, with no exceptions for background figures.
+
+MANDATORY FINAL CHECK 2 — LOURDES: Lourdes MUST physically appear
+somewhere in this scene, and she MUST match the attached reference image
+EXACTLY — same red crop top, same long skirt, same chestnut bob, same
+belt, boots and heart-charm purse, same colors. Do NOT reinterpret,
+restyle, recolor, or change any part of her outfit — copy her design
+from the reference image as closely as possible, only changing her pose
+and position to fit the scene. Before finishing, confirm: (1) she is
+present, (2) her outfit and colors are unchanged from the reference. If
+either check fails, fix it before returning the final image.
 ```
 
 ### Historial de iteraciones (documentación del proceso)

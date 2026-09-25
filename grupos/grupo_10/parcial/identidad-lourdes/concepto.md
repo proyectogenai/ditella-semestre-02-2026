@@ -229,11 +229,15 @@ graphic DNA: minimal, confident facial marks (a simple dot, dash or short
 line for eyes and mouth — NOT detailed anime eyes, NOT eyelashes, NOT
 glossy highlights, NOT cel-shaded blush), elongated loose limbs, and a
 dynamic mid-action pose. NEVER default to a generic modern anime/webtoon
-face. Each character still distinct via clothing color, hairstyle, body
-shape and specific action, but all recognizably belonging to the same
-flat, witty "Parisianer" graphic family. Vary hairstyles, hair colors,
-skin tones and body types widely across the crowd — no repeated
-identical figures.
+face. "Minimal" means SIMPLE, not ABSENT: a blank, featureless, or
+smudged-out face is a mistake and never acceptable, no matter how small
+or far away the character is or how dense the crowd gets — every single
+face, down to the smallest background figure, must show at least a
+visible pair of eye-marks. Each character still distinct via clothing
+color, hairstyle, body shape and specific action, but all recognizably
+belonging to the same flat, witty "Parisianer" graphic family. Vary
+hairstyles, hair colors, skin tones and body types widely across the
+crowd — no repeated identical figures.
 
 03 — MOTHER PALETTE
 Flat matte palette: mustard yellow, brick red, olive/forest green, burnt
@@ -313,7 +317,10 @@ figures, minimal dot/dash facial marks. If any part of the image drifted
 toward glossy cel-shading, anime-style detailed eyes, photorealism, or a
 generic flat-vector look, redo it before finishing — the whole image,
 every character, must be visibly the same technique from corner to
-corner, with no exceptions for background figures.
+corner, with no exceptions for background figures. ALSO check every
+face, including tiny background ones: none may be blank, featureless, or
+smudged — each one needs at least simple visible eye-marks. Fix any
+blank faces before returning the final image.
 ```
 
 ### Historial de iteraciones (documentación del proceso)

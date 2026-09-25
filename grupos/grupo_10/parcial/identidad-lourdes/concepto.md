@@ -91,46 +91,7 @@ ella misma elegiría, siempre rodeada de gente.
 **Referencia visual:** boceto a mano de Lourdes + versión coloreada por
 Tere (acuarela/gouache suelta, lavado monocromático sepia, trazo
 expresivo con textura de pincel visible — técnica de ilustración a
-mano, no generada con IA). Referencia final para las escenas IA:
-`lourdes_referencia_parisianer.png`.
-
----
-
-## Narrativa del libro — "El rastro de postales"
-
-**Quién narra:** una amiga de Lourdes, persiguiéndola de fiesta en
-fiesta por el mundo. Tono: divertida, con humor, con ganas de sumarse
-a la fiesta ella también (no preocupada, no en tono de búsqueda seria).
-
-**Las 8 postales** (una por escena, texto que acompaña cada página):
-
-1. **Carnaval:** "Me dijeron que la vieron bailando arriba de una
-   carroza con plumas hasta las cejas. Llegué y solo quedaba confeti.
-   Típico."
-2. **Barco:** "Un mensaje de voz de las 4 AM: 'estoy en un yate, no sé
-   de quién, ¡vení!'. Para cuando llegué al puerto, ya se habían ido
-   mar adentro."
-3. **Pool party:** "Encontré sus anteojos de sol tirados al lado de la
-   pileta y ningún rastro de ella. Alguien juraba haberla visto
-   zambulléndose con ropa y todo."
-4. **Amanecer en la playa:** "Se ve que la fiesta de anoche nunca
-   terminó — la encontré (bah, casi) repartiendo cocos a las 6 de la
-   mañana como si nada."
-5. **Rooftop de noche:** "Subí quince pisos por las escaleras porque
-   el ascensor estaba lleno de gente bailando. Ella ya se había ido a
-   la próxima."
-6. **Festival de música:** "Alguien la vio arriba de los hombros de un
-   desconocido, cantando a los gritos. Yo llegué justo para el final
-   de la canción — y de la búsqueda."
-7. **Obelisco:** "Con la selección campeona, media ciudad salió a la
-   calle. Encontrarla ahí es como buscar una aguja en un pajar... pero
-   con bombos."
-8. **Garden party:** "La más tranquila de las fiestas, dijeron.
-   Mentira: terminé persiguiendo a un perro que le robó una masita a
-   alguien, y a ella ni la vi."
-
-**Frase de cierre del libro:** "Yo la sigo buscando — pero, la verdad,
-tampoco tengo apuro en encontrarla. Esta fiesta también está buena."
+mano, no generada con IA).
 
 ---
 

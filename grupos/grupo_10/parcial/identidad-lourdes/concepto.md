@@ -299,18 +299,6 @@ watermark. NO photorealism. NO gloss or anime look. NO generic modern
 flat-vector cartoon look. NO random unrelated filler objects —
 everything present must relate to this specific party and location. NO
 real brand names.
-
-MANDATORY FINAL CHECK — STYLE: before returning the image, verify it
-still matches section 02 exactly: thin uniform ink outlines, flat matte
-colors with NO gradients and NO gloss, elongated bendy Parisianer-style
-figures, minimal dot/dash facial marks. If any part of the image drifted
-toward glossy cel-shading, anime-style detailed eyes, photorealism, or a
-generic flat-vector look, redo it before finishing — the whole image,
-every character, must be visibly the same technique from corner to
-corner, with no exceptions for background figures. ALSO check every
-face, including tiny background ones: none may be blank, featureless, or
-smudged — each one needs at least simple visible eye-marks. Fix any
-blank faces before returning the final image.
 ```
 
 ### Historial de iteraciones (documentación del proceso)

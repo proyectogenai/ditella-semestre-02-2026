@@ -211,23 +211,18 @@ party photo, but a rich inhabited world with its own personality and
 internal logic.
 
 02 — FIXED VISUAL UNIVERSE
-Flat European editorial illustration technique (no reference image is
-attached or needed — follow this written description exactly, do not
-ask for one): thin, uniform, confident ink outlines drawn with a fine
-pen nib (NOT thick, NOT glossy, NOT varying in weight), flat matte color
-fills applied like screen-printing or risograph — solid, opaque blocks
-of color with NO shading gradients, NO airbrush blending, NO cel-shading
-highlights, NO gloss, NO soft edges. Elongated, loose, slightly
-exaggerated bendy character proportions (long limbs, slightly wobbly
-lines, like a confident quick sketch inked cleanly), dynamic mid-motion
-poses (running, falling, reaching, chasing). Multi-story cutaway
-building facades showing several levels of activity simultaneously,
-small animals woven naturally into the scene. The result must feel like
-a page from a real printed editorial illustration book — witty,
-graphically confident, a little vintage/retro in its flatness — NEVER a
-generic modern flat-vector cartoon, NEVER a generic "AI illustration"
-look, NEVER glossy or anime-styled, NEVER photorealistic, NEVER 3D
-rendered.
+Flat European editorial illustration, in the character and world design
+DNA of "The Parisianer" (Éditions de la Martinière): thin, uniform,
+confident ink outlines (NOT thick, NOT glossy), flat matte color fills
+with NO shading gradients, NO cel-shading highlights, NO gloss.
+Elongated, loose, slightly exaggerated bendy character proportions,
+dynamic mid-motion poses (running, falling, reaching, chasing). Multi-story
+cutaway building facades showing several levels of activity
+simultaneously, small animals woven naturally into the scene. The result
+must feel like a page from a real published illustrated book — witty,
+graphically confident, editorial — NEVER a generic modern flat-vector
+cartoon, NEVER a generic "AI illustration" look, NEVER glossy or
+anime-styled, NEVER photorealistic.
 
 EVERY character in the scene — not only Lourdes — must share this exact
 graphic DNA: minimal, confident facial marks (a simple dot, dash or short

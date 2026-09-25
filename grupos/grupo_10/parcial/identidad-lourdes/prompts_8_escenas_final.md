@@ -57,7 +57,7 @@ Flat matte palette: mustard yellow, brick red, olive/forest green, burnt orange,
 LOCATION: the deck of a large luxury yacht, out at sea
 MOMENT: bright afternoon
 SITUATION: yacht party
-SPECIFIC ACTIVITIES: a huge inflatable sculpture or decorative mast banner as the visual centerpiece; several people jumping and diving off the side of the yacht into the water below; a makeshift bar set up on deck with a bartender mixing colorful cocktails, one glass mid-shatter as it's dropped; a DJ booth set up near the bow with speakers; people dancing on deck; someone climbing back up a ladder from the water, dripping wet; a small group lounging on the upper deck with drinks; someone mid-air doing a backflip off the railing
+SPECIFIC ACTIVITIES: several people jumping and diving off the side of the yacht into the water below; a makeshift bar set up on deck with a bartender mixing colorful cocktails, one glass mid-shatter as it's dropped; a DJ booth set up near the bow with speakers; people dancing on deck; someone climbing back up a ladder from the water, dripping wet; a small group lounging on the upper deck with drinks; someone mid-air doing a backflip off the railing
 ENVIRONMENTAL / CULTURAL ELEMENTS: deck chairs, life rings, smaller boats and jet skis circling nearby in the water, a distant coastline visible on the horizon, seagulls flying overhead, streamers tied along the railings
 REMINDER: keep the bold flat matte palette from section 03 — don't drift into a naturalistic ocean-blue photo look.
 

@@ -1,175 +1,137 @@
 # Atlas de Escenas — La Familia Monstrix
 
-Atlas = dónde-está-Wally del mundo invernal Monstrix. 8 escenas, una por
-momento de la historia: la casa vacía, los seis lugares donde cada familiar
-fue sin avisar, y el reencuentro al final.
+Registro de las 8 escenas del atlas (dónde-está-Wally del mundo Monstrix):
+qué es cada lugar, qué familiar se busca ahí y en qué estado está el prompt.
+Las reglas que gobiernan todas las escenas (cámara, nitidez, luz, paleta,
+textura, multitud, objetos trampa) están en `SKILL.md`, sección "REGLA
+WALLY". Los prompts finales en inglés están en `../prompts/`.
 
-Reglas comunes a TODAS las escenas (además de la Regla Wally de la skill):
+Formato de todas las escenas: 16:9 apaisado panorámico, cámara amplia frontal
+tres cuartos a la altura de los monstruitos.
 
-- FLUJO DE PRODUCCIÓN por etapas, en este orden: 1) BASE (lugar vacío) →
-  2) OBJETOS (felpados, cada uno distinto, orgánicos, sin gente) → 3) GENTE
-  (multitud completa con igual detalle, miradas dispersas, sin buscables) →
-  4) BUSCABLES (el familiar de la escena + NODI último, camuflado). Cada
-  etapa suma sobre la anterior sin cambiar lo aprobado.
-- IDIOMA: prompts en inglés para Gemini, bloque de estilo incluido; las
-  fichas de los personajes siempre intactas.
+| # | Lugar | Familiar (buscable) | Prompts |
+|---|-------|--------------------|---------|
+| 1 | Casa de la familia | — (lugar vacío) | base + edición |
+| 2 | Mercado de la aldea | Mamá | base + edición |
+| 3 | Campo de recolección de hielo | Papá | base + edición |
+| 4 | Parque de la aldea | Hermana menor | base + edición |
+| 5 | Universidad | Hermano mayor | base + edición |
+| 6 | Museo | Abuelo | base + edición |
+| 7 | Tienda de ropa | Mejor amiga (no es de la familia) | base + edición |
+| 8 | Plaza central: festival invernal | sin familiar asignado | base + edición |
 
-- Formato: 16:9 apaisado panorámico.
-- Plano de FRENTE nunca horizontal perfecto, con la cámara por ENCIMA de la
-  altura de los ojos, con inclinación marcada hacia abajo (nunca cenital ni
-  vista aérea): el horizonte cerca del borde superior, se ve el piso donde se
-  mueven los personajes.
-- VISTA AMPLIA obligatoria, con TRES BANDAS DE DISTANCIA: cerca, pocos
-  elementos grandes y nítidos; medio, bastantes legibles; lejos, muchos y
-  también nítidos. Evitar el encuadre "muy de cerca" (error recurrente).
-- NITIDEZ TOTAL: todo el encuadre perfectamente nítido (cerca, medio y
-  lejos), sin blur ni desenfoque de fondo: la profundidad se logra por
-  escala y superposición de bandas, nunca por desenfoque. Si algo sale
-  borroso, regenerar.
-- Encuadre amplio con NITIDEZ TOTAL en toda la imagen, cerca, medio y lejos;
-  el fondo no se desenfoca nunca.
-- División de espacios: nieve solo AFUERA; interior cálido sin nieve, con
-  transición adentro/afuera visible.
-- Zoom-in por zonas: cada zona del cuadro tiene su minisituación, todas
-  interesantes, jerarquía compartida, nada concentrado en el centro.
-- Microsituaciones muy distintas entre sí en toda la imagen.
-- Juego de color para confundir: el mundo reparte la gama de los personajes
-  (violeta, lila, rosa, celestes) en toldos, frutas, mercadería y
-  decoración. El rojo aparece en muchos elementos a la vez, nunca como único
-  acento que resalta.
-- Caos por confusión personajes + elementos + texturas + paisaje; elementos
-  desperdigados orgánicamente, nada engrillado ni en filas.
-- 300+ figuras; la escena se extiende fuera de los cuatro bordes.
-- Textura de felpa en TODO (piso, techos, interiores, mercadería).
-- Objetos trampa celeste hielo + rojo en cada escena, sin excepción.
-- Contar los buscables antes de dar por terminada la escena.
-- UN solo NODI por escena en las escenas 1 a 7. Solo la escena 8 (reencuentro)
-  rompe la regla: ahí la familia completa está junta, es el desenlace.
+Todas las escenas se están produciendo SIN el familiar y SIN NODI: esos se
+insertan al final, sobre las imágenes aprobadas. Ningún prompt base nombra a
+la familia.
 
----
+## 1. Casa de la familia
 
-## 1. La casa de la familia (a la mañana)
+Interior de una casa redonda, blanda y completamente tapizada de felpa. La
+cámara está dentro de la sala y mira diagonalmente hacia la cocina, el
+recibidor y la escalera conectados por puertas reales. Mostrar piso y parte
+del techo; nunca la fachada, el techo exterior, una maqueta, un corte de
+dollhouse ni una vista aérea.
 
-- LUGAR: la casa familiar, una vivienda redonda de felpa con techo globo y
-  chimenea humeante, sacudida por la nieve.
-- ACCIÓN: NODI llega con su bufanda y encuentra todo vacío. Tazas de
-  desayuno desparramadas, sillas apoyadas, seis siluetas de polvo en el
-  felpa. Una nota escrita con hoja de fieltro: "¡Nos fuimos!".
-- BUSCABLE: NODI en la puerta, agarrando su bufanda, confundido.
-- MICROESCENAS: vecinos saliendo a trabajar, un cartero peludo, nieve del
-  alba cayendo.
-- OBJETOS TRAMPA: farol frutal celeste con globo rojo, bolas de felpa
-  celeste con palitos rojos apiladas en la entrada.
+- PERSONAJES: ninguno. La casa está completamente vacía de seres vivos: no
+  NODI, no familiares, no monstruos, no personas, no animales, no siluetas,
+  no retratos, no manos, no ojos ni criaturas ocultas. No toys with faces or
+  animal anatomy.
+- CAOS: decenas de objetos de felpa chicos, de escala similar, claramente
+  organizados en foreground, middle ground y background, con grupos de eventos
+  distintos: Cups and breakfast bowls stacked and sliding on counters; milk
+  and cereal spilled across surfaces; pancakes stuck to the ceiling; plush
+  spoons and ladles tangled around a chandelier; cupboard doors open;
+  kettles, pans and toasters tipped over or piled on the floor; sofas and
+  armchairs leaning together; rugs rolling on the floor; pillows slumping and
+  stacking; blankets knotting around furniture; toys and cushions scattered,
+  wedged and hung from visible hooks. Every prop remains small, sharp,
+  recognizable, rounded, lightweight, grounded and harmless. No prop flies,
+  levitates, jumps, floats or hangs in midair.
+- SNOW: la puerta frontal abierta deja entrar una ráfaga de snow made from
+  wool felt, pero el interior permanece cálido y principalmente sin nieve.
+  Through the doorway show only a small snowy garden fragment with runaway
+  sleds, rolling snowballs and tangled toys; never the façade or roof.
+- COMPOSITION: every zone has a different readable micro-event. Spread the
+  action organically across left, center and right; no rows, grids, central
+  focal point, empty zone, motion blur or exterior viewpoint.
+- INSERCIÓN: no dejar un hueco, placeholder ni spotlight vacío. La inserción
+  de una figura posterior se hace como una edición localizada sobre la imagen
+  aprobada.
+- OBJETOS TRAMPA: small blue felt balls tied with red cloth, soft blue
+  lanterns with red pom-poms, pale-blue bundles with red loops and small blue
+  bags with red handles. Todos son objetos concretos sin ojos, cara, boca,
+  pelo, brazos, patas ni anatomía.
+- NEGATIVE: no photorealism, no live action, no realistic house, no human
+  furniture proportions, no hard materials, no sharp edges, no realistic
+  icicles, no giant or oversized props, no flying, no levitation, no airborne
+  objects, no catastrophic destruction, no exterior house view, no readable
+  text and no logos.
 
-## 2. El mercado de la aldea (mamá)
+## 2. Mercado de la aldea
 
-- LUGAR: mercado nevado con puestos redondos de comida, lanas y recuerdos.
-- ACCIÓN: Mamá discute el precio de una verdura con tres dedos levantados;
-  aprieta los puños. NODI la busca entre la multitud.
-- BUSCABLES: NODI asomando entre dos puestos + Mamá con su cartera roja.
-- MICROESCENAS: puesto de mangos que se cae, un vendedor grita, dos vecinas
-  peludas charlan, un monstruito roba una fruta.
-- OBJETOS TRAMPA: pilas de frutas rojas y celestes, cajas de lana con lazo
-  rojo, escultura de mercado con cartera roja de adorno.
+Mercado nevado con puestos redondos de comida, lana, juguetes y recuerdos, con
+interiores cálidos visibles. La cámara permanece a nivel de la calle y
+muestra la calle y varios puestos a la vez.
 
-## 3. El campo de recolección de hielo (papá)
+- PERSONAJES: anonymous random background monsters, variados, pequeños y
+  reactivos; nunca NODI ni un miembro de la familia. Son testigos
+  secundarios, no el sujeto central.
+- CAOS: toldos de rayas se inflan y forman arcos redondeados sobre los
+  puestos; las pirámides de frutas y verduras se desmoronan sobre mesas y
+  piso; las cestas dan vuelcos; los carritos giran sobre el suelo; los ovillos
+  se desenrollan en alfombras redondeadas; las ollas de sopa se derraman
+  sobre las mesas; los faroles se envuelven alrededor de postes; cucharas,
+  cuencos, cestas y cajas se desplazan y rebotan sobre el piso; la nieve de la
+  calle empuja gorros, manzanas y lana junto al suelo. Todos son objetos
+  blandos, redondeados, chicos y claramente legibles, nunca suspendidos en el
+  aire.
+- COMPOSITION: cada zona tiene una minisituación distinta; los productos y las
+  personas se reparten orgánicamente, sin filas ni un centro focal único.
+- INSERCIÓN: no dejar un hueco, placeholder ni spotlight vacío. La inserción
+  posterior se hace como edición localizada.
+- OBJETOS TRAMPA: small blue fabric bundles, red-tied felt balls, lanterns
+  with red accents y small blue sled props. No tienen caras, ojos ni
+  anatomía.
+- NEGATIVE: no photorealism, no realistic market building, no hard materials,
+  no sharp edges, no readable text and no logos.
 
-- LUGAR: afuera del pueblo, glaciar redondeado con bloques de hielo azul y
-  poleas de felpa.
-- ACCIÓN: Papá, seria y panzón, dirige la cuadrilla jugando con su bigote;
-  un bloque enorme se desprende y todos saltan.
-- BUSCABLES: NODI asomado detrás de una pila de bloques + Papá con su
-  pañuelo rojo.
-- MICROESCENAS: cuadrilla tirando una soga, un trabajador resbala, témpano
-  que se parte en dos, lobos de nieve mirando.
-- OBJETOS TRAMPA: bloques celeste con cinta roja, barril de "hielo" con
-  tapa roja, postes con banderines celestes y rojos.
+## Prompts de cada escena
 
-## 4. El parque de la aldea (hermana menor)
+El detalle completo de cada escena (lugar, caos propio del lugar, las seis
+piezas grandes, lista de microescenas, objetos trampa y negative) ya está
+escrito en los prompts de inglés, que son la versión de uso:
 
-- LUGAR: parque de felpa con toboganes redondos, hamacas y un lago helado
-  para patinar.
-- ACCIÓN: la hermana menor baila en la pista de hielo con su tutú rojo,
-  hoyuelos marcados. NODI llega corriendo.
-- BUSCABLES: NODI corriendo por el sendero + Hermana menor girando en su
-  tutú sobre el hielo, mostrando su único colmillo.
-- MICROESCENAS: monstruitos en los toboganes, una hamaca se suelta, patinador
-  que hace una pirueta, globos que se escapan.
-- OBJETOS TRAMPA: faroles-columna celeste con globo rojo, árboles con frutos
-  rojos, escultura de monstruito con bufanda y orejeras rojas.
+- `../prompts/escena_01_casa.md` + `escena_01_edicion_objetos.md`
+- `../prompts/escena_02_mercado.md` + `escena_02_edicion_gente.md`
+- `../prompts/escena_03_campo_de_hielo.md` + `escena_03_edicion_gente.md`
+- `../prompts/escena_04_parque.md` + `escena_04_edicion_gente.md`
+- `../prompts/escena_05_universidad.md` + `escena_05_edicion_gente.md`
+- `../prompts/escena_06_museo.md` + `escena_06_edicion_gente.md`
+- `../prompts/escena_07_tienda_de_ropa.md` + `escena_07_edicion_gente.md`
+- `../prompts/escena_08_plaza_festival.md` + `escena_08_edicion_gente.md`
 
-## 5. La universidad (hermano mayor)
+## Pendientes
 
-- LUGAR: edificio redondo de felpa con torre-burbuja, puerta tipo
-  biblioteca, pizarras entre la nieve.
-- ACCIÓN: el hermano mayor sale estresado entre libros apilados, ojos
-  entrecerrados y cejas finas; NODI lo espera abajo con los brazos abiertos.
-- BUSCABLES: NODI abajo en la escalinata + Hermano mayor con su corbata roja
-  entre el aluvión de estudiantes.
-- MICROESCENAS: estudiantes cargando bolsos, un sincrohielo que se lee del
-  revés, alguien se cae con sus apuntes, cafetería humeante.
-- OBJETOS TRAMPA: mochilas celeste con cierre rojo, pilas de libros con
-  separadores rojos, banderines de la facultad celeste y rojo.
+- Paso 3 de todas las escenas: insertar el familiar y NODI sobre las imágenes
+  aprobadas.
+- La escena 8 no tiene familiar asignado: definir a quién busca NODI en la
+  plaza (o confirmar que la escena es solo/multitud).
+- El pañuelo rojo de papá sigue pendiente de confirmación del grupo.
 
-## 6. El museo (abuelo)
+## Las seis piezas grandes de cada escena
 
-- LUGAR: museo del pueblo, cúpula de nieve con columnas redondas y vitrinas
-  de felpa.
-- ACCIÓN: el abuelo da una visita guiada, levanta su bastón rojo y blanco
-  señalando una vitrina; un grupo de visitantes lo rodea. NODI entra
-  agachado, escondido detrás de un fósil.
-- BUSCABLES: NODI agachado tras la vitrina + Abuelo con su gorro rojo y
-  bastón que no parezca caramelo.
-- MICROESCENAS: curador ordena una vitrina, un monstruito toca lo prohibido,
-  guardia de seguridad corta, grupo de escolares peludos.
-- OBJETOS TRAMPA: esculturas de felpa con gorro rojo, fósiles celeste con
-  manijas rojas, lazo rojo en el telón del museo.
+Cada escena con gente lleva seis estructuras grandes propias del lugar (de 3 a
+6 veces el tamaño de un monstruito, blandas y de felpa), que son las que
+generan la acción variedada. La 1, que está vacía, lleva las seis piezas
+grandes del mobiliario.
 
-## 7. La tienda de ropa (mejor amiga)
-
-- LUGAR: tienda de ropa redonda con maniquíes de felpa y vidrieras
-  humeantes.
-- ACCIÓN: la mejor amiga (ropa con estrellas, nariz en corazón, collar con
-  dije rojo) hace saltitos probándose un sombrero. NODI la saluda desde la
-  vidriera.
-- BUSCABLES: NODI desde la vidriera + Mejor amiga girando frente al espejo
-  con sus dos ojos de caricatura.
-- MICROESCENAS: dependienta enrolla telas, una cliente se prueba botas,
-  perchero que se cae, gato de nieve en el estante.
-- OBJETOS TRAMPA: maniquíes con bufanda y orejeras rojas, perchas celeste
-  con argolla roja, carrusel de ropa con bolsitas rojas.
-
-## 8. El reencuentro (toda la familia)
-
-- LUGAR: la plaza central de la aldea, enorme y nevada; árbol gigante de
-  felpa en el medio, faroles encendidos al atardecer.
-- ACCIÓN: los SEIS se encuentran con NODI a la vez, todos corriendo a un
-  mismo abrazo central. Mamá abre los brazos, Papá sonríe con los colmillos
-  apenas asomando, la hermana menor baila, el hermano mayor ríe a
-  carcajadas (ahí sí se le ven los colmillos), el abuelo apoya el bastón y la
-  mejor amiga hace saltitos. NODI es el centro del abrazo.
-- EXCEPCIÓN A LA REGLA: en esta escena la familia completa está junta y NO
-  hay objetos trampa que se disfracen de personajes: el buscable es la
-  FAMILIA entera en el abrazo. El resto de la plaza cumple densidad 300+
-  con vecinos festejando.
-- MICROESCENAS: fuegos artificiales de nieve, puesto de golosinas, vecinos
-  aplaudiendo, confeti de felpa cayendo.
-
----
-
-# Checklist previo a generar (aplicar a cada escena)
-
-1. ¿Es 16:9 apaisado, plano de FRENTE con inclinación (no horizontal ni cenital), vista amplia con tres bandas de distancia, y se extiende fuera de bordes?
-2. ¿Está TODO nítido (cerca, medio y lejos)? ¿No hay nada desenfocado ni borroso?
-2. ¿Cada zona del cuadro tiene su minisituación interesante y son todas distintas entre sí? ¿Nada está concentrado en el centro?
-3. ¿Se nota la división adentro/afuera? ¿La nieve no está en todos lados?
-4. ¿Los elementos están desperdigados de forma orgánica (nada engrillado)? ¿Personajes, elementos, texturas y paisaje se confunden?
-5. ¿Hay juego de color? ¿El rojo no resalta como único foco y otros colores (violeta, lila, rosa, celestes) están repartidos por la escena?
-6. ¿Hay 300+ figuras?
-7. ¿La felpa está en TODO lo que se ve?
-8. ¿Hay objetos trampa celeste + rojo y ninguno es un personaje?
-9. ¿Están los buscables integrados, chicos, sin foco ni halo?
-10. ¿Contaste los buscables? En la escena correcta: UN NODI (y el familiar
-    correspondiente). En la 8: la familia junta.
-11. ¿Las fichas físicas y el vestuario de cada personaje van palabra por
-    palabra?
+| # | Lugar | Las seis piezas grandes |
+|---|-------|--------------------------|
+| 1 | Casa | mesón de cocina + olla gigante, escalera curva con baranda, sillón, mesa de comedor con banco, araña de luces, placard |
+| 2 | Mercado | puesto de comida con toldo a rayas, pirámide de frutas, olla de sopa gigante, ovillo de lana con huso, carretto cubierto, arco de faroles |
+| 3 | Campo de hielo | grúa con polea y cuerda, rampa de bloques, máquina de cortar con rueda gigante, escalera de hielo, cúpula de almacenamiento, carrete de cuerda |
+| 4 | Parque | calesita, tobogán gigante, muralla de nieve con torres, pórtico de columpios, rodillo de nieve, laberinto de nieve |
+| 5 | Universidad | estantería gigante, escalera rodante, pizarrón gigante, escalera de libros, globo terráqueo, dispensador |
+| 6 | Museo | huevo gigante sobre pedestal, mamut fósil, rampa espiral, barrera de terciopelo, mapa mural desenrollado, mostrador con bandeja de peluches |
+| 7 | Tienda | rack gigante, montón de ropa, carrete de hilo gigante, máquina de coser, escalera de biblioteca, cabina de probador |
+| 8 | Plaza | árbol con plataforma, escenario, muralla de nieve, campana gigante, carrusel de trineos, pila de cajas |

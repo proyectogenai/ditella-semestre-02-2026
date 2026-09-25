@@ -91,7 +91,102 @@ ella misma elegiría, siempre rodeada de gente.
 **Referencia visual:** boceto a mano de Lourdes + versión coloreada por
 Tere (acuarela/gouache suelta, lavado monocromático sepia, trazo
 expresivo con textura de pincel visible — técnica de ilustración a
-mano, no generada con IA).
+mano, no generada con IA). Referencia final para las escenas IA:
+`lourdes_referencia_parisianer.png`.
+
+---
+
+## Narrativa y páginas introductorias del libro
+
+**Quién narra:** una amiga de Lourdes, persiguiéndola de fiesta en
+fiesta por el mundo. Tono: divertida, con humor, con ganas de sumarse
+a la fiesta ella también.
+
+**El elemento oculto oficial de la consigna es Lourdes** (una sola
+búsqueda por página). Aparte, hay un chiste secundario recurrente sin
+peso evaluativo (ver más abajo).
+
+### Página 1 — Epígrafe
+
+> *A Lourdes le gusta un poco todo: el ruido, la gente, el desorden
+> lindo de una fiesta que no sabe cuándo termina. En este libro no la
+> vas a encontrar fácil. Pero está. Siempre está.*
+
+### Página 2 — Presentación
+
+**LOURDES**
+*Ocho fiestas. Un mundo entero. Y vos, buscándola.*
+
+Esta es la historia de una amiga que sale a buscar a Lourdes. No
+porque se haya perdido — Lourdes nunca se pierde, simplemente vive
+así: de fiesta en fiesta, alrededor del mundo, sin parar nunca del
+todo. La encuentra a los tumbos, siempre un rato tarde, siguiendo
+rumores, mensajes de voz a las 4 de la mañana y objetos que Lourdes
+deja tirados por ahí.
+
+Este libro son esas ocho búsquedas. En cada página hay una fiesta
+distinta — un carnaval, un barco, una pileta, un rooftop — y en cada
+una, en algún lugar, está Lourdes. Se reconoce siempre por lo mismo:
+su pelo corto castaño, su top rojo, su pollera larga, su cinturón con
+hebilla, sus botas, y esa cartera con el dije de corazón que nunca
+suelta.
+
+**¿La encontrás?**
+
+### Página 3 — Cómo se lee este libro
+
+Cada doble página es una fiesta completa. Tu única misión: **encontrar
+a Lourdes**. Mirá con calma — nunca está sola en el medio de todo,
+está metida en el bullicio, medio tapada por alguien o por algo, como
+cualquiera de los cientos de personajes que pueblan la escena.
+
+*(Yapa para quien mire dos veces: en cada fiesta de Lourdes, alguien
+termina perdiendo sus anteojos de sol — es una maldición del grupo.
+Buscalos también, sin premio ni obligación.)*
+
+Al pie de cada página vas a encontrar la postal de su amiga — el
+rastro que siguió para llegar hasta ahí.
+
+### Las 8 postales (texto al pie de cada página)
+
+1. **Carnaval:** "Me dijeron que la vieron bailando arriba de una
+   carroza con plumas hasta las cejas. Llegué y solo quedaba confeti.
+   Típico."
+2. **Barco:** "Un mensaje de voz de las 4 AM: 'estoy en un yate, no sé
+   de quién, ¡vení!'. Para cuando llegué al puerto, ya se habían ido
+   mar adentro."
+3. **Pool party:** "Encontré sus anteojos de sol tirados al lado de la
+   pileta y ningún rastro de ella. Alguien juraba haberla visto
+   zambulléndose con ropa y todo."
+4. **Amanecer en la playa:** "Se ve que la fiesta de anoche nunca
+   terminó — la encontré (bah, casi) repartiendo cocos a las 6 de la
+   mañana como si nada."
+5. **Rooftop de noche:** "Subí quince pisos por las escaleras porque
+   el ascensor estaba lleno de gente bailando. Ella ya se había ido a
+   la próxima."
+6. **Festival de música:** "Alguien la vio arriba de los hombros de un
+   desconocido, cantando a los gritos. Yo llegué justo para el final
+   de la canción — y de la búsqueda."
+7. **Obelisco:** "Con la selección campeona, media ciudad salió a la
+   calle. Encontrarla ahí es como buscar una aguja en un pajar... pero
+   con bombos."
+8. **Garden party:** "La más tranquila de las fiestas, dijeron.
+   Mentira: terminé persiguiendo a un perro que le robó una masita a
+   alguien, y a ella ni la vi."
+
+**Frase de cierre del libro:** "Yo la sigo buscando — pero, la verdad,
+tampoco tengo apuro en encontrarla. Esta fiesta también está buena."
+
+### El gag secundario — dónde aparecen los lentes perdidos
+
+1. Carnaval: en el medio de la calle, pisoteados por la comparsa que pasa.
+2. Barco: en la cubierta, cerca de la escalera por donde sube alguien empapado.
+3. Pool party: al lado de la pileta (mismo par que menciona la postal).
+4. Amanecer en la playa: medio enterrados en la arena, cerca de la fogata apagándose.
+5. Rooftop: en el piso, enredados en la guirnalda de luces caída.
+6. Festival de música: pisoteados en el pasto, cerca del escenario.
+7. Obelisco: tirados entre el confetti y las banderas en el piso.
+8. Garden party: en el pasto, junto a las tazas que se cayeron.
 
 ---
 
@@ -121,8 +216,8 @@ DNA of "The Parisianer" (Éditions de la Martinière): thin, uniform,
 confident ink outlines (NOT thick, NOT glossy), flat matte color fills
 with NO shading gradients, NO cel-shading highlights, NO gloss.
 Elongated, loose, slightly exaggerated bendy character proportions,
-dynamic mid-motion poses (running, falling, reaching, chasing). Dense
-multi-story cutaway building facades showing several levels of activity
+dynamic mid-motion poses (running, falling, reaching, chasing). Multi-story
+cutaway building facades showing several levels of activity
 simultaneously, small animals woven naturally into the scene. The result
 must feel like a page from a real published illustrated book — witty,
 graphically confident, editorial — NEVER a generic modern flat-vector
@@ -134,35 +229,23 @@ graphic DNA: minimal, confident facial marks (a simple dot, dash or short
 line for eyes and mouth — NOT detailed anime eyes, NOT eyelashes, NOT
 glossy highlights, NOT cel-shaded blush), elongated loose limbs, and a
 dynamic mid-action pose. NEVER default to a generic modern anime/webtoon
-face. Each character still distinct via clothing color, hairstyle, body
-shape and specific action, but all recognizably belonging to the same
-flat, witty "Parisianer" graphic family. Vary hairstyles, hair colors,
-skin tones and body types widely across the crowd — no repeated
-identical figures.
+face. "Minimal" means SIMPLE, not ABSENT: a blank, featureless, or
+smudged-out face is a mistake and never acceptable, no matter how small
+or far away the character is or how dense the crowd gets — every single
+face, down to the smallest background figure, must show at least a
+visible pair of eye-marks. Each character still distinct via clothing
+color, hairstyle, body shape and specific action, but all recognizably
+belonging to the same flat, witty "Parisianer" graphic family. Vary
+hairstyles, hair colors, skin tones and body types widely across the
+crowd — no repeated identical figures.
 
 03 — MOTHER PALETTE
-Flat matte palette: mustard yellow, brick red, pink, olive/forest green,
-burnt orange, dusty blue-grey, warm cream — NO gloss, NO neon, NO
-pastel-candy softness. Pink should appear naturally through clothing,
-objects, signage or props here and there, without forcing it into every
-element of the scene. The environmental palette may vary per scene, but
-this base family of colors must stay recognizable throughout.
+Flat matte palette: mustard yellow, brick red, olive/forest green, burnt
+orange, dusty blue-grey, warm cream — NO gloss, NO neon, NO pastel-candy
+softness. The environmental palette may vary per scene, but this base
+family of colors must stay recognizable throughout.
 
-04 — FIXED CHARACTER: LOURDES
-A party-loving young woman with a chin-length bob haircut in warm
-chestnut brown. Wearing a fitted red crop top that leaves her midriff
-visible, a long flowing skirt, a wide belt with a large buckle, ankle
-boots with buckles and a scrunched detail, and a small purse with a pink
-heart charm slung over one shoulder — always holding a drink/cup in one
-hand. Rendered with the same thin uniform ink line and flat matte color
-as the rest of the world (no gloss, no cel-shading, minimal facial marks
-like everyone else). Her red top and chestnut bob hair are her fixed identity
-colors and must stay constant no matter how colorful the rest of the
-scene is. Her clothing, hairstyle, proportions and
-accessories must remain IDENTICAL in every scene — never redesign, age
-or restyle her.
-
-05 — SCENE TEMPLATE (fill in differently for each of the 8 scenes)
+04 — SCENE TEMPLATE (fill in differently for each of the 8 scenes)
 LOCATION: [specific party location]
 MOMENT: [time of day / season]
 SITUATION: [type of party or celebration]
@@ -179,22 +262,10 @@ brick red, pink, olive, burnt orange) even in settings that would
 naturally pull toward soft/pastel/naturalistic colors (gardens, beaches,
 etc.) — do not let it drift into a muted watercolor look.
 
-06 — SEARCH-AND-FIND SYSTEM
-Lourdes must be genuinely hard to find at first glance, following these
-placement rules:
-- NEVER in the foreground, NEVER in or near the exact center of the
-  frame, NEVER isolated or standing alone with empty space around her.
-- Always placed in the middle ground or background, inside a cluster of
-  other characters of a similar size and density to her surroundings —
-  she must not be the most prominent or eye-catching figure in the scene.
-- Partially obscured by another character, an object, or the edge of a
-  structure (roughly 20-40% of her covered) — but at least 60% of her
-  must stay visible so she is findable, not impossible.
-- Do NOT give her any special lighting, glow, framing or visual emphasis
-  that singles her out from the crowd around her.
-Besides Lourdes, include 3-4 secondary discoverable details (a small
-visual joke, a recurring prop, an odd character moment) that reward
-close observation.
+05 — SEARCH-AND-FIND SYSTEM
+Include 3-4 secondary discoverable details (a small visual joke, a
+recurring prop, an odd character moment) scattered through the scene
+that reward close observation.
 Characters in the foreground and middle ground must have clean,
 anatomically correct, complete bodies with clearly separated limbs.
 Characters far in the background may simplify into a dense, textured
@@ -207,27 +278,27 @@ the foreground and middle ground, PLUS a dense background crowd
 without needing individual anatomical precision. Never generic repeated
 poses in the foreground, never random unrelated filler objects.
 
-07 — COMPOSITION
+06 — COMPOSITION
 EXTREMELY wide, zoomed-out panoramic composition, built for a full A3
 horizontal double-page spread (the printed book opens to this size): pull
-the camera back MUCH further than feels natural — further than a normal
-"wide shot," closer to a high, distant establishing shot where the whole
-location and its surroundings fit in frame at once. The crowd and the
-environment must fill the entire frame edge to edge, with activity
-extending toward and past all four borders, as if the scene keeps going
-beyond what's shown. A slightly elevated, comfortable wide-angle
-viewpoint that lets the viewer read the whole environment at once. Clear
-foreground, middle ground and background. Multiple visual paths for the
-eye to explore. Avoid placing Lourdes exactly at the center. Landscape
-format, 1414x1000px.
+the camera back MUCH further than feels natural, so many more people and
+much more environment fit in frame — but keep a slightly elevated,
+comfortable wide-angle viewpoint (like looking down a street or across a
+venue from a bit above eye level), NOT a fully aerial top-down "diorama
+from directly above" shot. The whole location and its surroundings must
+fit in frame at once, with the crowd and environment filling the entire
+frame edge to edge, activity extending toward and past all four borders,
+as if the scene keeps going beyond what's shown. Clear foreground, middle
+ground and background, with figures visibly shrinking with distance. Multiple
+visual paths for the eye to explore. Landscape format, 1414x1000px.
 
-08 — OUTPUT / EXCLUSIONS
+07 — OUTPUT / EXCLUSIONS
 High-resolution polished editorial illustration in "The Parisianer" style
-described above. Rich environmental detail. Consistent character design
-for Lourdes. NO text. NO logos. NO watermark. NO photorealism. NO gloss
-or anime look. NO generic modern flat-vector cartoon look. NO random
-unrelated filler objects — everything present must relate to this
-specific party and location. NO real brand names.
+described above. Rich environmental detail. NO text. NO logos. NO
+watermark. NO photorealism. NO gloss or anime look. NO generic modern
+flat-vector cartoon look. NO random unrelated filler objects —
+everything present must relate to this specific party and location. NO
+real brand names.
 ```
 
 ### Historial de iteraciones (documentación del proceso)

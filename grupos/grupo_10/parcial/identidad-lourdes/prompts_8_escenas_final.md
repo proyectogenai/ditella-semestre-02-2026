@@ -104,9 +104,9 @@ Lourdes is added afterward by hand, compositing a separate reference image in Fi
 LOCATION: a backyard pool party
 MOMENT: bright midday
 SITUATION: pool party
-SPECIFIC ACTIVITIES: a huge inflatable centerpiece float shaped like a giant flamingo or sculpture in the middle of the pool; a floating bar built into the water with people gathered around holding drinks; someone mid-air doing a cannonball dive, water splashing dramatically; several people wearing strange, oversized novelty inflatable floaties (a giant donut, an odd-shaped creature float); a DJ booth set up at the pool's edge; a group playing a ball game in the shallow end, someone about to be hit by the ball; someone snorkeling underwater, diving toward something at the bottom of the pool
-ENVIRONMENTAL / CULTURAL ELEMENTS: pool noodles, stacked towels, sunglasses left on lounge chairs, a snack table with tropical fruit, string lights strung between poles, beach balls bouncing between groups
-REMINDER: keep the bold flat matte palette from section 03 — don't drift into a naturalistic sunny-pool photo look.
+SPECIFIC ACTIVITIES: divided into distinct zones — LEFT: a food and drinks table with tropical snacks, people grabbing plates; CENTER: the pool itself, with a huge inflatable centerpiece float shaped like a giant flamingo or sculpture, several people wearing strange oversized novelty floaties (a giant donut, an odd-shaped creature float), someone mid-air doing a cannonball dive, water splashing dramatically; RIGHT: a DJ booth at the pool's edge with a small dancing crowd; FOREGROUND: lounge chairs with people sunbathing, a stack of towels, sunglasses left behind
+ENVIRONMENTAL / CULTURAL ELEMENTS: pool noodles, string lights strung between poles, beach balls, potted plants around the pool edge
+REMINDER: keep the bold flat matte palette from section 03 — don't drift into a naturalistic sunny-pool photo look. No underwater/diving/snorkeling content.
 
 06 — SEARCH-AND-FIND SYSTEM
 Include 3-4 secondary discoverable details (a small visual joke, a recurring prop, an odd character moment) scattered through the scene — these are separate from Lourdes, who is added later by hand (see section 04). Characters in the foreground/middle ground: clean, anatomically correct. Background: may simplify into dense textured crowd. Approximately 250-300 individually distinct figures total.

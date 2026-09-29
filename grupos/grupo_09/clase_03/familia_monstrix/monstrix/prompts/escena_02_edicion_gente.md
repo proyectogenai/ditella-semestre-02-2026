@@ -1,7 +1,7 @@
 # Escena 2 — Prompt de edición (agregar gente y microescenas)
 
 Se usa **sobre la imagen ya aprobada** de la escena 2 (mercado), no desde
-cero. Adjuntá la imagen de trabajo + una de `nodi_v1.jpeg` / `nodi_v2.jpeg`
+cero. Adjuntá la imagen de trabajo + `nodi_v2.jpeg`
 solo por materiales, felpa, paleta y luz.
 
 ```text

@@ -11,22 +11,26 @@ tres cuartos a la altura de los monstruitos.
 
 | # | Lugar | Familiar (buscable) | Prompts |
 |---|-------|--------------------|---------|
-| 1 | Casa de la familia | — (lugar vacío) | base + edición |
-| 2 | Mercado de la aldea | Mamá | base + edición |
-| 3 | Campo de recolección de hielo | Papá | base + edición |
-| 4 | Parque de la aldea | Hermana menor | base + edición |
-| 5 | Universidad | Hermano mayor | base + edición |
-| 6 | Museo | Abuelo | base + edición |
-| 7 | Tienda de ropa | Mejor amiga (no es de la familia) | base + edición |
-| 8 | Plaza central: festival invernal | ninguno: la familia completa junta (desenlace) | base + edición |
+| 1 | Casa de la familia | — (lugar vacío) | general + densidad |
+| 2 | Mercado de la aldea | Mamá | general + densidad |
+| 3 | Campo de recolección de hielo | Papá | general + densidad |
+| 4 | Parque de la aldea | Hermana menor | general + densidad |
+| 5 | Universidad | Hermano mayor | general + densidad |
+| 6 | Museo | Abuelo | general + densidad |
+| 7 | Tienda de ropa | Mejor amiga (no es de la familia) | general + densidad |
+| 8 | Plaza central: festival invernal | ninguno: la familia completa junta (desenlace) | general + densidad |
 
-Todas las escenas se están produciendo SIN el familiar y SIN NODI: esos se
-insertan al final, sobre las imágenes aprobadas. Ningún prompt base nombra a
-la familia.
+**Las 8 escenas se están produciendo SIN NODI y SIN la familia.** El flujo
+vigente tiene dos pasos por escena: 1) la ESCENA GENERAL, que genera el lugar
+completo, y 2) AGREGAR DENSIDAD, que se aplica sobre la imagen aprobada y suma
+gente y microescenas (en la casa, objetos). Los buscables —NODI y el familiar de
+cada escena— están escritos pero en pausa hasta que el grupo avise.
+
+La columna "Familiar" dice a quién le toca el lugar cuando se retome el paso de
+buscables; hoy no se usa para generar.
 
 La escena 8 es la excepción: NODI no busca a nadie ahí, porque la familia
-completa está junta y feliz. Es el final de la historia. Su paso 3 no es un
-buscable camuflado sino el reencuentro de los siete, y es la única escena
+completa está junta y feliz. Es el final de la historia. Es la única escena
 donde el grupo puede ser el foco del encuadre.
 
 ## 1. Casa de la familia
@@ -104,7 +108,9 @@ muestra la calle y varios puestos a la vez.
 
 El detalle completo de cada escena (lugar, caos propio del lugar, las seis
 piezas grandes, lista de microescenas, objetos trampa y negative) ya está
-escrito en los prompts de inglés, que son la versión de uso:
+escrito en los prompts de inglés, que son la versión de uso. Cada escena tiene
+dos archivos: el de **escena general** (genera desde cero) y el de **agregar
+densidad** (se aplica sobre la imagen aprobada):
 
 - `../prompts/escena_01_casa.md` + `escena_01_edicion_objetos.md`
 - `../prompts/escena_02_mercado.md` + `escena_02_edicion_gente.md`
@@ -115,10 +121,16 @@ escrito en los prompts de inglés, que son la versión de uso:
 - `../prompts/escena_07_tienda_de_ropa.md` + `escena_07_edicion_gente.md`
 - `../prompts/escena_08_plaza_festival.md` + `escena_08_edicion_gente.md`
 
+En pausa, no se usan: `escena_01_edicion_trampas.md` (escondites y trampas de
+buscable), `escena_05_definitiva.md` y `escena_05_definitiva_flaco.md` (el
+definitivo con NODI ya colocado).
+
 ## Pendientes
 
-- Paso 3 de todas las escenas: insertar el familiar y NODI sobre las imágenes
-  aprobadas. En la escena 8, insertar la familia completa junta.
+- **Terminar de renderizar las 8 escenas** con el flujo de 2 pasos (escena
+  general + agregar densidad). Los 16 prompts están escritos.
+- El paso de buscables (NODI + el familiar de cada escena, y el reencuentro
+  final de la escena 8) está escrito pero **en pausa** hasta que el grupo avise.
 
 Ya no quedan decisiones del grupo pendientes: el pañuelo rojo de papá está
 confirmado y la escena 8 tiene su desenlace definido.

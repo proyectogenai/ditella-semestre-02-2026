@@ -1,7 +1,7 @@
 # Escena 3 — Prompt de edición (agregar gente y microescenas)
 
 Se usa **sobre la imagen ya aprobada** de la escena 3, no desde cero.
-Adjuntá la imagen como referencia de trabajo + una de `nodi_v1.jpeg` / `nodi_v2.jpeg`
+Adjuntá la imagen como referencia de trabajo + `nodi_v2.jpeg`
 solo por materiales, felpa, paleta y luz.
 
 ```text

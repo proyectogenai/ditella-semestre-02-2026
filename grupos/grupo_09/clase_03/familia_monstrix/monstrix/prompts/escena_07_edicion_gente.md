@@ -1,8 +1,8 @@
 # Escena 7 — Prompt de edición (agregar gente y microescenas)
 
 Se usa **sobre la imagen ya aprobada** de la escena 7 (tienda de ropa), no
-desde cero. Adjuntá la imagen de trabajo + una de `nodi_v1.jpeg` /
-`nodi_v2.jpeg` solo por materiales, felpa, paleta y luz.
+desde cero. Adjuntá la imagen de trabajo + `nodi_v2.jpeg` solo por materiales,
+felpa, paleta y luz.
 
 ```text
 SOURCE IMAGE: the attached image is the already approved base scene, a round boutique interior with shelves, clothing racks, fitting rooms, a counter, faceless round mannequins and an open window to the snowy street. Keep it exactly as it is: same wide frontal three-quarter interior camera, same framing, same horizon, same extreme deep focus, same soft white winter daylight, same warm amber accents, same palette, same textures, same six big set pieces, same giant rack on its soft wheels, same mound of folded clothes, same enormous thread spool and its running thread, same big sewing machine and long table, same tall ladder on its rails, same big fabric changing booth, same shelves, counter, faceless round mannequins, window and snow. Do not move, remove, resize, rotate or redesign any existing object, and do not change the composition, the camera or the color balance.

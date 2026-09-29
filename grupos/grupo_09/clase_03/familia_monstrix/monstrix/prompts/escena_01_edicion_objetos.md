@@ -2,7 +2,7 @@
 
 Se usa **sobre la imagen ya aprobada** de la escena 1 (la casa), no desde
 cero. Como la casa está VACÍA, este prompt suma objetos y trampas, nunca
-gente. Adjuntá la imagen de trabajo + una de `nodi_v1.jpeg` / `nodi_v2.jpeg`
+gente. Adjuntá la imagen de trabajo + `nodi_v2.jpeg`
 solo por materiales, felpa, paleta y luz.
 
 ```text

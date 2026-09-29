@@ -14,31 +14,33 @@ docenas de pequeños mundos habitados —aldeas, mercados, pueblos— uno
 dentro del otro, y el libro consiste en encontrarlo mientras los recorre.
 
 **Las 9 escenas** (las primeras 8 son el atlas "busca a Peter"; la 9na es
-el cierre, sin el mecanismo de búsqueda — ver nota al final):
+el cierre, sin el mecanismo de búsqueda — ver nota más abajo). Texto
+completo de cada página, con la pregunta de búsqueda, en
+[`textos_libro.md`](textos_libro.md):
 
-1. **El jardín secreto** — Peter descubre una pequeña puerta entre las
-   raíces de su jardín y decide atravesarla.
-2. **La aldea subterránea** — Bajo tierra encuentra un pueblo de ratones
-   y topos, lleno de túneles, despensas y casas excavadas.
-3. **El mercado de las flores** — Entre flores gigantes, los animales
-   venden frutas, semillas, miel y objetos en pequeños puestos.
-4. **La ciudad del árbol** — Peter trepa un enorme roble habitado por
-   ardillas y pájaros, con casas y puentes entre las ramas.
-5. **El pueblo flotante** — En un estanque, ranas y patos viven sobre
-   nenúfares y se desplazan en pequeñas embarcaciones.
-6. **La villa de los hongos** — Comienza a llover y Peter se refugia en
-   un pueblo donde los hongos funcionan como casas y paraguas.
-7. **El bosque nocturno** — Peter se pierde al anochecer y sigue un
-   camino de luciérnagas entre búhos, polillas y animales nocturnos.
-8. **La aldea nevada** — Más allá del bosque nocturno, Peter encuentra una
-   aldea cubierta de nieve, donde los animales arman un mercado de
-   invierno entre casas con el techo blanco. *(confirmar/ajustar texto)*
-9. **El gran picnic** *(cierre, Peter no está escondido)* — El camino
-   conduce a un claro donde todos los animales de los distintos pueblos
-   se reúnen para una gran celebración. Peter descubre que todos esos
-   pequeños mundos forman parte de un mismo bosque — y por eso, en esta
-   última escena, ya no hace falta buscarlo: aparece a la vista, como
-   anfitrión.
+1. **El jardín secreto** — Peter sigue a una mariposa dorada y atraviesa
+   una puerta escondida entre las raíces del jardín. Conoce a una eriza
+   jardinera.
+2. **La aldea subterránea** — Un pueblo entero bajo tierra, entre túneles
+   y despensas. Conoce a Pip, un ratón que conoce los túneles como nadie.
+3. **El mercado de las flores** — Puestos de fruta, semillas y miel bajo
+   flores gigantes. Conoce a Miel, una abeja, que vio a la mariposa volar
+   hacia el roble.
+4. **La ciudad del árbol** — Una ciudad entera construida sobre las ramas
+   de un roble. Conoce a Nuez, una ardilla aventurera.
+5. **El pueblo flotante** — Ranas y patos viven sobre nenúfares en un
+   estanque. Conoce a Lila, una rana, que le presta un bote.
+6. **La villa de los hongos** — Se larga a llover y Peter se refugia en un
+   pueblo donde los hongos son casas y paraguas. Conoce a Tilo, un ratón.
+7. **El bosque nocturno** — Anochece y un camino de luciérnagas guía a
+   Peter entre búhos y polillas. Conoce a Luz, una luciérnaga.
+8. **La aldea nevada** — Una aldea entre montañas, con trineos y muñecos
+   de nieve. Conoce a Copo, un ciervo, que le presta una bufanda.
+9. **El gran picnic** *(cierre, Peter no está escondido)* — Todos los
+   amigos que conoció en el camino —Pip, Miel, Nuez, Lila, Tilo, Luz,
+   Copo y la eriza— se reúnen en un claro. Peter entiende que todos esos
+   mundos eran, en realidad, uno solo — y que aunque se perdió en el
+   camino, ahora tiene amigos que pueden ayudarlo a volver a casa.
 
 ---
 

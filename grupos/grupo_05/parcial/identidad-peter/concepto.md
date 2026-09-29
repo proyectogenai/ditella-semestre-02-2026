@@ -13,7 +13,8 @@ Peter Rabbit sale de su jardín y descubre que la naturaleza esconde
 docenas de pequeños mundos habitados —aldeas, mercados, pueblos— uno
 dentro del otro, y el libro consiste en encontrarlo mientras los recorre.
 
-**Las 8 escenas:**
+**Las 9 escenas** (las primeras 8 son el atlas "busca a Peter"; la 9na es
+el cierre, sin el mecanismo de búsqueda — ver nota al final):
 
 1. **El jardín secreto** — Peter descubre una pequeña puerta entre las
    raíces de su jardín y decide atravesarla.
@@ -29,10 +30,15 @@ dentro del otro, y el libro consiste en encontrarlo mientras los recorre.
    un pueblo donde los hongos funcionan como casas y paraguas.
 7. **El bosque nocturno** — Peter se pierde al anochecer y sigue un
    camino de luciérnagas entre búhos, polillas y animales nocturnos.
-8. **El gran picnic** — El camino conduce a un claro donde todos los
-   animales de los distintos pueblos se reúnen para una gran celebración.
-   Peter descubre que todos esos pequeños mundos forman parte de un mismo
-   bosque.
+8. **La aldea nevada** — Más allá del bosque nocturno, Peter encuentra una
+   aldea cubierta de nieve, donde los animales arman un mercado de
+   invierno entre casas con el techo blanco. *(confirmar/ajustar texto)*
+9. **El gran picnic** *(cierre, Peter no está escondido)* — El camino
+   conduce a un claro donde todos los animales de los distintos pueblos
+   se reúnen para una gran celebración. Peter descubre que todos esos
+   pequeños mundos forman parte de un mismo bosque — y por eso, en esta
+   última escena, ya no hace falta buscarlo: aparece a la vista, como
+   anfitrión.
 
 ---
 
@@ -53,6 +59,12 @@ costado, a veces se mete de lleno en la actividad del lugar (regatea en el
 mercado, rema mal en el estanque, se refugia de la lluvia en la villa de
 hongos). Nunca está aislado del resto — siempre en medio de la actividad
 de esa escena, no al margen.
+
+**Excepción — escena 9 (El gran picnic):** ahí Peter no está escondido.
+Es la escena de cierre, generada con IA como las demás pero sin el
+mecanismo de búsqueda: aparece a la vista, como anfitrión de la reunión
+que conecta a los ocho mundos anteriores. Es la única de las 9 donde no
+aplica la regla de dificultad media del punto siguiente.
 
 **¿Qué tiene tu universo que "vaya a juego" con este personaje?**
 El resto de los animales del universo están dibujados de forma más

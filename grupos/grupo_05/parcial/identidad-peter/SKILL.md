@@ -24,8 +24,8 @@ tecnología ni ropa contemporánea.
 Cada escena es uno de los "pequeños mundos" que Peter descubre al cruzar
 puertas escondidas en la naturaleza: un jardín, una aldea subterránea, un
 mercado de flores, una ciudad en un árbol, un pueblo flotante, una villa
-de hongos, un bosque de noche — y el gran picnic donde se revela que
-todos son, en realidad, un mismo bosque.
+de hongos, un bosque de noche, una aldea nevada — y el gran picnic final,
+donde se revela que todos son, en realidad, un mismo bosque.
 
 ## Bloque de estilo (va siempre, sin modificar)
 ```
@@ -133,6 +133,11 @@ más cerca del espectador que el resto, ni en una zona de mayor contraste.
 Otros conejos y animales de tamaño similar alrededor sirven de camuflaje,
 pero ninguno repite su vestimenta exacta. El objetivo es el momento
 "¡ahí está!" — ni instantáneo ni imposible.
+
+**Excepción — escena de cierre ("El gran picnic"):** en la última escena
+de la serie Peter NO se esconde. Aparece a la vista, como anfitrión de la
+reunión que conecta a todos los mundos anteriores — es el cierre
+narrativo, no otra ronda del juego de búsqueda.
 
 ## Restricciones
 - Ningún personaje domina la composición; nunca hay un protagonista único

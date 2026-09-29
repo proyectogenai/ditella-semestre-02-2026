@@ -87,10 +87,13 @@ aesthetic.
 ```
 
 ## Modelo y parámetros
-- **Modelo:** ChatGPT (gpt-image), generado a partir de texto puro — sin
-  adjuntar imágenes de referencia como input.
-- **Formato:** panorámico horizontal, ~3:2. *(confirmar si el aspect
-  ratio real usado fue otro)*
+- **Modelo:** ChatGPT (gpt-image). La escena en sí se genera a partir de
+  texto puro, sin imágenes de referencia — la única excepción es la
+  imagen de referencia de Peter, que se adjunta aparte para el elemento
+  oculto (ver esa sección).
+- **Formato:** panorámico horizontal, ~3:2. Confirmado: probada en un
+  chat limpio, la skill sostiene este aspect ratio sola, sin que haga
+  falta pedirlo.
 - **Seed:** no se fijó.
 - **Negative prompt:** implícito en el bloque de estilo (ver la lista de
   "no..." arriba) en vez de un campo de negative prompt separado.

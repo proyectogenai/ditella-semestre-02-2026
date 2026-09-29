@@ -49,24 +49,55 @@ sostienen. La instrucción de qué adjuntar vive en el campo 3, que es operació
 no sistema.
 
 ```
+full bleed illustration that fills the entire frame edge to edge: no screen
+frame, no monitor bezel, no rounded corners, no vignette, no border of any kind,
+
 retro pixel art, clearly visible chunky pixels, hard aliased edges,
 no anti-aliasing, no smooth gradients, shading built from 3 or 4 flat tones
-per surface,
+per surface, soft internal shading with several tones per garment,
+realistic body proportions,
 
-limited palette of 24 colors, high chroma CRT phosphor color,
-high contrast between every figure and the ground behind it,
+reuse the same character models across the scene: about 46 distinct characters,
+and each one of them appears three times in different places and poses, so that
+the crowd is visibly made of repeated copies rather than of unique individuals,
 
-soft internal shading with several tones per garment, no black outlines,
-realistic body proportions, matching the character references when provided,
+a limited palette of 24 colors, high chroma saturated color, strong overall
+contrast and readability, with enough local contrast to keep figures visible
+against the ground behind them,
 
-3:2 horizontal composition, around 78 figures, 26 distinct characters each
-repeated about 3 times, 12 simultaneous separate actions, a standing person
-is about 1/9 of the image height, layered foreground, middle ground and
-background, distribute the figures and the action evenly across the entire
-frame, edge to edge and corner to corner, no empty quadrant, no large empty
-areas of floor or background, keep important elements away from the extreme
-edges, interface elements appear only as architecture and props, never as an
-overlay, no written words, no legible signage, no logos, no watermark
+include deep dark accents and strong shadow tones so that the image keeps a full
+range from very light to very dark,
+
+4:3 composition, around 140 figures in total, at least 24 simultaneous separate
+actions, a standing person is about 1/12 of the image height, layered foreground,
+middle ground and background,
+
+the world is built in five or more stacked vertical levels connected by stairs,
+ladders, ramps and bridges, with structures continuing past the top and the
+bottom of the frame,
+
+no open sky and no horizon visible: the world fills the frame completely,
+
+distribute the figures, objects, props, micro-architecture and actions evenly
+across the entire frame, edge to edge and corner to corner, equal density in the
+upper third and in the lower third, no empty quadrant, only very small and
+occasional breathing spaces, keep the scene dense, crowded and active but still
+readable,
+
+every roof, platform, walkway, bridge, tunnel mouth and corner contains either
+a character, a prop, an object cluster or a small action, break large planes
+into smaller occupied zones,
+
+fill the environment with many secondary and tertiary elements: platforms,
+ladders, stairways, bridges, balconies, railings, arches, tunnels, windows,
+doors, ledges, hanging elements, ropes, crates, fences, narrow passages,
+alcoves, rooftop details, small machinery, repeated architectural fragments,
+and clusters of the small repeated props and collectible objects that belong
+to this world,
+
+keep important elements away from the extreme edges, interface elements appear
+only as architecture and props, never as an overlay, no written words, no
+legible signage, no logos, no watermark
 ```
 
 **Capa 1 — la única que cambia por pieza:**
@@ -81,10 +112,10 @@ times across the scene,
 
 | | Valor |
 | --- | --- |
-| Escena lógica | 787 × 526 px |
+| Escena lógica | 787 × 590 px (4:3) → recorte a 787 × 526 (3:2) |
 | Resolución de generación | 4K, sin reescalado posterior |
 | Pantalla en la doble página | 3:2, 40 × 26,7 cm |
-| Persona | 56 px lógicos = 1/9 del alto |
+| Persona | 1/12 del alto de la imagen generada |
 | Bitsy | ~35 px lógicos |
 | Paleta | 24 colores por escena |
 
@@ -103,7 +134,10 @@ el negro de la ropa de Donna, sus tonos de piel, y el blanco de Bitsy.
 
 Pensada para **Gemini 3 Pro Image (Nano Banana Pro)**.
 
-- **Relación:** 3:2, nativa del modelo, no hay que recortar.
+- **Relación:** se genera en 4:3 y se recorta a 3:2, sacando 5,5% arriba
+  y 5,5% abajo. La app no siempre ofrece 3:2, y 4:3 es la más cercana:
+  el recorte cae donde el bloque ya declara que las estructuras siguen
+  fuera del cuadro.
 - **Resolución:** 4K para escenas de imprenta.
 - **Referencias adjuntas.** No hay casilleros de slot en la app: se adjuntan las
   imágenes y se dice con palabras qué hacer con ellas. Antes del prompt va esta

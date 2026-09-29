@@ -138,7 +138,7 @@ inglés y se pegan en ChatGPT.
 
 ### Abuelo
 - 72 años · el museo · el más viejo → pelaje más oscuro de la familia
-- Pelo: celeste hielo muy oscuro #4a61c2 (ajustable), le cubre todo el cuerpo
+- Pelo: celeste hielo muy oscuro #2e1cba, le cubre todo el cuerpo
 - Rostro: tres ojos iguales a NODI; orejas de gato erguidas (no caídas); sin
   cejas; sin barba
 - Boca: sonrisa leve y sutil con colmillos (herencia paterna — es el origen de

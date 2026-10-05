@@ -88,12 +88,12 @@ EVERY character in the scene must share this exact graphic DNA: minimal, confide
 Flat matte palette: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream — NO gloss, NO neon, NO pastel-candy softness.
 
 04 — SCENE TEMPLATE
-LOCATION: a backyard pool party
+LOCATION: the pool terrace of a seaside villa, with the pool filling only one side of the frame and the villa facade (arched windows, balconies with spectators, striped awnings, climbing vines) filling the back
 MOMENT: bright midday
 SITUATION: pool party
-SPECIFIC ACTIVITIES: divided into distinct zones — LEFT: a food and drinks table with tropical snacks, people grabbing plates; CENTER: the pool itself, with a huge inflatable centerpiece float shaped like a giant flamingo or sculpture, several people wearing strange oversized novelty floaties (a giant donut, an odd-shaped creature float), someone mid-air doing a cannonball dive, water splashing dramatically; RIGHT: a DJ booth at the pool's edge with a small dancing crowd; FOREGROUND: lounge chairs with people sunbathing, a stack of towels, sunglasses left behind
-ENVIRONMENTAL / CULTURAL ELEMENTS: pool noodles, string lights strung between poles, beach balls, potted plants around the pool edge
-REMINDER: keep the bold flat matte palette from section 03 — don't drift into a naturalistic sunny-pool photo look. No underwater/diving/snorkeling content.
+SPECIFIC ACTIVITIES: a huge inflatable flamingo float as the visual centerpiece in the pool; a floating drinks bar with guests around it; someone mid-air in a cannonball with the splash; a DJ booth at the pool's edge; a food table with tropical fruit on the tiled terrace; guests chatting in small groups among potted palms; people on striped lounge chairs; a dog watching the pool from the terrace
+ENVIRONMENTAL / CULTURAL ELEMENTS: patterned terrace tiles, string lights, pool noodles, beach balls, stacks of towels, water drawn as flat blue blocks with simple wavy ink lines (no gradients)
+REMINDER: keep the bold flat matte palette from section 03 — don't drift into a naturalistic sunny-pool photo look. No underwater, scuba or snorkeling content.
 
 05 — SEARCH-AND-FIND SYSTEM
 Include 3-4 secondary discoverable details (a small visual joke, a recurring prop, an odd character moment) scattered through the scene. Approximately 100-150 individually distinct characters overall. Characters in the foreground and middle ground must have clean, anatomically correct, complete bodies with clearly separated limbs. Characters far in the background may simplify into a dense, textured crowd.

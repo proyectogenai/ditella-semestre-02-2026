@@ -214,7 +214,7 @@ internal logic.
 Flat European editorial illustration, in the character and world design
 DNA of "The Parisianer" (Éditions de la Martinière): thin, uniform,
 confident ink outlines (NOT thick, NOT glossy), flat matte color fills
-with NO shading gradients, NO cel-shading highlights, NO gloss, NO cast shadows, NO hatching, NO surface textures or patterned fills (every surface is plain flat color).
+with NO shading gradients, NO cel-shading highlights, NO gloss.
 Natural, coherent human anatomy with slightly long arms and legs — every figure has one head, two arms and two legs, with joints in the right places — mostly in calm, clear poses with a few dynamic mid-motion poses (running,
 falling, reaching, chasing). Multi-story cutaway building facades showing
 several levels of activity simultaneously, plus two or three small
@@ -354,10 +354,11 @@ real brand names.
   legs, joints in the right places". Probado primero solo en el barco
   (mejoró bastante) y después aplicado a las 8 escenas.
 - **v21 — Problema: cuerpos muy detallados/curvilíneos y exceso de
-  texturas y sombras.** Corrección: se agregó al bloque madre "NO cast
-  shadows, NO hatching, NO surface textures or patterned fills" y una
-  regla de cuerpos simples (formas planas, sin curvas exageradas, variedad
-  de tipos de cuerpo, ropa con pocos pliegues). Aplicado a las 8 escenas.
+  texturas y sombras.** Se agregó una regla de cuerpos simples (formas
+  planas, sin curvas exageradas, variedad de tipos de cuerpo, ropa con
+  pocos pliegues), que se mantiene. También se probó agregar "NO cast
+  shadows, NO hatching, NO surface textures or patterned fills", pero se
+  revirtió: el pedido de planitud total le sacaba carácter al estilo.
 
 ---
 

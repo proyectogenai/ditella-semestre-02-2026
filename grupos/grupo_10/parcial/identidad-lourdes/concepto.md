@@ -215,8 +215,7 @@ Flat European editorial illustration, in the character and world design
 DNA of "The Parisianer" (Éditions de la Martinière): thin, uniform,
 confident ink outlines (NOT thick, NOT glossy), flat matte color fills
 with NO shading gradients, NO cel-shading highlights, NO gloss.
-Elongated, loose, slightly exaggerated bendy character proportions,
-mostly in calm, clear poses with a few dynamic mid-motion poses (running,
+Natural, coherent human anatomy with slightly long arms and legs — every figure has one head, two arms and two legs, with joints in the right places — mostly in calm, clear poses with a few dynamic mid-motion poses (running,
 falling, reaching, chasing). Multi-story cutaway building facades showing
 several levels of activity simultaneously, plus two or three small
 animals in the whole scene, each with one head and four legs, clearly
@@ -229,7 +228,7 @@ anime-styled, NEVER photorealistic.
 EVERY character in the scene must share this exact graphic DNA:
 minimal, confident facial marks (a simple dot, dash or short line for
 eyes and mouth — NOT detailed anime eyes, NOT eyelashes, NOT glossy
-highlights, NOT cel-shaded blush) and elongated loose limbs. NEVER
+highlights, NOT cel-shaded blush) and natural, well-formed limbs. NEVER
 default to a generic modern anime/webtoon face. Most characters stand,
 talk, watch or hold a drink in simple, clear poses; only a few key
 characters per group are caught in dramatic mid-action. Each character
@@ -331,6 +330,29 @@ real brand names.
   escenas — siempre un elemento centralizador grande + un momento de
   caos/mishap, y recordatorio explícito de mantener la paleta plana
   aunque el escenario tire para lo suave.
+- **v17 — Problema: Lourdes no aparecía en las escenas** (el modelo
+  cambiaba su outfit o directamente no la dibujaba, aun con imagen de
+  referencia y chequeos obligatorios). Corrección: se decidió no pedirle
+  a la IA que la genere y sacarla por completo del bloque madre; se
+  agrega después, a mano, en Figma.
+- **v18 — Problema: ChatGPT pedía "subir una imagen base" en vez de
+  generar.** Respondió que había detectado el pedido como una edición de
+  imagen. Diagnóstico: el bloque "MANDATORY FINAL CHECK" usaba
+  vocabulario de revisión (verify, check, fix, redo, before returning),
+  que el modelo leía como edición de algo existente. Las versiones que
+  habían funcionado no lo tenían. Corrección: se eliminó esa sección;
+  el resto de la estructura numerada no era el problema.
+- **v19 — Problema: ambigüedad que inventaba objetos.** En el barco, el
+  centerpiece "inflatable sculpture" sin forma definida hacía que el
+  modelo dibujara un flamenco (cliché de fiesta de pileta). Corrección:
+  se sacó esa frase; los elementos del prompt deben ser concretos.
+- **v20 — Problema: figuras humanas deformes** (piernas, cuerpos
+  mezclados). Diagnóstico: el propio prompt pedía "bendy proportions" y
+  "elongated loose limbs", que el modelo leía como permiso para
+  deformar. Corrección: se reemplazó por "natural, coherent human
+  anatomy with slightly long arms and legs, one head, two arms, two
+  legs, joints in the right places". Probado primero solo en el barco
+  (mejoró bastante) y después aplicado a las 8 escenas.
 
 ---
 

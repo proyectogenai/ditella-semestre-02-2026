@@ -226,19 +226,17 @@ graphically confident, editorial — NEVER a generic modern flat-vector
 cartoon, NEVER a generic "AI illustration" look, NEVER glossy or
 anime-styled, NEVER photorealistic.
 
-EVERY character in the scene must share this exact graphic DNA: simple,
-confident facial marks (a dot, dash or short line for eyes and mouth —
-NOT detailed anime eyes, NOT eyelashes, NOT glossy highlights, NOT
-cel-shaded blush) and elongated loose limbs. NEVER default to a generic
-modern anime/webtoon face. "Minimal" means SIMPLE, not ABSENT: every
-character in the foreground and middle ground has a clearly readable
-face with two visible eye-marks. Most characters stand, talk, watch or
-hold a drink in simple, clear poses; only a few key characters per group
-are caught in dramatic mid-action. Each character is distinct via
-clothing color, hairstyle, body shape and specific action, and all
-belong to the same flat, witty "Parisianer" graphic family. Vary
-hairstyles, hair colors, skin tones and body types widely across the
-crowd — no repeated identical figures.
+EVERY character in the scene must share this exact graphic DNA:
+minimal, confident facial marks (a simple dot, dash or short line for
+eyes and mouth — NOT detailed anime eyes, NOT eyelashes, NOT glossy
+highlights, NOT cel-shaded blush) and elongated loose limbs. NEVER
+default to a generic modern anime/webtoon face. Most characters stand,
+talk, watch or hold a drink in simple, clear poses; only a few key
+characters per group are caught in dramatic mid-action. Each character
+still distinct via clothing color, hairstyle, body shape and specific
+action, but all recognizably belonging to the same flat, witty
+"Parisianer" graphic family. Vary hairstyles, hair colors, skin tones
+and body types widely across the crowd — no repeated identical figures.
 
 03 — MOTHER PALETTE
 Flat matte palette: mustard yellow, brick red, olive/forest green, burnt
@@ -267,18 +265,11 @@ etc.) — do not let it drift into a muted watercolor look.
 Include 3-4 secondary discoverable details (a small visual joke, a
 recurring prop, an odd character moment) scattered through the scene
 that reward close observation.
-Clarity comes first, density second: approximately 100-150 individually
-distinct figures in total, arranged in clearly separated groups
-(dancers, musicians, onlookers, vendors) with small gaps of open space
-between groups, so every head, hand and object stays readable.
-Foreground and middle-ground characters have complete, anatomically
-natural bodies — one head, two arms and two legs each — with clearly
-separated limbs. The far background holds only a few larger, simple
-figures instead of a tiny dense crowd, so every face stays readable.
-Interactions stay simple: each hand holds at most one object, each
-musician has their own instrument and sticks clearly apart from their
-neighbors, and few arms cross between people. Never random unrelated
-filler objects.
+Approximately 100-150 individually distinct characters overall.
+Characters in the foreground and middle ground must have clean,
+anatomically correct, complete bodies with clearly separated limbs.
+Characters far in the background may simplify into a dense, textured
+crowd.
 
 06 — COMPOSITION
 Wide panoramic composition, built for a full A3 horizontal double-page

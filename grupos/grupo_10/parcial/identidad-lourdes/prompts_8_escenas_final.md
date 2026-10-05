@@ -91,8 +91,8 @@ Flat matte palette: mustard yellow, brick red, olive/forest green, burnt orange,
 LOCATION: the pool terrace of a seaside villa, with the pool filling only one side of the frame and the villa facade (arched windows, balconies with spectators, striped awnings, climbing vines) filling the back
 MOMENT: bright midday
 SITUATION: pool party
-SPECIFIC ACTIVITIES: a huge inflatable flamingo float as the visual centerpiece in the pool; a floating drinks bar with guests around it; someone mid-air in a cannonball with the splash; a DJ booth at the pool's edge; a food table with tropical fruit on the tiled terrace; guests chatting in small groups among potted palms; people on striped lounge chairs; a dog watching the pool from the terrace
-ENVIRONMENTAL / CULTURAL ELEMENTS: patterned terrace tiles, string lights, pool noodles, beach balls, stacks of towels, water drawn as flat blue blocks with simple wavy ink lines (no gradients)
+SPECIFIC ACTIVITIES: a floating drinks bar with guests around it; someone mid-air in a cannonball with the splash; a DJ booth at the pool's edge; a food table with tropical fruit on the tiled terrace; guests chatting in small groups among potted palms; people on striped lounge chairs; a dog watching the pool from the terrace
+ENVIRONMENTAL / CULTURAL ELEMENTS: patterned terrace tiles, string lights, pool noodles, beach balls, stacks of towels, pool water drawn as flat blocks of deep teal blue (around hex #2C7C94) with simple wavy ink lines (no gradients)
 REMINDER: keep the bold flat matte palette from section 03 — don't drift into a naturalistic sunny-pool photo look. No underwater, scuba or snorkeling content.
 
 05 — SEARCH-AND-FIND SYSTEM

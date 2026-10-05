@@ -211,31 +211,13 @@ party photo, but a rich inhabited world with its own personality and
 internal logic.
 
 02 — FIXED VISUAL UNIVERSE
-Flat European editorial illustration, in the character and world design
-DNA of "The Parisianer" (Éditions de la Martinière): thin, uniform,
-confident ink outlines (NOT thick, NOT glossy), flat matte color fills
-with NO shading gradients, NO cel-shading highlights, NO gloss.
-Natural, coherent human anatomy with slightly long arms and legs — every figure has one head, two arms and two legs, with joints in the right places — mostly in calm, clear poses with a few dynamic mid-motion poses (running,
-falling, reaching, chasing). Multi-story cutaway building facades showing
-several levels of activity simultaneously, plus two or three small
-animals in the whole scene, each with one head and four legs, clearly
-separate from the people around them. The result
-must feel like a page from a real published illustrated book — witty,
-graphically confident, editorial — NEVER a generic modern flat-vector
-cartoon, NEVER a generic "AI illustration" look, NEVER glossy or
-anime-styled, NEVER photorealistic.
+Flat European editorial illustration that closely imitates the look of "The Parisianer" (Éditions de la Martinière) — a hand-drawn comic-book / gouache screen-print look, NOT a digital vector look. Linework: thin, dark, slightly irregular hand-inked pen lines (like a fine felt-tip or dip pen, with a natural hand wobble; NOT perfectly smooth, NOT thick, NOT glossy). Color: solid flat matte fills applied as clean shapes inside the lines, with NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly brush texture, NO paper grain. Between the busy groups of people, leave calm areas of one single flat color (the sky as one uniform flat tone, large walls as flat cream, roofs as flat slate-blue) so the page breathes.
 
-EVERY character in the scene must share this exact graphic DNA:
-minimal, confident facial marks (a simple dot, dash or short line for
-eyes and mouth — NOT detailed anime eyes, NOT eyelashes, NOT glossy
-highlights, NOT cel-shaded blush) and natural, well-formed limbs. Bodies are drawn with minimal, simple detail: plain straight-ish shapes, no exaggerated curves, a natural variety of ordinary body types (slim, stocky, tall, short, round), and clothing as plain flat shapes with few folds. NEVER
-default to a generic modern anime/webtoon face. Most characters stand,
-talk, watch or hold a drink in simple, clear poses; only a few key
-characters per group are caught in dramatic mid-action. Each character
-still distinct via clothing color, hairstyle, body shape and specific
-action, but all recognizably belonging to the same flat, witty
-"Parisianer" graphic family. Vary hairstyles, hair colors, skin tones
-and body types widely across the crowd — no repeated identical figures.
+Buildings and structures are drawn as flat, straight-on frontal elevations, like a dollhouse cutaway: large flat-colored walls and roofs, details only as thin parallel ink lines (shutters, railings, roof tiles, planks, bricks), no realistic perspective rendering, no lighting effects. Windows and doorways glow with a flat warm yellow and each one shows a small funny story happening inside, so several levels of activity are visible at once. Add two or three small animals in the whole scene, each with one head and four legs, clearly separate from the people around them.
+
+Characters have natural, coherent anatomy — every figure has one head, two arms and two legs, with joints in the right places — drawn slim, lanky and slightly angular, with slightly long arms and legs and sharp elbows and knees, in mostly calm, clear poses with a few dynamic mid-motion poses (running, falling, reaching, chasing). Each face is a witty caricature of a specific eccentric type: tiny dot eyes, expressive eyebrows, a prominent angular nose, many faces in profile or three-quarter view. The result must feel like a page from a real published illustrated book — witty, graphically confident, editorial — NEVER a generic modern flat-vector cartoon, NEVER a generic "AI illustration" look, NEVER glossy or anime-styled, NEVER photorealistic.
+
+EVERY character in the scene must share this exact graphic DNA: the same thin wobbly ink line, the same flat fills, the same caricatured faces (a dot or dash for the eyes, a simple line or open shape for the mouth — NOT detailed anime eyes, NOT eyelashes, NOT glossy highlights, NOT cel-shaded blush) and natural, well-formed limbs. Bodies are drawn with minimal, simple detail: plain straight-ish shapes, no exaggerated curves, a natural variety of ordinary body types (slim, stocky, tall, short, round), and clothing as plain flat shapes with few folds. NEVER default to a generic modern anime/webtoon face. Most characters stand, talk, watch or hold a drink in simple, clear poses; only a few key characters per group are caught in dramatic mid-action. Each character still distinct via clothing color, hairstyle, body shape and specific action, but all recognizably belonging to the same flat, witty "Parisianer" graphic family. Vary hairstyles, hair colors, skin tones and body types widely across the crowd — no repeated identical figures.
 
 03 — MOTHER PALETTE
 Flat matte palette: mustard yellow, brick red, olive/forest green, burnt
@@ -283,7 +265,7 @@ distance. Activity extends toward the edges of the frame. Multiple
 visual paths for the eye to explore. Landscape format, 1414x1000px.
 
 07 — OUTPUT / EXCLUSIONS
-High-resolution polished editorial illustration in "The Parisianer" style
+High-resolution hand-inked, flat-color editorial illustration in "The Parisianer" style
 described above. Rich environmental detail. NO text. NO logos. NO
 watermark. NO photorealism. NO gloss or anime look. NO generic modern
 flat-vector cartoon look. NO random unrelated filler objects —
@@ -361,6 +343,18 @@ real brand names.
   revirtió: el pedido de planitud total le sacaba carácter al estilo.
 
 ---
+
+- **v22 — Problema: el resultado no se parecía lo suficiente a The
+  Parisianer** (se comparó una página real contra la imagen generada del
+  Carnaval: la generada salía con grano de papel, textura pictórica,
+  perspectiva con profundidad, caras genéricas y multitudes de figuras
+  chicas; la real usa línea de pluma fina e irregular, colores planos
+  lisos, cielo y paredes de un solo tono, fachadas frontales tipo casa de
+  muñecas con ventanas amarillas que cuentan mini-historias, y figuras
+  flacas y angulosas con caras caricaturescas, narigudas y de perfil).
+  Corrección: se reescribió la sección 02 del bloque madre con esos rasgos
+  y se cambió "polished" por "hand-inked, flat-color" en la sección 07.
+  Aplicado a las 8 escenas.
 
 ## D.4 — Lo que presentamos al curso
 

@@ -216,26 +216,27 @@ DNA of "The Parisianer" (Éditions de la Martinière): thin, uniform,
 confident ink outlines (NOT thick, NOT glossy), flat matte color fills
 with NO shading gradients, NO cel-shading highlights, NO gloss.
 Elongated, loose, slightly exaggerated bendy character proportions,
-dynamic mid-motion poses (running, falling, reaching, chasing). Multi-story
-cutaway building facades showing several levels of activity
-simultaneously, small animals woven naturally into the scene. The result
+mostly in calm, clear poses with a few dynamic mid-motion poses (running,
+falling, reaching, chasing). Multi-story cutaway building facades showing
+several levels of activity simultaneously, plus two or three small
+animals in the whole scene, each with one head and four legs, clearly
+separate from the people around them. The result
 must feel like a page from a real published illustrated book — witty,
 graphically confident, editorial — NEVER a generic modern flat-vector
 cartoon, NEVER a generic "AI illustration" look, NEVER glossy or
 anime-styled, NEVER photorealistic.
 
-EVERY character in the scene — not only Lourdes — must share this exact
-graphic DNA: minimal, confident facial marks (a simple dot, dash or short
-line for eyes and mouth — NOT detailed anime eyes, NOT eyelashes, NOT
-glossy highlights, NOT cel-shaded blush), elongated loose limbs, and a
-dynamic mid-action pose. NEVER default to a generic modern anime/webtoon
-face. "Minimal" means SIMPLE, not ABSENT: a blank, featureless, or
-smudged-out face is a mistake and never acceptable, no matter how small
-or far away the character is or how dense the crowd gets — every single
-face, down to the smallest background figure, must show at least a
-visible pair of eye-marks. Each character still distinct via clothing
-color, hairstyle, body shape and specific action, but all recognizably
-belonging to the same flat, witty "Parisianer" graphic family. Vary
+EVERY character in the scene must share this exact graphic DNA: simple,
+confident facial marks (a dot, dash or short line for eyes and mouth —
+NOT detailed anime eyes, NOT eyelashes, NOT glossy highlights, NOT
+cel-shaded blush) and elongated loose limbs. NEVER default to a generic
+modern anime/webtoon face. "Minimal" means SIMPLE, not ABSENT: every
+character in the foreground and middle ground has a clearly readable
+face with two visible eye-marks. Most characters stand, talk, watch or
+hold a drink in simple, clear poses; only a few key characters per group
+are caught in dramatic mid-action. Each character is distinct via
+clothing color, hairstyle, body shape and specific action, and all
+belong to the same flat, witty "Parisianer" graphic family. Vary
 hairstyles, hair colors, skin tones and body types widely across the
 crowd — no repeated identical figures.
 
@@ -266,30 +267,29 @@ etc.) — do not let it drift into a muted watercolor look.
 Include 3-4 secondary discoverable details (a small visual joke, a
 recurring prop, an odd character moment) scattered through the scene
 that reward close observation.
-Characters in the foreground and middle ground must have clean,
-anatomically correct, complete bodies with clearly separated limbs.
-Characters far in the background may simplify into a dense, textured
-crowd of smaller figures (less individual anatomical precision needed at
-that distance) — this is a stylistic convention of the genre, not a
-flaw. Approximately 250-300 individually distinct figures total across
-the whole scene: a clean, anatomically correct set of characters filling
-the foreground and middle ground, PLUS a dense background crowd
-(simplified, textural, smaller) that pushes the total count much higher
-without needing individual anatomical precision. Never generic repeated
-poses in the foreground, never random unrelated filler objects.
+Clarity comes first, density second: approximately 100-150 individually
+distinct figures in total, arranged in clearly separated groups
+(dancers, musicians, onlookers, vendors) with small gaps of open space
+between groups, so every head, hand and object stays readable.
+Foreground and middle-ground characters have complete, anatomically
+natural bodies — one head, two arms and two legs each — with clearly
+separated limbs. The far background holds only a few larger, simple
+figures instead of a tiny dense crowd, so every face stays readable.
+Interactions stay simple: each hand holds at most one object, each
+musician has their own instrument and sticks clearly apart from their
+neighbors, and few arms cross between people. Never random unrelated
+filler objects.
 
 06 — COMPOSITION
-EXTREMELY wide, zoomed-out panoramic composition, built for a full A3
-horizontal double-page spread (the printed book opens to this size): pull
-the camera back MUCH further than feels natural, so many more people and
-much more environment fit in frame — but keep a slightly elevated,
+Wide panoramic composition, built for a full A3 horizontal double-page
+spread (the printed book opens to this size), with a slightly elevated,
 comfortable wide-angle viewpoint (like looking down a street or across a
-venue from a bit above eye level), NOT a fully aerial top-down "diorama
-from directly above" shot. The whole location and its surroundings must
-fit in frame at once, with the crowd and environment filling the entire
-frame edge to edge, activity extending toward and past all four borders,
-as if the scene keeps going beyond what's shown. Clear foreground, middle
-ground and background, with figures visibly shrinking with distance. Multiple
+venue from a bit above eye level), NOT a fully aerial top-down shot. The
+camera stays close enough that every figure is large enough for its face
+and hands to read clearly, and the scene has moderate depth — a short
+street or venue rather than a deep, distant one. Clear foreground,
+middle ground and background, with figures shrinking gently with
+distance. Activity extends toward the edges of the frame. Multiple
 visual paths for the eye to explore. Landscape format, 1414x1000px.
 
 07 — OUTPUT / EXCLUSIONS

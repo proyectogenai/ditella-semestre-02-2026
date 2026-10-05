@@ -252,10 +252,10 @@ EVERY character in the scene must share this exact graphic DNA: the same thin wo
 Flat matte palette: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream — NO gloss, NO neon, NO pastel-candy softness. (This scene also brings in sky-blue and white as its own strong local accent, per the Argentina flag colors — see scene template.)
 
 04 — SCENE TEMPLATE
-LOCATION: the Obelisco de Buenos Aires standing in the middle of the wide Avenida 9 de Julio and the surrounding avenue
+LOCATION: the Obelisco de Buenos Aires and the surrounding avenue
 MOMENT: night
 SITUATION: massive street celebration after an Argentina national team World Cup win
-SPECIFIC ACTIVITIES: the Obelisco itself as the visual centerpiece, shown ENTIRELY from its foot to its tip, with the whole tower inside the frame and the tip well clear of the top edge, placed in the middle ground of the image so the crowd in the foreground stays large — drawn as an exact copy of the real monument: a very tall, slender, plain, smooth white four-sided stone obelisk that tapers gradually upward to a small pyramid tip, with NO steps, NO stairs, NO pedestal tiers, NO ornaments, NO decoration, rising straight up from the street pavement, and kept completely clear (no people, flags, banners or ropes on it) while the crowd celebrates around its foot on the wide avenue; fireworks bursting in the sky on both sides of it; a group playing "bombos" (drums) in rhythm; people waving huge sky-blue-and-white flags and banners; someone spraying a bottle of sparkling wine over the crowd, foam flying; a person riding on someone else's shoulders waving a flag; cars honking with people leaning out the windows waving flags
+SPECIFIC ACTIVITIES: the Obelisco itself as the visual centerpiece, with people climbing up onto its base and sides; fireworks bursting in the sky above; a group playing "bombos" (drums) in rhythm; people waving huge sky-blue-and-white flags and banners; someone spraying a bottle of sparkling wine over the crowd, foam flying; a person riding on someone else's shoulders waving a flag; cars honking with people leaning out the windows waving flags
 ENVIRONMENTAL / CULTURAL ELEMENTS: sky-blue and white flags and bunting everywhere, smoke/flares in sky-blue and white, scattered confetti and torn paper, street vendors selling flags and face paint, national team jerseys on many people in the crowd, streetlights and illuminated buildings in the background
 
 05 — SEARCH-AND-FIND SYSTEM

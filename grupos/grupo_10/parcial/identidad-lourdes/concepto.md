@@ -214,7 +214,7 @@ internal logic.
 Flat European editorial illustration, in the character and world design
 DNA of "The Parisianer" (Éditions de la Martinière): thin, uniform,
 confident ink outlines (NOT thick, NOT glossy), flat matte color fills
-with NO shading gradients, NO cel-shading highlights, NO gloss.
+with NO shading gradients, NO cel-shading highlights, NO gloss, NO cast shadows, NO hatching, NO surface textures or patterned fills (every surface is plain flat color).
 Natural, coherent human anatomy with slightly long arms and legs — every figure has one head, two arms and two legs, with joints in the right places — mostly in calm, clear poses with a few dynamic mid-motion poses (running,
 falling, reaching, chasing). Multi-story cutaway building facades showing
 several levels of activity simultaneously, plus two or three small
@@ -228,7 +228,7 @@ anime-styled, NEVER photorealistic.
 EVERY character in the scene must share this exact graphic DNA:
 minimal, confident facial marks (a simple dot, dash or short line for
 eyes and mouth — NOT detailed anime eyes, NOT eyelashes, NOT glossy
-highlights, NOT cel-shaded blush) and natural, well-formed limbs. NEVER
+highlights, NOT cel-shaded blush) and natural, well-formed limbs. Bodies are drawn with minimal, simple detail: plain straight-ish shapes, no exaggerated curves, a natural variety of ordinary body types (slim, stocky, tall, short, round), and clothing as plain flat shapes with few folds. NEVER
 default to a generic modern anime/webtoon face. Most characters stand,
 talk, watch or hold a drink in simple, clear poses; only a few key
 characters per group are caught in dramatic mid-action. Each character
@@ -353,6 +353,11 @@ real brand names.
   anatomy with slightly long arms and legs, one head, two arms, two
   legs, joints in the right places". Probado primero solo en el barco
   (mejoró bastante) y después aplicado a las 8 escenas.
+- **v21 — Problema: cuerpos muy detallados/curvilíneos y exceso de
+  texturas y sombras.** Corrección: se agregó al bloque madre "NO cast
+  shadows, NO hatching, NO surface textures or patterned fills" y una
+  regla de cuerpos simples (formas planas, sin curvas exageradas, variedad
+  de tipos de cuerpo, ropa con pocos pliegues). Aplicado a las 8 escenas.
 
 ---
 

@@ -11,6 +11,44 @@ en prompts completos y consistentes: el personaje NODI, su familia y las
 escenas del atlas estilo Wally. La entrega es siempre el prompt en inglés,
 completo y listo para pegar.
 
+## ACTUALIZACIONES CON EL REPO (obligatorio)
+Esta skill vive en el repo del curso, en
+`grupos/grupo_09/clase_03/familia_monstrix/monstrix/`. En los comandos de
+abajo, `<repo>` = la carpeta del repo del curso en esta máquina (la que
+contiene `.git`); si no se sabe dónde está, se encuentra con
+`git -C "<carpeta real de esta skill>" rev-parse --show-toplevel`.
+
+### AL ACTIVAR en una sesión nueva (una sola vez por sesión)
+Antes de cualquier otra tarea, y sin que nadie lo pida:
+1. `git -C <repo> fetch origin`
+2. `git -C <repo> rev-list --count HEAD..origin/main`
+3. Si da 0: no hay nada, seguir en silencio (no hace falta avisar que se
+   chequeó).
+4. Si hay actualizaciones: primero `git -C <repo> log --oneline HEAD..origin/main`
+   (para saber qué cambió) y después `git -C <repo> pull --ff-only`.
+   Avisar al usuario qué se bajó (commits y qué cambiaron) y que
+   **reinicie opencode**, porque los cambios en skills se cargan recién al
+   arrancar.
+5. Si el fetch falla (sin conexión) o el pull falla (cambios locales sin
+   commitear o historias divergentes): NO forzar, NO stashear, NO hacer
+   force. Avisar en una línea y preguntar qué hacer.
+
+### DESPUÉS DE CADA CAMBIO EN ESTA SKILL
+1. Terminada la edición, preguntar SIEMPRE al usuario (herramienta de
+   preguntas) si quiere subir el cambio al repo del curso. No decidir por
+   cuenta propia, aunque el cambio parezca chico.
+2. Si dice que sí:
+   - `git -C <repo> status --short` (revisar qué se va a commitear)
+   - `git -C <repo> add "grupos/grupo_09/clase_03/familia_monstrix/monstrix"`
+   - `git -C <repo> commit -m "grupo 09: skill monstrix - <qué cambió, en una línea>"`
+   - `git -C <repo> pull --rebase` (siempre pull antes de push)
+   - `git -C <repo> push`
+   - Avisar que quedó subido y con qué commit.
+3. Si dice que no: dejar los cambios sin commitear y avisar que quedaron
+   solo en esta máquina.
+4. Commitear SOLO la carpeta de la skill: nunca material de otros grupos ni
+   de cátedra, nunca API keys ni archivos pesados.
+
 ## GENERADOR: ChatGPT
 Los prompts van a **ChatGPT** (generación de imágenes).
 - El prompt se pega como texto en el chat; la referencia de NODI

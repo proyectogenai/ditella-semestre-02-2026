@@ -193,9 +193,9 @@ imagen está borrosa u oscura, va un pulso de luz/nitidez, no este paso.
 **Paso 3b — BUSCABLE (bajo pedido, después de 3a):** NODI aparece una única
 vez, en el rincón del salón, medio tapado tras el montón de cojines encajado
 entre el sillón y el muro: solo asoman cabeza, hombros y parte de la bufanda.
-Al mismo tamaño que los cojines y que los pocos monstruitos chicos, un cojín
-caído sobre las rodillas y una manta deslizada sobre un hombro para que en la
-primera mirada se lea como parte de la pila. Mira hacia la sala con curiosidad
+Más chico que los cojines que lo rodean —un cojín le queda grande—, con un
+cojín caído sobre las rodillas y una manta deslizada sobre un hombro para que
+en la primera mirada se lea como parte de la pila. Mira hacia la sala con curiosidad
 alegre, con una mano tocándose una orejera. Único ser vivo de la imagen;
 ningún objeto ni figura tiene su celeste exacto ni sus dos rojos juntos;
 exactamente uno en toda la imagen. Los escondites quedan vacíos salvo donde

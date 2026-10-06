@@ -456,6 +456,23 @@ familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
   actividad; y (c) NODI, acompañando a los encontrados pero siempre chiquito
   y disimulado entre los objetos. Pedir al grupo las imágenes de referencia
   de cada personaje que aparezca y adjuntarlas con la de NODI.
+- **ESCALA ANTI-GIGANTE (obligatoria desde el PRIMER intento, sin pulso)**:
+  TODOS los personajes del paso 3 —los ya encontrados, el nuevo y NODI— van
+  CHIBOS y con la MISMA altura visual que los monstruitos chicos de fondo de
+  la escena. Un adulto de la familia puede ser apenas más alto que uno de
+  fondo, nunca el doble, nunca más grande que un objeto que lo rodea. PROHIBIDO
+  en las fichas: "adult size", "normal adult size", "adult of his/her species"
+  u otra fórmula que el modelo interprete como gigante — el tamaño va escrito
+  en cada ficha, no se deja a la interpretación. Cada personaje lleva en su
+  ficha, en inglés y desde el primer intento:
+  "SMALL CHIBI SCALE: the same height as the small background monsters
+  around him/her — never giant, never oversized, never larger than the objects
+  next to him/her, no first-row placement, no hero framing, not in the center
+  foreground, no enlarged character".
+  Y el NEGATIVE del paso 3 agrega siempre: "no giant or oversized figures, no
+  enlarged characters, no first-row giant, no characters bigger than the
+  background monsters". Si a pesar de esto salen gigantes, va el pulso de
+  escala (sección NODI), no se regenera la escena.
 - **NODI se camufla con los OBJETOS, no con la gente**: medio escondido en una
   pila, detrás de una tela caída o tapado a medias por un montón. Su función es
   que el espectador, revisando entre las cosas, lo pase por alto. La regla

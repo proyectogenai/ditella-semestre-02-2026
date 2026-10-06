@@ -191,15 +191,15 @@ sigue sin ningún ser vivo. Solo sirve si faltan escondites o trampas; si la
 imagen está borrosa u oscura, va un pulso de luz/nitidez, no este paso.
 
 **Paso 3b — BUSCABLE (bajo pedido, después de 3a):** NODI aparece una única
-vez, en el rincón del salón, medio tapado tras el montón de cojines encajado
-entre el sillón y el muro: solo asoman cabeza, hombros y parte de la bufanda.
-Más chico que los cojines que lo rodean —un cojín le queda grande—, con un
+vez, en el rincón del salón, HUNDIDO en el montón de cojines encajado entre
+el sillón y el muro. Un cojín le queda grande y le tapa casi todo el cuerpo:
+solo asoman parte de la cabeza, una orejera y un pedazo de la bufanda. Otro
 cojín caído sobre las rodillas y una manta deslizada sobre un hombro para que
-en la primera mirada se lea como parte de la pila. Mira hacia la sala con curiosidad
-alegre, con una mano tocándose una orejera. Único ser vivo de la imagen;
-ningún objeto ni figura tiene su celeste exacto ni sus dos rojos juntos;
-exactamente uno en toda la imagen. Los escondites quedan vacíos salvo donde
-esté él.
+en la primera mirada se lea como un montón más de la pila. Mira hacia la sala
+con curiosidad alegre, con una mano tocándose una orejera. Único ser vivo de
+la imagen; ningún objeto ni figura tiene su celeste exacto ni sus dos rojos
+juntos; exactamente uno en toda la imagen. Los escondites quedan vacíos salvo
+donde esté él.
 
 ---
 

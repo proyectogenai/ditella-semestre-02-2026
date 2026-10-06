@@ -106,9 +106,10 @@ inglés y se pegan en ChatGPT.
 - Boca: sonrisa con dos colmillos que cuelgan SOLO debajo de la línea de la
   boca; sin manchas ni marcas claras arriba de la boca
 - Cuerpo: regordete, sin cuello
-- Tamaño: MUY pequeño — más chico que los cojines, los muebles y los objetos
-  que lo rodean (un cojín le queda grande); como máximo, del tamaño de los
-  monstruitos chicos de la escena. Nunca a tamaño de personaje
+- Tamaño: del MISMO tamaño que los monstruitos chicos de su escena, nunca más
+  grande que ellos. En escenas sin monstruitos (la casa): más chico que los
+  cojines, muebles y objetos que lo rodea (un cojín le queda grande). Nunca a
+  tamaño de personaje
 - Vestuario: bufanda roja que le envuelve los hombros + orejeras rojas peludas
 - Gestos: feliz aplaude / muy contento salta / nervioso agarra su bufanda /
   no sabe qué hacer se toca las orejeras / triste se cubre la cara
@@ -248,8 +249,10 @@ Atlas = dónde-está-Wally del mundo Monstrix.
 - UN SOLO ejemplar de cada buscable: exactamente un NODI por escena. Cualquier
   celeste+rojo que no sea él es un OBJETO TRAMPA o un patrón, jamás otro
   personaje idéntico. Contar antes de terminar.
-- **BUSCABLE CHIQUITO Y DISIMULADO**: el buscable tiene que ser más chico que
-  lo que lo rodea y tenerse que buscar entre los objetos. **Nunca** debe estar
+- **BUSCABLE CHIQUITO Y DISIMULADO**: el buscable tiene que medir lo mismo que
+  los monstruitos chicos de su escena —nunca más que ellos— o, si la escena no
+  tiene monstruitos, ser más chico que los objetos que lo rodea. Y tiene que
+  tenerse que buscar entre los objetos. **Nunca** debe estar
   muy a la vista, ni en el centro, ni en el borde, ni en un espacio libre, ni
   iluminado de más, ni resaltar entre los demás elementos de la escena. Si se
   ve de una, la escena se regenera: no se arregla con un pulso. Vale también
@@ -369,15 +372,18 @@ tapaba el cuadro.
 Nunca debe estar muy a la vista ni resaltar entre los demás elementos de la
 escena. Si al mirar la imagen lo ves de una, está mal. Vale para cualquier
 escena, cualquier prompt de pasos 1 y 2 y cualquier pulso.
-- **Chiquito**: más chico que los objetos y el mobiliario que lo rodean —un
-  cojín le queda grande— y, como máximo, del tamaño de los monstruitos más
-  chicos de la escena. Ni más alto que lo que lo tapa. Nunca grande, nunca a
-  tamaño de personaje principal. El tamaño chico va escrito en el prompt desde
-  el primer intento: es regla, no corrección.
+- **Chiquito**: con el MISMO tamaño que los monstruitos chicos de la escena
+  cuando hay otros —nunca más grande que ellos ni más alto que lo que lo
+  tapa—. En escenas sin monstruitos (la casa), más chico que los objetos y el
+  mobiliario que lo rodean: los cojines le quedan grandes. Nunca grande, nunca
+  a tamaño de personaje principal. El tamaño va escrito en el prompt desde el
+  primer intento: es regla, no corrección.
 - **Disimulado**: se esconde entre los objetos, no se para en el claro. Medio
   tapado por una pila, detrás de una tela caída, adentro de un hueco, bajo una
-  escalera o en la sombra de un mueble. Nunca parado en el centro del cuadro,
-  nunca en el borde, nunca en un lugar libre y bien iluminado.
+  escalera o en la sombra de un mueble —tan tapado que solo asoma parte de la
+  cabeza o de la bufanda—. Nunca parado en el centro del cuadro, nunca en el
+  borde, nunca en un lugar libre y bien iluminado, y nunca completo a la
+  vista: si se lo distingue entero a la primera mirada, está mal.
 - **No resalta**: ni brillo ni halo ni luz que lo busque, ni un espacio vacío
   alrededor, ni la mirada de nadie apuntando a él, ni un color que lo aísle. Su
   celeste y su rojo tienen que confundirse con el resto del desorden.
@@ -418,22 +424,23 @@ recurso de último recurso: si el modelo agranda a NODI y un pulso no lo
 corrige, se vuelve a la imagen buena y se reinserta con esta frase):
 "THE ONE TO FIND: among the piles of soft objects, half hidden behind a heap
 of them, there is one small ice-blue furry figure with a red scarf and red
-furry earmuffs, smaller than the cushions and objects around him, no bigger
-than the small monsters near him and nothing more noticeable than the objects
-next to him, with no glow, no spotlight and no
-attention drawn to him. He is the only living thing in the image wearing a red
-scarf and red furry earmuffs at the same time, and neither any other figure nor
-any object in the piles has his exact ice blue fur color."
+furry earmuffs, the same size as the small monsters near him — or smaller than
+the cushions and objects around him when he is the only creature in the frame —
+pressed deep into the heap so that only part of his head shows, with no glow,
+no spotlight and no attention drawn to him. He is the only living thing in the
+image wearing a red scarf and red furry earmuffs at the same time, and neither
+any other figure nor any object in the piles has his exact ice blue fur color."
 
 AJUSTE: NODI DENTRO DE LA ESCENA (pulso, con la imagen aprobada adjunta):
 "Keep the whole image exactly as it is: same composition, same camera, same
 few figures, same piles of objects, same six big set pieces, same light, same
 palette. Change only one thing: the ice-blue figure with the red scarf and the
-red furry earmuffs must be much smaller than the objects around him — smaller
-than the cushions in the pile, smaller than the furniture beside him, with a
-fallen cushion almost covering him — and no bigger than the small figures near
-him, seen from the same distance as them, half hidden behind the same heap of
-soft objects, with nothing framing him and nothing lighting him. He is one more shape in a room full of things,
+red furry earmuffs must be the same size as the small figures around him and
+no bigger than them — and if there are no other figures in the room, much
+smaller than the cushions and objects around him, with a fallen cushion almost
+covering him. Push him deeper into the same heap of soft objects so that only
+part of his head and one earmuff show, with nothing framing him and nothing
+lighting him. He is one more shape in a room full of things,
 not the subject of the picture: no glow, no halo, no rim light, no spotlight, no
 shallow depth of field and no blur on any other layer. RESTORE also: bring back the original
 bright winter daylight and the razor-sharp fine detail of the approved image —
@@ -599,10 +606,10 @@ una edición corta, 4 secciones, igual que la de densidad pero dejando a NODI
   1) SOURCE IMAGE: el mismo congelamiento entero de la variante de edición,
      identificando el lugar en una línea.
   2) ADD NODI: la ficha completa de NODI en inglés, en su lugar exacto del
-      lugar, MUY pequeño — más chico que los objetos y el mobiliario a su
-      alrededor, como máximo del tamaño de los monstruitos chicos que ya
-      están—, medio perdido entre los objetos (no entre la gente), tapado por
-      una pila o una tela, + "no glow,
+      lugar, del MISMO tamaño que los monstruitos chicos que ya están (en la
+      casa, sin monstruitos, más chico que los objetos y el mobiliario que lo
+      rodean), medio perdido entre los objetos (no entre la gente), tapado por
+      una pila o una tela y casi enteramente cubierto, + "no glow,
      no halo, no spotlight, no attention drawn to him" + anti-clon ("he is the
      only living thing in the whole image, he is the only figure wearing a red
      scarf and red furry earmuffs at the same time, no other figure and no

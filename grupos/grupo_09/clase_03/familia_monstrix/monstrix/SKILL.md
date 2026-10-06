@@ -215,7 +215,7 @@ Atlas = dónde-está-Wally del mundo Monstrix.
   y aparte, sobre la imagen aprobada, y solo cuando el grupo avise. Las reglas
   de buscable de esta sección (el único ejemplar, los escondites, THE ONE TO
   FIND) están escritas y funcionan, pero se aplican únicamente en ese paso.
-  Lo que sí aplica para los renders de ahora: la myriad de reglas de encuadre,
+  Lo que sí aplica para los renders de ahora: la multitud de reglas de encuadre,
   luz, textura, paleta y campo de objetos, que son las de abajo.
 - **EL CAOS LO HACEN LOS OBJETOS, NO LA GENTE.** Hay personajes, pero son pocos
   y NO son el motor de la cuadro: nada de multitud, ni alfombra de monstruitos,
@@ -230,6 +230,12 @@ Atlas = dónde-está-Wally del mundo Monstrix.
 - UN SOLO ejemplar de cada buscable: exactamente un NODI por escena. Cualquier
   celeste+rojo que no sea él es un OBJETO TRAMPA o un patrón, jamás otro
   personaje idéntico. Contar antes de terminar.
+- **BUSCABLE CHIQUITO Y DISIMULADO**: el buscable tiene que ser tan chico como
+  lo que lo rodea y tenerse que buscar entre los objetos. **Nunca** debe estar
+  muy a la vista, ni en el centro, ni en el borde, ni en un espacio libre, ni
+  iluminado de más, ni resaltar entre los demás elementos de la escena. Si se
+  ve de una, la escena se regenera: no se arregla con un pulso. Vale también
+  para el resto de los personajes buscables de la familia, cuando entren.
 - CÁMARA: plano de FRENTE a TRES CUARTOS, a la ALTURA DE LOS MONSTRUITOS
   (desde los ojos de los personajes, con leve rotación lateral). NUNCA aérea,
   cenital ni isométrica, ni close-up pegado a un objeto. El horizonte queda
@@ -341,6 +347,24 @@ tapaba el cuadro.
   ficha exacta, y los objetos trampa nunca tienen anatomía.
 
 ## NODI: EL PASO DE BÚSQUEDABLES (paso 3, solo bajo pedido)
+**REGLA DE ORO: NODI TIENE QUE ESTAR CHIQUITO Y DISIMULARSE ENTRE LAS COSAS.**
+Nunca debe estar muy a la vista ni resaltar entre los demás elementos de la
+escena. Si al mirar la imagen lo ves de una, está mal. Vale para cualquier
+escena, cualquier prompt de pasos 1 y 2 y cualquier pulso.
+- **Chiquito**: a la misma escala que los objetos que lo rodean y que los pocos
+  monstruitos de la escena. Ni más alto que el mobiliario que tiene al lado ni
+  más grande que lo que lo tapa. Nunca grande, nunca a tamaño de personaje
+  principal.
+- **Disimulado**: se esconde entre los objetos, no se para en el claro. Medio
+  tapado por una pila, detrás de una tela caída, adentro de un hueco, bajo una
+  escalera o en la sombra de un mueble. Nunca parado en el centro del cuadro,
+  nunca en el borde, nunca en un lugar libre y bien iluminado.
+- **No resalta**: ni brillo ni halo ni luz que lo busque, ni un espacio vacío
+  alrededor, ni la mirada de nadie apuntando a él, ni un color que lo aísle. Su
+  celeste y su rojo tienen que confundirse con el resto del desorden.
+- Criterio de aprobación: se cuenta uno solo y se tarda en encontrarlo. Si es
+  obvio, repetir el paso, no corregirlo con un pulso.
+
 **Nunca va en los prompts de escena.** Las dos primeras consignas de cada
 escena (ESCENA GENERAL y AGREGAR DENSIDAD) se hacen siempre sin NODI y sin
 familia. NODI entra después, en un paso aparte y bajo demanda del grupo.

@@ -61,6 +61,29 @@ Los prompts van a **ChatGPT** (generación de imágenes).
   SIEMPRE presente, incluso en los pulsos cortos.
 - **Agranda a un personaje si lo describís de largo**: una ficha de 6 líneas lo
   convierte en protagonista (ver "NODI: EL PASO DE BÚSQUEDABLES").
+- **Con varios miembros de la familia juntos los dibuja BIEN pero demasiado
+  grandes y muy obvios**: salen con sus rasgos y proporciones correctos, pero
+  ocupando todo el cuadro y además posando, agrupados en el centro o mirando a
+  cámara, como anuncio. Regla: generar de a UN personaje por imagen (retrato
+  propio de cada uno). Si van juntos, se escriben EXPLÍCITAS dos cosas en el
+  prompt: la ESCALA —figuras chicas en el cuadro, cuerpo entero con espacio
+  alrededor, más pequeñas que las piezas grandes y que los objetos que las
+  rodean, nunca primer plano— y la INTEGRACIÓN —cada uno en su propia
+  microescena, dispersos por el cuadro en grupos desiguales, y todos dando la
+  impresión de estar BUSCANDO a otro: mirando alrededor, asomándose detrás de
+  objetos, con una mano en alto para llamar, señalando un camino; sin pose de
+  foto, sin grupo central y sin mirar a cámara (REGLA WALLY), salvo el
+  desenlace de la escena 8, que es el reencuentro: ahí van juntos y felices,
+  sin buscar—.
+  Si van todos en un solo prompt, además fichas CORTAS por personaje (color de
+  pelo + accesorio rojo + un rasgo), nunca las siete fichas largas pegadas. Si
+  salen grandes, un solo pulso de ajuste ("make every figure noticeably
+  smaller and set deeper into the scene, full body visible with room around
+  it"); si salen obvios, un pulso aparte ("each figure inside its own
+  micro-scene, searching — looking around, peeking from behind objects,
+  calling — dispersed around the frame, glances away from the camera, no
+  posing, no central group"); si no se arregla, volver a la imagen buena y
+  reescribir escala e integración desde cero.
 - **Deriva a pintura o 2D** si le falta el ancla de render:arla va en el
   primer prompt de cada chat. Si aun así deriva, se reescribe el ancla en el
   léxico del modelo.
@@ -144,8 +167,10 @@ inglés y se pegan en ChatGPT.
 - Boca: sonrisa con dos colmillos que cuelgan SOLO debajo de la línea de la
   boca; sin manchas ni marcas claras arriba de la boca
 - Cuerpo: regordete, sin cuello
-- Tamaño: del MISMO tamaño que los monstruitos chicos de su escena, nunca más
-  grande que ellos. En escenas sin monstruitos (la casa): más chico que los
+- Tamaño: A LO SUMO del mismo tamaño que los monstruitos chicos de su escena,
+  y si hay que elegir, más chico que ellos: nunca más grande, nunca más alto.
+  Si en la imagen render queda por encima de un monstruito chico, está mal.
+  En escenas sin monstruitos (la casa): más chico que los
   cojines, muebles y objetos que lo rodea (un cojín le queda grande). Nunca a
   tamaño de personaje
 - Vestuario: bufanda roja que le envuelve los hombros + orejeras rojas peludas
@@ -270,8 +295,11 @@ Atlas = dónde-está-Wally del mundo Monstrix.
 - **El atlas se hace en dos pasos y sin buscables**: primero la escena
   completa, después la densidad. NODI y la familia entran en un paso POSTERIOR
   y aparte, sobre la imagen aprobada, y solo cuando el grupo avise. Las reglas
-  de buscable de esta sección (el único ejemplar, los escondites, THE ONE TO
+  de buscable de esta sección (el único ejemplar, THE ONE TO
   FIND) están escritas y funcionan, pero se aplican únicamente en ese paso.
+  La única excepción son los ESPACIOS CANDIDATOS: se construyen desde la
+  escena 1, porque si el master no tiene dónde esconder a nadie, el paso 3 no
+  tiene dónde esconderlo.
   Lo que sí aplica para los renders de ahora: la multitud de reglas de encuadre,
   luz, textura, paleta y campo de objetos, que son las de abajo.
 - **EL CAOS LO HACEN LOS OBJETOS, NO LA GENTE.** Hay personajes, pero son pocos
@@ -289,8 +317,10 @@ Atlas = dónde-está-Wally del mundo Monstrix.
   celeste+rojo que no sea él es un OBJETO TRAMPA o un patrón, jamás otro
   personaje idéntico; los objetos del #91d3eb exacto sin rojo son objeto
   común, no clon. Contar antes de terminar.
-- **BUSCABLE CHIQUITO Y DISIMULADO**: el buscable tiene que medir lo mismo que
-  los monstruitos chicos de su escena —nunca más que ellos— o, si la escena no
+- **BUSCABLE CHIQUITO Y DISIMULADO**: el buscable tiene que medir A LO SUMO lo
+  mismo que
+  los monstruitos chicos de su escena —y si hay que elegir, más chico que
+  ellos, nunca más— o, si la escena no
   tiene monstruitos, ser más chico que los objetos que lo rodea. Y tiene que
   tenerse que buscar entre los objetos. **Nunca** debe estar
   muy a la vista, ni en el centro, ni en el borde, ni en un espacio libre, ni
@@ -379,17 +409,29 @@ Atlas = dónde-está-Wally del mundo Monstrix.
   con bufanda y orejeras, árboles con frutos rojos, capuchas, gorros, bufandas
   colgadas, bolsas con asas, pelotas con cinta). De lejos parecen un
   monstruito celeste con algo rojo; de cerca son claramente objetos: sin ojos,
-  cara, boca, pelo, brazos ni patas. VIVEN dentro del campo de objetos, no en
+  cara, boca, pelo, brazos ni patas. (Los JUGUETES de peluche de los espacios
+  candidatos SÍ pueden tener ojos de botón: son otra cosa, ver ESPACIOS
+  CANDIDATOS.) VIVEN dentro del campo de objetos, no en
   un rincón aparte: se apilan, se mezclan con el resto de la basura blanda y se
   leen como una parte más del montón. ANTI-CLON: cada uno descrito concreto y
   variado, sin palabras como "parecido" o "similar" (disparan copias
   idénticas). El objeto confunde por paleta y formas compartidas con los
   personajes, no por copiar a alguien.
-- ESCONDITES VACÍOS: huecos y rincones abiertos en medio del campo de objetos,
-  bien iluminados desde adentro, donde un monstruito chico podría meterse, TODOS
-  vacíos. Con el cuadro lleno de cosas, el ojo necesita descanso: son los
-  únicos lugares limpios, y por eso son donde el buscable puede estar y donde
-  la vista vuelve.
+- ESPACIOS CANDIDATOS (los "escondites"): en CADA zona hay 3-4 huecos donde
+  un monstruito chico podría meterse —atrás de una pila, bajo la estantería
+  grande, entre sacos, en el hueco de una muralla—, abiertos y bien
+  iluminados desde adentro. Función doble: le dan descanso al ojo en un cuadro
+  lleno, y le dan HIPÓTESIS al que busca ("acá podría estar"). Reglas:
+  - NUNCA hay nadie adentro: vacíos de seres vivos, sin excepción.
+  - En VARIOS de ellos van objetos-hipótesis: un juguete de peluche con ojos
+    de botón (oso, conejo; QUIETO, sin pose, sin brazos en gesto, a lo sumo un
+    accesorio rojo), una trampa celeste+rojo o un montón del #91d3eb de NODI.
+    Así "hay una cara" o "hay algo celeste ahí" deja de ser respuesta final:
+    es falsa positiva.
+  - Algunos otros quedan del todo vacíos y limpios, para el descanso.
+  - Si todos los huecos están vacíos y limpios, el único ocupado salta de una:
+    el buscable tiene que competir con los candidatos, no ser el candidato
+    único.
 - Los buscables van integrados, chicos y sin foco (sin brillo ni halo).
 - Formato: 16:9 apaisado panorámico.
 
@@ -408,6 +450,15 @@ tapaba el cuadro.
 - OREJAS Y NARICES VARIADAS: orejas de conejo, de gato, redondas, caídas o
   erguidas; narices de botón, de guisante o redondas, siempre negras.
 - TODO SIGUE BLANDO: felpa, sin puntas ni puntos, con la silueta limpia.
+- CADA UNO DISTINTO DE LOS DEMÁS EN LA IMAGEN: si los doce salen iguales entre
+  sí (misma forma, mismo celeste, misma cara de plantilla), el que tiene la
+  cara única y el rojo encima es NODI y resalta, por chiquito que esté. En el
+  prompt se ENUMERAN uno por uno con su propio rasgo —cantidad de ojos, forma
+  del cuerpo, color de pelo de la paleta—; prohibido "similar creatures",
+  "many small monsters" u otra fórmula que el modelo copia como plantilla.
+  Repartir también los COLORES de la paleta entre ellos (violeta, lila, rosa,
+  celestes profundos), no todos celestes: una multitud variada hace que ser
+  distinto sea lo normal, y lo normal no salta.
 - Esto además ayuda a la búsqueda: si los tres ojos de NODI no los tiene nadie
   más, su cara se lee sola entre los objetos. Y como son pocos, ningún otro
   personaje le hace sombra: la diferencia de especie se nota a los diez
@@ -420,23 +471,42 @@ tapaba el cuadro.
 Nunca debe estar muy a la vista ni resaltar entre los demás elementos de la
 escena. Si al mirar la imagen lo ves de una, está mal. Vale para cualquier
 escena, cualquier prompt de pasos 1 y 2 y cualquier pulso.
-- **Chiquito**: con el MISMO tamaño que los monstruitos chicos de la escena
-  cuando hay otros —nunca más grande que ellos ni más alto que lo que lo
-  tapa—. En escenas sin monstruitos (la casa), más chico que los objetos y el
-  mobiliario que lo rodean: los cojines le quedan grandes. Nunca grande, nunca
+- **Chiquito**: a LO SUMO del mismo tamaño que los monstruitos chicos de la
+  escena, y si hay que elegir, más chico que ellos —nunca más grande ni más
+  alto que ellos ni más alto que lo que lo tapa—. En escenas sin monstruitos
+  (la casa), más chico que los objetos y el
+  mobiliario que lo rodea: los cojines le quedan grandes. Nunca grande, nunca
   a tamaño de personaje principal. El tamaño va escrito en el prompt desde el
-  primer intento: es regla, no corrección.
+  primer intento: es regla, no corrección. MEDIDA: si al compararlo con un
+  monstruito chico de la imagen queda por encima, se repite el paso entero;
+  no se arregla con pulso.
 - **Disimulado**: se esconde entre los objetos, no se para en el claro. Medio
   tapado por una pila, detrás de una tela caída, adentro de un hueco, bajo una
   escalera o en la sombra de un mueble —tan tapado que solo asoma parte de la
-  cabeza o de la bufanda—. Nunca parado en el centro del cuadro, nunca en el
-  borde, nunca en un lugar libre y bien iluminado, y nunca completo a la
+  cabeza o de la bufanda—. Nunca en un lugar libre y bien iluminado, y nunca
+  completo a la
   vista: si se lo distingue entero a la primera mirada, está mal.
+- **Nunca en el centro**: el modelo lo pone en el centro casi siempre, así que
+  la posición se NOMBRA en el prompt y va siempre en uno de los tercios
+  laterales, referida a algo de la escena ("in the left third, wedged between
+  the second pile and the leg of the giant shelf"), nunca "in the middle of
+  the image" ni en el primer plano central. El NEGATIVE del paso 3 lleva
+  siempre: "not centered, not in the middle of the frame, not in the center
+  foreground". Sin posición nombrada, el modelo lo centra: es lo único que lo
+  corre de ahí.
+- **Tocado por el entorno**: su silueta no puede recortarse sola contra piso,
+  pared o cielo. Alrededor y ENCIMA de él, objetos del mismo #91d3eb de su
+  pelaje, a su escala, superpuestos: que su celeste se continúe con lo que lo
+  rodea por los cuatro costados. Si se lo ve aislado con aire alrededor, está
+  mal.
 - **No resalta**: ni brillo ni halo ni luz que lo busque, ni un espacio vacío
   alrededor, ni la mirada de nadie apuntando a él, ni un color que lo aísle. Su
   celeste y su rojo tienen que confundirse con el resto del desorden.
-- Criterio de aprobación: se cuenta uno solo y se tarda en encontrarlo. Si es
-  obvio, repetir el paso, no corregirlo con un pulso.
+- Criterio de aprobación: se cuenta uno solo y se tarda en encontrarlo. Antes
+  de aprobar, enumerar los lugares candidatos de la escena: tienen que ser 3-4
+  ocupados o no, ANTES de dar con NODI. Si lo ves a los 2 segundos, si está
+  en el centro o si es el único lugar ocupado de la imagen, repetir el paso
+  entero, no corregirlo con un pulso.
 
 **Nunca va en los prompts de escena.** Las dos primeras consignas de cada
 escena (ESCENA GENERAL y AGREGAR DENSIDAD) se hacen siempre sin NODI y sin
@@ -446,8 +516,11 @@ familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
   mismo encuadre, mismo campo de objetos, mismos pocos monstruitos, mismas
   seis piezas grandes, misma luz, misma paleta). "Do not move, remove, resize,
   rotate or redesign any existing object".
-- NODI va con su ficha completa en inglés + el lugar exacto donde se lo
-  coloca + su tamaño + qué NO es (sin glow, sin halo, sin foco, sin espacio
+- NODI va con su ficha completa en inglés + el lugar exacto EN UN TERCIO
+  LATERAL (nunca el centro), nombrado con referencia a algo de la escena
+  ("in the left third, between the second pile and the giant shelf") + su
+  tamaño a lo sumo igual al de los monstruitos chicos + qué NO es (sin glow,
+  sin halo, sin foco, sin espacio
   reservado) + regla anti-clon + "exactly one in the whole image".
 - **CAST ACUMULADO**: el paso 3 no mete solo a NODI. Suma (a) todos los
   familiares ya encontrados en las escenas anteriores, JUNTOS o cerca en su
@@ -469,6 +542,9 @@ familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
   around him/her — never giant, never oversized, never larger than the objects
   next to him/her, no first-row placement, no hero framing, not in the center
   foreground, no enlarged character".
+  En la ficha de NODI la frase va en versión estricta, porque él es el que
+  el modelo agranda: "no taller than the small background monsters around him
+  — if anything, slightly smaller than them".
   Y el NEGATIVE del paso 3 agrega siempre: "no giant or oversized figures, no
   enlarged characters, no first-row giant, no characters bigger than the
   background monsters". Si a pesar de esto salen gigantes, va el pulso de
@@ -479,13 +555,16 @@ familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
   anti-clon NO es de color: los objetos SÍ tienen su color exacto de pelaje,
   en abundancia (es justamente lo que lo esconde). Lo que nadie más tiene es
   la combinación completa: estar VIVO y llevar bufanda roja + orejeras rojas
-  juntas. Ningún objeto ni personaje lleva los dos accesorios rojos a la vez,
-  y ningún objeto tiene cara ni ojos.
+  juntas. Ningún objeto ni personaje lleva los dos accesorios rojos a la vez.
+  Los únicos con cara y ojos en la imagen son los monstruitos de fondo, NODI y
+  los juguetes de peluche de los candidatos (ojos de botón, objetos quietos):
+  tener cara ya no lo delata a él.
 - En la escena 1 (la casa) ese paso se parte en dos: primero un paso de
   escondites y trampas (se compone en el momento; su mecánica está en el
   atlas, escena 1), después NODI. La casa sigue vacía de gente.
-- Los escondites van VACÍOS: aclarar en el prompt que el único ser vivo de la
-  imagen es NODI y que está en campo abierto.
+- Los escondites van VACÍOS DE SERES VIVOS: aclarar en el prompt que el único
+  ser vivo de la imagen es NODI y que está en campo abierto. Los juguetes y
+  trampas de los candidatos siguen adentro: son objetos.
 - **PROBLEMA CONOCIDO**: con la ficha larga, ChatGPT agranda a NODI y lo pone de
   protagonista. 1) PRIMER INTENTO: pulso de corrección sobre la imagen
   aprobada. 2) SI NO FUNCIONA: volver a la imagen buena y regenerar desde cero
@@ -497,11 +576,14 @@ familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
 VERSIÓN CORTA DE NODI (una frase; no es la del paso de buscables sino el
 recurso de último recurso: si el modelo agranda a NODI y un pulso no lo
 corrige, se vuelve a la imagen buena y se reinserta con esta frase):
-"THE ONE TO FIND: among the piles of soft objects, half hidden behind a heap
+"THE ONE TO FIND: off to one side, in a side third of the frame and never in
+its center, among the piles of soft objects, half hidden behind a heap
 of them, there is one small ice-blue furry figure with a red scarf and red
-furry earmuffs, the same size as the small monsters near him — or smaller than
+furry earmuffs, no taller than the small monsters near him — if anything
+smaller — or smaller than
 the cushions and objects around him when he is the only creature in the frame —
-pressed deep into the heap so that only part of his head shows, with no glow,
+pressed deep into the heap with ice-blue plush objects piled against and over
+him, so that only part of his head shows, with no glow,
 no spotlight and no attention drawn to him. Many objects around him share his
 exact ice blue color, which is what hides him; he is the only living thing in
 the image wearing a red scarf and red furry earmuffs at the same time, and no
@@ -598,9 +680,15 @@ secciones:
       objetos que llena el cuadro —cantidad, tamaño, color, forma—, amontonado,
       superpuesto en 4-5 planos, spilling off the big set pieces ("desparramados
       y cayéndose de ellas hasta el piso"), repartido
-      en groups desiguales, nunca en fila, y con MUCHOS objetos del #91d3eb
-      exacto de NODI sin rojo ni cara (la camuflaje de color de NODI, que ya
-      va desde la escena 1);
+       en groups desiguales, nunca en fila, y con MUCHOS objetos del #91d3eb
+       exacto de NODI sin rojo ni cara (la camuflaje de color de NODI, que ya
+       va desde la escena 1);
+   7b) SPACES WHERE A SMALL CREATURE COULD HIDE (obligatorio desde la escena 1):
+       los ESPACIOS CANDIDATOS de cada zona —3-4 huecos abiertos por zona
+       (detrás de pilas, bajo las piezas grandes, entre sacos)—, varios con un
+       juguete de peluche de ojos de botón o una trampa adentro y otros
+       vacíos y limpios, todos sin seres vivos. Sin esto desde el paso 1, el
+       paso 3 no tiene dónde esconder a NODI y sale en el centro;
    8) MICRO-EVENTS, MOSTLY OBJECTS (20-40 microescenas: la mayoría de OBJETOS
       moviéndose, apilándose, cayéndose o rodando, y unas pocas de
       personajes; todas distintas entre sí);
@@ -618,11 +706,15 @@ secciones:
       close-up, character sheet, clon ni look-alike);
   16) STYLE BLOCK + RENDER ANCHOR;
   17) NEGATIVE.
-Lo que la escena general NO lleva, y vuelve solo en el paso 3 de buscables:
-EMPTY HIDING PLACES y THE ONE TO FIND.
+Lo que la escena general NO lleva: THE ONE TO FIND (el buscable se agrega en
+el paso 3). Los ESPACIOS CANDIDATOS (7b) SÍ van desde la escena 1: si no
+existen en el master, en el paso 3 no hay dónde esconderlo y el modelo lo
+pone en el centro. EMPTY HIDING PLACES, en el paso 3, solo repite que esos
+espacios siguen vacíos de seres vivos.
 
 VARIANTE GENERAL DE LA ESCENA 1 (la casa vacía): mismo esqueleto, pero el
-punto 3 se reemplaza por "NO CHARACTERS" (sin criaturas ni objetos con cara) y
+punto 3 se reemplaza por "NO CHARACTERS" (sin criaturas ni personajes; los
+juguetes de peluche con ojos de botón SÍ van, son objetos quietos) y
 el punto 8 por "EVERY CORNER IN ITS OWN MINI-EVENT": las microescenas son
 EVENTOS DE OBJETOS, no de personajes. BIG SET PIECES sigue siendo obligatorio:
 las seis piezas grandes son el mobiliario gigante. La casa es, por lo tanto, el
@@ -685,11 +777,15 @@ una edición corta, 4 secciones, igual que la de densidad pero dejando a NODI
 único:
   1) SOURCE IMAGE: el mismo congelamiento entero de la variante de edición,
      identificando el lugar en una línea.
-  2) ADD NODI: la ficha completa de NODI en inglés, en su lugar exacto del
-      lugar, del MISMO tamaño que los monstruitos chicos que ya están (en la
+  2) ADD NODI: la ficha completa de NODI en inglés, en su lugar exacto de un
+      TERCIO LATERAL del lugar, nombrado con referencia a algo de la escena y
+      nunca en el centro (en la
       casa, sin monstruitos, más chico que los objetos y el mobiliario que lo
-      rodean), medio perdido entre los objetos (no entre la gente), tapado por
-      una pila o una tela y casi enteramente cubierto, + "no glow,
+      rodean), a LO SUMO del tamaño de los monstruitos chicos que ya están
+      (idealmente más chico), medio perdido entre los objetos (no entre la
+      gente), tapado por
+      una pila o una tela y casi enteramente cubierto, con objetos celestes
+      apoyados y encima de él, + "no glow,
      no halo, no spotlight, no attention drawn to him" + "many objects around
      him share his exact ice blue color, which is what hides him" + anti-clon
      ("he is the only living thing in the whole image, he is the only figure
@@ -698,7 +794,8 @@ una edición corta, 4 secciones, igual que la de densidad pero dejando a NODI
      the whole image".
   3) EVERYTHING ELSE STAYS EXACTLY AS IT IS: misma cámara, mismo campo de
      objetos, mismas seis piezas grandes, misma luz, misma paleta, misma
-     nitidez total, los escondites siguen vacíos salvo donde esté NODI, y el
+      nitidez total, los escondites siguen vacíos de seres vivos salvo donde
+      esté NODI (los juguetes y trampas candidatos quedan), y el
      rojo nunca queda como único acento.
   4) STYLE BLOCK + RENDER ANCHOR + NEGATIVE: los de la escena.
 Después, si NODI sale grande o como protagonista, va el pulso de ajuste de la
@@ -760,9 +857,13 @@ La familia Monstrix es mamá, papá, hermana menor, hermano mayor, abuelo y la
 mejor amiga de NODI — seis personajes, más NODI.
 NODI llega y la casa está vacía: cada uno se fue a sus actividades sin
 avisarle. La historia es la búsqueda — NODI los encuentra uno por uno en sus
- lugares de trabajo, estudio o recreación — y el reencuentro de la familia al
- final. Promesa: la aventura de buscar + el reencuentro. Cada familiar y su
- lugar es una pieza distinta del mismo universo.
+lugares de trabajo, estudio o recreación — y el reencuentro de la familia al
+final. Promesa: la aventura de buscar + el reencuentro. Cada familiar y su
+lugar es una pieza distinta del mismo universo.
+Cuando varios familiares aparecen en la misma imagen (antes del desenlace),
+cada uno da la impresión de estar BUSCANDO a otro: mira alrededor, se asoma
+detrás de las cosas, llama con la mano en alto. Nunca posan ni saludan. Solo
+en el desenlace de la escena 8 dejan de buscar: ahí se reencuentran felices.
 
 **ACUMULACIÓN DE LA FAMILIA (paso 3 de cada escena):** en cada escena se va
 sumando un miembro nuevo de la familia: el dueño del lugar. Todos los que ya
@@ -785,7 +886,8 @@ catastrophic destruction, no flying, no levitation, no airborne objects, no
 sharp debris, no giant or oversized figures, no glow, no halo, no spotlight,
 no aerial view, no top-down view, no isometric view, no close-up, no macro, no
 empty zone, no repeated identical prop, no wall of figures, no crowd, no carpet
-of monsters, no rows of figures, no dots, no spikes, no pointy bumps, no
+of monsters, no rows of figures, no extra arms, no extra legs, no extra limbs,
+no mixed features between characters, no dots, no spikes, no pointy bumps, no
 studs, no quills, no bristles on the fur
 
 ## Referencias

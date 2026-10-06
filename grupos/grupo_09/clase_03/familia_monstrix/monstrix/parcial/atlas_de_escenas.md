@@ -592,9 +592,13 @@ amigable, sin cara tallada ni detalles amenazantes. Detrás del árbol grande,
 destellos redondeados suaves y luminosos en el cielo como luces invernales —
 solo formas de luz suaves, sin fuego, sin chispas quemando ni humo. Negativos
 propios: sin atmósfera oscura, sin escena nocturna, sin fuegos artificiales.
-Y OJO: los negativos "no family members, no reunion, no central hug" valen
-SOLO para los pasos 1 y 2 (la escena se genera sin familia); en el paso 3, que
-es el desenlace, la familia completa aparece junta y feliz y esos negativos se
+**Escala de la familia**: los miembros van CHICOS en el cuadro —cuerpo entero,
+con espacio alrededor, más chicos que el escenario, las piezas grandes y los
+objetos que los rodean—, nunca en primer plano ni ocupando el encuadre; si
+salen grandes, se corrige con un pulso de escala o se reescribe. Y OJO: los
+negativos "no family members, no reunion, no central hug" valen SOLO para los
+pasos 1 y 2 (la escena se genera sin familia); en el paso 3, que es el
+desenlace, la familia completa aparece junta y feliz y esos negativos se
 quitan.
 
 **Caos propio:** guirnaldas y decoraciones en arcos y lazadas sobre postes;

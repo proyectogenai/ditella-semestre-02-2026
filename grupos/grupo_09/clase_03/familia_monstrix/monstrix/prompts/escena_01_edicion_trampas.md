@@ -1,9 +1,11 @@
 # Escena 1 — Prompt de edición (sumar escondites y trampas)
 
-> **EN PAUSA — NO USAR POR AHORA.** Es el paso de buscables (escondites donde
-> NODI se escondería + trampas que lo imitan). Como las escenas se están
-> haciendo sin NODI, este prompt no va todavía. Para sumar densidad a la casa
-> usá `escena_01_edicion_objetos.md`.
+> **PASO 3, SOLO CUANDO EL GRUPO LO PIDA.** Es el paso de buscables (escondites
+> donde NODI se escondería + trampas que lo imitan). Va sobre la imagen de la
+> casa ya aprobada y con su densidad. Los dos primeros pasos de la escena 1
+> (`escena_01_casa.md` + `escena_01_edicion_objetos.md`) se hacen SIEMPRE sin
+> NODI: primero el lugar, después la densidad, y recién después, si el grupo
+> lo pide, los escondites, las trampas y NODI.
 
 Tercer pulso de la escena 1: se aplica **sobre la imagen ya aprobada** y suma
 únicamente dos cosas: **lugares vacíos donde NODI podría estar escondido** y

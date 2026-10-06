@@ -3,7 +3,7 @@
 Registro de las 8 escenas del atlas (dónde-está-Wally del mundo Monstrix):
 qué es cada lugar, qué familiar se busca ahí y en qué estado está el prompt.
 Las reglas que gobiernan todas las escenas (cámara, nitidez, luz, paleta,
-textura, multitud, objetos trampa) están en `SKILL.md`, sección "REGLA
+textura, caos de objetos, objetos trampa) están en `SKILL.md`, sección "REGLA
 WALLY". Los prompts finales en inglés están en `../prompts/`.
 
 Formato de todas las escenas: 16:9 apaisado panorámico, cámara amplia frontal
@@ -20,13 +20,17 @@ tres cuartos a la altura de los monstruitos.
 | 7 | Tienda de ropa | Mejor amiga (no es de la familia) | general + densidad |
 | 8 | Plaza central: festival invernal | ninguno: la familia completa junta (desenlace) | general + densidad |
 
-**Las 8 escenas se están produciendo SIN NODI y SIN la familia.** El flujo
-vigente tiene dos pasos por escena: 1) la ESCENA GENERAL, que genera el lugar
-completo, y 2) AGREGAR DENSIDAD, que se aplica sobre la imagen aprobada y suma
-gente y microescenas (en la casa, objetos). Los buscables —NODI y el familiar de
-cada escena— están escritos pero en pausa hasta que el grupo avise.
+**Las 8 escenas se hacen en 2 pasos, SIN NODI y SIN la familia.** Paso 1: la
+ESCENA GENERAL, que genera el lugar completo. Paso 2: AGREGAR DENSIDAD, que se
+aplica sobre la imagen aprobada y suma una capa de objetos, microescenas y
+desorden. Los buscables —NODI y el familiar de cada escena— van en un **paso 3
+aparte, que solo se hace cuando el grupo lo avise**: nunca antes, y siempre
+como edición sobre la imagen ya aprobada.
 
-La columna "Familiar" dice a quién le toca el lugar cuando se retome el paso de
+**El caos de cada escena lo hacen los OBJETOS, no la gente.** Hay unos pocos
+monstruitos de fondo, pero el cuadro se llena de objetos blandos amontonados,
+que son los que generan el desorden y la confusión al buscar. La columna
+"Familiar" dice a quién le toca el lugar cuando se llegue al paso 3 de
 buscables; hoy no se usa para generar.
 
 La escena 8 es la excepción: NODI no busca a nadie ahí, porque la familia
@@ -45,8 +49,8 @@ dollhouse ni una vista aérea.
   NODI, no familiares, no monstruos, no personas, no animales, no siluetas,
   no retratos, no manos, no ojos ni criaturas ocultas. No toys with faces or
   animal anatomy.
-- CAOS: decenas de objetos de felpa chicos, de escala similar, claramente
-  organizados en foreground, middle ground y background, con grupos de eventos
+- CAOS: decenas de objetos de felpa de tamaños variados, repartidos en varias
+  profundidades (foreground, middle ground y background), con grupos de eventos
   distintos: Cups and breakfast bowls stacked and sliding on counters; milk
   and cereal spilled across surfaces; pancakes stuck to the ceiling; plush
   spoons and ladles tangled around a chandelier; cupboard doors open;
@@ -113,24 +117,27 @@ dos archivos: el de **escena general** (genera desde cero) y el de **agregar
 densidad** (se aplica sobre la imagen aprobada):
 
 - `../prompts/escena_01_casa.md` + `escena_01_edicion_objetos.md`
-- `../prompts/escena_02_mercado.md` + `escena_02_edicion_gente.md`
-- `../prompts/escena_03_campo_de_hielo.md` + `escena_03_edicion_gente.md`
-- `../prompts/escena_04_parque.md` + `escena_04_edicion_gente.md`
-- `../prompts/escena_05_universidad.md` + `escena_05_edicion_gente.md`
-- `../prompts/escena_06_museo.md` + `escena_06_edicion_gente.md`
-- `../prompts/escena_07_tienda_de_ropa.md` + `escena_07_edicion_gente.md`
-- `../prompts/escena_08_plaza_festival.md` + `escena_08_edicion_gente.md`
+- `../prompts/escena_02_mercado.md` + `escena_02_edicion_objetos.md`
+- `../prompts/escena_03_campo_de_hielo.md` + `escena_03_edicion_objetos.md`
+- `../prompts/escena_04_parque.md` + `escena_04_edicion_objetos.md`
+- `../prompts/escena_05_universidad.md` + `escena_05_edicion_objetos.md`
+- `../prompts/escena_06_museo.md` + `escena_06_edicion_objetos.md`
+- `../prompts/escena_07_tienda_de_ropa.md` + `escena_07_edicion_objetos.md`
+- `../prompts/escena_08_plaza_festival.md` + `escena_08_edicion_objetos.md`
 
-En pausa, no se usan: `escena_01_edicion_trampas.md` (escondites y trampas de
-buscable), `escena_05_definitiva.md` y `escena_05_definitiva_flaco.md` (el
-definitivo con NODI ya colocado).
+En espera, no se usan hasta que el grupo pida el paso 3:
+`escena_01_edicion_trampas.md` (escondites vacíos y trampas de buscable). Los
+prompts de buscable con NODI de las demás escenas todavía no están escritos: se
+escriben en el momento, sobre la imagen aprobada de cada escena.
 
 ## Pendientes
 
 - **Terminar de renderizar las 8 escenas** con el flujo de 2 pasos (escena
   general + agregar densidad). Los 16 prompts están escritos.
-- El paso de buscables (NODI + el familiar de cada escena, y el reencuentro
-  final de la escena 8) está escrito pero **en pausa** hasta que el grupo avise.
+- **Paso 3 de buscables** (NODI, y el familiar de cada escena; el reencuentro
+  final de la escena 8): está especificado en `SKILL.md` pero **no se escribe
+  hasta que el grupo lo pida**. En la casa ya hay su primer pulso
+  (`escena_01_edicion_trampas.md`).
 
 Ya no quedan decisiones del grupo pendientes: el pañuelo rojo de papá está
 confirmado y la escena 8 tiene su desenlace definido.

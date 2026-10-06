@@ -1,6 +1,6 @@
 ---
 name: familia-monstrix
-description: Director de arte de "La Familia Monstrix" (NODI y su familia, monstruos peludos de un mundo invernal). Usar SIEMPRE que el trabajo sea del mundo Monstrix, aunque el pedido no lo nombre: fichas de los 7 personajes, reglas del atlas estilo dónde-está-Wally, objetos trampa, escondites, variedad de la multitud, bloques de estilo y escritura de los prompts en inglés para el generador. Activar si el pedido menciona a NODI, a la familia, al atlas, a las escenas del monstruo peludo, a los buscables o a los prompts de la familia.
+description: Director de arte de "La Familia Monstrix" (NODI y su familia, monstruos peludos de un mundo invernal). Usar SIEMPRE que el trabajo sea del mundo Monstrix, aunque el pedido no lo nombre: fichas de los 7 personajes, reglas del atlas estilo dónde-está-Wally, caos hecho de objetos (no de multitudes), objetos trampa, escondites, variedad de los monstruitos de fondo, bloques de estilo y escritura de los prompts en inglés para el generador. Activar si el pedido menciona a NODI, a la familia, al atlas, a las escenas del monstruo peludo, a los buscables o a los prompts de la familia.
 ---
 
 # La Familia Monstrix — sistema de personaje y universo
@@ -22,7 +22,7 @@ Los prompts van a **ChatGPT** (generación de imágenes).
 - **Escribe texto y logos con facilidad**: la prohibición de texto legible va
   SIEMPRE presente, incluso en los pulsos cortos.
 - **Agranda a un personaje si lo describís de largo**: una ficha de 6 líneas lo
-  convierte en protagonista (ver "NODI DENTRO DEL PROMPT DEFINITIVO").
+  convierte en protagonista (ver "NODI: EL PASO DE BÚSQUEDABLES").
 - **Deriva a pintura o 2D** si le falta el ancla de render:arla va en el
   primer prompt de cada chat. Si aun así deriva, se reescribe el ancla en el
   léxico del modelo.
@@ -46,16 +46,19 @@ El equipo produce las 8 escenas del atlas con **prompts, no imágenes**: van en
 inglés y se pegan en ChatGPT.
 - **Flujo vigente, 2 pasos por escena**:
   1. **ESCENA GENERAL** (`escena_0X_<lugar>.md`): una consigna autosuficiente
-     que genera el lugar con su caos, sus seis piezas grandes, la multitud y
-     las microescenas.
-  2. **AGREGAR DENSIDAD** (`escena_0X_edicion_*.md`): se aplica SOBRE la imagen
-     ya aprobada y suma más gente, más microescenas y más desorden. Se repite
-     tantas veces como haga falta. En la casa (escena 1), que está vacía, suma
-     objetos en vez de gente.
-- **NODI y la familia NO van en las escenas, por ahora.** Los prompts de escena
-  se hacen sin NODI y sin ningún familiar, y la historia del atlas todavía no
-  se está montando sobre las imágenes. Cuando el grupo avise, se retoma: ver
-  la sección EN PAUSA más abajo.
+     que genera el lugar con su caos de objetos, sus seis piezas grandes, el
+     campo de objetos apiñado, unos pocos monstruitos y las microescenas.
+  2. **AGREGAR DENSIDAD** (`escena_0X_edicion_objetos.md`): se aplica SOBRE la
+     imagen ya aprobada y suma una capa nueva de objetos, más microescenas y más
+     desorden. Se repite tantas veces como haga falta. En la casa (escena 1),
+     que está vacía, suma solo objetos.
+- **El caos lo hacen los OBJETOS, no la gente.** Hay personajes, pero son pocos
+  y no son el motor del cuadro. La densidad, el desorden y la confusión al
+  buscar vienen de los objetos, por cantidad, tamaño, color y forma. Ver
+  "EL CAOS LO HACEN LOS OBJETOS" en la REGLA WALLY.
+- **Las escenas NO llevan NODI.** El buscable va en un paso aparte, que se
+  aplica SOLO cuando el grupo lo pide, sobre la imagen ya aprobada. Ver
+  "NODI: EL PASO DE BÚSQUEDABLES" más abajo.
 - Archivos en `prompts/`: los dos de cada escena (general + densidad).
 - Detalle de las 8 escenas y sus seis piezas grandes: `parcial/atlas_de_escenas.md`.
 - Todo se pega en **ChatGPT**: es el único generador del proyecto.
@@ -207,12 +210,23 @@ desde cero; en los pulsos de edición, con la imagen ya adjunta, NO se repite
 
 ## REGLA WALLY (para escenas del atlas)
 Atlas = dónde-está-Wally del mundo Monstrix.
-- **Por ahora el atlas se está haciendo SIN buscables**: las escenas se
-  renderizan sin NODI y sin la familia. Las reglas de buscable de esta sección
-  (el único ejemplar, los escondites, THE ONE TO FIND) están escritas y
-  funcionan, pero quedan **EN PAUSA** hasta que el grupo avise. Lo que sí
-  aplica para los renders de ahora: la myriad de reglas de encuadre, luz,
-  textura, paleta y multitud, que son las de abajo.
+- **El atlas se hace en dos pasos y sin buscables**: primero la escena
+  completa, después la densidad. NODI y la familia entran en un paso POSTERIOR
+  y aparte, sobre la imagen aprobada, y solo cuando el grupo avise. Las reglas
+  de buscable de esta sección (el único ejemplar, los escondites, THE ONE TO
+  FIND) están escritas y funcionan, pero se aplican únicamente en ese paso.
+  Lo que sí aplica para los renders de ahora: la myriad de reglas de encuadre,
+  luz, textura, paleta y campo de objetos, que son las de abajo.
+- **EL CAOS LO HACEN LOS OBJETOS, NO LA GENTE.** Hay personajes, pero son pocos
+  y NO son el motor de la cuadro: nada de multitud, ni alfombra de monstruitos,
+  ni muro de figuras. Lo que llena, apiña y desordena el encuadre son los
+  OBJETOS, y lo hacen por **cantidad, tamaño, color y forma**: muchos, de todos
+  los tamaños, de todas las formas, amontonados, volcados, desparramados y
+  superpuestos en 4-5 planos, ocupando la mayor parte del cuadro. La confusión
+  al buscar tiene que venir de que el ojo va detectando **objetos que podrían
+  ser NODI** (celestes con rojo), no de que el buscable se pierda entre la
+  gente. Un atlas de multitudes se lee insulso; uno de objetos se lee como una
+  búsqueda de verdad.
 - UN SOLO ejemplar de cada buscable: exactamente un NODI por escena. Cualquier
   celeste+rojo que no sea él es un OBJETO TRAMPA o un patrón, jamás otro
   personaje idéntico. Contar antes de terminar.
@@ -240,56 +254,74 @@ Atlas = dónde-está-Wally del mundo Monstrix.
   Ninguna zona vacía, nada concentrado en el centro.
 - MICROSITUACIONES MUY DISTINTAS ENTRE SÍ: cada zona cuenta algo diferente, sin
   repetir el mismo chiste en dos partes de la imagen.
-- Caos por CONFUSIÓN: personajes, objetos, texturas y paisaje comparten felpa y
-  paleta hasta volverse indistinguibles. Nada engrillado ni en fila:
-  agrupaciones orgánicas y desparejas, con vacíos entre zonas.
+- Caos por CONFUSIÓN: el cuadro es un cementerio de objetos blandos apilados,
+  y personajes, objetos, texturas y paisaje comparten felpa y paleta hasta
+  volverse indistinguibles. Lo que primero se ve es un montón de cosas; recién
+  después el ojo empieza a dudar de cuáles son criaturas. Nada engrillado ni en
+  fila: agrupaciones orgánicas y desparejas, con vacíos entre zonas.
 - JUEGO DE COLOR: el paisaje reparte toda la gama y el rojo aparece en muchos
   lugares a la vez, así que ningún color lee como faro y el buscable se pierde
   en el mar de color. La escena NO es azul con un rojo que resalta.
-- Densidad ALTA Y LEGIBLE, SIN CUOTA NUMÉRICA: muchos elementos chicos,
-  repetidos y superpuestos en 4-5 planos, la escena más allá de los cuatro
-  bordes. NUNCA pedir un número exacto ("300+ figuras"): la cuota numérica
+- Densidad ALTA Y LEGIBLE, SIN CUOTA NUMÉRICA, Y DE OBJETOS: el campo de
+  objetos es lo denso. Muchos elementos, repetidos y superpuestos en 4-5 planos,
+  la escena más allá de los cuatro bordes, con montones que llegan a la altura
+  del pecho de un monstruito y con Volumes grandes del tamaño de las seis
+  piezas. NUNCA pedir un número exacto ("300 objetos"): la cuota numérica
   convierte la imagen en ruido.
-- MULTITUD CON MICROESCENAS: decenas de monstruitos anónimos, TODOS chicos y
-  del mismo tamaño entre sí (nada de primeros planos gigantes), en grupos
-  desiguales por todo el cuadro, y CADA uno dentro de su propia microescena,
-  distinta de la de sus vecinos; en el prompt se enumeran una decena o más,
-  concretas y todas distintas. PROHIBIDO grupo central, muro de figuras,
-  filas, grupo posando o mirando al espectador. Miradas dispersas. Si la gente
-  sale repetida, se suman microescenas nuevas, no más cantidad de gente.
-- SEIS PIEZAS GRANDES QUE GENERAN ACCIÓN: cada escena con gente lleva SEIS
-  estructuras propias del lugar, de 3 a 6 veces un monstruito, blandas,
-  redondeadas y de felpa (calesita, tobogán gigante, muralla de nieve, grúa de
-  hielo, estantería gigante, huevo enorme, rack de ropa del tamaño de una
-  casa, árbol con plataforma). NO son decoración: cada una hospeda 3-4
-  microescenas distintas, y con 20 microescenas sobre 6 estructuras la gente
-  hace cosas diferentes por zona. Van en su propia sección "BIG SET PIECES",
-  después de UNIVERSE AND MATERIALS, y el prompt de edición las nombra una por
-  una en SOURCE IMAGE para que la gente nueva las use en vez de atravesarlas.
-  OJO: lo "gigante" está prohibido para los PERSONAJES, nunca para estas
-  piezas: en SCALE y NEGATIVE va "no giant or oversized figures", nunca
-  "props", porque "props" achica las estructuras y la escena sale vacía.
+- POCA GENTE, Y CON MICROESCENAS PROPIAS: los monstruitos anónimos están, pero
+  son una minoría: unos doce repartidos en grupos desiguales y desparcidos por
+  todo el cuadro, TODOS chicos y del mismo tamaño entre sí
+  (nada de primeros planos gigantes), y CADA uno dentro de su propia
+  microescena, distinta de la de sus vecinos; en el prompt se enumeran
+  concretas y todas distintas. PROHIBIDO: grupo central, muro de figuras,
+  alfombra de gente, filas, grupo posando o mirando al espectador, y
+  cualquier grupo que tape el campo de objetos. Miradas dispersas. La gente es
+  testigo del desorden, no su motor: si la gente sale repetida, se suman
+  microescenas nuevas, no más cantidad de gente.
+- SEIS PIEZAS GRANDES QUE GENERAN ACCIÓN: cada escena lleva SEIS estructuras
+  propias del lugar, de 3 a 6 veces un monstruito, blandas, redondeadas y de
+  felpa (calesita, tobogán gigante, muralla de nieve, grúa de hielo, estantería
+  gigante, huevo enorme, rack de ropa del tamaño de una casa, árbol con
+  plataforma). NO son decoración: cada una hospeda 3-4 microescenas distintas,
+  y además es el punto donde el campo de objetos se apila —pilas, camastros y
+  objetos desparramados encima, alrededor y cayéndose de ellas hasta el piso—
+  para que la zona tenga volumen y no se lea vacía. Van en su propia sección
+  "BIG SET PIECES", después de UNIVERSE AND MATERIALS, y el prompt de edición
+  las nombra una por una en SOURCE IMAGE para que los objetos nuevos se apilen
+  contra ellas en vez de atravesarlas. OJO: lo "gigante" está prohibido para
+  los PERSONAJES, nunca para estas piezas: en SCALE y NEGATIVE va "no giant or
+  oversized figures", nunca "props", porque "props" achica las estructuras y la
+  escena sale vacía.
 - NADA EN EL AIRE: nada vuela, levita, salta ni flota. Todo se apoya en el piso,
   una superficie, una plataforma o un soporte VISIBLE. Lo único que cuelga es
   lo atado (columpio de una rama, globo con hilo visible, farol de un poste,
   hamaca). Única excepción: la nieve natural de exteriores.
 - NADA DE TEXTO LEGIBLE: páginas, pizarras, carteles, libros, menús y etiquetas
   van EN BLANCO: sin escritura, letras, números, símbolos ni logos.
-- OBJETOS TRAMPA: 10-15 decorados celeste hielo + rojo, no vivientes, que
-  disparen falsos positivos (faroles-columna con globo rojo, pilas de bolas de
-  felpa con palitos rojos, esculturas con bufanda y orejeras, árboles con frutos
-  rojos). De cerca son claramente objetos: sin ojos, cara, boca, pelo, brazos
-  ni patas. ANTI-CLON: cada uno descrito concreto y variado, sin palabras como
-  "parecido" o "similar" (disparan copias idénticas). El objeto confunde por
-  paleta y formas compartidas con los personajes, no por copiar a alguien.
-- ESCONDITES VACÍOS: sección de huecos y rincones abiertos, bien iluminados
-  desde adentro, donde un monstruito chico podría meterse, todos vacíos. Para
-  que el buscable tenga dónde estar y el ojo tenga dónde mirar.
+- OBJETOS TRAMPA: son el CORAZÓN de la búsqueda, no un detalle. 15-20 decorados
+  celeste hielo + rojo, no vivientes, que disparen falsos positivos (faroles-
+  columna con globo rojo, pilas de bolas de felpa con palitos rojos, esculturas
+  con bufanda y orejeras, árboles con frutos rojos, capuchas, gorros, bufandas
+  colgadas, bolsas con asas, pelotas con cinta). De lejos parecen un
+  monstruito celeste con algo rojo; de cerca son claramente objetos: sin ojos,
+  cara, boca, pelo, brazos ni patas. VIVEN dentro del campo de objetos, no en
+  un rincón aparte: se apilan, se mezclan con el resto de la basura blanda y se
+  leen como una parte más del montón. ANTI-CLON: cada uno descrito concreto y
+  variado, sin palabras como "parecido" o "similar" (disparan copias
+  idénticas). El objeto confunde por paleta y formas compartidas con los
+  personajes, no por copiar a alguien.
+- ESCONDITES VACÍOS: huecos y rincones abiertos en medio del campo de objetos,
+  bien iluminados desde adentro, donde un monstruito chico podría meterse, TODOS
+  vacíos. Con el cuadro lleno de cosas, el ojo necesita descanso: son los
+  únicos lugares limpios, y por eso son donde el buscable puede estar y donde
+  la vista vuelve.
 - Los buscables van integrados, chicos y sin foco (sin brillo ni halo).
 - Formato: 16:9 apaisado panorámico.
 
 ## VARIEDAD DE LOS MONSTRUITOS ANÓNIMOS
 Los monstruitos de fondo NO repiten la ficha de la familia: son otra especie.
+Y son pocos: son testigos del desorden de objetos, no la multitud que antes
+tapaba el cuadro.
 - DISTINTA CANTIDAD DE OJOS: uno, dos, tres, cuatro o cinco, con pupilas
   negras, y con tamaños y separaciones distintas entre ellos. Nadie tiene
   exactamente la cara de tres ojos de NODI.
@@ -302,19 +334,34 @@ Los monstruitos de fondo NO repiten la ficha de la familia: son otra especie.
   erguidas; narices de botón, de guisante o redondas, siempre negras.
 - TODO SIGUE BLANDO: felpa, sin puntas ni puntos, con la silueta limpia.
 - Esto además ayuda a la búsqueda: si los tres ojos de NODI no los tiene nadie
-  más de la multitud, su cara se lee sola y el buscable se encuentra más fácil.
+  más, su cara se lee sola entre los objetos. Y como son pocos, ningún otro
+  personaje le hace sombra: la diferencia de especie se nota a los diez
+  segundos.
 - NUNCA aplicar esta variedad a la familia: NODI y los suyos van siempre con su
   ficha exacta, y los objetos trampa nunca tienen anatomía.
 
-## NODI DENTRO DEL PROMPT DEFINITIVO
-**EN PAUSA.** Nada de esto se usa por ahora: las escenas se hacen sin NODI ni
-sin familia. Se deja escrito para cuando el grupo avise.
-- El definitivo SIEMPRE incluye a NODI, especificado en su propia sección cerca
-  del final (después de DECOY PROPS y antes de REFERENCE IMAGE): ficha
-  completa en inglés + lugar exacto + tamaño + qué NO es (sin glow, sin halo,
-  sin foco, sin espacio reservado) + regla anti-clon.
-- Los escondites de EMPTY HIDING PLACES van vacíos: aclarar en el prompt que el
-  único ser vivo de la imagen es NODI y que está en campo abierto.
+## NODI: EL PASO DE BÚSQUEDABLES (paso 3, solo bajo pedido)
+**Nunca va en los prompts de escena.** Las dos primeras consignas de cada
+escena (ESCENA GENERAL y AGREGAR DENSIDAD) se hacen siempre sin NODI y sin
+familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
+- El paso de buscables es una EDICIÓN sobre el master, no una generación
+  nueva: arranca con SOURCE IMAGE y congela todo lo aprobado (misma cámara,
+  mismo encuadre, mismo campo de objetos, mismos pocos monstruitos, mismas
+  seis piezas grandes, misma luz, misma paleta). "Do not move, remove, resize,
+  rotate or redesign any existing object".
+- NODI va con su ficha completa en inglés + el lugar exacto donde se lo
+  coloca + su tamaño + qué NO es (sin glow, sin halo, sin foco, sin espacio
+  reservado) + regla anti-clon + "exactly one in the whole image".
+- **NODI se camufla con los OBJETOS, no con la gente**: medio escondido en una
+  pila, detrás de una tela caída o tapado a medias por un montón. Su función es
+  que el espectador, revisando entre las cosas, lo pase por alto. La regla
+  anti-clon ahora va contra los objetos: ninguno de los que hay en las pilas
+  tiene su color exacto de pelaje ni sus dos accesorios rojos juntos.
+- En la escena 1 (la casa) ese paso se parte en dos: primero los escondites y
+  trampas (`escena_01_edicion_trampas.md`), después NODI. La casa sigue
+  vacía de gente.
+- Los escondites van VACÍOS: aclarar en el prompt que el único ser vivo de la
+  imagen es NODI y que está en campo abierto.
 - **PROBLEMA CONOCIDO**: con la ficha larga, ChatGPT agranda a NODI y lo pone de
   protagonista. 1) PRIMER INTENTO: pulso de corrección sobre la imagen
   aprobada. 2) SI NO FUNCIONA: volver a la imagen buena y regenerar desde cero
@@ -323,25 +370,27 @@ sin familia. Se deja escrito para cuando el grupo avise.
 - Contar los NODI antes de dar la escena por terminada. Si hay dos, eliminar el
   clon o regenerar.
 
-VERSIÓN CORTA DE NODI (una frase, evita que lo pinte como héroe):
-"THE ONE TO FIND: among the crowd, half hidden behind a pile of soft books,
-there is one small ice-blue furry figure with a red scarf and red furry
-earmuffs, the same size as the figures next to him and nothing more noticeable
-than them, a stranger in the middle of the crowd, with no glow, no spotlight
-and no attention drawn to him. He is the only figure in the image wearing a
-red scarf and red furry earmuffs at the same time, and no other figure has
-his exact ice blue fur color."
+VERSIÓN CORTA DE NODI (una frase; no es la del paso de buscables sino el
+recurso de último recurso: si el modelo agranda a NODI y un pulso no lo
+corrige, se vuelve a la imagen buena y se reinserta con esta frase):
+"THE ONE TO FIND: among the piles of soft objects, half hidden behind a heap
+of them, there is one small ice-blue furry figure with a red scarf and red
+furry earmuffs, the same size as the small monsters around him and nothing more
+noticeable than the objects next to him, with no glow, no spotlight and no
+attention drawn to him. He is the only living thing in the image wearing a red
+scarf and red furry earmuffs at the same time, and neither any other figure nor
+any object in the piles has his exact ice blue fur color."
 
 AJUSTE: NODI DENTRO DE LA ESCENA (pulso, con la imagen aprobada adjunta):
 "Keep the whole image exactly as it is: same composition, same camera, same
-crowd, same six big set pieces, same light, same palette. Change only one
-thing: the ice-blue figure with the red scarf and the red furry earmuffs must
-be exactly the same size as the crowd figures around him, no taller than the
-furniture beside him, seen from the same distance as them, partially hidden
-behind the same pile of soft books, with nothing framing him and nothing
-lighting him. He is a stranger inside the crowd, not the subject of the
-picture: no glow, no halo, no rim light, no spotlight, no shallow depth of
-field and no blur on any other layer. RESTORE also: bring back the original
+few figures, same piles of objects, same six big set pieces, same light, same
+palette. Change only one thing: the ice-blue figure with the red scarf and the
+red furry earmuffs must be exactly the same size as the small figures around
+him, no taller than the furniture beside him, seen from the same distance as
+them, half hidden behind the same heap of soft objects, with nothing framing
+him and nothing lighting him. He is one more shape in a room full of things,
+not the subject of the picture: no glow, no halo, no rim light, no spotlight, no
+shallow depth of field and no blur on any other layer. RESTORE also: bring back the original
 bright winter daylight and the razor-sharp fine detail of the approved image —
 no darkening, no grain, no roughness, no blur, everything perfectly crisp."
 
@@ -358,23 +407,30 @@ no darkening, no grain, no roughness, no blur, everything perfectly crisp."
 5. Formato: escenas del atlas = 16:9 apaisado panorámico; retratos y fichas =
    1:1.414, portrait orientation.
 
-## FLUJO DE PRODUCCIÓN (vigente, 2 pasos)
+## FLUJO DE PRODUCCIÓN (vigente)
 1. ESCENA GENERAL: genera el lugar completo desde cero, en un chat NUEVO de
-   ChatGPT, con su caos, sus seis piezas grandes, la multitud y las microescenas.
+   ChatGPT, con su caos de objetos, sus seis piezas grandes, el campo de
+   objetos apiñado y las microescenas, y con POCOS monstruitos de fondo.
    **Sin NODI y sin familia.** La imagen aprobada pasa a ser el master de la
    escena.
 2. AGREGAR DENSIDAD: se aplica SOBRE el master, con la última imagen aprobada
-   adjunta. Suma más gente, más microescenas y más desorden, sin tocar lo ya
-   aprobado. Se repite tantas veces como haga falta. Si la escena quedó con
-   menos gente de la que se pidió, NO se arregla con un pulso: se regenera desde
-   cero subiendo la última frase de CHARACTERS y de MICRO-EVENTS.
+   adjunta. Suma **una capa nueva de objetos** —más cantidad, más tamaños, más
+   formas y más colores— y más microescenas, sin tocar lo ya aprobado. Se
+   repite tantas veces como haga falta. Si la escena quedó con pocos objetos
+   o demasiado despejada, NO se arregla con un pulso: se regenera desde cero
+   subiendo la última frase de THE OBJECT FIELD, de MICRO-EVENTS y de DENSITY.
+3. PASO DE BÚSQUEDABLES (NODI): **solo cuando el grupo lo pide**, y siempre
+   después de los dos primeros. Se aplica sobre la imagen aprobada, como
+   edición congelando todo lo demás. En la casa (escena 1) primero los
+   escondites y trampas, después NODI.
 
-Variantes de los prompts de escena:
-- GENERAL: el vigente, el que genera la escena desde cero.
-- EDICIÓN: el vigente, el que suma densidad sobre una imagen aprobada.
-- DEFINITIVO y FLACO: **en pausa**, no se usan (ver EN PAUSA).
+Variantes de los prompts de escena: solo dos, y son los dos primeros pasos.
+- GENERAL: genera la escena desde cero, sin NODI y sin familia.
+- EDICIÓN: suma densidad sobre una imagen aprobada, sin NODI y sin familia.
 - BASE: nombre viejo del prompt de escena general. Los archivos ya se llaman
   `escena_0X_<lugar>.md`; no hay que hacer nada.
+- BÚSQUEDABLE: el paso 3, el único que mete a NODI. No se escribe salvo que
+  el grupo lo pida, y siempre se aplica sobre la imagen aprobada.
 
 PROMPT AUTOSUFICIENTE: cada escena arranca en un chat que desconoce el
 universo, así que el prompt NO presupone nada y NO lleva jerga de producción
@@ -390,39 +446,50 @@ Orden fijo de encabezados. Las variantes se distinguen por el punto 3, el punto
 
 VARIANTE GENERAL (la vigente, `escena_0X_<lugar>.md`): este es el orden real
 de los prompts de escena que hay en `prompts/`, sin NODI y sin escondites.
-  1) párrafo de apertura con el LUGAR y su arquitectura de felpa;
-  2) CAMERA AND FOCUS (ancho, tres cuartos, a la altura de los monstruitos,
-     nitidez total, 4-5 planos, 16:9);
-  3) CHARACTERS (multitud anónima, chicos, sin grupo central, sin mirar a
-     cámara, "no main character, no named character, no family members");
-  4) UNIVERSE AND MATERIALS (todo felpa, sin materiales duros, texto en blanco,
-     pelaje liso sin puntos ni picos);
-  5) BIG SET PIECES (las SEIS estructuras grandes del lugar, de 3 a 6 veces un
-     monstruito; es la sección que impide la gente estática y repetida);
-  6) CHAOS (el desorden propio del lugar, blando, inofensivo, siempre apoyado);
-  7) EVERY MONSTER IN ITS OWN MICRO-EVENT (20-40 microescenas del lugar, 3-4
-     por cada pieza grande, todas distintas entre sí);
-  8) COMPOSITION (cada zona con su evento, nada engrillado, sin foco único, sin
-     zona vacía);
-  9) DENSITY (alta y legible, 4-5 planos, sin cuota numérica);
-  10) SCALE (todo chico SALVO las seis piezas grandes; "no giant or oversized
-      figures", nunca "props");
-  11) SNOW AND LIGHT (nieve solo afuera, interiores cálidos, sin fuego);
-  12) PALETTE (paleta cerrada repartida, el rojo en muchos elementos);
-  13) DECOY PROPS (10-15 objetos sin anatomía, anti-clon);
-  14) REFERENCE IMAGE (guía de arte solo: materiales, felpa, paleta, luz,
+   1) párrafo de apertura con el LUGAR y su arquitectura de felpa;
+   2) CAMERA AND FOCUS (ancho, tres cuartos, a la altura de los monstruitos,
+      nitidez total, 4-5 planos, 16:9);
+   3) CHARACTERS (POCOS: unos doce monstruitos anónimos, chicos, en grupos
+      desiguales, sin grupo central, sin muro de figuras, sin mirar a cámara,
+      sin tapar el campo de objetos, "no main character, no named character,
+      no family members");
+   4) UNIVERSE AND MATERIALS (todo felpa, sin materiales duros, texto en blanco,
+      pelaje liso sin puntos ni picos);
+   5) BIG SET PIECES (las SEIS estructuras grandes del lugar, de 3 a 6 veces un
+      monstruito; es la sección que le da volumen a la zona);
+   6) CHAOS (el desorden propio del lugar, blando, inofensivo, siempre apoyado:
+      el de la SECCIÓN es el de OBJETOS, el de la gente es secundario);
+   7) THE OBJECT FIELD, THE REAL DENSITY (nuevo y obligatorio: el campo de
+      objetos que llena el cuadro —cantidad, tamaño, color, forma—, amontonado,
+      superpuesto en 4-5 planos, spilling off the big set pieces ("desparramados
+      y cayéndose de ellas hasta el piso"), y repartido
+      en groups desiguales, nunca en fila);
+   8) MICRO-EVENTS, MOSTLY OBJECTS (20-40 microescenas: la mayoría de OBJETOS
+      moviéndose, apilándose, cayéndose o rodando, y unas pocas de
+      personajes; todas distintas entre sí);
+   9) COMPOSITION (cada zona con su evento, nada engrillado, sin foco único, sin
+      zona vacía);
+  10) DENSITY (alta, legible y de objetos, 4-5 planos, sin cuota numérica);
+  11) SCALE (todo chico SALVO las seis piezas grandes y las pilas; "no giant or
+      oversized figures", nunca "props");
+  12) SNOW AND LIGHT (nieve solo afuera, interiores cálidos, sin fuego);
+  13) PALETTE (paleta cerrada repartida, el rojo en muchos elementos);
+  14) DECOY PROPS (15-20 objetos trampa celeste+rojo, sin anatomía, anti-clon,
+      mezclados en el campo de objetos);
+  15) REFERENCE IMAGE (guía de arte solo: materiales, felpa, paleta, luz,
       proporciones; no copiar composición, personajes ni objetos; sin retrato,
       close-up, character sheet, clon ni look-alike);
-  15) STYLE BLOCK + RENDER ANCHOR;
-  16) NEGATIVE.
-Lo que la escena general NO lleva, por ahora: EMPTY HIDING PLACES y THE ONE TO
-FIND. Los escondites vacíos y NODI vuelven cuando el grupo avise (ver EN PAUSA).
+  16) STYLE BLOCK + RENDER ANCHOR;
+  17) NEGATIVE.
+Lo que la escena general NO lleva, y vuelve solo en el paso 3 de buscables:
+EMPTY HIDING PLACES y THE ONE TO FIND.
 
 VARIANTE GENERAL DE LA ESCENA 1 (la casa vacía): mismo esqueleto, pero el
 punto 3 se reemplaza por "NO CHARACTERS" (sin criaturas ni objetos con cara) y
-el punto 7 por "EVERY CORNER IN ITS OWN MINI-EVENT": las microescenas son
+el punto 8 por "EVERY CORNER IN ITS OWN MINI-EVENT": las microescenas son
 EVENTOS DE OBJETOS, no de personajes. BIG SET PIECES sigue siendo obligatorio:
-las seis piezas grandes son el mobiliario gigante.
+las seis piezas grandes son el mobiliario gigante. La casa es, por lo tanto, el
+modelo de referencia de cómo se ve una escena con el caos hecho de objetos.
 
 VARIANTE EDICIÓN (9 secciones, más corta, en vez de describir el lugar CONGELA
 lo que ya está):
@@ -435,18 +502,32 @@ lo que ya está):
      elementos>. Do not move, remove, resize, rotate or redesign any existing
      object, and do not change the composition, the camera or the color
      balance."
-  2) ADD: decenas de monstruitos NUEVOS, chicos, al mismo tamaño de los que ya
-     están, en la misma actividad del lugar, en grupos desiguales por todo el
-     cuadro: sin grupo central, sin filas, sin mirar a cámara, sin personaje
-     principal. En la casa vacía: objetos en vez de gente.
-  3) EACH NEW MONSTER IN ITS OWN MICRO-EVENT (20 microescenas NUEVAS, apoyadas
-     en las seis piezas grandes, nunca una copia de las del prompt base). En la
-     casa: "EACH NEW OBJECT IN ITS OWN MINI-EVENT".
+  2) ADD A NEW LAYER OF OBJECTS: una CAPA NUEVA DE OBJETOS, que es lo que este
+     paso suma de verdad: muchísimos objetos blandos NUEVOS (SIN cantidad
+     exacta: nunca un número, ni siquiera "decenas": es un muro de cosas), de
+     tamaños distintos entre sí (algunos tan grandes como las seis piezas,
+     otros del tamaño de un monstruito), de formas distintas entre sí, en la
+     paleta YA presente, amontonados, encimados, volcados y desparramados
+     alrededor de las seis piezas grandes, en grupos desiguales por todo el
+     cuadro, llenando el piso y las superficies hasta que la escena llegue
+     hasta los bordes. La variedad va en las cuatro direcciones: cuántos hay,
+     qué tamaño, qué color y qué forma. Todo descansa apoyado, nada flota, y
+     ninguno tapa entero una de las seis piezas grandes: se apilan CONTRA ellas.
+     En esta capa entran también unos pocos monstruitos NUEVOS, chicos, al mismo
+     tamaño de los que ya están, en la misma actividad del lugar, en grupos
+     desiguales: sin grupo central, sin filas, sin mirar a cámara, sin
+     personaje principal. En la casa vacía, todo esto es solo objetos.
+  3) EACH NEW OBJECT IN ITS OWN MICRO-EVENT (20 microescenas NUEVAS, la mayoría
+     de objetos moviéndose: pilas que se deslizan, objetos que caen de otra
+     pila, telas que se arrastran, carritos que ruedan; y unas pocas de
+     personas o de monstruitos, apoyadas en las seis piezas grandes, nunca una
+     copia de las del prompt base). En la casa: "EACH NEW OBJECT IN ITS OWN
+     MINI-EVENT", todas de objetos.
   4) EVERYTHING STAYS SOFT, GROUNDED AND SHARP: lo nuevo sigue apoyado o
      sujeto a algo visible (nada flota), se re-ancla la nitidez total de todo
      el cuadro, todo felpa sin materiales duros ni puntas, sin fuego, los
      textos siguen en blanco, y las seis piezas grandes quedan SIEMPRE a la
-     vista: la gente nueva no las tapa ni las atraviesa.
+     vista: la capa nueva no las tapa ni las atraviesa.
   5) PALETTE: mantiene la paleta YA presente, la reparte entre lo nuevo y el
      rojo nunca aparece solo.
   6) FILL EVERY ZONE: "no empty region, no blank patch of <suelo>, no spotlight,
@@ -460,12 +541,34 @@ MATERIALS, CHAOS, SCALE, SNOW AND LIGHT, DENSITY y REFERENCE IMAGE. La
 referencia de NODI se puede adjuntar en el chat igual (solo por materiales,
 felpa, paleta y luz) pero no se nombra en el texto.
 
+VARIANTE BÚSQUEDABLE (paso 3, `escena_0X_buscable.md`, solo bajo pedido): es
+una edición corta, 4 secciones, igual que la de densidad pero dejando a NODI
+único:
+  1) SOURCE IMAGE: el mismo congelamiento entero de la variante de edición,
+     identificando el lugar en una línea.
+  2) ADD NODI: la ficha completa de NODI en inglés, en su lugar exacto del
+     lugar, al tamaño de los monstruitos que ya están, medio perdido entre los
+     objetos (no entre la gente), tapado por una pila o una tela, + "no glow,
+     no halo, no spotlight, no attention drawn to him" + anti-clon ("he is the
+     only living thing in the whole image, he is the only figure wearing a red
+     scarf and red furry earmuffs at the same time, no other figure and no
+     object in the piles has his exact ice blue fur color") + "exactly one in
+     the whole image".
+  3) EVERYTHING ELSE STAYS EXACTLY AS IT IS: misma cámara, mismo campo de
+     objetos, mismas seis piezas grandes, misma luz, misma paleta, misma
+     nitidez total, los escondites siguen vacíos salvo donde esté NODI, y el
+     rojo nunca queda como único acento.
+  4) STYLE BLOCK + RENDER ANCHOR + NEGATIVE: los de la escena.
+Después, si NODI sale grande o como protagonista, va el pulso de ajuste de la
+sección de NODI. En la casa (escena 1), antes de este va
+`escena_01_edicion_trampas.md`.
+
 ## REGLAS DE USO DE LOS PROMPTS
-- El DEFINITIVO nunca se manda como instrucción de edición: si el generador
-  ofrece "editar imagen" y le pegás el definitivo, se queda con el encuadre
-  viejo. Va como prompt de generación desde cero.
-- Si un pulso cambia el encuadre o inventa otro lugar, no insistir: el
-  definitivo va de nuevo, o se reintenta el pulso partiendo del master.
+- La escena general va SIEMPRE como generación desde cero, nunca como
+  instrucción de edición: si el generador ofrece "editar imagen" y le pegás la
+  escena general, se queda con el encuadre viejo.
+- Si un pulso cambia el encuadre o inventa otro lugar, no insistir: se vuelve
+  al master, o se regenera desde cero con la escena general.
 - Guardar cada render aprobado como master, versionado (`escena_03_v1.jpeg`), y
   documentar en el repo qué cambió entre versiones.
 
@@ -525,7 +628,8 @@ realistic wood, no realistic icicles, no fire, no flames, no embers, no
 catastrophic destruction, no flying, no levitation, no airborne objects, no
 sharp debris, no giant or oversized figures, no glow, no halo, no spotlight,
 no aerial view, no top-down view, no isometric view, no close-up, no macro, no
-empty zone, no repeated identical prop, no dots, no spikes, no pointy bumps, no
+empty zone, no repeated identical prop, no wall of figures, no crowd, no carpet
+of monsters, no rows of figures, no dots, no spikes, no pointy bumps, no
 studs, no quills, no bristles on the fur
 
 ## Referencias

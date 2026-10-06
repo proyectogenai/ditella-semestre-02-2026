@@ -120,3 +120,11 @@ mismo, aunque nunca lo pedimos:
 - unas "pantallas" invisibles (transparentes) en las que trabaja la persona,
 - siempre una mujer,
 - siempre algún tipo de dron.
+
+---
+
+## Criterio de selección
+
+**Qué dejamos afuera y por qué:** dejamos afuera a Gemini y a Adobe Firefly.
+Aunque ChatGPT no estaba todo perfecto y tenía las mismas inclinaciones en las
+decisiones que las demás, nos gustó más su estética y sus texturas.

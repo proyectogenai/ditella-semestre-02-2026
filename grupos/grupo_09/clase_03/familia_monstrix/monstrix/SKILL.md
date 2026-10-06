@@ -281,12 +281,14 @@ Atlas = dónde-está-Wally del mundo Monstrix.
   los tamaños, de todas las formas, amontonados, volcados, desparramados y
   superpuestos en 4-5 planos, ocupando la mayor parte del cuadro. La confusión
   al buscar tiene que venir de que el ojo va detectando **objetos que podrían
-  ser NODI** (celestes con rojo), no de que el buscable se pierda entre la
+  ser NODI** (celestes con rojo, y sobre todo muchos objetos del #91d3eb
+  exacto de su pelaje), no de que el buscable se pierda entre la
   gente. Un atlas de multitudes se lee insulso; uno de objetos se lee como una
   búsqueda de verdad.
 - UN SOLO ejemplar de cada buscable: exactamente un NODI por escena. Cualquier
   celeste+rojo que no sea él es un OBJETO TRAMPA o un patrón, jamás otro
-  personaje idéntico. Contar antes de terminar.
+  personaje idéntico; los objetos del #91d3eb exacto sin rojo son objeto
+  común, no clon. Contar antes de terminar.
 - **BUSCABLE CHIQUITO Y DISIMULADO**: el buscable tiene que medir lo mismo que
   los monstruitos chicos de su escena —nunca más que ellos— o, si la escena no
   tiene monstruitos, ser más chico que los objetos que lo rodea. Y tiene que
@@ -363,6 +365,14 @@ Atlas = dónde-está-Wally del mundo Monstrix.
   hamaca). Única excepción: la nieve natural de exteriores.
 - NADA DE TEXTO LEGIBLE: páginas, pizarras, carteles, libros, menús y etiquetas
   van EN BLANCO: sin escritura, letras, números, símbolos ni logos.
+- OBJETOS DEL COLOR EXACTO DE NODI: en TODAS las escenas (con o sin NODI) hay
+  MUCHOS objetos del #91d3eb exacto de su pelaje —no "un celeste parecido",
+  el mismo celeste hielo—, repartidos por todo el campo de objetos y en todos
+  los tamaños, apilados y mezclados con el resto. Van sin rojo y sin cara:
+  cojines, bolas de felpa, telas, ositos, nubes blandas, pelotas. Es la
+  camuflaje de NODI: cuando entre en el paso de buscables, su color no lo
+  delata porque hay un mar de cosas del mismo celeste. Los objetos trampa de
+  rojo siguen siendo 15-20 aparte; estos son capa extra del campo de objetos.
 - OBJETOS TRAMPA: son el CORAZÓN de la búsqueda, no un detalle. 15-20 decorados
   celeste hielo + rojo, no vivientes, que disparen falsos positivos (faroles-
   columna con globo rojo, pilas de bolas de felpa con palitos rojos, esculturas
@@ -442,8 +452,11 @@ familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
 - **NODI se camufla con los OBJETOS, no con la gente**: medio escondido en una
   pila, detrás de una tela caída o tapado a medias por un montón. Su función es
   que el espectador, revisando entre las cosas, lo pase por alto. La regla
-  anti-clon ahora va contra los objetos: ninguno de los que hay en las pilas
-  tiene su color exacto de pelaje ni sus dos accesorios rojos juntos.
+  anti-clon NO es de color: los objetos SÍ tienen su color exacto de pelaje,
+  en abundancia (es justamente lo que lo esconde). Lo que nadie más tiene es
+  la combinación completa: estar VIVO y llevar bufanda roja + orejeras rojas
+  juntas. Ningún objeto ni personaje lleva los dos accesorios rojos a la vez,
+  y ningún objeto tiene cara ni ojos.
 - En la escena 1 (la casa) ese paso se parte en dos: primero un paso de
   escondites y trampas (se compone en el momento; su mecánica está en el
   atlas, escena 1), después NODI. La casa sigue vacía de gente.
@@ -465,9 +478,10 @@ of them, there is one small ice-blue furry figure with a red scarf and red
 furry earmuffs, the same size as the small monsters near him — or smaller than
 the cushions and objects around him when he is the only creature in the frame —
 pressed deep into the heap so that only part of his head shows, with no glow,
-no spotlight and no attention drawn to him. He is the only living thing in the
-image wearing a red scarf and red furry earmuffs at the same time, and neither
-any other figure nor any object in the piles has his exact ice blue fur color."
+no spotlight and no attention drawn to him. Many objects around him share his
+exact ice blue color, which is what hides him; he is the only living thing in
+the image wearing a red scarf and red furry earmuffs at the same time, and no
+other figure has both accessories together."
 
 AJUSTE: NODI DENTRO DE LA ESCENA (pulso, con la imagen aprobada adjunta):
 "Keep the whole image exactly as it is: same composition, same camera, same
@@ -559,8 +573,10 @@ secciones:
    7) THE OBJECT FIELD, THE REAL DENSITY (nuevo y obligatorio: el campo de
       objetos que llena el cuadro —cantidad, tamaño, color, forma—, amontonado,
       superpuesto en 4-5 planos, spilling off the big set pieces ("desparramados
-      y cayéndose de ellas hasta el piso"), y repartido
-      en groups desiguales, nunca en fila);
+      y cayéndose de ellas hasta el piso"), repartido
+      en groups desiguales, nunca en fila, y con MUCHOS objetos del #91d3eb
+      exacto de NODI sin rojo ni cara (la camuflaje de color de NODI, que ya
+      va desde la escena 1);
    8) MICRO-EVENTS, MOSTLY OBJECTS (20-40 microescenas: la mayoría de OBJETOS
       moviéndose, apilándose, cayéndose o rodando, y unas pocas de
       personajes; todas distintas entre sí);
@@ -610,10 +626,12 @@ lo que ya está):
      hasta los bordes. La variedad va en las cuatro direcciones: cuántos hay,
      qué tamaño, qué color y qué forma. Todo descansa apoyado, nada flota, y
      ninguno tapa entero una de las seis piezas grandes: se apilan CONTRA ellas.
-     En esta capa entran también unos pocos monstruitos NUEVOS, chicos, al mismo
-     tamaño de los que ya están, en la misma actividad del lugar, en grupos
-     desiguales: sin grupo central, sin filas, sin mirar a cámara, sin
-     personaje principal. En la casa vacía, todo esto es solo objetos.
+      En esta capa entran también unos pocos monstruitos NUEVOS, chicos, al mismo
+      tamaño de los que ya están, en la misma actividad del lugar, en grupos
+      desiguales: sin grupo central, sin filas, sin mirar a cámara, sin
+      personaje principal. La capa nueva suma además MUCHOS objetos del #91d3eb
+      exacto de NODI (sin rojo y sin cara), para que su color se pierda en la
+      masa. En la casa vacía, todo esto es solo objetos.
   3) EACH NEW OBJECT IN ITS OWN MICRO-EVENT (20 microescenas NUEVAS, la mayoría
      de objetos moviéndose: pilas que se deslizan, objetos que caen de otra
      pila, telas que se arrastran, carritos que ruedan; y unas pocas de
@@ -648,10 +666,11 @@ una edición corta, 4 secciones, igual que la de densidad pero dejando a NODI
       casa, sin monstruitos, más chico que los objetos y el mobiliario que lo
       rodean), medio perdido entre los objetos (no entre la gente), tapado por
       una pila o una tela y casi enteramente cubierto, + "no glow,
-     no halo, no spotlight, no attention drawn to him" + anti-clon ("he is the
-     only living thing in the whole image, he is the only figure wearing a red
-     scarf and red furry earmuffs at the same time, no other figure and no
-     object in the piles has his exact ice blue fur color") + "exactly one in
+     no halo, no spotlight, no attention drawn to him" + "many objects around
+     him share his exact ice blue color, which is what hides him" + anti-clon
+     ("he is the only living thing in the whole image, he is the only figure
+     wearing a red scarf and red furry earmuffs at the same time, no other
+     figure has both accessories together") + "exactly one in
      the whole image".
   3) EVERYTHING ELSE STAYS EXACTLY AS IT IS: misma cámara, mismo campo de
      objetos, mismas seis piezas grandes, misma luz, misma paleta, misma

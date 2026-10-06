@@ -449,6 +449,13 @@ familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
 - NODI va con su ficha completa en inglés + el lugar exacto donde se lo
   coloca + su tamaño + qué NO es (sin glow, sin halo, sin foco, sin espacio
   reservado) + regla anti-clon + "exactly one in the whole image".
+- **CAST ACUMULADO**: el paso 3 no mete solo a NODI. Suma (a) todos los
+  familiares ya encontrados en las escenas anteriores, JUNTOS o cerca en su
+  propia microescena, con sus fichas palabra por palabra; (b) el familiar
+  nuevo de esta escena, SEPARADO del grupo, en su lugar de trabajo o
+  actividad; y (c) NODI, acompañando a los encontrados pero siempre chiquito
+  y disimulado entre los objetos. Pedir al grupo las imágenes de referencia
+  de cada personaje que aparezca y adjuntarlas con la de NODI.
 - **NODI se camufla con los OBJETOS, no con la gente**: medio escondido en una
   pila, detrás de una tela caída o tapado a medias por un montón. Su función es
   que el espectador, revisando entre las cosas, lo pase por alto. La regla
@@ -736,9 +743,19 @@ La familia Monstrix es mamá, papá, hermana menor, hermano mayor, abuelo y la
 mejor amiga de NODI — seis personajes, más NODI.
 NODI llega y la casa está vacía: cada uno se fue a sus actividades sin
 avisarle. La historia es la búsqueda — NODI los encuentra uno por uno en sus
-lugares de trabajo, estudio o recreación — y el reencuentro de la familia al
-final. Promesa: la aventura de buscar + el reencuentro. Cada familiar y su
-lugar es una pieza distinta del mismo universo.
+ lugares de trabajo, estudio o recreación — y el reencuentro de la familia al
+ final. Promesa: la aventura de buscar + el reencuentro. Cada familiar y su
+ lugar es una pieza distinta del mismo universo.
+
+**ACUMULACIÓN DE LA FAMILIA (paso 3 de cada escena):** en cada escena se va
+sumando un miembro nuevo de la familia: el dueño del lugar. Todos los que ya
+fueron encontrados en las escenas anteriores aparecen en el paso 3 JUNTOS o
+cerca, en su propia microescena, y el NUEVO va separado del grupo — es el que
+se encuentra en esta escena. NODI acompaña a los ya encontrados, conservando
+sus reglas de tamaño chiquito y camuflaje. Cada personaje tiene su propia
+imagen de referencia, que tiene el grupo (no están en el repo): al componer
+un paso 3 se le piden al grupo las imágenes de todos los personajes que
+aparezcan y se adjuntan junto con la de NODI.
 
 ## NEGATIVE BASE
 Se usa tal cual en cualquier prompt de escena, completo y adaptado al lugar:
@@ -761,6 +778,9 @@ studs, no quills, no bristles on the fur
 - `parcial/atlas_de_escenas.md`: las 8 escenas, su familiar, sus seis piezas
   grandes y los lineamientos con los que se compone cada prompt. No contiene
   prompts: esos se componen al pedirse.
+- Imágenes de referencia de cada miembro de la familia: las tiene el grupo
+  (no están en el repo). Al componer un paso 3 se le piden y se adjuntan
+  junto con `nodi_v2.jpeg`.
 - `copiar_prompt.ps1`: copia al portapapeles el bloque `text` de un archivo de
   prompt como texto plano. Solo hace falta si un prompt recién compuesto se
   guarda en un archivo y el copiado desde el chat falla.

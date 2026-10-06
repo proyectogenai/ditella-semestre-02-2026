@@ -30,28 +30,42 @@ Los prompts van a **ChatGPT** (generación de imágenes).
   puede ser "fluffy / fuzzy / plush-fur / soft cloudy fur"; "torre" →
   "torre blanda redondeada", no "torre" a secas.
 
-## CÓMO ENTREGAR Y CÓPIAR EL PROMPT
+## CÓMO ENTREGAR Y COPIAR EL PROMPT
 - Un solo bloque cercado con la etiqueta `text`, completo, sin partirlo en
   varios bloques, sin envolverlo en otro bloque de markdown y sin commentary.
+- El prompt se entrega en el chat, recién compuesto: no hay archivos de prompt
+  preescritos (ver "REGLA DE ORO: EL PROMPT NO ESTÁ ESCRITO" más abajo).
 - Los prompts largos, al copiarse desde el chat, a veces se pegan en el
   generador como un **archivo .txt** en vez de texto plano. Cuando pase,
-  copiar desde el archivo con el script del repo, que lo deja en el
-  portapapeles como texto limpio:
-  `powershell -NoProfile -ExecutionPolicy Bypass -File ".\copiar_prompt.ps1" escena_05_universidad.md`
-  (el nombre del archivo es el parámetro; el flag es necesario porque Windows
+  guardar el prompt recién compuesto en un archivo (con bloque `text`) y
+  copiarlo con el script del repo, que lo deja en el portapapeles como texto
+  limpio:
+  `powershell -NoProfile -ExecutionPolicy Bypass -File ".\copiar_prompt.ps1" <archivo>.md`
+  (acepta un nombre suelto o una ruta; el flag es necesario porque Windows
   por defecto bloquea la ejecución de scripts). Después, Ctrl+V en el chat.
 
 ## ESTADO DEL PROYECTO
 El equipo produce las 8 escenas del atlas con **prompts, no imágenes**: van en
 inglés y se pegan en ChatGPT.
-- **Flujo vigente, 2 pasos por escena**:
-  1. **ESCENA GENERAL** (`escena_0X_<lugar>.md`): una consigna autosuficiente
-     que genera el lugar con su caos de objetos, sus seis piezas grandes, el
-     campo de objetos apiñado, unos pocos monstruitos y las microescenas.
-  2. **AGREGAR DENSIDAD** (`escena_0X_edicion_objetos.md`): se aplica SOBRE la
-     imagen ya aprobada y suma una capa nueva de objetos, más microescenas y más
-     desorden. Se repite tantas veces como haga falta. En la casa (escena 1),
-     que está vacía, suma solo objetos.
+- **REGLA DE ORO: EL PROMPT NO ESTÁ ESCRITO POR ADELANTE.** No existe la
+  carpeta `prompts/` y no hay que crearla. Ningún prompt vive en un archivo
+  antes de pedirse. Cuando el grupo pide "el prompt de la escena X", se
+  **compone en el momento** con esta skill (reglas, REGLA WALLY, bloque de
+  estilo, negative) + los lineamientos de esa escena en
+  `parcial/atlas_de_escenas.md`, y se entrega en el chat. Si una regla cambia
+  acá, el próximo prompt ya sale con el cambio: un prompt prearmado sería
+  exactamente lo contrario. Un prompt viejo nunca se usa como fuente ni se
+  copia textual a otra escena; si el grupo pide de nuevo uno ya entregado, se
+  vuelve a componer con las reglas vigentes.
+- **Flujo vigente, 2 pasos por escena** (en cada paso se compone el prompt y
+  se entrega):
+  1. **ESCENA GENERAL**: una consigna autosuficiente que genera el lugar con
+     su caos de objetos, sus seis piezas grandes, el campo de objetos apiñado,
+     las microescenas y unos pocos monstruitos de fondo.
+  2. **AGREGAR DENSIDAD**: se aplica SOBRE la imagen ya aprobada y suma una
+     capa nueva de objetos, más microescenas y más desorden. Se repite tantas
+     veces como haga falta. En la casa (escena 1), que está vacía, suma solo
+     objetos.
 - **El caos lo hacen los OBJETOS, no la gente.** Hay personajes, pero son pocos
   y no son el motor del cuadro. La densidad, el desorden y la confusión al
   buscar vienen de los objetos, por cantidad, tamaño, color y forma. Ver
@@ -59,8 +73,9 @@ inglés y se pegan en ChatGPT.
 - **Las escenas NO llevan NODI.** El buscable va en un paso aparte, que se
   aplica SOLO cuando el grupo lo pide, sobre la imagen ya aprobada. Ver
   "NODI: EL PASO DE BÚSQUEDABLES" más abajo.
-- Archivos en `prompts/`: los dos de cada escena (general + densidad).
-- Detalle de las 8 escenas y sus seis piezas grandes: `parcial/atlas_de_escenas.md`.
+- Qué poner en cada escena (lugar, seis piezas, caos, semillas de
+  mini-eventos, trampas, luz): `parcial/atlas_de_escenas.md`. Es un archivo de
+  lineamientos, no de prompts.
 - Todo se pega en **ChatGPT**: es el único generador del proyecto.
 - No quedan decisiones pendientes: el pañuelo rojo de papá está confirmado y la
   escena 8 tiene su desenlace definido.
@@ -381,9 +396,9 @@ familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
   que el espectador, revisando entre las cosas, lo pase por alto. La regla
   anti-clon ahora va contra los objetos: ninguno de los que hay en las pilas
   tiene su color exacto de pelaje ni sus dos accesorios rojos juntos.
-- En la escena 1 (la casa) ese paso se parte en dos: primero los escondites y
-  trampas (`escena_01_edicion_trampas.md`), después NODI. La casa sigue
-  vacía de gente.
+- En la escena 1 (la casa) ese paso se parte en dos: primero un paso de
+  escondites y trampas (se compone en el momento; su mecánica está en el
+  atlas, escena 1), después NODI. La casa sigue vacía de gente.
 - Los escondites van VACÍOS: aclarar en el prompt que el único ser vivo de la
   imagen es NODI y que está en campo abierto.
 - **PROBLEMA CONOCIDO**: con la ficha larga, ChatGPT agranda a NODI y lo pone de
@@ -421,8 +436,10 @@ no darkening, no grain, no roughness, no blur, everything perfectly crisp."
 ## CÓMO RESPONDER
 1. Del pedido tomás la escena, el encuadre y el formato. Si falta el encuadre,
    preguntá corto antes de escribir.
-2. Componé el PROMPT: [LUGAR] + [acciones] + [fichas] + [regla Wally] + [bloque
-   de estilo].
+2. Leé los lineamientos de esa escena en `parcial/atlas_de_escenas.md` y
+   componé el PROMPT EN EL MOMENTO: [LUGAR] + [acciones] + [fichas] + [regla
+   Wally] + [bloque de estilo]. Nunca copies un prompt anterior ni digas que
+   el prompt "ya existe": si no está pedido, no está escrito.
 3. La ficha va SIEMBRE palabra por palabra, con los hex, la regla de los
    colmillos y el accesorio rojo intactos. Al inglés se traduce literalmente:
    sin condensar y sin negociar ningún dato de identidad.
@@ -432,6 +449,9 @@ no darkening, no grain, no roughness, no blur, everything perfectly crisp."
    1:1.414, portrait orientation.
 
 ## FLUJO DE PRODUCCIÓN (vigente)
+En cada paso: primero se COMPONE el prompt con la receta de esta skill + los
+lineamientos del atlas, se entrega en el chat, y recién después se genera.
+Nunca se arranca de un prompt viejo.
 1. ESCENA GENERAL: genera el lugar completo desde cero, en un chat NUEVO de
    ChatGPT, con su caos de objetos, sus seis piezas grandes, el campo de
    objetos apiñado y las microescenas, y con POCOS monstruitos de fondo.
@@ -449,10 +469,9 @@ no darkening, no grain, no roughness, no blur, everything perfectly crisp."
    escondites y trampas, después NODI.
 
 Variantes de los prompts de escena: solo dos, y son los dos primeros pasos.
+Ambas se componen al pedirse; ninguna vive en un archivo.
 - GENERAL: genera la escena desde cero, sin NODI y sin familia.
 - EDICIÓN: suma densidad sobre una imagen aprobada, sin NODI y sin familia.
-- BASE: nombre viejo del prompt de escena general. Los archivos ya se llaman
-  `escena_0X_<lugar>.md`; no hay que hacer nada.
 - BÚSQUEDABLE: el paso 3, el único que mete a NODI. No se escribe salvo que
   el grupo lo pida, y siempre se aplica sobre la imagen aprobada.
 
@@ -464,12 +483,15 @@ museum hall made of soft fuzzy felt..."). "Same as the approved master" solo se
 usa dentro del MISMO chat, con imagen debajo. Todo lo que no ayude a que la
 imagen salga bien, se saca.
 
-## ESQUELETO DE LOS PROMPTS DEL ATLAS (en inglés)
-Orden fijo de encabezados. Las variantes se distinguen por el punto 3, el punto
-7 y por si arrancan con "SOURCE IMAGE" o con una descripción del lugar.
+## CÓMO SE COMPONE UN PROMPT DE ESCENA (en inglés)
+Orden fijo de encabezados, escrito CADA VEZ que se pide. No hay prompts
+preescritos que reusar: cada escena se arma desde cero con los lineamientos de
+`parcial/atlas_de_escenas.md` y las reglas de acá. Las variantes se distinguen
+por el punto 3, el punto 7 y por si arrancan con "SOURCE IMAGE" o con una
+descripción del lugar.
 
-VARIANTE GENERAL (la vigente, `escena_0X_<lugar>.md`): este es el orden real
-de los prompts de escena que hay en `prompts/`, sin NODI y sin escondites.
+VARIANTE GENERAL (paso 1, sin NODI y sin escondites): este es el orden de
+secciones:
    1) párrafo de apertura con el LUGAR y su arquitectura de felpa;
    2) CAMERA AND FOCUS (ancho, tres cuartos, a la altura de los monstruitos,
       nitidez total, 4-5 planos, 16:9);
@@ -565,7 +587,7 @@ MATERIALS, CHAOS, SCALE, SNOW AND LIGHT, DENSITY y REFERENCE IMAGE. La
 referencia de NODI se puede adjuntar en el chat igual (solo por materiales,
 felpa, paleta y luz) pero no se nombra en el texto.
 
-VARIANTE BÚSQUEDABLE (paso 3, `escena_0X_buscable.md`, solo bajo pedido): es
+VARIANTE BÚSQUEDABLE (paso 3, compuesta en el momento y solo bajo pedido): es
 una edición corta, 4 secciones, igual que la de densidad pero dejando a NODI
 único:
   1) SOURCE IMAGE: el mismo congelamiento entero de la variante de edición,
@@ -584,10 +606,14 @@ una edición corta, 4 secciones, igual que la de densidad pero dejando a NODI
      rojo nunca queda como único acento.
   4) STYLE BLOCK + RENDER ANCHOR + NEGATIVE: los de la escena.
 Después, si NODI sale grande o como protagonista, va el pulso de ajuste de la
-sección de NODI. En la casa (escena 1), antes de este va
-`escena_01_edicion_trampas.md`.
+sección de NODI. En la casa (escena 1), antes de este va el paso de escondites
+y trampas (sección "1. Casa de la familia" del atlas, paso 3a).
 
 ## REGLAS DE USO DE LOS PROMPTS
+- Los prompts se componen en el momento y no se archivan como fuente: nada de
+  abrir un prompt anterior para "actualizarlo" ni copiarlo textual a otra
+  escena. Si una regla de la skill cambió, el próximo prompt compuesto ya sale
+  con el cambio; los viejos quedaban con la regla vieja.
 - La escena general va SIEMPRE como generación desde cero, nunca como
   instrucción de edición: si el generador ofrece "editar imagen" y le pegás la
   escena general, se queda con el encuadre viejo.
@@ -660,7 +686,10 @@ studs, no quills, no bristles on the fur
 - `assets/nodi_v2.jpeg`: LA referencia de arte de NODI, la única válida. Se
   adjunta siempre que se vaya a generar NODI o una escena del atlas. La v1
   quedó descartada y el archivo se borró del repo.
-- `parcial/atlas_de_escenas.md`: las 8 escenas, su familiar y sus seis piezas
-  grandes.
-- `copiar_prompt.ps1`: copia el prompt de un archivo al portapapeles como texto
-  plano.
+- `parcial/atlas_de_escenas.md`: las 8 escenas, su familiar, sus seis piezas
+  grandes y los lineamientos con los que se compone cada prompt. No contiene
+  prompts: esos se componen al pedirse.
+- `copiar_prompt.ps1`: copia al portapapeles el bloque `text` de un archivo de
+  prompt como texto plano. Solo hace falta si un prompt recién compuesto se
+  guarda en un archivo y el copiado desde el chat falla.
+- No existe la carpeta `prompts/` y no hay que crearla.

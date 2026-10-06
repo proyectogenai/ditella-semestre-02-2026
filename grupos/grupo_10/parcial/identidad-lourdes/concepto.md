@@ -140,9 +140,9 @@ a Lourdes**. Mirá con calma — nunca está sola en el medio de todo,
 está metida en el bullicio, medio tapada por alguien o por algo, como
 cualquiera de los cientos de personajes que pueblan la escena.
 
-*(Yapa para quien mire dos veces: en cada fiesta de Lourdes, alguien
-termina perdiendo sus anteojos de sol — es una maldición del grupo.
-Buscalos también, sin premio ni obligación.)*
+*(Yapa para quien mire dos veces: en cada fiesta Lourdes deja algo
+atrás. No te digo qué. Al final del libro te cuento cuáles son — y vas a
+tener que volver a buscarlos.)*
 
 Al pie de cada página vas a encontrar la postal de su amiga — el
 rastro que siguió para llegar hasta ahí.
@@ -155,9 +155,9 @@ rastro que siguió para llegar hasta ahí.
 2. **Barco:** "Un mensaje de voz de las 4 AM: 'estoy en un yate, no sé
    de quién, ¡vení!'. Para cuando llegué al puerto, ya se habían ido
    mar adentro."
-3. **Pool party:** "Encontré sus anteojos de sol tirados al lado de la
-   pileta y ningún rastro de ella. Alguien juraba haberla visto
-   zambulléndose con ropa y todo."
+3. **Pool party:** "Encontré su pareo tirado al lado de la pileta y
+   ningún rastro de ella. Alguien juraba haberla visto zambulléndose
+   con ropa y todo."
 4. **Amanecer en la playa:** "Se ve que la fiesta de anoche nunca
    terminó — la encontré (bah, casi) repartiendo cocos a las 6 de la
    mañana como si nada."
@@ -177,16 +177,34 @@ rastro que siguió para llegar hasta ahí.
 **Frase de cierre del libro:** "Yo la sigo buscando — pero, la verdad,
 tampoco tengo apuro en encontrarla. Esta fiesta también está buena."
 
-### El gag secundario — dónde aparecen los lentes perdidos
+### Los objetos perdidos — la búsqueda del final
 
-1. Carnaval: en el medio de la calle, pisoteados por la comparsa que pasa.
-2. Barco: en la cubierta, cerca de la escalera por donde sube alguien empapado.
-3. Pool party: al lado de la pileta (mismo par que menciona la postal).
-4. Amanecer en la playa: medio enterrados en la arena, cerca de la fogata apagándose.
-5. Rooftop: en el piso, enredados en la guirnalda de luces caída.
-6. Festival de música: pisoteados en el pasto, cerca del escenario.
-7. Obelisco: tirados entre el confetti y las banderas en el piso.
-8. Garden party: en el pasto, junto a las tazas que se cayeron.
+Reemplaza al gag anterior de los anteojos de sol. En cada fiesta Lourdes
+pierde un objeto. Los objetos no los dibuja la IA dentro de la escena:
+se generan aparte (ver `objetos_perdidos_prompts.md`) y se colocan a mano
+en Figma. Durante el libro nadie sabe qué buscar; los objetos se revelan
+recién en la página final.
+
+| # | Escena | Objeto perdido | Dónde aparece (ubicación sugerida) |
+|---|---|---|---|
+| 1 | Carnaval | Zapato de taco dorado | En medio de la calle, entre el confeti, por donde pasa la comparsa |
+| 2 | Barco | Sombrero de paja de ala ancha | Enganchado en un cabo del mástil, bien arriba |
+| 3 | Pool party | Pareo | Tirado al borde de la pileta, cerca de las reposeras (mismo objeto que menciona la postal) |
+| 4 | Amanecer en la playa | Antiparras de natación | En la arena, medio enterradas, cerca de la fogata que se apaga |
+| 5 | Rooftop de noche | Llaves con llavero de pompón | En el piso, enredadas en la guirnalda de luces caída |
+| 6 | Festival | Cámara descartable | En el pasto, pisoteada, cerca del escenario |
+| 7 | Obelisco | Mate con bombilla | Tirado entre el confeti y las banderas en el piso |
+| 8 | Garden party | Sombrilla de encaje | Apoyada en el pasto, junto a las tazas que se cayeron |
+
+### Página final — Lo que Lourdes dejó atrás
+
+> *Ya sabés buscar. Entonces volvé atrás: en cada fiesta, Lourdes
+> perdió algo. Un zapato, un sombrero, un pareo, unas antiparras, las
+> llaves, una cámara, un mate, una sombrilla. Ocho cosas, ocho fiestas.
+> ¿Las encontrás?*
+
+*(La página muestra las 8 siluetas en una grilla, sin decir en qué
+escena está cada una.)*
 
 ---
 
@@ -355,6 +373,16 @@ real brand names.
   Corrección: se reescribió la sección 02 del bloque madre con esos rasgos
   y se cambió "polished" por "hand-inked, flat-color" en la sección 07.
   Aplicado a las 8 escenas.
+
+- **v23 — Sidequest: objetos perdidos de Lourdes.** Se reemplazó el gag
+  secundario de los anteojos de sol por 8 objetos distintos, uno por
+  escena (zapato, sombrero, pareo, antiparras, llaves, cámara, mate,
+  sombrilla), elegidos por su silueta y para que no se confundan con lo
+  que ya hay en cada escena. Se generan aparte con prompts propios
+  (`objetos_perdidos_prompts.md`) y se colocan en Figma, como Lourdes; se
+  revelan recién en la página final. Se descartó la cartera porque es el
+  accesorio de Lourdes que "nunca suelta". Se ajustaron la yapa de la
+  página 3 y la postal 3.
 
 ## D.4 — Lo que presentamos al curso
 

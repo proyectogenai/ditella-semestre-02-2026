@@ -99,7 +99,8 @@ que no cambia nunca:
 - Una cartera.
 
 **Cómo se dibujó.** El boceto a mano es nuestro y la versión coloreada la
-hizo Tere, a mano. Lourdes no la genera la IA (ver página 11).
+hizo Tere, a mano. El outfit y la pose de cada fiesta se generan aparte
+con su propio prompt, a partir de ese diseño (ver página 11).
 
 *[Imágenes: boceto y versión coloreada, lado a lado.]*
 
@@ -228,7 +229,7 @@ la villa.]*
 | Personaje | Leona en un mundo de animales | Lourdes humana | La leona se alejaba del concepto original |
 | Estilo | Acuarela isométrica, manga Y2K neón, animación 2D "Valentina" | The Parisianer | Los otros salían genéricos o "de IA" |
 | Estructura del prompt | Un párrafo con adjetivos acumulados | 8 secciones numeradas, después 7 | Cada sección resuelve un problema distinto |
-| Lourdes en las escenas | Que la genere la IA, con chequeos obligatorios | Colocarla a mano en Figma | La IA no la dibujaba de forma confiable |
+| Lourdes en las escenas | Que la genere la IA dentro de la escena, con chequeos obligatorios | Hacerla aparte con su propio prompt y colocarla a mano en Figma | Dentro de la escena la IA no la dibujaba de forma confiable |
 | Chequeo final en el prompt | "MANDATORY FINAL CHECK" | Ninguno | Su vocabulario hacía que ChatGPT lo tomara como edición |
 | Cantidad de personajes | 300+ | 100-150 | Con más, la anatomía se rompía |
 | Vista | Aérea / cenital | Elevada, cámara cercana | Las caras tenían que leerse |
@@ -245,20 +246,23 @@ la villa.]*
 La consigna dice: *la escena del universo se genera; el libro y su
 personaje se diseñan.* Nuestra división:
 
-**Lo genera la IA:** las 8 escenas, con un prompt solo de texto, sin
-imágenes de referencia.
+**Lo genera la IA:**
+- Las 8 escenas, con un prompt de solo texto, sin imágenes de referencia.
+- Los objetos perdidos, uno por uno, con prompts de solo texto.
+- El outfit y la pose de Lourdes en cada fiesta, con su propio prompt y su
+  imagen base.
 
-**Lo hacemos nosotras:**
-- **Lourdes.** Está dibujada a mano (boceto y color) y la colocamos en
-  cada escena en Figma, con escala, perspectiva y color coherentes con lo
-  que la rodea. Se descartó que la genere la IA porque cambiaba su
-  vestuario o directamente no aparecía.
-- **Los objetos perdidos.** En cada fiesta Lourdes pierde algo. Los
-  objetos se generan aparte, uno por uno, con prompts propios, y se
-  colocan a mano en Figma. Nadie sabe qué buscar mientras avanza el
-  libro: se revelan en la página final.
-- **El aparato editorial:** tipografía, páginas introductorias,
-  postales, tapa y colofón.
+**Lo diseñamos y hacemos nosotras:**
+- **Lourdes:** el boceto a mano y el color, que es el diseño del que salen
+  todas sus versiones. La versión de cada fiesta la colocamos en Figma, con
+  escala, perspectiva y color coherentes con lo que la rodea. Se descartó
+  pedírsela a la IA dentro de la escena porque cambiaba su vestuario o
+  directamente no aparecía.
+- **Los objetos perdidos:** los elegimos y los colocamos a mano en Figma.
+  Nadie sabe qué buscar mientras avanza el libro: se revelan en la página
+  final.
+- **El aparato editorial:** tipografía, páginas introductorias, postales,
+  tapa y colofón.
 
 | # | Escena | Objeto perdido |
 | --- | --- | --- |

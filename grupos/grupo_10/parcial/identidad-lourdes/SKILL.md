@@ -4,10 +4,11 @@ description: >
   Genera una escena nueva del atlas "Lourdes" — un libro ilustrado de
   "buscar y encontrar" donde Lourdes, una chica muy fiestera, se esconde
   en fiestas de todo el mundo, dibujado en el estilo plano y de línea de
-  pluma de The Parisianer. Entrega el prompt de imagen listo para pegar en
-  ChatGPT (solo texto), el prompt del objeto que Lourdes pierde en esa
-  fiesta, las notas para colocar a Lourdes y el objeto a mano en Figma, y
-  la postal del pie de página. Usala cuando pidan "una escena nueva de
+  pluma de The Parisianer. Entrega tres prompts listos para pegar en
+  ChatGPT, cada uno en su propio chat (el de la escena, el del objeto que
+  Lourdes pierde en esa fiesta y el de Lourdes con el outfit y la pose de
+  esa fiesta), las notas para colocar a Lourdes y el objeto a mano en
+  Figma, y la postal del pie de página. Usala cuando pidan "una escena nueva de
   Lourdes", "la novena fiesta", "otra página del atlas" o adaptar una
   fiesta (un tren, una boda, un mercado…) a este universo.
 ---
@@ -51,10 +52,15 @@ Cuando te pidan una escena nueva, seguí estos pasos.
 3. **Armá el prompt completo:** secciones 01-03 fijas + tu sección 04 +
    secciones 05-07 fijas, sin tocar una coma de las fijas.
 4. **Armá el prompt del objeto perdido** (ver "Objetos perdidos").
-5. **Escribí las notas de colocación** de Lourdes y del objeto.
-6. **Escribí la postal** del pie de página.
-7. **Antes de entregar, revisá la lista de control** (al final). Esa
-   lista es para vos: nunca va dentro del prompt de imagen.
+5. **Armá el prompt de Lourdes** con el outfit y la pose de esa fiesta
+   (ver "El elemento oculto: Lourdes").
+6. **Escribí las notas de colocación** de Lourdes y del objeto.
+7. **Escribí la postal** del pie de página.
+8. **Antes de entregar, revisá la lista de control** (al final). Esa
+   lista es para vos: nunca va dentro de un prompt de imagen.
+
+Son **tres prompts distintos y cada uno va en su propio chat**: la escena,
+el objeto y Lourdes.
 
 ### Reglas para escribir la sección 04
 
@@ -148,9 +154,12 @@ Las partes en inglés no se traducen.
 ## Modelo y parámetros
 
 - **Modelo:** generación de imágenes de ChatGPT (plan gratuito).
-- **Entrada:** solo texto. **Sin imágenes de referencia**, ni de
+- **Escena y objeto: solo texto.** **Sin imágenes de referencia**, ni de
   Lourdes ni de otras escenas ni del libro real.
-- **Un chat nuevo por escena.** Pegá el prompt completo tal cual.
+- **Lourdes: con su imagen base adjunta.** Es la única excepción, porque
+  lo que se pide es justamente redibujar una imagen existente con otra
+  ropa y otra pose.
+- **Un chat nuevo por cada prompt.** Pegá el prompt completo tal cual.
 - **Formato:** apaisado, 1414 × 1000 px (proporción 1,414:1, la del A3
   horizontal). Va escrito en la sección 06.
 - **Seed:** no se puede fijar en este modelo.
@@ -160,7 +169,8 @@ Las partes en inglés no se traducen.
 - **Vocabulario prohibido en el prompt:** ninguna palabra de revisión o
   edición (*verify, check, fix, redo, before returning, reference image*).
   El modelo lo lee como "editar una imagen que ya existe" y pide que la
-  subas en vez de generar. Si pasa, sacá esas frases.
+  subas en vez de generar. Si pasa, sacá esas frases. (Esto vale para la
+  escena y el objeto; el prompt de Lourdes sí es una edición.)
 - **Después de generar:** la imagen sale de unos 1500 px de ancho, que en
   un A3 son unos 85 dpi. Para imprimir hay que agrandarla (Upscayl, modelo
   de ilustración, 3× o 4×) hasta unos 3300 px de ancho como mínimo.
@@ -200,26 +210,27 @@ la noche ya se usó dos veces.
 
 ## El elemento oculto: Lourdes
 
-**Lourdes no se genera con la IA.** Se dibuja a mano y se coloca después
-en Figma sobre la escena ya generada. El prompt de imagen no describe
-su aspecto ni pide que aparezca: pedírselo al modelo hacía que la dibujara
-mal, le cambiara el outfit o no la dibujara. La sección 01 la nombra
-solo como contexto narrativo, y se deja como está.
+**Lourdes no va en el prompt de la escena.** Se hace aparte, con su propio
+prompt y su imagen base, y se coloca después en Figma sobre la escena ya
+generada. El prompt de la escena no describe su aspecto ni pide que
+aparezca: pedírselo ahí hacía que el modelo la dibujara mal, le cambiara
+el outfit o no la dibujara. La sección 01 la nombra solo como contexto
+narrativo, y se deja como está.
 
 **Cómo se la reconoce.** En cada fiesta cambia de outfit y de pose, así que
 lo que la hace reconocible son tres rasgos que **no cambian nunca**:
 - **Pelo bob castaño.**
 - **Un pañuelo negro con puntitos blancos.**
-- **Una cartera** (la chica, con dije de corazón, como en su boceto).
+- **Una cartera** (chica).
 
 Todo lo demás (ropa, calzado, vaso, pose) es propio de cada fiesta y lo
 decide quien dibuja a Lourdes para esa escena.
 
-**Una imagen de Lourdes por fiesta.** No hay una imagen única de
-referencia: hay una Lourdes distinta por escena, con el outfit y la pose
-de esa fiesta, que se guarda como `lourdes_escena_N.png` (N = número de la
-escena). Su origen es el boceto a mano (`boceto_lourdes.png`) y la versión
-coloreada (`lourdes_color.png`).
+**Una imagen de Lourdes por fiesta.** Hay una Lourdes distinta por
+escena, con el outfit y la pose de esa fiesta, que se guarda como
+`lourdes_escena_N.png` (N = número de la escena). Todas salen de su
+diseño a mano: el boceto (`boceto_lourdes.png`) y la versión coloreada
+por Tere (`lourdes_color.png`).
 
 **Dónde puede aparecer:**
 - En el plano medio o en el fondo.
@@ -247,6 +258,46 @@ coloreada (`lourdes_color.png`).
 - **Outfit:** el de esa fiesta (por ejemplo, ropa de playa en la playa),
   siempre con los tres rasgos fijos a la vista.
 
+**Prompt de Lourdes (outfit y pose).** Un chat nuevo por cada Lourdes.
+Adjuntá al chat la **imagen base** (por defecto `lourdes_color.png`, o la
+Lourdes de otra fiesta que haya quedado bien) y pegá este prompt. Completá
+`[OUTFIT]` y `[POSE]`:
+
+- **Outfit:** ropa que cuadre con esa fiesta (ropa de playa en la playa,
+  abrigo en una estación de montaña…), en colores de la paleta. Siempre
+  con bob, pañuelo y cartera a la vista.
+- **Pose:** de cuerpo entero, con una silueta clara que se lea aunque la
+  figura mida 100-200 px dentro de la escena, con brazos y piernas bien
+  separados. Tiene que ser lo que Lourdes hace en esa escena (bailar,
+  observar con un vaso, correr…) y distinta de las otras fiestas.
+
+```
+01 — PURPOSE
+Redraw the character in the attached image for an illustrated "search and find" storybook. She is Lourdes, a young woman who loves parties. She must appear as the same character in a new outfit and a new pose, and the result will be cut out and placed by hand into a larger scene.
+
+02 — WHAT STAYS THE SAME (never change these)
+Her short brown bob haircut. A black neckerchief with small white polka dots tied around her neck. A small handbag that she always carries. Keep her recognizable as the same young woman.
+
+03 — WHAT CHANGES
+OUTFIT: [OUTFIT]
+POSE: [POSE]
+
+04 — STYLE
+Redraw her in the flat European editorial style of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. A slim, slightly angular figure with natural anatomy (one head, two arms, two legs, joints in the right places) and a simple caricatured face: tiny dot eyes, expressive eyebrows, a small angular nose and a simple line for the mouth. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look.
+
+05 — PALETTE
+Outfit colors only from: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the neckerchief and her brown hair. NO pink, NO neon.
+
+06 — COMPOSITION
+Full body, centered, filling about 85% of the height of a tall frame, on a perfectly plain pure white background. No ground, no floor, no shadow, no other people, and no props except what the pose needs. Portrait format, 1024x1536px.
+
+07 — EXCLUSIONS
+NO text. NO logos. NO watermark. NO photorealism. NO 3D rendering look.
+```
+
+Después de generarla, agrandala con Upscayl igual que las escenas, sacale
+el fondo blanco en Figma y colocala según las reglas de arriba.
+
 ## Objetos perdidos (la búsqueda secundaria)
 
 En cada escena Lourdes pierde un objeto. Se genera aparte, uno por uno,
@@ -270,8 +321,7 @@ revelan en la página final ("Lo que Lourdes dejó atrás").
   sol en una fiesta de lentes de sol).
 - Que sea de una categoría distinta a las ya usadas (calzado, sombrero,
   tela, lentes, llaves, cámara, bebida, sombrilla).
-- Que no sea la cartera con dije de corazón, que es de Lourdes y nunca
-  la suelta.
+- Que no sea su cartera, que es de Lourdes y nunca la suelta.
 - Que tenga sentido en esa fiesta (algo que se pierde ahí).
 
 **Prompt del objeto** (un chat nuevo por objeto, solo texto). Es el
@@ -331,7 +381,9 @@ Típico."*
 
 - El prompt de imagen no describe a Lourdes ni pide que aparezca (la sección 01 la nombra solo como contexto).
 - Las secciones fijas del bloque madre no se editan ni se traducen.
-- Solo texto, sin imágenes de referencia.
+- Escena y objeto: solo texto, sin imágenes de referencia. Lourdes: con su
+  imagen base adjunta.
+- Los tres prompts (escena, objeto y Lourdes) van en chats separados.
 - Sin vocabulario de revisión o edición dentro del prompt.
 - Sin texto, logos ni marcas reales en la imagen.
 - Sin rosa como color de paleta.
@@ -346,11 +398,11 @@ Entregá, en este orden:
 
 1. **Prompt de la escena**, completo, en un bloque de código.
 2. **Prompt del objeto perdido**, en un bloque de código.
-3. **Notas de colocación:** dónde va Lourdes (plano, zona de la
-   composición, qué la tapa y qué actitud tiene), qué outfit y qué pose
-   conviene dibujarle para esa fiesta (siempre con bob, pañuelo y
-   cartera) y dónde va el objeto.
-4. **Postal** del pie de página.
+3. **Prompt de Lourdes** con el outfit y la pose de esa fiesta, en un
+   bloque de código, indicando qué imagen base adjuntar.
+4. **Notas de colocación:** dónde va Lourdes (plano, zona de la
+   composición, qué la tapa) y dónde va el objeto.
+5. **Postal** del pie de página.
 
 ## Lista de control (para vos, antes de entregar)
 
@@ -365,6 +417,7 @@ Entregá, en este orden:
   anteriores.
 - [ ] No hay marcas reales ni rosa en la paleta.
 - [ ] El objeto perdido es de una categoría nueva y se lee de lejos.
-- [ ] El outfit propuesto para Lourdes cuadra con la fiesta y conserva
-  bob, pañuelo y cartera.
+- [ ] El prompt de Lourdes tiene un outfit que cuadra con la fiesta y
+  una pose de silueta clara, y conserva bob, pañuelo y cartera.
+- [ ] El prompt de Lourdes dice qué imagen base se adjunta.
 - [ ] Si la escena es de noche o de entorno pastel, tiene su línea REMINDER.

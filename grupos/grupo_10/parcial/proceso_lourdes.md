@@ -92,11 +92,11 @@ desde un costado, a veces está en el medio de la acción con su trago en
 la mano. Nunca repite la misma actitud y nunca está aislada: siempre
 está metida en el bullicio.
 
-**Cómo se la reconoce:**
-- **Silueta:** pelo corto tipo bob castaño, top corto y pollera larga y fluida.
-- **Color:** top rojo; los labios rojos son su único acento fuerte.
-- **Objetos:** un vaso en la mano, cartera chica con dije de corazón (que
-  nunca suelta), cinturón ancho con hebilla grande y botas.
+**Cómo se la reconoce.** Cambia de outfit y de pose en cada fiesta. Lo
+que no cambia nunca:
+- Pelo bob castaño.
+- Un pañuelo negro con puntitos blancos.
+- Una cartera.
 
 **Cómo se dibujó.** El boceto a mano es nuestro y la versión coloreada la
 hizo Tere, a mano. Lourdes no la genera la IA (ver página 11).

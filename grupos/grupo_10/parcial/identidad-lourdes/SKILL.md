@@ -206,14 +206,20 @@ su aspecto ni pide que aparezca: pedírselo al modelo hacía que la dibujara
 mal, le cambiara el outfit o no la dibujara. La sección 01 la nombra
 solo como contexto narrativo, y se deja como está.
 
-**Cómo se la reconoce, siempre igual:**
-- Silueta: pelo corto tipo bob castaño, top corto y pollera larga y fluida.
-- Color: top rojo; labios rojos como único acento fuerte.
-- Objetos: un vaso en la mano, cartera chica con dije de corazón (la
-  "nunca suelta"), cinturón ancho con hebilla grande y botas.
-- Referencia visual para colocarla: `lourdes_referencia_parisianer.png`
-  (su versión en el estilo de la escena). Los archivos `boceto_lourdes.png`
-  y `lourdes_color.png` son el origen a mano.
+**Cómo se la reconoce.** En cada fiesta cambia de outfit y de pose, así que
+lo que la hace reconocible son tres rasgos que **no cambian nunca**:
+- **Pelo bob castaño.**
+- **Un pañuelo negro con puntitos blancos.**
+- **Una cartera** (la chica, con dije de corazón, como en su boceto).
+
+Todo lo demás (ropa, calzado, vaso, pose) es propio de cada fiesta y lo
+decide quien dibuja a Lourdes para esa escena.
+
+**Una imagen de Lourdes por fiesta.** No hay una imagen única de
+referencia: hay una Lourdes distinta por escena, con el outfit y la pose
+de esa fiesta, que se guarda como `lourdes_escena_N.png` (N = número de la
+escena). Su origen es el boceto a mano (`boceto_lourdes.png`) y la versión
+coloreada (`lourdes_color.png`).
 
 **Dónde puede aparecer:**
 - En el plano medio o en el fondo.
@@ -222,8 +228,8 @@ solo como contexto narrativo, y se deja como está.
   costado o está en el medio con su trago). Esta skill no guarda qué
   actitud tuvo en cada escena: elegí una y anotala en `concepto.md`; si no
   hay registro, elegí libremente.
-- "20-40% tapada" se mide sobre su silueta: tiene que quedar visible la
-  cabeza con el bob y buena parte del top rojo, para que se la pueda
+- "20-40% tapada" se mide sobre su silueta: tienen que quedar visibles el
+  pelo bob y el pañuelo (que son lo que la delata), para que se la pueda
   encontrar.
 
 **Dónde nunca:**
@@ -238,6 +244,8 @@ solo como contexto narrativo, y se deja como está.
 - **Perspectiva:** los pies apoyados en el mismo suelo que los demás.
 - **Color y línea:** que se lea parte de la escena, con la misma línea
   fina y colores planos que las figuras de alrededor.
+- **Outfit:** el de esa fiesta (por ejemplo, ropa de playa en la playa),
+  siempre con los tres rasgos fijos a la vista.
 
 ## Objetos perdidos (la búsqueda secundaria)
 
@@ -339,7 +347,9 @@ Entregá, en este orden:
 1. **Prompt de la escena**, completo, en un bloque de código.
 2. **Prompt del objeto perdido**, en un bloque de código.
 3. **Notas de colocación:** dónde va Lourdes (plano, zona de la
-   composición, qué la tapa y qué actitud tiene) y dónde va el objeto.
+   composición, qué la tapa y qué actitud tiene), qué outfit y qué pose
+   conviene dibujarle para esa fiesta (siempre con bob, pañuelo y
+   cartera) y dónde va el objeto.
 4. **Postal** del pie de página.
 
 ## Lista de control (para vos, antes de entregar)
@@ -355,4 +365,6 @@ Entregá, en este orden:
   anteriores.
 - [ ] No hay marcas reales ni rosa en la paleta.
 - [ ] El objeto perdido es de una categoría nueva y se lee de lejos.
+- [ ] El outfit propuesto para Lourdes cuadra con la fiesta y conserva
+  bob, pañuelo y cartera.
 - [ ] Si la escena es de noche o de entorno pastel, tiene su línea REMINDER.

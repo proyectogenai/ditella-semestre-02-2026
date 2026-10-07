@@ -88,11 +88,16 @@ ella misma elegiría, siempre rodeada de gente.
    dije de corazón rosa + cinturón ancho con hebilla grande + botas con
    hebillas y detalle arrugado en el tobillo.
 
+**Cambios en el libro final:** en cada fiesta Lourdes cambia de outfit y
+de pose, así que hay una imagen suya por escena. Lo que no cambia nunca:
+pelo bob castaño, pañuelo negro con puntitos blancos y cartera. Los tres
+rasgos de arriba (silueta, color y objeto) describen el diseño original.
+
 **Referencia visual:** boceto a mano de Lourdes + versión coloreada por
 Tere (acuarela/gouache suelta, lavado monocromático sepia, trazo
 expresivo con textura de pincel visible — técnica de ilustración a
-mano, no generada con IA). Referencia final para las escenas IA:
-`lourdes_referencia_parisianer.png`.
+mano, no generada con IA). Para las escenas, una versión de Lourdes por fiesta
+(`lourdes_escena_N.png`), con su outfit y su pose.
 
 ---
 
@@ -126,10 +131,9 @@ deja tirados por ahí.
 
 Este libro son esas ocho búsquedas. En cada página hay una fiesta
 distinta — un carnaval, un barco, una pileta, un rooftop — y en cada
-una, en algún lugar, está Lourdes. Se reconoce siempre por lo mismo:
-su pelo corto castaño, su top rojo, su pollera larga, su cinturón con
-hebilla, sus botas, y esa cartera con el dije de corazón que nunca
-suelta.
+una, en algún lugar, está Lourdes. Cambia de outfit en cada fiesta, pero
+se reconoce siempre por lo mismo: su pelo corto castaño, su pañuelo negro
+con puntitos blancos y esa cartera que nunca suelta.
 
 **¿La encontrás?**
 

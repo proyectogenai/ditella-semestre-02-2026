@@ -24,7 +24,8 @@ Cada escena tiene 2 pasos, siempre compuestos al pedirse y SIN NODI ni familia
 1. **ESCENA GENERAL** — genera el lugar completo desde cero.
 2. **AGREGAR DENSIDAD** — capa nueva de objetos sobre la imagen aprobada; se
    repite las veces que haga falta.
-Y un paso 3 opcional, SOLO bajo pedido del grupo (escondites/trampas y NODI).
+Y un paso 3 opcional, SOLO bajo pedido del grupo (escondites/trampas, y NODI +
+el familiar buscado de esa escena — dos personajes, sin acumulación).
 
 Formato de todas las escenas: 16:9 apaisado panorámico, cámara amplia frontal
 tres cuartos a la altura de los monstruitos.

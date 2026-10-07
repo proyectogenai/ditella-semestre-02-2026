@@ -62,16 +62,20 @@ Los prompts van a **ChatGPT** (generación de imágenes).
 - **Agranda a un personaje si lo describís de largo**: una ficha de 6 líneas lo
   convierte en protagonista (ver "NODI: EL PASO DE BÚSQUEDABLES").
 - **Con varios miembros de la familia juntos los dibuja BIEN pero demasiado
-  grandes y muy obvios**: salen con sus rasgos y proporciones correctos, pero
+  grandes y muy obvios**: OJO, con la regla vigente el paso 3 normal de cada
+  escena tiene solo DOS figuras (NODI + el familiar buscado); "varios juntos"
+  solo pasa en el desenlace de la escena 8. El problema y la receta no
+  cambian: salen con sus rasgos y proporciones correctos, pero
   ocupando todo el cuadro y además posando, agrupados en el centro o mirando a
   cámara, como anuncio. Regla: generar de a UN personaje por imagen (retrato
   propio de cada uno). Si van juntos, se escriben EXPLÍCITAS dos cosas en el
   prompt: la ESCALA —figuras chicas en el cuadro, cuerpo entero con espacio
   alrededor, más pequeñas que las piezas grandes y que los objetos que las
   rodean, nunca primer plano— y la INTEGRACIÓN —cada uno en su propia
-  microescena, dispersos por el cuadro en grupos desiguales, y todos dando la
-  impresión de estar BUSCANDO a otro: mirando alrededor, asomándose detrás de
-  objetos, con una mano en alto para llamar, señalando un camino; sin pose de
+  microescena, dispersos por el cuadro en grupos desiguales, y todos
+  INTERACTUANDO con lo que los rodea: revolviendo objetos, acomodando algo,
+  apoyados en una pieza; PROHIBIDO pararse en claro con la mano en alto para
+  llamar o señalando al vacío (queda re obvio), sin pose de
   foto, sin grupo central y sin mirar a cámara (REGLA WALLY), salvo el
   desenlace de la escena 8, que es el reencuentro: ahí van juntos y felices,
   sin buscar—.
@@ -79,10 +83,11 @@ Los prompts van a **ChatGPT** (generación de imágenes).
   pelo + accesorio rojo + un rasgo), nunca las siete fichas largas pegadas. Si
   salen grandes, un solo pulso de ajuste ("make every figure noticeably
   smaller and set deeper into the scene, full body visible with room around
-  it"); si salen obvios, un pulso aparte ("each figure inside its own
-  micro-scene, searching — looking around, peeking from behind objects,
-  calling — dispersed around the frame, glances away from the camera, no
-  posing, no central group"); si no se arregla, volver a la imagen buena y
+   it"); si salen obvios, un pulso aparte ("each figure inside its own
+   micro-scene, busy interacting with the objects around it — handling
+   something, leaning on a pile — dispersed around the frame, glances away
+   from the camera, no posing, no raised hands, no calling gestures, no
+   central group"); si no se arregla, volver a la imagen buena y
   reescribir escala e integración desde cero.
 - **Deriva a pintura o 2D** si le falta el ancla de render:arla va en el
   primer prompt de cada chat. Si aun así deriva, se reescribe el ancla en el
@@ -118,7 +123,8 @@ inglés y se pegan en ChatGPT.
   exactamente lo contrario. Un prompt viejo nunca se usa como fuente ni se
   copia textual a otra escena; si el grupo pide de nuevo uno ya entregado, se
   vuelve a componer con las reglas vigentes.
-- **Flujo vigente, 2 pasos por escena** (en cada paso se compone el prompt y
+- **Flujo vigente, 2 pasos de generación + un paso 3 opcional por escena**
+  (en cada paso se compone el prompt y
   se entrega):
   1. **ESCENA GENERAL**: una consigna autosuficiente que genera el lugar con
      su caos de objetos, sus seis piezas grandes, el campo de objetos apiñado,
@@ -127,11 +133,15 @@ inglés y se pegan en ChatGPT.
      capa nueva de objetos, más microescenas y más desorden. Se repite tantas
      veces como haga falta. En la casa (escena 1), que está vacía, suma solo
      objetos.
+  3. **PASO DE BÚSQUEDABLES** (opcional, bajo pedido): mete a NODI y al
+     familiar buscado de ESA escena, y solo a esos dos. Ver
+     "NODI: EL PASO DE BÚSQUEDABLES".
 - **El caos lo hacen los OBJETOS, no la gente.** Hay personajes, pero son pocos
   y no son el motor del cuadro. La densidad, el desorden y la confusión al
   buscar vienen de los objetos, por cantidad, tamaño, color y forma. Ver
   "EL CAOS LO HACEN LOS OBJETOS" en la REGLA WALLY.
-- **Las escenas NO llevan NODI.** El buscable va en un paso aparte, que se
+- **Los pasos 1 y 2 NO llevan NODI ni familia.** Los buscables (NODI + el
+  familiar de esa escena) van en el paso 3, que se
   aplica SOLO cuando el grupo lo pide, sobre la imagen ya aprobada. Ver
   "NODI: EL PASO DE BÚSQUEDABLES" más abajo.
 - Qué poner en cada escena (lugar, seis piezas, caos, semillas de
@@ -293,7 +303,8 @@ desde cero; en los pulsos de edición, con la imagen ya adjunta, NO se repite
 ## REGLA WALLY (para escenas del atlas)
 Atlas = dónde-está-Wally del mundo Monstrix.
 - **El atlas se hace en dos pasos y sin buscables**: primero la escena
-  completa, después la densidad. NODI y la familia entran en un paso POSTERIOR
+  completa, después la densidad. NODI y el familiar buscado de cada escena
+  entran en un paso POSTERIOR
   y aparte, sobre la imagen aprobada, y solo cuando el grupo avise. Las reglas
   de buscable de esta sección (el único ejemplar, THE ONE TO
   FIND) están escritas y funcionan, pero se aplican únicamente en ese paso.
@@ -313,7 +324,9 @@ Atlas = dónde-está-Wally del mundo Monstrix.
   exacto de su pelaje), no de que el buscable se pierda entre la
   gente. Un atlas de multitudes se lee insulso; uno de objetos se lee como una
   búsqueda de verdad.
-- UN SOLO ejemplar de cada buscable: exactamente un NODI por escena. Cualquier
+- UN SOLO ejemplar de cada buscable: exactamente un NODI por escena, y
+  exactamente un ejemplar del familiar buscado de ESA escena (los dos únicos
+  del paso 3). Cualquier
   celeste+rojo que no sea él es un OBJETO TRAMPA o un patrón, jamás otro
   personaje idéntico; los objetos del #91d3eb exacto sin rojo son objeto
   común, no clon. Contar antes de terminar.
@@ -471,6 +484,9 @@ tapaba el cuadro.
 Nunca debe estar muy a la vista ni resaltar entre los demás elementos de la
 escena. Si al mirar la imagen lo ves de una, está mal. Vale para cualquier
 escena, cualquier prompt de pasos 1 y 2 y cualquier pulso.
+En este paso hay DOS buscables: NODI y el familiar de la escena. Las reglas de
+esta sección van sobre NODI; el familiar también va chiquito, disimulado e
+interactuando con su entorno (ver FAMILIA DISIMULADA y ESCALA ANTI-GIGANTE).
 - **Chiquito**: a LO SUMO del mismo tamaño que los monstruitos chicos de la
   escena, y si hay que elegir, más chico que ellos —nunca más grande ni más
   alto que ellos ni más alto que lo que lo tapa—. En escenas sin monstruitos
@@ -502,15 +518,17 @@ escena, cualquier prompt de pasos 1 y 2 y cualquier pulso.
 - **No resalta**: ni brillo ni halo ni luz que lo busque, ni un espacio vacío
   alrededor, ni la mirada de nadie apuntando a él, ni un color que lo aísle. Su
   celeste y su rojo tienen que confundirse con el resto del desorden.
-- Criterio de aprobación: se cuenta uno solo y se tarda en encontrarlo. Antes
+- Criterio de aprobación: se cuentan los DOS buscables (NODI y el familiar) y
+  se tarda en encontrarlos. Antes
   de aprobar, enumerar los lugares candidatos de la escena: tienen que ser 3-4
-  ocupados o no, ANTES de dar con NODI. Si lo ves a los 2 segundos, si está
-  en el centro o si es el único lugar ocupado de la imagen, repetir el paso
-  entero, no corregirlo con un pulso.
+  ocupados o no, ANTES de dar con cada uno. Si los ves a los 2 segundos, si
+  están en el centro o si son el único lugar ocupado de la imagen, repetir el
+  paso entero, no corregirlo con un pulso.
 
 **Nunca va en los prompts de escena.** Las dos primeras consignas de cada
 escena (ESCENA GENERAL y AGREGAR DENSIDAD) se hacen siempre sin NODI y sin
-familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
+familia. NODI y el familiar buscado de esa escena entran después, en un paso
+aparte y bajo demanda del grupo.
 - El paso de buscables es una EDICIÓN sobre el master, no una generación
   nueva: arranca con SOURCE IMAGE y congela todo lo aprobado (misma cámara,
   mismo encuadre, mismo campo de objetos, mismos pocos monstruitos, mismas
@@ -522,37 +540,62 @@ familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
   tamaño a lo sumo igual al de los monstruitos chicos + qué NO es (sin glow,
   sin halo, sin foco, sin espacio
   reservado) + regla anti-clon + "exactly one in the whole image".
-- **CAST ACUMULADO**: el paso 3 no mete solo a NODI. Suma (a) todos los
-  familiares ya encontrados en las escenas anteriores, JUNTOS o cerca en su
-  propia microescena, con sus fichas palabra por palabra; (b) el familiar
-  nuevo de esta escena, SEPARADO del grupo, en su lugar de trabajo o
-  actividad; y (c) NODI, acompañando a los encontrados pero siempre chiquito
-  y disimulado entre los objetos. Pedir al grupo las imágenes de referencia
-  de cada personaje que aparezca y adjuntarlas con la de NODI.
+- **DOS PERSONAJES POR ESCENA (el paso 3 es siempre así)**: el paso 3 mete
+  SOLO (a) NODI y (b) el familiar dueño de ESA escena, el que se está
+  buscando. Nada de cast: los familiares encontrados en escenas anteriores no
+  vuelven a aparecer. Los dos entran con sus fichas palabra por palabra, cada
+  uno en un TERCIO LATERAL distinto (nunca el centro), NODI siempre con sus
+  reglas de tamaño chiquito y camuflaje entre objetos, y el familiar también
+  chiquito y disimulado, en su lugar de trabajo o actividad. Anti-clon para
+  cada uno: "exactly one NODI in the whole image" y "exactly one <familiar>
+  in the whole image". Pedir al grupo las dos imágenes de referencia y
+  adjuntarlas juntas. Excepciones: escena 1 = solo NODI; escena 8 = familia
+  completa.
 - **FAMILIA DISIMULADA (va SIEMPRE, en todos los pasos 3)**: lo que vale para
-  NODI vale para TODA la familia: los ya encontrados, el nuevo y NODI entran
-  DISIMULADOS entre los objetos, ocultos a primera vista, cada uno hundido en
-  una pila de felpa propia (entre pilas de libros, bajo una manta caída, detrás
-  de un cojín, en el hueco de una pizarra, bajo el borde de un puf) y cubiertos
-  por objetos del color EXACTO de su propio pelaje apilados alrededor y encima
+  NODI vale para el otro personaje de la escena: NODI y el familiar buscado
+  entran los DOS DISIMULADOS entre los objetos, ocultos a primera vista, cada
+  uno asentado al pie de una pila de felpa propia (entre pilas de libros, bajo
+  una manta caída,
+  detrás de un cojín, en el hueco de una pizarra, al borde de un puf) y con
+  objetos del color EXACTO de su propio pelaje descansando alrededor y encima
   (violeta alrededor de mamá, azul alrededor de papá, lila/rosa alrededor de
   la hermana, celeste profundo alrededor del hermano mayor, #91d3eb alrededor
   de NODI). De cada uno solo se ve en la primera mirada UN FRAGMENTO: un
   pedazo de pelaje, una punta del accesorio rojo, un borde de la cara. NUNCA
-  postura de esconderse: se sientan, se recuestan o se apoyan relajados en la
+  postura de esconderse: se sientan, se apoyan o se recuestan relajados en la
   pila, como si fueran un mueble más del desorden — no agachados, no
-  espiando, no buscando cobertura. Si un personaje se reconoce entero de una
+  espiando, no buscando cobertura. Y SIEMPRE INTERACTUANDO con lo que los
+  rodea: cada uno metido en una acción concreta con los objetos de su zona
+  (revolviendo una pila, acomodando mercadería, mirando algo que sostiene,
+  apoyado en una pieza grande, sentado sobre un montón), nunca parado en claro
+  sin hacer nada. PROHIBIDO el gesto obvio que los delata: mano en alto para
+  llamar, señalando al vacío, mirando alrededor como perdido, pose de foto o
+  mirar a cámara. Que se lea que están buscando por cómo se mezclan con el
+  desorden y por lo que hacen con los objetos, no por un gesto llamativo. Si
+  un personaje se reconoce entero de una
   mirada, queda demasiado expuesto y se corrige con pulso de ocultamiento
-  (SOURCE IMAGE + BURY THE FAMILY INTO THE CLUTTER: cada miembro hundido en
+  (SOURCE IMAGE + SETTLE BOTH FIGURES INTO THE CLUTTER: cada uno asentado en
   su pila, fragmentos visibles, posturas casuales, ancla de luz/nitidez en el
   NEGATIVE). El texto del paso 3 lo pide desde el primer intento: "each of
-  them is half-sunk into a pile of soft objects, casual and relaxed, not
-  crouching, not peeking, not looking for cover, only a small fragment of each
-  visible: a patch of fur and the edge of their red accessory". Los escondites
-  van VACÍOS salvo donde descansa un familiar; los juguetes y trampas candidatos
-  quedan; el rojo nunca queda como único acento.
+  them is settled naturally at the base of a soft pile, casual and relaxed,
+  only a small part of each visible where the pile is low: the top of the head
+  and the edge of their red accessory". Los escondites van VACÍOS salvo donde
+  descansa NODI o el familiar buscado; los juguetes y trampas candidatos
+  quedan; el rojo nunca
+  queda como único acento.
+  **VOCABULARIO ANTI-DEFORMACIÓN (regla obligatoria)**: el ocultamiento se
+  describe con palabras de ASENTARSE y DISPONER ("settled", "resting",
+  "sitting at the base of the pile", "with soft objects lying over them like a
+  light blanket", "only what shows where the pile opens or is low"), NUNCA con
+  verbos que aplastan o comprimen — "squeezed", "buried", "pressed",
+  "crushed", "shoved", "sandwiched", "smushed" invitan al modelo a deformar el
+  cuerpo. Prohibido también en el NEGATIVE y en la ficha. El NEGATIVE del paso
+  3 agrega siempre: "no deformation, no distorted faces, no crushed or
+  flattened bodies, no squeezed figures, no melted figures, no fused bodies,
+  no hybrid characters, no extra arms, no extra legs, no duplicate limbs, no
+  blob shapes".
 - **ESCALA ANTI-GIGANTE (obligatoria desde el PRIMER intento, sin pulso)**:
-  TODOS los personajes del paso 3 —los ya encontrados, el nuevo y NODI— van
+  TODOS los personajes del paso 3 —NODI y el familiar buscado— van
   CHIBOS y con la MISMA altura visual que los monstruitos chicos de fondo de
   la escena. Un adulto de la familia puede ser apenas más alto que uno de
   fondo, nunca el doble, nunca más grande que un objeto que lo rodea. PROHIBIDO
@@ -578,22 +621,29 @@ familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
   en abundancia (es justamente lo que lo esconde). Lo que nadie más tiene es
   la combinación completa: estar VIVO y llevar bufanda roja + orejeras rojas
   juntas. Ningún objeto ni personaje lleva los dos accesorios rojos a la vez.
-  Los únicos con cara y ojos en la imagen son los monstruitos de fondo, NODI y
+  Los únicos con cara y ojos en la imagen son los monstruitos de fondo, NODI,
+  el familiar buscado y
   los juguetes de peluche de los candidatos (ojos de botón, objetos quietos):
   tener cara ya no lo delata a él.
 - En la escena 1 (la casa) ese paso se parte en dos: primero un paso de
   escondites y trampas (se compone en el momento; su mecánica está en el
   atlas, escena 1), después NODI. La casa sigue vacía de gente.
-- Los escondites van VACÍOS DE SERES VIVOS: aclarar en el prompt que el único
-  ser vivo de la imagen es NODI y que está en campo abierto. Los juguetes y
+- Los escondites van VACÍOS DE SERES VIVOS: en ningún hueco hay nadie
+  adentro, salvo que justo ahí se asienten NODI o el familiar buscado. OJO:
+  la gente de fondo NO se va: los monstruitos anónimos siguen en su lugar, los
+  mismos ~doce de la escena con sus microescenas — el paso 3 los congela, no
+  los borra. Los buscables NUNCA son los únicos seres vivos del cuadro. Única
+  excepción: la escena 1 (la casa), que no tiene criaturas de fondo — ahí NODI
+  sí es el único ser vivo y está en campo abierto. Los juguetes y
   trampas de los candidatos siguen adentro: son objetos.
 - **PROBLEMA CONOCIDO**: con la ficha larga, ChatGPT agranda a NODI y lo pone de
   protagonista. 1) PRIMER INTENTO: pulso de corrección sobre la imagen
   aprobada. 2) SI NO FUNCIONA: volver a la imagen buena y regenerar desde cero
   con la versión CORTA de una frase. No seguir escalando pulsos sobre un render
   roto.
-- Contar los NODI antes de dar la escena por terminada. Si hay dos, eliminar el
-  clon o regenerar.
+- Contar los NODI y al familiar buscado antes de dar la escena por terminada:
+  exactamente UNO de cada uno. Si hay un clon de cualquiera de los dos,
+  eliminarlo o regenerar.
 
 VERSIÓN CORTA DE NODI (una frase; no es la del paso de buscables sino el
 recurso de último recurso: si el modelo agranda a NODI y un pulso no lo
@@ -656,17 +706,22 @@ Nunca se arranca de un prompt viejo.
    repite tantas veces como haga falta. Si la escena quedó con pocos objetos
    o demasiado despejada, NO se arregla con un pulso: se regenera desde cero
    subiendo la última frase de THE OBJECT FIELD, de MICRO-EVENTS y de DENSITY.
-3. PASO DE BÚSQUEDABLES (NODI): **solo cuando el grupo lo pide**, y siempre
+3. PASO DE BÚSQUEDABLES (NODI + el familiar buscado): **solo cuando el grupo
+   lo pide**, y siempre
    después de los dos primeros. Se aplica sobre la imagen aprobada, como
-   edición congelando todo lo demás. En la casa (escena 1) primero los
-   escondites y trampas, después NODI.
+   edición congelando todo lo demás, y mete SOLO a NODI y al familiar dueño
+   de esa escena (los ya encontrados no vuelven; los monstruitos de fondo
+   siguen intactos). En la casa (escena 1) primero los
+   escondites y trampas, después NODI (sin familiar: la casa está vacía de
+   gente). En la escena 8, el desenlace con la familia completa.
 
-Variantes de los prompts de escena: solo dos, y son los dos primeros pasos.
-Ambas se componen al pedirse; ninguna vive en un archivo.
+Variantes de los prompts de escena: tres, y son los tres pasos.
+Las tres se componen al pedirse; ninguna vive en un archivo.
 - GENERAL: genera la escena desde cero, sin NODI y sin familia.
 - EDICIÓN: suma densidad sobre una imagen aprobada, sin NODI y sin familia.
-- BÚSQUEDABLE: el paso 3, el único que mete a NODI. No se escribe salvo que
-  el grupo lo pida, y siempre se aplica sobre la imagen aprobada.
+- BÚSQUEDABLE: el paso 3, el único que mete a NODI y al familiar buscado de
+  ESA escena (escena 1: solo NODI; escena 8: familia completa). No se escribe
+  salvo que el grupo lo pida, y siempre se aplica sobre la imagen aprobada.
 
 PROMPT AUTOSUFICIENTE: cada escena arranca en un chat que desconoce el
 universo, así que el prompt NO presupone nada y NO lleva jerga de producción
@@ -795,33 +850,44 @@ referencia de NODI se puede adjuntar en el chat igual (solo por materiales,
 felpa, paleta y luz) pero no se nombra en el texto.
 
 VARIANTE BÚSQUEDABLE (paso 3, compuesta en el momento y solo bajo pedido): es
-una edición corta, 4 secciones, igual que la de densidad pero dejando a NODI
-único:
+una edición corta, 4 secciones, igual que la de densidad pero metiendo a los
+DOS personajes de la escena — NODI y el familiar buscado, y SOLO ellos dos:
   1) SOURCE IMAGE: el mismo congelamiento entero de la variante de edición,
      identificando el lugar en una línea.
-  2) ADD NODI: la ficha completa de NODI en inglés, en su lugar exacto de un
-      TERCIO LATERAL del lugar, nombrado con referencia a algo de la escena y
-      nunca en el centro (en la
-      casa, sin monstruitos, más chico que los objetos y el mobiliario que lo
-      rodean), a LO SUMO del tamaño de los monstruitos chicos que ya están
-      (idealmente más chico), medio perdido entre los objetos (no entre la
-      gente), tapado por
-      una pila o una tela y casi enteramente cubierto, con objetos celestes
-      apoyados y encima de él, + "no glow,
+  2) ADD NODI AND THE SEARCHED FAMILY MEMBER: las dos fichas completas en
+     inglés, palabra por palabra, cada personaje en su TERCIO LATERAL propio
+     (tercios distintos, nunca el centro), nombrado con referencia a algo de
+     la escena. NODI: su lugar exacto, más chico que los monstruitos chicos
+     que ya están (en la casa, sin monstruitos, más chico que los objetos y el
+     mobiliario que lo rodea), medio perdido entre los objetos (no entre la
+     gente), tapado por
+     una pila o una tela y casi enteramente cubierto, con objetos celestes
+     apoyados y encima de él, + "no glow,
      no halo, no spotlight, no attention drawn to him" + "many objects around
      him share his exact ice blue color, which is what hides him" + anti-clon
-     ("he is the only living thing in the whole image, he is the only figure
-     wearing a red scarf and red furry earmuffs at the same time, no other
-     figure has both accessories together") + "exactly one in
-     the whole image".
+     ("he is the only living thing in the whole image wearing a red scarf and
+     red furry earmuffs at the same time, no other figure has both accessories
+     together") + "exactly one NODI in the whole image". El familiar: su ficha
+     con SMALL CHIBI SCALE, en su lugar de trabajo o actividad, también
+     asentado al pie de una pila con objetos del color exacto de su pelaje al
+    rededor y encima, solo a la vista un fragmento (un borde de la cara, una
+     punta del accesorio rojo), + "exactly one <familiar> in the whole image".
+     Ambos, sin excepción, con las reglas de FAMILIA DISIMULADA y ESCALA
+     ANTI-GIGANTE desde el primer intento.
   3) EVERYTHING ELSE STAYS EXACTLY AS IT IS: misma cámara, mismo campo de
      objetos, mismas seis piezas grandes, misma luz, misma paleta, misma
-      nitidez total, los escondites siguen vacíos de seres vivos salvo donde
-      esté NODI (los juguetes y trampas candidatos quedan), y el
+     nitidez total, los monstruitos de fondo siguen ahí intactos, los
+     escondites siguen vacíos de seres vivos salvo donde
+     estén NODI o el familiar (los juguetes y trampas candidatos quedan), y el
      rojo nunca queda como único acento.
-  4) STYLE BLOCK + RENDER ANCHOR + NEGATIVE: los de la escena.
-Después, si NODI sale grande o como protagonista, va el pulso de ajuste de la
-sección de NODI. En la casa (escena 1), antes de este va el paso de escondites
+  4) STYLE BLOCK + RENDER ANCHOR + NEGATIVE: los de la escena, con los
+     negatives agregados del paso 3 (escala, deformación, no centrado).
+Excepciones: en la escena 1 (la casa) el paso 2 es solo la ficha de NODI — la
+casa está vacía de gente, sin familiar buscado; y la escena 8 no usa esta
+variante: su paso 3 es el desenlace, con la familia completa junta y sin los
+negativos de "no family members, no reunion". Si un personaje sale grande o
+como protagonista, va el pulso de ajuste de la sección de NODI. En la casa,
+antes de este va el paso de escondites
 y trampas (sección "1. Casa de la familia" del atlas, paso 3a).
 
 ## REGLAS DE USO DE LOS PROMPTS
@@ -882,20 +948,27 @@ avisarle. La historia es la búsqueda — NODI los encuentra uno por uno en sus
 lugares de trabajo, estudio o recreación — y el reencuentro de la familia al
 final. Promesa: la aventura de buscar + el reencuentro. Cada familiar y su
 lugar es una pieza distinta del mismo universo.
-Cuando varios familiares aparecen en la misma imagen (antes del desenlace),
-cada uno da la impresión de estar BUSCANDO a otro: mira alrededor, se asoma
-detrás de las cosas, llama con la mano en alto. Nunca posan ni saludan. Solo
+Con la regla vigente, dos familiares comparten imagen solo en el paso 3 de
+cada escena: NODI y el que está buscando. Ahí los dos están METIDOS en la
+escena, interactuando con lo que los rodea (revolviendo objetos, acomodando
+algo, apoyados en una pieza) — la búsqueda se lee por la acción, no por
+gestos: NUNCA parados en claro con la mano en alto para llamar, señalando al
+vacío ni mirando alrededor como perdidos, porque eso los vuelve obvios. Nunca
+posan ni saludan. Solo
 en el desenlace de la escena 8 dejan de buscar: ahí se reencuentran felices.
 
-**ACUMULACIÓN DE LA FAMILIA (paso 3 de cada escena):** en cada escena se va
-sumando un miembro nuevo de la familia: el dueño del lugar. Todos los que ya
-fueron encontrados en las escenas anteriores aparecen en el paso 3 JUNTOS o
-cerca, en su propia microescena, y el NUEVO va separado del grupo — es el que
-se encuentra en esta escena. NODI acompaña a los ya encontrados, conservando
-sus reglas de tamaño chiquito y camuflaje. Cada personaje tiene su propia
-imagen de referencia, que tiene el grupo (no están en el repo): al componer
-un paso 3 se le piden al grupo las imágenes de todos los personajes que
-aparezcan y se adjuntan junto con la de NODI.
+**DOS PERSONAJES POR ESCENA (paso 3 de cada escena):** en cada escena hay
+SOLO dos personajes: **NODI (siempre)** y **el familiar dueño del lugar, que
+cambia con cada escena** (el de la tabla del atlas). NO hay acumulación: los
+familiares ya encontrados en escenas anteriores NO aparecen más en ninguna
+escena. Ambos van chiquitos y disimulados entre los objetos (ver "FAMILIA
+DISIMULADA"), cada uno en su propio tercio lateral.
+Dos excepciones: la **escena 1** (la casa) tiene SOLO a NODI, sin familiar —
+primero escondites y trampas, después él; y la **escena 8** (el desenlace),
+única donde aparece la familia completa junta y feliz (ver HISTORIA /
+NARRATIVA). Cada personaje tiene su propia imagen de referencia, que tiene el
+grupo (no están en el repo): al componer un paso 3 se le piden al grupo las
+imágenes de NODI y del familiar buscado de ESA escena y se adjuntan juntas.
 
 ## NEGATIVE BASE
 Se usa tal cual en cualquier prompt de escena, completo y adaptado al lugar:
@@ -920,7 +993,8 @@ studs, no quills, no bristles on the fur
   grandes y los lineamientos con los que se compone cada prompt. No contiene
   prompts: esos se componen al pedirse.
 - Imágenes de referencia de cada miembro de la familia: las tiene el grupo
-  (no están en el repo). Al componer un paso 3 se le piden y se adjuntan
+  (no están en el repo). Al componer un paso 3 se le piden solo las de los dos
+  personajes de esa escena (NODI y el familiar buscado) y se adjuntan
   junto con `nodi_v2.jpeg`.
 - `copiar_prompt.ps1`: copia al portapapeles el bloque `text` de un archivo de
   prompt como texto plano. Solo hace falta si un prompt recién compuesto se

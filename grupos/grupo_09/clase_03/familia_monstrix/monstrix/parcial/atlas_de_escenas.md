@@ -2,16 +2,15 @@
 
 Registro de las 8 escenas del atlas (dónde-está-Wally del mundo Monstrix):
 qué es cada lugar, qué familiar se busca ahí y qué lineamientos guían su
-prompt. Las reglas que gobiernan todas las escenas (cámara, nitidez, luz,
-paleta, textura, caos de objetos, objetos trampa) están en `../SKILL.md`,
-sección "REGLA WALLY".
+prompt. Las reglas que gobiernan todas las escenas están en `../SKILL.md`
+(REGLA WALLY) y el orden de cada prompt en `../references/recetas.md`.
 
 ## REGLA DE ORO: ACÁ HAY LINEAMIENTOS, NO PROMPTS
 
 Este archivo dice **QUÉ** poner en cada escena. El prompt en inglés **NO está
 escrito acá ni en ningún otro archivo**: se compone AL MOMENTO en que el grupo
-pide un prompt de una escena, con la receta "CÓMO SE COMPONE UN PROMPT DE
-ESCENA" de SKILL.md + los lineamientos de la escena de abajo. No existe (ni
+pide un prompt de una escena, con la receta de `references/recetas.md` + los
+lineamientos de la escena de abajo. No existe (ni
 hay que crear) la carpeta `prompts/`, ni archivos `escena_0X_*.md`.
 
 Por qué: si el prompt ya estuviera escrito, cualquier cambio de regla que se
@@ -20,48 +19,47 @@ mejora de regla se refleja en el próximo prompt que se componga. Un prompt
 viejo nunca se usa como fuente ni se copia textual a otra escena.
 
 Cada escena tiene 2 pasos, siempre compuestos al pedirse y SIN NODI ni familia
-(ver FLUJO DE PRODUCCIÓN en SKILL.md):
+(ver FLUJO POR ESCENA en SKILL.md):
 1. **ESCENA GENERAL** — genera el lugar completo desde cero.
 2. **AGREGAR DENSIDAD** — capa nueva de objetos sobre la imagen aprobada; se
    repite las veces que haga falta.
-Y un paso 3 opcional, SOLO bajo pedido del grupo (escondites/trampas, y NODI +
-el familiar buscado de esa escena — dos personajes, sin acumulación).
+Y un paso 3 opcional, SOLO bajo pedido del grupo: NODI + el familiar de esa
+escena, dos personajes, sin acumulación (en la casa, primero escondites y
+trampas y después NODI solo; en la plaza, los siete desperdigados).
 
 Formato de todas las escenas: 16:9 apaisado panorámico, cámara amplia frontal
 tres cuartos a la altura de los monstruitos.
 
 | # | Lugar | Familiar (buscable) | Pasos |
 |---|-------|--------------------|-------|
-| 1 | Casa de la familia | — (lugar vacío) | general + densidad |
+| 1 | Casa de la familia | — (lugar vacío; NODI solo) | general + densidad |
 | 2 | Mercado de la aldea | Mamá | general + densidad |
 | 3 | Campo de recolección de hielo | Papá | general + densidad |
 | 4 | Parque de la aldea | Hermana menor | general + densidad |
 | 5 | Universidad | Hermano mayor | general + densidad |
 | 6 | Museo | Abuelo | general + densidad |
 | 7 | Tienda de ropa | Mejor amiga (no es de la familia) | general + densidad |
-| 8 | Plaza central: festival invernal | ninguno: la familia completa junta (desenlace) | general + densidad |
+| 8 | Plaza central: festival invernal | los siete personajes, desperdigados (final) | general + densidad |
 
 **El caos de cada escena lo hacen los OBJETOS, no la gente.** Hay unos pocos
 monstruitos de fondo (la escena 1 no tiene ninguno), pero el cuadro se llena
 de objetos blandos amontonados, que son los que generan el desorden y la
-confusión al buscar. La columna "Familiar" dice a quién le toca el lugar cuando
-se llegue al paso 3 de buscables; hoy no se usa para generar.
+confusión al buscar. La columna "Familiar" dice a quién le toca el lugar en el paso 3.
 
-La escena 8 es la excepción: NODI no busca a nadie ahí, porque la familia
-completa está junta y feliz. Es el final de la historia. Es la única escena
-donde el grupo puede ser el foco del encuadre (recién en el paso 3).
+La escena 8 es el final: en el paso 3 están los siete personajes en la plaza,
+cada uno disfrutando el festival en su propio rincón, desperdigados, chicos
+y difíciles de encontrar (receta D de `references/recetas.md`).
 
 ## Las seis piezas grandes de cada escena
 
-Cada escena con gente lleva seis estructuras grandes propias del lugar (de 3 a
-6 veces el tamaño de un monstruito, blandas y de felpa), que son las que
-generan la acción variedad y el volumen. La 1, que está vacía, lleva las seis
-piezas grandes del mobiliario.
+Cada escena lleva seis estructuras grandes propias del lugar (de 3 a 6 veces
+el tamaño de un monstruito, blandas y de felpa), que generan la acción, la
+variedad y el volumen. En la casa son el mobiliario gigante.
 
 | # | Lugar | Las seis piezas grandes |
 |---|-------|--------------------------|
 | 1 | Casa | mesón de cocina + olla gigante, escalera curva con baranda, sillón, mesa de comedor con banco, araña de luces, placard |
-| 2 | Mercado | puesto de comida con toldo a rayas, pirámide de frutas, olla de sopa gigante, ovillo de lana con huso, carretto cubierto, arco de faroles |
+| 2 | Mercado | puesto de comida con toldo a rayas, pirámide de frutas, olla de sopa gigante, ovillo de lana con huso, carrito cubierto, arco de faroles |
 | 3 | Campo de hielo | grúa con polea y cuerda, rampa de bloques, máquina de cortar con rueda gigante, escalera de hielo, cúpula de almacenamiento, carrete de cuerda |
 | 4 | Parque | calesita, tobogán gigante, muralla de nieve con torres, pórtico de columpios, rodillo de nieve, laberinto de nieve |
 | 5 | Universidad | estantería gigante, escalera rodante, pizarrón gigante, escalera de libros, globo terráqueo, dispensador |
@@ -102,7 +100,7 @@ objetos, cada zona con la suya):
 - un cojín al pie de la escalera tras resbalar, con tres objetos distintos
   tirados en los escalones de arriba;
 - placard abierto con una línea de platos rodando hacia la encimera;
-- pulta boca abajo junto a la tostadora, con su tapa apoyada encima;
+- jarra boca abajo junto a la tostadora, con su tapa apoyada encima;
 - panqueque pegado al techo, con una silla debajo y el mantel tirado a medio
   de la mesa;
 - manta medio desenrollada del sillón, arrastrando un cojín por el piso;
@@ -134,7 +132,7 @@ celeste con pompón en el piso junto al perchero, bulto rechoncho con dos
 lóbulos entre cojines, almohada con dos muñones redondos caída en el
 recibidor, bolso suave con asas rojas colgado de un pomo, farolillo redondo con
 pompón junto a la escalera, seis bolas de felpa atadas con cordón rojo (una
-rodó a la alfombra), trivet de tres padres en triángulo contra el muro, dos
+rodó a la alfombra), trivet de tres patas en triángulo contra el muro, dos
 manoplas unidas por cinta roja colgadas del riel del mesón, rodillo con franja
 roja en cada punta entre sillón y mesa, mochila pequeña con correas rojas bajo
 el banco, gorro tejido con dos borlas rojas enganchado en la baranda, puf
@@ -166,7 +164,7 @@ en el piso; hilera de frascos que cae en dominó; montón de pelotas que rueda y
 se junta contra el placard; ropa doblada del banco que colapsa en deriva larga;
 manojo de cucharas que baja por el pasamanos y se junta en un escalón; guantes
 que salen a chorros de una cesta; columna de latas junto al mesón que se
-volca; pila de ollas del piso que se tira y repica contra el muro; bufandas
+vuelca; pila de ollas del piso que se tira y repica contra el muro; bufandas
 que se desenrollan del pasamanos y trepan las escaleras; deriva de nieve que
 entra más y entierra la esquina de la alfombra. La casa sigue vacía.
 
@@ -191,16 +189,18 @@ recibidor), repartidas en grupos desparejos, dentro de los montones. La casa
 sigue sin ningún ser vivo. Solo sirve si faltan escondites o trampas; si la
 imagen está borrosa u oscura, va un pulso de luz/nitidez, no este paso.
 
-**Paso 3b — BUSCABLE (bajo pedido, después de 3a):** NODI aparece una única
-vez, en el rincón del salón, HUNDIDO en el montón de cojines encajado entre
-el sillón y el muro. Un cojín le queda grande y le tapa casi todo el cuerpo:
-solo asoman parte de la cabeza, una orejera y un pedazo de la bufanda. Otro
-cojín caído sobre las rodillas y una manta deslizada sobre un hombro para que
-en la primera mirada se lea como un montón más de la pila. Mira hacia la sala
-con curiosidad alegre, con una mano tocándose una orejera. Único ser vivo de
-la imagen; ningún objeto ni figura tiene su celeste exacto ni sus dos rojos
-juntos; exactamente uno en toda la imagen. Los escondites quedan vacíos salvo
-donde esté él.
+**Paso 3b — NODI EN SU CASA (bajo pedido, después de 3a):** NODI aparece una
+única vez, en el rincón del salón, sentado entre los cojines apilados al lado
+del sillón, contra el muro, en el tercio lateral y en la banda media. Es más
+chico que un cojín del sillón: un cojín grande parado delante de él le tapa
+casi todo el cuerpo, y solo asoman la parte de arriba de la cabeza, una
+orejera y el borde de la bufanda. Una manta apoyada al lado y cojines del
+celeste exacto de su pelaje alrededor hacen que, a primera vista, se lea como
+parte de la pila. Mira hacia la sala con curiosidad alegre, con una mano
+tocándose una orejera. Es el único ser vivo de la imagen y el único que lleva
+bufanda roja y orejeras rojas juntas: hay muchos objetos de su celeste
+exacto (camuflaje), pero ninguno con sus dos rojos. Exactamente uno en toda
+la imagen. Los escondites quedan vacíos salvo donde está él.
 
 ---
 
@@ -214,7 +214,7 @@ varios puestos a la vez, con 4-5 bandas de profundidad.
 **Las seis piezas:** puesto de comida con toldo a rayas enorme y mostrador
 largo · pirámide escalonada de frutas y verduras sobre mesa ancha · olla
 gigante de sopa con tapa hundida en un mostrador redondo · madeja gigante de
-lana sobre huso alto · carretto cubierto estacionado en medio de la calle ·
+lana sobre huso alto · carrito cubierto estacionado en medio de la calle ·
 arco gigante de farolillos entre dos postes sobre la calle.
 
 **Caos propio:** toldos que se hunden en arcos redondeados; pirámides de frutas
@@ -231,7 +231,7 @@ postes; la nieve empuja gorros, manzanas y lana junto al suelo.
 - un carrito de panecillos se vuelca, los panecillos se esparcen y algunos se
   hunden en un montículo de nieve;
 - pila de bufandas dobladas se desliza del mostrador y se abre en abanico;
-- montón de naranjas empujado por la nieve, acumulado contra el carretto;
+- montón de naranjas empujado por la nieve, acumulado contra el carrito;
 - la olla gigante se ladea y una onda redondeada de sopa baja a la nieve;
 - columna de frascos apilados cae en dominó, el último sobre un cojín;
 - atado de bolsas de lana se hunde y derrama paquetitos en todas direcciones;
@@ -241,7 +241,7 @@ postes; la nieve empuja gorros, manzanas y lana junto al suelo.
 - derrumbe de gorros que rueda, uno cayendo boca abajo sobre un poste.
 
 **Objetos trampa sugeridos:** orejeras celestes de felpa colgadas de un poste
-(una torcida); atado rechoncho con dos lóbulos medio enterrado en lana; gorro
+(una torcida); atado rechoncho con dos lóbulos medio tapado por lana; gorro
 tejido con pompón rojo boca abajo sobre la nieve; farolillo redondo con pompón
 sobre un barril; seis bolas celestes atadas con cordón rojo, una rodada en la
 calle; bolso blando con asas rojas caído junto a un cajón.
@@ -258,7 +258,7 @@ microescena.
 
 **Paso 2 — DENSIDAD:** nombra las seis piezas y agrega capa nueva contra ellas:
 torre de cestas que se inclina y suelta las dos de arriba; hilera de manzanas
-rodando hacia el carretto; tres alfombras que se desenrollan desde un montón
+rodando hacia el carrito; tres alfombras que se desenrollan desde un montón
 nuevo; frascos en dominó; saco blando de lana que se derrama; columna de trapos
 doblados que colapsa en abanico; pila de peluches que se vuelca del mostrador a
 la calle; carretilla de panecillos que vuelca; montón de naranjas empujado por
@@ -305,7 +305,7 @@ lento.
 - canal de bloques chicos que se amontona contra el domo.
 
 **Objetos trampa sugeridos:** orejeras celestes acolchadas en un poste de la
-grúa (una torcida); atado con dos lóbulos medio enterrado en virutas; gorro
+grúa (una torcida); atado con dos lóbulos medio tapado por virutas; gorro
 con dos borlas rojas enganchado en el riel de la rampa; farolillo redondo sobre
 un bloque de hielo; seis bolas atadas con cordón rojo, una rodada en el hielo;
 mochila pequeña con correas rojas detrás de un trineo.
@@ -322,7 +322,7 @@ sentado sobre un bloque, uno medio oculto tras virutas).
 la rampa que se separa girando; pila de cajones que se abre en abanico de
 virutas; bobina nueva que serpentea y se anuda; fila de cubos en cadena; almohadillas
 que caen de la plataforma; columna de bloques en dominó; nube de bolas
-rebrotando; saco de virutas tirado de lado; fila de farolillos que se desliza;
+rebotando; saco de virutas tirado de lado; fila de farolillos que se desliza;
 trineo nuevo hasta un banco de nieve.
 
 ---
@@ -414,7 +414,7 @@ regadas.
 - muro de pizarras que resbala por los escalones del atrio;
 - montón de mochilas que se derrama y rueda por la escalinata frontal;
 - torre de bandejas y tazas que se tira y aterriza en abanico;
-- el globo enorme se desengancha, cruza el piso y frena contra un ventiscon
+- el globo enorme se desengancha, cruza el piso y frena contra un montón
   de libros;
 - monte de páginas sueltas que se levanta y se esparce;
 - rollo de posters que se desenrolla en espiral por el corredor;
@@ -425,7 +425,7 @@ regadas.
 **Objetos trampa sugeridos:** par de orejeras acolchadas celestes sobre pila de
 libros (una torcida); gorro con pompón boca arriba en un banco del aula;
 farolillo redondo sobre un escritorio; mochila con correas rojas detrás de un
-carrito; almohada con dos muñones caída en el corredor; trivet de tres padres
+carrito; almohada con dos muñones caída en el corredor; trivet de tres patas
 contra un carrito de libros.
 
 **Luz y nieve:** nieve solo afuera (piso, escaleras, techos, repisas);
@@ -444,7 +444,7 @@ carpetas, almohadones, posters, mochilas, taburetes, tazas, bandejas, lápices
 gigantes, aviones de papel, globos con hilo. Microescenas nuevas (torre de
 libros en abanico, carrito que se vuelca, pizarras por la escalera, mochilas
 rodando la escalinata, columna de tazas del dispensador, páginas que se
-esparcen, coil de posters contra una columna, etc.). Las seis piezas siguen
+esparcen, rollo de posters contra una columna, etc.). Las seis piezas siguen
 visibles.
 
 ---
@@ -477,7 +477,7 @@ la tienda que botan hacia la entrada.
 - vitrina de esculturas que baja por la rampa y su contenido queda en montón;
 - pila de monedas redondas que se tira y rueda en todas direcciones;
 - el huevo gigante baja del pedestal, rueda por dos salas y aparta un
-  ventiscon de pelotas;
+  montón de pelotas;
 - muro de cuerdas de terciopelo que se desliza de los postes y se anuda;
 - mapa que se desenrolla solo por el hall y envuelve un banco y una columna;
 - montón de huesos blandos que se desploma de la plataforma;
@@ -498,7 +498,7 @@ farolillos interiores.
 
 **Personajes de fondo:** hasta una docena (dos en el vestíbulo, tres entre
 columnas, uno entre vitrinas, uno sentado en un banco, uno medio escondido
-detrás de un ventiscon de pelotas), cada uno distinto y con su acción.
+detrás de un montón de pelotas), cada uno distinto y con su acción.
 
 **Paso 2 — DENSIDAD:** capa nueva en vestíbulo, columnas, suelos de vitrinas,
 rampa, superficie del mapa y mostrador: fósiles blandos, conchas, huevos,
@@ -558,7 +558,7 @@ Luz blanca de invierno por la ventana + ámbar de las lámparas de la tienda.
 **Particularidades de la escena:** los maniquíes son redondos y SIN cara, sin
 ojos, boca, pelo ni anatomía: son objetos, no criaturas. Ganchos y rieles
 blandos y redondeados, nunca afilados. Los monstruitos de fondo visten ropa
-simple de colores mezclados, ningunos dos con la misma combinación, y NINGUNO
+simple de colores mezclados, no hay dos con la misma combinación, y NINGUNO
 lleva un accesorio rojo de firma (ni gorro, ni bufanda, ni orejeras, ni bolso,
 ni tutú, ni corbata rojos): el rojo de firma es solo de la familia.
 
@@ -593,14 +593,18 @@ amigable, sin cara tallada ni detalles amenazantes. Detrás del árbol grande,
 destellos redondeados suaves y luminosos en el cielo como luces invernales —
 solo formas de luz suaves, sin fuego, sin chispas quemando ni humo. Negativos
 propios: sin atmósfera oscura, sin escena nocturna, sin fuegos artificiales.
-**Escala de la familia**: los miembros van CHICOS en el cuadro —cuerpo entero,
-con espacio alrededor, más chicos que el escenario, las piezas grandes y los
-objetos que los rodean—, nunca en primer plano ni ocupando el encuadre; si
-salen grandes, se corrige con un pulso de escala o se reescribe. Y OJO: los
-negativos "no family members, no reunion, no central hug" valen SOLO para los
-pasos 1 y 2 (la escena se genera sin familia); en el paso 3, que es el
-desenlace, la familia completa aparece junta y feliz y esos negativos se
-quitan.
+**El final (paso 3)**: entran los siete personajes (NODI, mamá, papá,
+hermana, hermano, abuelo y la mejor amiga), desperdigados por la plaza, cada
+uno en una zona distinta y disfrutando el festival con los objetos de su
+rincón: nunca juntos, nunca en grupo, nunca un abrazo central. Todos chicos,
+del tamaño de los monstruitos de fondo, nadie en primer plano, cada uno tapado
+en parte por un objeto. Lugares sugeridos: NODI entre las cajas de regalo al
+pie de la pila; mamá en un puesto de comida; papá junto al poste de la
+campana; la hermana en el carrusel de trineos; el hermano en la escalera del
+escenario; el abuelo en un banco junto al árbol; la mejor amiga junto a la
+muralla del fuerte. Receta D de `references/recetas.md`. En los pasos 1 y 2
+el negative suma "no family members, no reunion, no central hug"; en el paso
+3 eso se saca.
 
 **Caos propio:** guirnaldas y decoraciones en arcos y lazadas sobre postes;
 guirnaldas que se desenrollan y serpentean; cajas de regalo que ruedan
@@ -640,7 +644,7 @@ postes.
 
 **Personajes de fondo:** hasta una docena (dos alrededor del árbol, tres en
 los escalones del escenario, uno entre puestos, uno sentado en un banco, uno
-medio escondido detrás de un ventiscon de cajas), todos distintos y cada uno
+medio escondido detrás de un montón de cajas), todos distintos y cada uno
 celebrando algo distinto.
 
 **Paso 2 — DENSIDAD:** capa nueva alrededor y debajo del árbol, sobre el
@@ -657,12 +661,5 @@ campanas de a una, etc.). Las seis piezas siguen visibles.
 
 ## Pendientes
 
-- **Terminar de renderizar las 8 escenas** con el flujo de 2 pasos. Ningún
-  prompt está preescrito: se componen al pedirse, uno por uno.
-- **Paso 3 de buscables** (NODI, y el familiar de cada escena; el reencuentro
-  final de la escena 8): está especificado en SKILL.md y en los lineamientos
-  de cada escena, y **se compone recién cuando el grupo lo pida**. En la casa
-  se parte en dos: primero escondites y trampas, después NODI.
-
-Ya no quedan decisiones del grupo pendientes: el pañuelo rojo de papá está
-confirmado y la escena 8 tiene su desenlace definido.
+- Terminar de renderizar las 8 escenas (pasos 1 y 2).
+- Paso 3 de cada escena, cuando el grupo lo pida.

@@ -529,6 +529,28 @@ familia. NODI entra después, en un paso aparte y bajo demanda del grupo.
   actividad; y (c) NODI, acompañando a los encontrados pero siempre chiquito
   y disimulado entre los objetos. Pedir al grupo las imágenes de referencia
   de cada personaje que aparezca y adjuntarlas con la de NODI.
+- **FAMILIA DISIMULADA (va SIEMPRE, en todos los pasos 3)**: lo que vale para
+  NODI vale para TODA la familia: los ya encontrados, el nuevo y NODI entran
+  DISIMULADOS entre los objetos, ocultos a primera vista, cada uno hundido en
+  una pila de felpa propia (entre pilas de libros, bajo una manta caída, detrás
+  de un cojín, en el hueco de una pizarra, bajo el borde de un puf) y cubiertos
+  por objetos del color EXACTO de su propio pelaje apilados alrededor y encima
+  (violeta alrededor de mamá, azul alrededor de papá, lila/rosa alrededor de
+  la hermana, celeste profundo alrededor del hermano mayor, #91d3eb alrededor
+  de NODI). De cada uno solo se ve en la primera mirada UN FRAGMENTO: un
+  pedazo de pelaje, una punta del accesorio rojo, un borde de la cara. NUNCA
+  postura de esconderse: se sientan, se recuestan o se apoyan relajados en la
+  pila, como si fueran un mueble más del desorden — no agachados, no
+  espiando, no buscando cobertura. Si un personaje se reconoce entero de una
+  mirada, queda demasiado expuesto y se corrige con pulso de ocultamiento
+  (SOURCE IMAGE + BURY THE FAMILY INTO THE CLUTTER: cada miembro hundido en
+  su pila, fragmentos visibles, posturas casuales, ancla de luz/nitidez en el
+  NEGATIVE). El texto del paso 3 lo pide desde el primer intento: "each of
+  them is half-sunk into a pile of soft objects, casual and relaxed, not
+  crouching, not peeking, not looking for cover, only a small fragment of each
+  visible: a patch of fur and the edge of their red accessory". Los escondites
+  van VACÍOS salvo donde descansa un familiar; los juguetes y trampas candidatos
+  quedan; el rojo nunca queda como único acento.
 - **ESCALA ANTI-GIGANTE (obligatoria desde el PRIMER intento, sin pulso)**:
   TODOS los personajes del paso 3 —los ya encontrados, el nuevo y NODI— van
   CHIBOS y con la MISMA altura visual que los monstruitos chicos de fondo de

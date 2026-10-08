@@ -70,6 +70,10 @@ genera una segunda copia suya, ni un fondo, ni un reflejo, ni una cola.
 
 - **Libro impreso** (tapa, páginas introductorias, 8 escenas, QR, colofón
   crítico) — entregable en mano, 9/10.
-- **Documento de proceso** — síntesis de decisiones, qué falló y qué se
-  corrigió; se presenta junto con el libro.
-- **PSD y material pesado** — en Drive, linkeados desde el documento.
+- **Documento de proceso**: `proceso.md` (en esta carpeta). Contiene
+  prompts, decisiones de diseño, versiones intermedias, qué falló y qué se
+  corrigió.
+- **PDF de artes finales del libro**: aún no subido al repo (se subirá
+  cuando esté listo). 
+- **PSD y material pesado** — en Drive, linkeados desde el documento de
+  proceso.

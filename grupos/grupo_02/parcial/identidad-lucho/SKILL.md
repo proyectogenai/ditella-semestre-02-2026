@@ -59,6 +59,57 @@ REAL PHYSICAL MINIATURE CROCHET DIORAMA, handcrafted almost entirely from chunky
 
 Cada pieza usa una **Capa 1 distinta** (la época/escena). Aunque la época cambie, el bloque madre queda idéntico. Densidad visual rica SIEMPRE vía el material textil (puntadas, madejas, costuras) — la densidad de objetos puede variar. Cuando aparezcan rayas, usar crema + verde como patrón preferido; las demás combinaciones de rayas quedan evitadas.
 
+## Flujo de generación (2 pasos)
+
+La generación se hace en dos pasos. El Paso 1 produce la Capa 1; el Paso 2 une Capa 1 + bloque madre. Nunca se pega el bloque madre solo, ni la Capa 1 sola.
+
+### Paso 1 — Desarrollar la escena (Capa 1)
+
+Pedir al modelo que desarrolle la época en una VARIABLE SCENE LAYER, con este prompt y `X` reemplazado por la época:
+
+```
+You are an expert art director designing environments for a children's search-and-find book about traveling through different historical periods and worlds. Your task is to DEVELOP a short SCENE provided by the user into the VARIABLE SCENE LAYER of a text-to-image prompt. You are responsible ONLY for determining WHAT exists in the scene and WHAT is happening. The project's material technique, visual aesthetic, color palette, photographic treatment, image format and production rules are defined separately in a fixed MASTER STYLE BLOCK. Do not describe or rewrite those characteristics.
+
+Determine scene-appropriate: location and landscape; architecture; vegetation; inhabitants; animals or creatures; clothing; tools; transportation; everyday objects; occupations; environmental details; a limited number of meaningful interactions.
+
+Favor characteristic everyday life and environmental storytelling over static or museum-like representation. The historical period should be recognizable through its environment rather than through text or labels.
+
+SCENE COMPLEXITY: choose between LOW, MEDIUM and HIGH object density for each environment. Do NOT automatically make every scene extremely crowded. Object density and visual richness are not the same thing. Never choose high density simply because this is a search-and-find book. When in doubt, prefer LOW or MEDIUM object density.
+
+SEARCH-AND-FIND LOGIC: include a LIMITED number of meaningful micro-stories appropriate to the setting. Prefer a few clearly readable interactions over dozens of tiny activities. Micro-stories should enrich the environment, not dominate it. Quiet areas are allowed and desirable. Large environmental features such as mountains, rivers, vegetation, architecture, terrain, clouds, fields or walls may occupy significant portions of the panorama. Create opportunities for visual searching through spatial layering, overlapping forms, environmental features, partially obscured areas, repeated shapes, pathways, entrances, vegetation, architectural details and natural visual pockets. Do not intentionally create obvious empty hiding spots. Some areas may be active while others remain calmer.
+
+COMPOSITIONAL CONTENT: develop a clear foreground, middle ground and background. Distribute the main environmental information across the left and right sides of the panorama. Avoid one oversized central protagonist or one dominant central event. The scene should feel like a coherent place rather than a collage of unrelated activities. Do not overload the scene with tiny props merely to increase complexity.
+
+SEARCHABLE ENVIRONMENT: include numerous plausible places where a small recurring character could later be integrated into the environment, without adding the character or reserving an obvious empty space for it. Distribute these opportunities across both halves of the panorama and at several spatial depths, using clusters of vegetation, rocks, roots, architectural openings, everyday objects and groups of inhabitants as appropriate to the setting. Keep enough small and medium environmental forms throughout the scene to support searching. Avoid allowing oversized inhabitants or uninterrupted expanses of sky, water, bare ground or flat walls to consume most of the usable search area. Avoid consistently funneling open space toward the center: let environmental clusters extend into the inner portions of both halves.
+
+HISTORICAL AND SCIENTIFIC ACCURACY: preserve recognizable historical, cultural, environmental or scientific foundations. Avoid obvious anachronisms. Do not introduce technologies, architecture, clothing, transportation, species or cultural objects that clearly contradict the requested setting. When details are uncertain, prefer broadly defensible visual information rather than speculative precision.
+
+SEPARATION OF RESPONSIBILITIES: the VARIABLE SCENE LAYER describes CONTENT ONLY. Do NOT describe crochet, yarn, knitting, textile materials, artistic technique, color palette, photographic style, lighting style, camera, depth of field, aspect ratio, resolution, printing, book gutter or visual references. Those belong exclusively to the fixed MASTER STYLE BLOCK.
+
+OUTPUT: return ONLY the finished VARIABLE SCENE LAYER, written as a coherent image-generation description. No headings. No explanations. No alternatives. Do not generate an image.
+
+Scene: X
+```
+
+La respuesta del modelo es únicamente la Capa 1: describe contenido, nunca material, paleta, luz ni formato.
+
+### Paso 2 — Generar la imagen
+
+Concatenar en un solo mensaje, en este orden:
+
+```
+[Capa 1 devuelta por el Paso 1] + [bloque madre, copiado sin modificar]
+```
+
+Pedir: "Generá esta imagen".
+
+### Reglas del flujo
+
+- El Paso 1 se repite una vez por escena (8 veces en total).
+- El bloque madre jamás se reescribe, se resume ni se adapta.
+- Si la densidad o la escena no funcionan, se corrige la Capa 1 y se repite el Paso 2. Nunca se toca el bloque madre.
+- Las imágenes originales de las 8 escenas quedan en `imagenes/` de esta carpeta.
+
 ## Restricciones (límites duros del sistema)
 
 - SOLO cambia la Capa 1. El bloque madre es inviolable.

@@ -37,3 +37,119 @@ Atlas de 8 escenas estilo "¿Dónde está Wally?" para el parcial de IA Generati
 - Todas las versiones intermedias están en `prompts/versiones/`.
 - Capturas/iteraciones en `imagenes/` (shibuya iteraciones). 
 - Skill viva documentada en `identidad-el-diario-de-mei/SKILL.md`.
+
+## Anexo: Prompt del sistema (bloque madre)
+
+### Prompt completo usado (base congelada)
+```text
+Create a BRAND NEW hand-drawn editorial illustration from scratch — warm,
+muted, strongly desaturated 2D cartoon illustration with soft cel-shading,
+clean irregular linework and watercolor-like paper texture: a travel-journal
+drawing, never a photograph, never a 3D render.
+Horizontal 16:9 landscape format, edge-to-edge composition, many people each
+doing something different, small details to discover on a second look, no
+blur, no motion blur, no glow, no vignette, no border, no frame. No petals
+in the air, no confetti, nothing floating or falling: all pink blossoms stay
+attached to the trees. No written words, no legible text, no logos, no
+watermark, no UI.
+
+Mei appears exactly once in this image: straight black hair falling in one
+smooth sheet to below her shoulder blades, a softly oversized dusty pink
+hoodie, ivory wide-leg trousers, a caramel brown tote bag over one shoulder.
+
+[CAPA 1 — ESCENA: descripción del lugar, momento y situación, en inglés]
+
+MEI'S PLACEMENT IN THIS SCENE — Mei appears EXACTLY ONCE, [POSICIÓN],
+[OCLUSORES: dos cosas que se cruzan por delante de ella], [QUÉ SE ASOMA:
+qué parte de ella aparece en el hueco]. She stands at the same height and
+at the same depth as the figures beside her, her long black hair merging
+with the dark hair masses of the figures in front of her, so her outline is
+broken and she belongs to the crowd before she reads as a single person.
+[ÁNGULO Y ACCIÓN]. She sits on the same reading level, under the same
+diffuse light and at the same scale as every figure around her. Her three
+anchors appear on one figure only: she is the only person in a dusty pink
+hoodie, the only person in ivory wide-leg trousers and the only person
+carrying a caramel brown tote bag, and every other figure wears a different
+combination of clothes.
+
+MEI IS THE SINGLE EXCEPTION to the no-protagonist rule: exactly one figure
+in this crowd is the character; every other figure is one more person in
+the multitude.
+
+MEI IS THE ONLY COPY: exactly one figure in the whole image has straight
+black hair falling in one smooth sheet below her shoulder blades; exactly
+one wears a dusty pink hoodie; exactly one wears ivory wide-leg trousers;
+exactly one carries a caramel brown tote bag over one shoulder. Never two
+similar girls, never a twin, never a pair, never two friends or sisters
+dressed the same, never a duplicate, never a second copy of her anywhere in
+the frame: not in the background, not at another stall, not in a queue, not
+under the lanterns, not in a window or a reflection. No other figure shares
+her hair, her hoodie, her trousers or her bag. If two figures end up looking
+alike, one of them is redrawn as a completely different person with
+different hair, different clothes and different accessories, and only one
+figure in the image is Mei.
+
+Density grammar: three or more overlapping layers of depth, no large empty
+spaces, no sector empty and no sector focused only on the crowd; visual
+overload distributed equally between people and the environment, integrated
+naturally; visual hierarchy with no single human protagonist, characters
+always at a third or fourth reading level; props, structures, vegetation,
+furniture, branches, posts, awnings and shadows constantly hiding or
+half-hiding bodies, so a figure can easily be camouflaged among the scene.
+
+Character style: contemporary animated cartoon caricature, like a modern
+cartoon series — bold simplified shapes, exaggerated rounded proportions,
+overly large heads, stubby simple limbs, hair as large soft rounded masses.
+The figures of the foreground have big expressive cartoon eyes with a big
+dark pupil filling not more than half of the iris, still framed by a ring of
+visible white sclera, tiny noses and small mouths; expressiveness comes
+mainly from the eyes, body posture and head direction. The figures of the
+mid-ground and the background keep simple minimal features — tiny noses,
+small mouths, small simplified eyes — and read as compact shapes inside the
+crowd.
+
+Architecture and nature more detailed and precise than the characters, but
+equally illustrated, in the same crafted language.
+
+Finish: editorial travel-journal illustration, digital 2D, soft cel-shading,
+warm watercolor-like paper texture, clean thin and irregular linework in the
+color of the base form (never black, never hard outlines), handcrafted,
+adult and contemporary.
+
+Muted, warm, nostalgic, strongly desaturated — zero digital glow, no hard
+contrast. Core tokens always present: sakura pink, dusty pink, salmon and
+peach as spring accents; cream, ivory, beige and sand; warm wood brown,
+terracotta, brick red and muted vermilion as small controlled accent bursts
+on key objects; navy, greyish blue and washed light blue; olive green, moss
+green and forest green; warm stone grey and brownish charcoal.
+
+Ground and large surfaces: warm grey and beige mid-values, visible texture,
+seams, cracks, painted lines, paper grain. No ink stains, no blotches, no
+dark smudges, no holes of pure black, no oily gloss.
+
+Light is warm, natural and diffuse, with no harsh solar direction and
+minimal soft diffuse shadows, no hard black shadows. Small contained points
+of warm yellow light only where real lamps/lanterns exist, no halos. No
+dominant absolute black or optical white. Water is pictorial with
+fragmented brushstrokes and warm reflected highlights.
+
+Mid-century Japanese and Swiss travel posters, Jean-Jacques Sempé, Tove
+Jansson, Mary Blair, Heinz Edelmann, New Yorker editorial illustration and
+the colour-line tradition of Winsor McCay, Maira Kalman's travel-journal
+voice.
+
+NOT anime, NOT Ghibli, NOT Studio Ghibli, NOT Miyazaki, NOT manga, NOT
+Pixar or 3D render, NOT pencil animation look, NOT airbrush or 3D plastic
+shading. Avoid anime eye shapes, soft dreamy anime gradations and hard black
+outlines.
+```
+
+### Por qué elegimos este bloque (y no otro)
+- **Estilo primero (ancla):** colocamos la técnica ilustrada al inicio para forzar al modelo a leerla antes que los detalles arquitectónicos (evita drift a foto). Esto funcionó especialmente después de quitar `photorealism` de las negaciones.
+- **Bloque congelado:** asegura reproducibilidad entre las 8 escenas. Solo cambian `[CAPA 1]` y los 4 huecos del placement.
+- **Densidad explícita ("Density grammar"):** obliga a multitudes con capas, sin espacios vacíos y sin foco único en un protagonista (necesario para lógica Wimmelbilder).
+- **Anti-duplicados (`MEI IS THE ONLY COPY`):** protege contra el error más frecuente (aparecen dos Meis). Obliga a regenerar si hay duplicado.
+- **Placement con oclusores:** dos elementos cruzando por delante rompen el contorno, integran a Mei en la multitud y construyen la dificultad de búsqueda (intermedia, nunca imposible).
+- **Tres anclajes obligatorios:** garantizan reconocimiento aun con oclusión (≤40%).
+- **Referencias ilustradas (no fotográficas):** Sempé, Mary Blair, Kalman etc. guían el look editorial/cartoon ilustrado, alejándolo de anime/3D/foto.
+- **Restricciones negativas precisas:** lista corta y concreta (sin bordes, sin texto, sin bloom, pétalos pegados a árboles) para reducir ambigüedad.

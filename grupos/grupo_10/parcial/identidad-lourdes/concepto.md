@@ -90,7 +90,7 @@ ella misma elegiría, siempre rodeada de gente.
 
 **Cambios en el libro final:** en cada fiesta Lourdes cambia de outfit y
 de pose, así que hay una imagen suya por escena. Lo que no cambia nunca:
-pelo bob castaño, pañuelo negro con puntitos blancos y cartera. Los tres
+pelo bob castaño, pañuelo negro con puntitos blancos en la cabeza y cartera. Los tres
 rasgos de arriba (silueta, color y objeto) describen el diseño original.
 
 **Referencia visual:** boceto a mano de Lourdes + versión coloreada por
@@ -133,7 +133,7 @@ Este libro son esas ocho búsquedas. En cada página hay una fiesta
 distinta — un carnaval, un barco, una pileta, un rooftop — y en cada
 una, en algún lugar, está Lourdes. Cambia de outfit en cada fiesta, pero
 se reconoce siempre por lo mismo: su pelo corto castaño, su pañuelo negro
-con puntitos blancos y esa cartera que nunca suelta.
+con puntitos blancos en la cabeza y esa cartera que nunca suelta.
 
 **¿La encontrás?**
 

@@ -95,7 +95,7 @@ está metida en el bullicio.
 **Cómo se la reconoce.** Cambia de outfit y de pose en cada fiesta. Lo
 que no cambia nunca:
 - Pelo bob castaño.
-- Un pañuelo negro con puntitos blancos.
+- Un pañuelo negro con puntitos blancos en la cabeza.
 - Una cartera.
 
 **Cómo se dibujó.** El boceto a mano es nuestro y la versión coloreada la

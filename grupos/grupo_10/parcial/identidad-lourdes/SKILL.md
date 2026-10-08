@@ -221,7 +221,7 @@ narrativo, y se deja como está.
 **Cómo se la reconoce.** En cada fiesta cambia de outfit y de pose, así que
 lo que la hace reconocible son tres rasgos que **no cambian nunca**:
 - **Pelo bob castaño.**
-- **Un pañuelo negro con puntitos blancos.**
+- **Un pañuelo negro con puntitos blancos en la cabeza** (atado sobre el bob, como una vincha).
 - **Una cartera** (chica).
 
 Todo lo demás (ropa, calzado, vaso, pose) es propio de cada fiesta y lo
@@ -277,7 +277,7 @@ Lourdes de otra fiesta que haya quedado bien) y pegá este prompt. Completá
 Redraw the character in the attached image for an illustrated "search and find" storybook. She is Lourdes, a young woman who loves parties. She must appear as the same character in a new outfit and a new pose, and the result will be cut out and placed by hand into a larger scene.
 
 02 — WHAT STAYS THE SAME (never change these)
-Her short brown bob haircut. A black neckerchief with small white polka dots tied around her neck. A small handbag that she always carries. Keep her recognizable as the same young woman.
+Her short brown bob haircut. A black scarf with small white polka dots worn on her head, tied over her short brown bob like a headband. A small handbag that she always carries. Keep her recognizable as the same young woman.
 
 03 — WHAT CHANGES
 OUTFIT: [OUTFIT]
@@ -287,7 +287,7 @@ POSE: [POSE]
 Redraw her in the flat European editorial style of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. A slim, slightly angular figure with natural anatomy (one head, two arms, two legs, joints in the right places) and a simple caricatured face: tiny dot eyes, expressive eyebrows, a small angular nose and a simple line for the mouth. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look.
 
 05 — PALETTE
-Outfit colors only from: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the neckerchief and her brown hair. NO pink, NO neon.
+Outfit colors only from: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and her brown hair. NO pink, NO neon.
 
 06 — COMPOSITION
 Full body, centered, filling about 85% of the height of a tall frame, on a perfectly plain pure white background. No ground, no floor, no shadow, no other people, and no props except what the pose needs. Portrait format, 1024x1536px.

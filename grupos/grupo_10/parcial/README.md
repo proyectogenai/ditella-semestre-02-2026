@@ -13,7 +13,7 @@ Martinière).
 
 Narra una amiga que la persigue de fiesta en fiesta y siempre llega un rato
 tarde. En cada fiesta Lourdes cambia de outfit y de pose, pero siempre lleva
-el pelo bob castaño, un pañuelo negro con puntitos blancos y una cartera.
+el pelo bob castaño, un pañuelo negro con puntitos blancos en la cabeza y una cartera.
 Además, en cada fiesta pierde un objeto: se revelan recién en la página
 final del libro.
 

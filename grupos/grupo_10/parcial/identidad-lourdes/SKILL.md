@@ -353,16 +353,18 @@ NO text. NO logos. NO watermark. NO photorealism. NO gloss or 3D rendering look.
 ## Paleta (valores de referencia)
 
 El prompt usa nombres de colores y es lo que entiende el modelo. Estos
-son los valores de referencia para el trabajo en Figma y la maquetación:
+son los valores de referencia para el trabajo en Figma y la maquetación,
+medidos sobre las imágenes ya generadas (hoja de objetos sueltos, viñetas
+y objetos perdidos):
 
 | Color | Hex |
 | --- | --- |
-| Amarillo mostaza | #E0A82E |
-| Rojo ladrillo | #A8402E |
-| Verde oliva | #5F6B35 |
-| Naranja quemado | #C8681F |
-| Azul grisáceo | #6F83A0 |
-| Crema cálido | #F4EBD8 |
+| Amarillo mostaza | #DFAE26 |
+| Rojo ladrillo | #B9382B |
+| Verde oliva | #5F6D3C |
+| Naranja quemado | #D46424 |
+| Azul grisáceo | #67858E |
+| Crema cálido | #F6F0E4 |
 
 Excepción: el agua de la pool party usa #2C7C94.
 

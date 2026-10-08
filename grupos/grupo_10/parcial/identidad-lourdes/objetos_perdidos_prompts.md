@@ -24,7 +24,7 @@ libro.
   Figma (Remove background) y ponerlos en la escena.
 - Se dibujan simples y grandes a propósito: dentro de la escena van a
   medir unos 40-60 px, así que la silueta tiene que leerse sola.
-- Después de generarlos, agrandalos con Upscayl igual que las escenas.
+- Después de generarlos, pedile a ChatGPT la versión en alta resolución, igual que con las escenas.
 
 ---
 

@@ -53,7 +53,7 @@ Cada doble página es una fiesta completa. Tu misión es una sola:
 cosas que lleva siempre:
 
 - **El pelo corto, castaño.**
-- **Un pañuelo negro con puntitos blancos.**
+- **Un pañuelo negro con puntitos blancos en la cabeza.**
 - **Una cartera.**
 
 **Cómo buscarla.** Mirá con calma. Nunca está en primer plano ni en el

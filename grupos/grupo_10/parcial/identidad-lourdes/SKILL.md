@@ -172,8 +172,9 @@ Las partes en inglés no se traducen.
   subas en vez de generar. Si pasa, sacá esas frases. (Esto vale para la
   escena y el objeto; el prompt de Lourdes sí es una edición.)
 - **Después de generar:** la imagen sale de unos 1500 px de ancho, que en
-  un A3 son unos 85 dpi. Para imprimir hay que agrandarla (Upscayl, modelo
-  de ilustración, 3× o 4×) hasta unos 3300 px de ancho como mínimo.
+  un A3 son unos 85 dpi. Para imprimir, el grupo le pide a ChatGPT la
+  versión a 300 dpi (un A3 horizontal a 300 dpi son 4961 × 3508 px).
+  Conviene comprobar los píxeles reales del archivo antes de imprimir.
 
 ## Regla de variación
 
@@ -220,7 +221,10 @@ narrativo, y se deja como está.
 **Cómo se la reconoce.** En cada fiesta cambia de outfit y de pose, así que
 lo que la hace reconocible son tres rasgos que **no cambian nunca**:
 - **Pelo bob castaño.**
-- **Un pañuelo negro con puntitos blancos.**
+- **Un pañuelo negro con puntitos blancos en la cabeza:** una bandana
+  triangular que le cubre la parte de arriba de la cabeza y se ata atrás,
+  con dos puntitas colgando. El bob se ve por debajo. No es una vincha ni
+  lleva moño arriba.
 - **Una cartera** (chica).
 
 Todo lo demás (ropa, calzado, vaso, pose) es propio de cada fiesta y lo
@@ -259,9 +263,18 @@ por Tere (`lourdes_color.png`).
   siempre con los tres rasgos fijos a la vista.
 
 **Prompt de Lourdes (outfit y pose).** Un chat nuevo por cada Lourdes.
-Adjuntá al chat la **imagen base** (por defecto `lourdes_color.png`, o la
-Lourdes de otra fiesta que haya quedado bien) y pegá este prompt. Completá
-`[OUTFIT]` y `[POSE]`:
+Adjuntá al chat **una sola
+imagen: `lourdes_base.png`** (`imagenes/lourdes/lourdes_base.png`), y pegá
+este prompt. Completá `[OUTFIT]` y `[POSE]`.
+
+`lourdes_base.png` es una Lourdes de frente, con su ropa original y la
+bandana ya bien puesta. Se hizo una sola vez a partir de `lourdes_color.png`
+(que es el diseño original y no tiene la bandana), y es lo único que hay que
+adjuntar en cada fiesta. Si no existe, hay que crearla primero con este mismo
+prompt: adjuntá `lourdes_color.png`, pedí `OUTFIT: keep the outfit from the
+attached image` y `POSE: standing relaxed, facing the front`.
+
+Qué poner en cada campo:
 
 - **Outfit:** ropa que cuadre con esa fiesta (ropa de playa en la playa,
   abrigo en una estación de montaña…), en colores de la paleta. Siempre
@@ -276,7 +289,7 @@ Lourdes de otra fiesta que haya quedado bien) y pegá este prompt. Completá
 Redraw the character in the attached image for an illustrated "search and find" storybook. She is Lourdes, a young woman who loves parties. She must appear as the same character in a new outfit and a new pose, and the result will be cut out and placed by hand into a larger scene.
 
 02 — WHAT STAYS THE SAME (never change these)
-Her short brown bob haircut. A black neckerchief with small white polka dots tied around her neck. A small handbag that she always carries. Keep her recognizable as the same young woman.
+Her short brown bob haircut. A black bandana with small white polka dots worn on her head like a headscarf: a triangular folded cloth covering the top of her head, tied in a small knot at the back of her head with two short pointed tails hanging. Her bob hair shows below it and frames her face. It is NOT a headband, NOT a bow on top of her head, and NOT worn around her neck. A small handbag that she always carries. Keep her recognizable as the same young woman.
 
 03 — WHAT CHANGES
 OUTFIT: [OUTFIT]
@@ -286,7 +299,7 @@ POSE: [POSE]
 Redraw her in the flat European editorial style of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. A slim, slightly angular figure with natural anatomy (one head, two arms, two legs, joints in the right places) and a simple caricatured face: tiny dot eyes, expressive eyebrows, a small angular nose and a simple line for the mouth. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look.
 
 05 — PALETTE
-Outfit colors only from: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the neckerchief and her brown hair. NO pink, NO neon.
+Outfit colors only from: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and her brown hair. NO pink, NO neon.
 
 06 — COMPOSITION
 Full body, centered, filling about 85% of the height of a tall frame, on a perfectly plain pure white background. No ground, no floor, no shadow, no other people, and no props except what the pose needs. Portrait format, 1024x1536px.
@@ -295,7 +308,7 @@ Full body, centered, filling about 85% of the height of a tall frame, on a perfe
 NO text. NO logos. NO watermark. NO photorealism. NO 3D rendering look.
 ```
 
-Después de generarla, agrandala con Upscayl igual que las escenas, sacale
+Después de generarla, pedile a ChatGPT la versión en alta resolución, como con las escenas, sacale
 el fondo blanco en Figma y colocala según las reglas de arriba.
 
 ## Objetos perdidos (la búsqueda secundaria)
@@ -352,16 +365,18 @@ NO text. NO logos. NO watermark. NO photorealism. NO gloss or 3D rendering look.
 ## Paleta (valores de referencia)
 
 El prompt usa nombres de colores y es lo que entiende el modelo. Estos
-son los valores de referencia para el trabajo en Figma y la maquetación:
+son los valores de referencia para el trabajo en Figma y la maquetación,
+medidos sobre las imágenes ya generadas (hoja de objetos sueltos, viñetas
+y objetos perdidos):
 
 | Color | Hex |
 | --- | --- |
-| Amarillo mostaza | #E0A82E |
-| Rojo ladrillo | #A8402E |
-| Verde oliva | #5F6B35 |
-| Naranja quemado | #C8681F |
-| Azul grisáceo | #6F83A0 |
-| Crema cálido | #F4EBD8 |
+| Amarillo mostaza | #DFAE26 |
+| Rojo ladrillo | #B9382B |
+| Verde oliva | #5F6D3C |
+| Naranja quemado | #D46424 |
+| Azul grisáceo | #67858E |
+| Crema cálido | #F6F0E4 |
 
 Excepción: el agua de la pool party usa #2C7C94.
 

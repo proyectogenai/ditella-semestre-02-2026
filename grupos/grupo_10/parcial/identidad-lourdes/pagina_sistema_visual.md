@@ -2,7 +2,7 @@
 
 La consigna pide una página del libro con **la paleta con valores
 concretos, la tipografía y las reglas de composición**. Este es el texto
-y el contenido para maquetarla. Falta una sola cosa: las tipografías.
+y el contenido para maquetarla. Está todo completo.
 
 ---
 

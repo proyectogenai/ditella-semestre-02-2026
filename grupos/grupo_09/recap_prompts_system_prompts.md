@@ -18,7 +18,7 @@ traducidos a cada modelo.
 | Artefacto | Archivo | Para qué sirve |
 | --- | --- | --- |
 | Asistente grupal Bruma (Clase 2) | `clase_02/asistente_grupal.md` | Primer system prompt: rol, universo, bloque de estilo fijo, cómo responder, restricciones |
-| Skill Monstrix — system prompt vivo | `clase_03/familia_monstrix/monstrix/SKILL.md` | La fuente de verdad: sistema de familia, 7 fichas, mundo, estilo, Regla Wally. Se sigue editando en cada iteración |
+| Skill Monstrix — system prompt vivo | `parcial/identidad-familia-monstrix/SKILL.md` | La fuente de verdad: sistema de familia, 7 fichas, mundo, estilo, Regla Wally. Se sigue editando en cada iteración |
 | System prompt NODI (versión Gemini) | `clase_03/nodi/system_prompt_nodi.md` | Mismo contenido que la skill, reformateado para el chat de Gemini |
 | Brief de La Familia Monstrix | `clase_03/familia_monstrix/brief_familia_monstrix.md` | Narrativa, estilo visual, decisión de marca (escalabilidad) y sistema de familia |
 | Fichas de la familia | `parcial/fichas_familia.md` | Las 6 fichas + NODI con lugar de cada escena y "nunca" por personaje |

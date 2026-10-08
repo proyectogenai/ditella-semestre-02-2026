@@ -2,7 +2,7 @@
 
 Grupo 09 · Fecha: 11/09/2026
 
-Producto de la skill `familia_monstrix` (ver `grupo_09/clase_03/familia_monstrix/monstrix/SKILL.md`).
+Producto de la skill `familia_monstrix` (ver `grupo_09/parcial/identidad-familia-monstrix/SKILL.md`).
 
 ## 1. Historia / narrativa
 

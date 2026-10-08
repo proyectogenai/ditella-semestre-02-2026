@@ -438,13 +438,13 @@ pega la imagen en el chat, la revisás vos con esos mismos criterios.
 - No editar la skill desde dos computadoras a la vez: OneDrive crea copias
   "en conflicto" en vez de juntar los cambios.
 - **El repo del curso es solo la entrega**
-  (`grupos/grupo_09/clase_03/familia_monstrix/monstrix/`). No se trabaja ahí.
+  (`grupos/grupo_09/parcial/identidad-familia-monstrix/`). No se trabaja ahí.
   Cuando el grupo pide entregar o subir la skill al repo:
   1. Copiar el contenido de la carpeta de OneDrive a la carpeta del repo,
      reemplazando lo que haya.
   2. `git -C <repo> status --short` y mostrar qué cambió.
   3. Preguntar si se sube. Si sí:
-     `git -C <repo> add "grupos/grupo_09/clase_03/familia_monstrix/monstrix"`,
+     `git -C <repo> add "grupos/grupo_09/parcial/identidad-familia-monstrix"`,
      `git -C <repo> commit -m "grupo 09: skill monstrix - <qué cambió>"`,
      `git -C <repo> pull --rebase` (si da conflicto: `git -C <repo> rebase --abort`,
      avisar y no tocar más) y `git -C <repo> push`.

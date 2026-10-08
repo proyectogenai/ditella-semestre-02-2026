@@ -29,12 +29,15 @@ hex. Sin rosa, sin neón, sin colores brillantes.
 
 ## 2. Tipografía
 
-- **Títulos:** [completar: nombre de la tipografía]
-- **Texto corrido:** [completar: nombre de la tipografía]
-- **Etiquetas y postales:** [completar, si es otra]
+Dos tipografías: una editorial y una manuscrita.
+
+- **Fraunces:** [confirmar el uso: títulos y texto corrido]
+- **Dawning of a New Day:** [confirmar el uso: postales y detalles
+  escritos a mano]
 
 *Maquetación:* un especimen de cada una (el nombre, el alfabeto y una
-frase del libro).
+frase del libro). La idea del contraste: Fraunces es la voz del libro y
+Dawning of a New Day es la voz de la amiga que escribe las postales.
 
 ## 3. Línea y color
 

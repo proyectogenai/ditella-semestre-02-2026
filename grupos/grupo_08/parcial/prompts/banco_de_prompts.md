@@ -61,7 +61,7 @@ capas 2-5 se congelan y van idénticas en las 8 páginas.
 > - **Spring accents:** pale pinks, pastels, warm ivories concentrated in cherry blossoms and small scattered details.
 > - **Character clothing (muted & cozy):** washed blues and deep navy for coats and uniforms (Mei's sweater, the crowd's jackets); earth browns, beiges and warm greys for casual streetwear.
 > - **Accent color:** small, controlled bursts of intense color — brick red or vermilion on backpacks, sneaker details, key accessories — used to guide the eye without breaking the harmony.
-> - **Light and shadow:** no hard contrast, no photorealism. Minimal, soft, diffuse shadows.
+> - **Light and shadow:** no hard contrast, Minimal, soft, diffuse shadows.
 
 ### CAPA 4 · Referencias (Fija — se adjunta personaje-mei.png)
 > All figures in the scene must be drawn in the style of the attached reference image. Do not invent a new style.

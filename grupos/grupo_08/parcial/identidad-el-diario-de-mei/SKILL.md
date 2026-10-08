@@ -160,12 +160,16 @@ Las únicas zonas que se editan por escena están marcadas con corchetes. El
 resto va sin tocar, siempre, en las ocho páginas.
 
 ```
-Create a BRAND NEW image from scratch. Horizontal 16:9 landscape format,
-edge-to-edge composition, many people each doing something different, small
-details to discover on a second look, no blur, no motion blur, no glow, no
-vignette, no border, no frame. No petals in the air, no confetti, nothing
-floating or falling: all pink blossoms stay attached to the trees. No
-written words, no legible text, no logos, no watermark, no UI.
+Create a BRAND NEW hand-drawn editorial illustration from scratch — warm,
+muted, strongly desaturated 2D cartoon illustration with soft cel-shading,
+clean irregular linework and watercolor-like paper texture: a travel-journal
+drawing, never a photograph, never a 3D render.
+Horizontal 16:9 landscape format, edge-to-edge composition, many people each
+doing something different, small details to discover on a second look, no
+blur, no motion blur, no glow, no vignette, no border, no frame. No petals
+in the air, no confetti, nothing floating or falling: all pink blossoms stay
+attached to the trees. No written words, no legible text, no logos, no
+watermark, no UI.
 
 Mei appears exactly once in this image: straight black hair falling in one
 smooth sheet to below her shoulder blades, a softly oversized dusty pink
@@ -233,7 +237,7 @@ color of the base form (never black, never hard outlines), handcrafted,
 adult and contemporary.
 
 Muted, warm, nostalgic, strongly desaturated — zero digital glow, no hard
-contrast, no photorealism. Core tokens always present: sakura pink, dusty
+contrast. Core tokens always present: sakura pink, dusty
 pink, salmon and peach as spring accents; cream, ivory, beige and sand; warm
 wood brown, terracotta, brick red and muted vermilion as small controlled
 accent bursts on key objects; navy, greyish blue and washed light blue;
@@ -263,9 +267,9 @@ the colour-line tradition of Winsor McCay, Maira Kalman's travel-journal
 voice.
 
 NOT anime, NOT Ghibli, NOT Studio Ghibli, NOT Miyazaki, NOT manga, NOT
-Pixar or 3D render, NOT photorealism, NOT pencil animation look, NOT
-airbrush or 3D plastic shading. Avoid anime eye shapes, soft dreamy anime
-gradations and hard black outlines.
+Pixar or 3D render, NOT pencil animation look, NOT airbrush or 3D plastic
+shading. Avoid anime eye shapes, soft dreamy anime gradations and hard black
+outlines.
 ```
 
 **Ejemplo de placement resuelto (Shibuya, escena 2):**
@@ -289,6 +293,16 @@ gradations and hard black outlines.
    listo para pegar en ChatGPT. Sin explicaciones, alternativas ni
    introducciones.
 
+**Paso de generación:** adjuntar al chat la referencia canónica
+`imagenes/personaje-mei-final.png` junto con el prompt. La imagen es el
+ancla de estilo y de identidad: con ella, el bloque madre reproduce el
+sistema sin desvíos. Si por algún motivo el chat no tiene la imagen
+disponible, el prompt igual sostiene el estilo por texto (el primer párrafo
+del bloque madre declara la técnica antes que cualquier detalle de la
+escena), pero la identidad de Mei queda solo en manos de la descripción:
+en ese caso, validar contra el criterio de la sección 7 con especial
+cuidado en los tres anclajes.
+
 ## 4. Modelo y parámetros
 
 | Parámetro | Configuración |
@@ -300,15 +314,22 @@ gradations and hard black outlines.
 | Composición | Panorámica, de borde a borde |
 | Densidad | Alta, con múltiples microacciones |
 | Iluminación | Difusa, según la escena |
-| Referencia canónica del personaje | `imagenes/personaje-mei-final.png` |
 | Seed | No aplica — ChatGPT no expone seed |
+| Referencia obligatoria al generar | Adjuntar `imagenes/personaje-mei-final.png` |
 
 La continuidad visual se controla mediante el bloque madre congelado, no
 mediante una seed. El negative prompt no tiene campo separado en ChatGPT: ya
 viene embebido en el bloque (párrafo de apertura + cierre "NOT anime,
-NOT Ghibli..."). Para reforzar estilo en un chat que ya tiene escenas
-canónicas del atlas, se puede adjuntar una escena previa y pedir que todas
-las figuras se dibujen en el estilo de esa referencia.
+NOT Ghibli...").
+
+**La referencia del personaje es parte del protocolo de generación, no un
+refuerzo opcional.** Adjuntá siempre `imagenes/personaje-mei-final.png`
+junto con el prompt. El primer párrafo del bloque madre ya declara la
+técnica (ilustración 2D). Hemos visto que el sistema se mantiene fiel al
+estilo. Para reforzar aún
+más el estilo en un chat nuevo, también se puede adjuntar una escena
+canónica del atlas (por ejemplo `imagenes/finales/3-sensoji.png`) y pedir
+que todas las figuras se dibujen en el estilo de esa referencia.
 
 ## 5. Regla de variación
 
@@ -478,6 +499,11 @@ tienen que estar presentes y legibles.
 Antes de aceptar una imagen, verificar:
 
 - ¿Pertenece al mismo universo gráfico?
+- ¿Es una ilustración con la técnica del bloque (cel-shading, papel,
+  linework) o derivó a fotografía/render? Si derivó: revisar la versión
+  del prompt (revisar que las negaciones no empujen a fotorealismo), verificar
+  que la referencia canónica fue adjuntada y que el primer párrafo del bloque
+  madre no fue reemplazado — rehacer.
 - ¿El lugar se reconoce?
 - ¿La composición es diferente de las demás escenas del libro?
 - ¿Hay suficientes detalles para explorar en varias pasadas?

@@ -21,7 +21,7 @@ Sos el sistema visual del atlas "Lucho viaja en el tiempo": 8 escenas-página al
 
 **Qué es:** un viajero en el tiempo de felpa, tierno y despistado, que se metió por accidente en una máquina del tiempo y salta de época en época tratando de volver a la suya (nuestra actualidad).
 
-**Dónde transcurre:** en 8 épocas distintas — Era Mesozoica, Prehistoria (Edad de Piedra), Egipto antiguo, Edad Media, Edad Moderna, Viejo Oeste, Actualidad y Futuro. El lugar cambia por completo en cada escena; lo que NO cambia es el material: todo el mundo está tejido a mano en crochet.
+**Dónde transcurre:** en 8 épocas distintas — Era Mesozoica, Futuro, Edad Media, Edad de Piedra, Edad Moderna, Antiguo Egipto, Actualidad y Antigua Roma (ese es el orden de lectura del libro). El lugar cambia por completo en cada escena; lo que NO cambia es el material: todo el mundo está tejido a mano en crochet.
 
 **Con qué luz:** iluminación cálida dorada de set en miniatura, que hace brillar los naranjas, ocres, cremas y verdes. Exposición luminosa, sin grading cinematográfico oscuro ni desaturación.
 

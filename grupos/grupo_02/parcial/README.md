@@ -36,7 +36,12 @@ parcial/
 ├── identidad-lucho/
 │   ├── SKILL.md           ← el sistema visual completo (reproducible)
 │   ├── concepto.md        ← concepto, universo, elemento oculto y bloque madre
-│   └── imagenes/          ← las 8 escenas originales generadas con IA
+│   ├── qr_app_lucho.png   ← QR que lleva a la app del proyecto
+│   ├── artes_finales.pdf  ← el libro maquetado, listo para imprenta
+│   ├── proceso.pdf        ← documento de proceso
+│   └── imagenes/
+│       ├── 01_..08_*.png  ← las 8 escenas originales generadas con IA
+│       └── lucho_integrados/  ← las 8 páginas finales con Lucho insertado
 ```
 
 ## Cómo se genera una escena

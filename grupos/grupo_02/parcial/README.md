@@ -56,7 +56,7 @@ de materiales.
 
 ## Qué falta
 
-- [ ] PDF de artes finales del libro
-- [ ] Documento de proceso
-- [ ] Prueba de reproducibilidad de la skill en un chat limpio
+- [x] PDF de artes finales del libro (`identidad-lucho/artes_finales.pdf`)
+- [x] Documento de proceso (`identidad-lucho/proceso.pdf`)
+- [x] Prueba de reproducibilidad de la skill en un chat limpio (escena nueva de Industrial Revolution; falla del agua corregida con la regla "WATER IS CRITICAL")
 - [ ] Presupuesto y envío a imprenta

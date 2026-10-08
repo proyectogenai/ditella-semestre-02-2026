@@ -76,8 +76,8 @@ deformes, Lourdes que no aparecía) terminó en una regla escrita en el prompt.
 Todo eso está en el "Historial de iteraciones" de `identidad-lourdes/concepto.md`,
 en el historial de commits de esta carpeta y en `proceso_lourdes.md`.
 
-## Piezas extra
+## Pieza extra
 
-Además del atlas, el libro lleva un crucigrama y una sopa de letras con el
-vocabulario del mundo de Lourdes, y un QR a una app del proyecto (en
-desarrollo).
+Además del atlas, el libro lleva una pieza extra: un crucigrama y una sopa
+de letras con el vocabulario del mundo de Lourdes (están en `piezas_extra/`).
+El formato de la pieza extra era libre, según el mail de los profesores.

@@ -28,7 +28,11 @@ el prompt 1 ya los construye y el 3 los usa.
 a veces lejos; a veces a los costados, a veces al fondo), para que no se
 pueda predecir dónde buscar. Están fijadas en cada escena para que la
 secuencia sea reproducible. Únicas reglas: nunca en el centro exacto y nunca
-en la banda cercana.
+en la banda cercana. Los nidos son del prompt 1. En el prompt 3, el lugar de
+cada personaje sale de la GRILLA DE ZONAS de `references/recetas.md` (B),
+siempre en la distancia media, al lado de un grupo de sus parecidos (la
+multitud del prompt 2 los pone en todas partes). En la escena 8, los
+lugares fijos de "El final".
 
 Formato de todas las escenas: 16:9 apaisado panorámico, plano general muy
 amplio con la cámara alejada y apenas por encima de los monstruitos (ver
@@ -43,7 +47,7 @@ CAMERA en `references/bloques.md`).
 | 5 | Universidad | Hermano mayor | general + densidad |
 | 6 | Museo | Abuelo | general + densidad |
 | 7 | Tienda de ropa | Mejor amiga (no es de la familia) | general + densidad |
-| 8 | Plaza central: festival invernal | los siete personajes, desperdigados (final) | general + densidad |
+| 8 | Gran estación de tren | los siete personajes, desperdigados (final) | general + densidad |
 
 **El caos de cada escena lo hacen los OBJETOS, no la gente.** Hay unos pocos
 monstruitos de fondo (la escena 1 no tiene ninguno), pero el cuadro se llena
@@ -69,7 +73,7 @@ variedad y el volumen. En la casa son el mobiliario gigante.
 | 5 | Universidad | estantería gigante, escalera rodante, pizarrón gigante, escalera de libros, globo terráqueo, dispensador |
 | 6 | Museo | huevo gigante sobre pedestal, mamut fósil, rampa espiral, barrera de terciopelo, mapa mural desenrollado, mostrador con bandeja de peluches |
 | 7 | Tienda | rack gigante, montón de ropa, carrete de hilo gigante, máquina de coser, escalera de biblioteca, cabina de probador |
-| 8 | Plaza | árbol con plataforma, escenario, muralla de nieve, campana gigante, carrusel de trineos, pila de cajas |
+| 8 | Estación | locomotora de felpa, montaña de valijas, reloj gigante sobre poste, puente peatonal en arco, boletería redonda, tren de carritos de equipaje |
 
 ---
 
@@ -428,10 +432,13 @@ tobogán; aro que rueda hasta un banco.
 
 ## 5. Universidad — lineamientos
 
-Campus redondeado: biblioteca, aulas abiertas, comedor, amplia escalera frontal
-y cálidos interiores visibles desde afuera. Vista panorámica a la altura de
-los monstruitos, con la transición nieve afuera / interiores templados bien
-visible.
+**Interior con techo** (decisión del grupo, 8/10/2026: desde afuera, ChatGPT
+la dibujó sin techo). El gran salón de la universidad bajo un mismo techo
+abovedado con tragaluces redondos: zona de biblioteca, zona de aula abierta y
+zona de comedor, con una gran escalera de libros que sube a una galería. La
+cámara está en un rincón del salón. La transición nieve/calor se ve al fondo:
+las puertas grandes abiertas al patio nevado (con un montoncito de nieve
+apenas entrando) y las ventanas redondas con nieve afuera.
 
 **Las seis piezas:** estantería gigante de libros de felpa (5× la altura de
 una figura) · escalera rodante con plataforma acolchada · pizarra enorme blanda
@@ -468,9 +475,11 @@ farolillo redondo sobre un escritorio; mochila con correas rojas detrás de un
 carrito; almohada con dos muñones caída en el corredor; trivet de tres patas
 contra un carrito de libros.
 
-**Luz y nieve:** nieve solo afuera (piso, escaleras, techos, repisas);
-interiores cálidos y casi sin nieve. Luz blanca suave de invierno + resplandor
-ámbar de ventanas, lámparas y dispensador; sin fuego real.
+**Luz y nieve:** nieve solo afuera, en el patio que se ve por las puertas
+abiertas y detrás de las ventanas, más un montoncito apenas entrando por las
+puertas; todo el salón cálido y sin nieve. Luz blanca suave de invierno por
+tragaluces, ventanas y puertas + resplandor ámbar de lámparas, farolitos y
+dispensador; sin fuego real.
 
 **Personajes de fondo:** hasta una docena, en grupos chicos irregulares (dos
 en la escalera frontal, tres entre estantes, uno en el mostrador del comedor,
@@ -662,91 +671,105 @@ Las seis piezas siguen visibles.
 
 ---
 
-## 8. Plaza central: festival invernal — lineamientos
+## 8. Gran estación de tren — lineamientos
 
-Plaza nevada del pueblo con festival: árbol de peluche grande, escenario chico,
-puestos de mercado, postes de farolillos, guirnaldas y mucha decoración
-invernal. Todo al aire libre y nevado, con los puestos cálidos por dentro.
+**Cambio del grupo (8/10/2026):** la escena 8 es la gran estación de tren
+del pueblo (antes: festival en la plaza; después se probó una cafetería y no
+gustó). Los siete personajes van desperdigados por toda la escena, nunca
+juntos. Es la escena **más cargada de todo el atlas**: el máximo de objetos,
+de cosas pasando y de caos.
 
-**Las seis piezas:** árbol decorado gigante con plataforma alrededor del
-tronco · escenario grande con escalera ancha blanda · muralla de fuerte de
-nieve con torres redondas · campana gigante colgada de un poste con cuerda
-gruesa · carrusel de trineos chicos · pila enorme de cajas de regalo gigantes.
+Interior con techo (regla de lugares con edificio): el hall de una estación
+enorme, como una plaza, bajo un techo alto de arcos de felpa con tragaluces
+redondos, con andenes blandos, vías de felpa (sin metal) y trenes de felpa
+detenidos. Al fondo, los grandes arcos por donde entran los trenes muestran
+la nieve afuera, con un montoncito apenas entrando. La cámara está en un
+rincón del hall.
 
-**Particularidades de la escena:** el muñeco de nieve debe ser redondo y
-amigable, sin cara tallada ni detalles amenazantes. Detrás del árbol grande,
-destellos redondeados suaves y luminosos en el cielo como luces invernales —
-solo formas de luz suaves, sin fuego, sin chispas quemando ni humo. Negativos
-propios: sin atmósfera oscura, sin escena nocturna, sin fuegos artificiales.
-**El final (prompt 3)**: entran los siete personajes (NODI, mamá, papá,
-hermana, hermano, abuelo y la mejor amiga), desperdigados por la plaza, cada
-uno en una zona distinta y disfrutando el festival con los objetos de su
-rincón: nunca juntos, nunca en grupo, nunca un abrazo central. Todos chicos,
-del tamaño de los monstruitos de fondo, nadie en primer plano, nadie tapado.
-Cada uno en su nido, entre parecidos suyos: NODI frente
-al escenario entre chicos celestes con bufandas u orejeras rojas que miran
-el show (tercio izquierdo); mamá en un puesto de comida entre monstruitas
-violetas con carteras; papá junto al poste de la campana entre trabajadores
-azules panzones que la tocan; la hermana en el carrusel de trineos entre
-nenas lilas con tutús; el hermano en la escalera del escenario entre músicos
-celeste profundo con corbatas; el abuelo en un banco junto al árbol entre
-abuelos de barba blanca; la mejor amiga junto a la muralla del fuerte entre
-nenas rosas. Imanes: el muro de regalos que se derrumba, la guirnalda
-gigante que enreda todo, el muñeco de nieve desarmado rodando, el bombo que
-rueda. Receta D de `references/recetas.md`. En el prompt 1
-el negative suma "no family members, no reunion, no central hug"; en el paso
-3 eso se saca.
+**Las seis piezas:** locomotora regordeta de felpa (sin humo ni fuego) ·
+montaña gigante de valijas, baúles y cajas de sombreros · reloj gigante
+redondo sobre un poste, con la esfera en blanco (sin números) · puente
+peatonal en arco sobre las vías · boletería redonda con ventanillas ·
+tren de carritos de equipaje enganchados.
 
-**Caos propio:** guirnaldas y decoraciones en arcos y lazadas sobre postes;
-guirnaldas que se desenrollan y serpentean; cajas de regalo que ruedan
-alejándose de los puestos; tambores, campanas y maracas que botan; trineos
-que describen giros imposibles; paneles del escenario que se pliegan en
-toboganes; piezas de muñeco de nieve que se desarman y quedan dispersas; el
-carrito de palomitas derrama pompones blandos; el confeti se vuelve esferas
-blandas de nieve.
+**Caos propio (máximo):** la montaña de valijas se desmorona en avalancha;
+el tren de carritos se escapa por el andén; un baúl reventado larga ropa;
+cajas de sombreros que ruedan; mapas en blanco que se desenrollan; boletos en
+blanco desparramados; paraguas que se abren en el piso; bolsas que se
+enganchan unas con otras; maletas que patinan; carritos que chocan en
+cadena.
 
-**Semillas de mini-eventos:**
-- muro de cajas de regalo que se tira de lo alto y aterriza en montón;
-- guirnalda larga que se desenrolla del árbol y serpentea juntando bolas de
-  nieve;
-- pila de farolillos en la repisa de un poste que resbala de a uno;
-- piezas de muñeco de nieve que se desarman y ruedan cada una a un lado;
-- tambores y campanas que bajan los escalones del escenario en avalancha;
-- deriva de paquetes que resbala del mostrador de un puesto;
-- fila de trineos que se tira de su soporte en abanico;
-- pila de almohadones que se desploma del escenario y tapa un banco;
-- cesta de palos blandos y maracas que se derrama;
-- bombo acostado que rueda despacio por la nieve apartando cosas chicas;
-- pila de bloques del fuerte que se desmorona en montón largo y bajo;
-- cinta de regalo que se desenvuelve en curvas por los escalones;
-- carrito de regalos que rueda solo y suelta una caja en cada vuelta;
-- bandeja de palomitas que se desliza y se esparce sobre la nieve.
+**Semillas de mini-eventos:** el conductor que corre detrás de los carritos;
+una valija abierta que larga medias en abanico; cajas de sombreros que
+bajan la escalera del puente de a una; una fila de valijas que cae en
+dominó; un paraguas abierto que rueda; una bolsa de caramelos que se abre;
+un mapa que envuelve a dos monstruitos; un carrito que se engancha con otro
+y arrastra todo; un baúl que se abre y larga juguetes.
 
-**Objetos trampa sugeridos:** orejeras celestes sobre una caja de regalo (una
-torcida); gorro con pompón boca abajo en la nieve; farolillo sobre el
-mostrador de un puesto; almohadón con franja roja entre dos cajas; capucha con
-pompones sobre un montón de paquetes; gorro con pompón sobre un tambor; trivet
-contra una pieza del muñeco de nieve.
+**Nidos (uno por personaje, cada uno en un casillero distinto de la grilla,
+desperdigados y en niveles distintos; A3 queda libre para los imanes):**
+- *NODI* (B1, atrás a la izquierda): el andén del tren que llega, con una
+  excursión de chicos celestes que suben al tren, algunos con bufanda roja,
+  otros con orejeras rojas; peluches celestes con bufanda y orejeras rojas
+  asomados por las ventanas del vagón.
+- *Abuelo* (A1, distancia media a la izquierda): los bancos de espera, con
+  jubilados lavanda y azules, algunos con barba blanca, otros con bastón,
+  otros con saco tejido crema o mitones rojos.
+- *Mejor amiga* (A2, distancia media, centro-izquierda): el kiosco de
+  golosinas y collares, con nenas rosas con collares de cuentas y dijes rojos.
+- *Hermana* (B2, atrás, centro-izquierda): sobre el puente peatonal, una
+  compañía de baile de nenas lilas y rosas que viaja, algunas con tutú rojo.
+- *Mamá* (B3, atrás, centro-derecha): la fila de la boletería, monstruitas
+  violetas de cuerpo alargado, algunas con cartera roja.
+- *Papá* (A4, distancia media a la derecha): junto a la locomotora, una
+  cuadrilla de mecánicos azules panzones con overol violeta y pañuelo rojo.
+- *Hermano* (B4, atrás a la derecha): el puesto de libros y diarios en
+  blanco, estudiantes celeste profundo leyendo, algunos con corbata roja.
 
-**Luz y nieve:** la plaza entera nevada (suelo, puestos, techos, bancos,
-árbol); solo los interiores de los puestos cálidos y sin nieve. Luz blanca
-suave de invierno + ámbar de ventanas de puestos, guirnaldas de farolillos y
-postes.
+**Imanes** (en el centro, A3 y alrededor): la avalancha de la montaña de
+valijas; el tren de carritos que se escapa con el conductor corriendo
+atrás; el baúl reventado que larga ropa; la fila de paraguas abiertos que
+ruedan.
 
-**Personajes de fondo:** hasta una docena (dos alrededor del árbol, tres en
-los escalones del escenario, uno entre puestos, uno sentado en un banco, uno
-medio escondido detrás de un montón de cajas), todos distintos y cada uno
-celebrando algo distinto.
+**Objetos trampa sugeridos:** orejeras celestes colgadas de una valija (una
+torcida); gorro celeste con pompón rojo sobre un baúl; valija celeste
+regordeta con dos bultitos arriba y correa roja; caja de sombrero celeste
+con cinta roja; bolsa de viaje celeste con asas rojas; almohada de viaje
+celeste con dos puntas y moño rojo; muñeco de peluche celeste con bufanda y
+orejeras rojas en una ventanilla.
 
-**Más montones y mini-eventos (también van en el prompt 1):** capa nueva alrededor y debajo del árbol, sobre el
-escenario, en mostradores, contra la muralla y el poste de la campana: cajas de
-regalo de todos los tamaños, paquetes, rollos de cinta, farolillos, guirnaldas,
-adornos, tambores, cornetas, tazas de bebida caliente, trineos, almohadones,
-mantas, piezas de muñeco de nieve, gorros, bufandas, derivas de nieve.
-Microescenas nuevas (torre de cajas en el mostrador, adornos que se deslizan
-en abanico, farolillos que ruedan fila abajo, guirnalda que se anuda en un
-banco, cesta de bebidas que se vuelca, tambores que ruedan del escenario,
-campanas de a una, etc.). Las seis piezas siguen visibles.
+**Luz y nieve:** todo el hall cálido y sin nieve; la nieve solo afuera,
+vista por los arcos del fondo, con un montoncito apenas entrando. Luz blanca
+de invierno por tragaluces y arcos + ámbar de faroles y ventanillas. Sin
+fuego ni humo.
+
+**El final (prompt 3):** receta D de `references/recetas.md`, los siete en
+UN solo prompt, todos en la distancia media, de izquierda a derecha, en
+estos lugares fijos (los que salieron perfectos el 8/10/2026):
+1. NODI — on the platform near the front carriage of the arriving train,
+   among small ice-blue children with red scarves or red earmuffs; holding
+   a small blue suitcase; turned sideways toward the train.
+2. Abuelo — on the floor right beside the waiting benches, among the small
+   lavender and blue retirees; leaning on his cane; beside a bench, never
+   on it; turned sideways toward the trains.
+3. Mejor amiga — on the floor beside the candy and necklace kiosk, among
+   the small pink girls; holding a small bag of pink candy; cara girada
+   hacia la cámara (su ORIENTACIÓN especial).
+4. Hermana — just left of the runaway luggage carts, among small lilac and
+   pink girls with suitcases; holding a small hatbox.
+5. Hermano — in the center, on the floor just right of the runaway luggage
+   carts, among small deep sky blue students with books, far from the
+   locomotive; holding an open blank book.
+6. Mamá — right of the center, a little left of the burst trunk, among
+   small violet long-bodied travelers carrying red handbags; holding a
+   blank ticket.
+7. Papá — on the floor of the platform a few steps in front of the plush
+   locomotive, with some space between him and the mechanics already
+   there; holding a soft wrench; cara girada hacia la cámara (su
+   ORIENTACIÓN especial).
+Desperdigados, nunca juntos ni en grupo, nunca un abrazo central; papá y el
+hermano lejos uno del otro. En el prompt 1 el negative suma "no family
+members, no reunion, no central hug"; en el 3 se saca "no family members".
 
 ---
 

@@ -31,9 +31,8 @@ hex. Sin rosa, sin neón, sin colores brillantes.
 
 Dos tipografías: una editorial y una manuscrita.
 
-- **Fraunces:** [confirmar el uso: títulos y texto corrido]
-- **Dawning of a New Day:** [confirmar el uso: postales y detalles
-  escritos a mano]
+- **Fraunces:** títulos y texto corrido.
+- **Dawning of a New Day:** postales y detalles escritos a mano.
 
 *Maquetación:* un especimen de cada una (el nombre, el alfabeto y una
 frase del libro). La idea del contraste: Fraunces es la voz del libro y

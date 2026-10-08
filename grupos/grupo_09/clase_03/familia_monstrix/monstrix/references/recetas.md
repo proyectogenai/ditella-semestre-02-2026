@@ -2,177 +2,236 @@
 
 Cada prompt se escribe en inglés, en el orden de secciones de su receta, con
 cada encabezado en mayúsculas. Los textos canónicos salen de `bloques.md` y
-`fichas.md`; lo propio de la escena sale del atlas.
+`fichas.md`; lo propio de la escena sale del atlas (incluidos sus NIDOS,
+sus PARECIDOS y sus IMANES).
 
 **Prompt autosuficiente**: el chat de ChatGPT no conoce el proyecto. El
 prompt no presupone nada ni usa jerga de producción ("master", "paso",
-"pulso", "stage"): describe el lugar en sí mismo ("A round plush museum hall
-made of soft fuzzy felt..."). Frases como "same as before" solo valen dentro
-del mismo chat, con la imagen adjunta.
+"pulso", "stage"): describe el lugar en sí mismo. Frases como "same as
+before" solo valen dentro del mismo chat, con la imagen adjunta.
 
 ---
 
-## A. ESCENA GENERAL (paso 1)
-Chat nuevo. Adjuntar `assets/nodi_v2.jpeg` solo como guía de estilo.
+## LA SECUENCIA FIJA (escenas 2 a 7)
+Cada escena se hace SIEMPRE con estos tres prompts, en este orden y en el
+mismo chat de ChatGPT. Ninguno depende de cómo salió el anterior: todo lo que
+nombran (nidos, parecidos, imanes) lo construyó el prompt 1, porque está
+escrito en el atlas.
 
-1. **Apertura**: el lugar y su arquitectura de felpa, en un párrafo.
-2. **CAMERA AND FOCUS**: amplia, frontal a tres cuartos, a la altura de los
-   monstruitos, horizonte cerca del borde superior, piso visible, tres bandas
-   (cerca / medio / lejos), todo nítido, 16:9 apaisado.
-3. **CHARACTERS**: los monstruitos de fondo enumerados uno por uno (rasgo +
-   color + qué hace), en grupos desiguales. Cerrar con "no main character,
-   no central group, nobody looking at the camera".
+| # | Prompt | Receta | Qué adjuntar |
+|---|---|---|---|
+| 1 | Escena general | A | nada (el estilo va escrito) |
+| 2 | Multitud | C | la imagen del 1 |
+| 3 | Buscables | B | la imagen del 2 + `nodi_v2.jpeg` + la referencia del familiar |
+
+**Los buscables van SIEMPRE al final.** Probado: toda edición posterior a
+meterlos borra o deforma a alguno (la multitud agregada después borró a
+mamá; al pedirla de nuevo, le deformó un ojo a NODI). Después del prompt 3
+solo se permite el pulso de rediseño de `ajustes.md`, de a un personaje.
+
+Escena 1 (la casa): solo el 1 y los buscables (con solo NODI); la casa no
+tiene multitud. Escena 8 (la plaza): 1, 2 y el 3 con la receta D (los
+siete).
+
+**Una sola edición = escena intacta.** Probado en el mercado: cada edición
+hace que ChatGPT redibuje la imagen entera. Una capa de lío borró los
+casi-NODIs, y una capa de densidad cambió la escena en vez de sumarle cosas.
+Por eso casi todo (densidad, lío, multitud, parecidos, imanes) va en el
+prompt 1, que es una generación desde cero. Después hay solo dos ediciones,
+en este orden: la multitud (corta, suma solo monstruitos) y, al final, los
+buscables. Si al prompt 1 le falta densidad o lío, no se edita: se vuelve a
+mandar el prompt 1 en un chat nuevo, con más ítems en THE OBJECT FIELD y
+MICRO-EVENTS.
+
+Cuando el grupo pide "escena X, prompt N" (o "el siguiente"), se compone ese.
+
+**Cómo se esconde a alguien** (la idea de toda la secuencia): nunca se lo
+tapa con objetos, porque queda raro. Se lo esconde de dos maneras:
+1. **Entre parecidos**: va en su NIDO, un rincón lleno de parecidos suyos
+   (vivos y objetos) haciendo lo mismo que él. Se lo ve entero, pero hay que
+   revisar uno por uno para dar con él.
+2. **Con imanes en otro lado**: en las otras zonas del cuadro hay IMANES,
+   situaciones y objetos que llaman la atención (lo más gracioso, lo más
+   grande, lo más rojo), lejos de los nidos. El ojo va primero ahí.
+
+**Si un resultado falla los criterios** (abajo), se vuelve a mandar EL MISMO
+prompt sobre la MISMA imagen de entrada. No se inventan correcciones según la
+situación. Los pulsos de `ajustes.md` son solo para emergencias (luz,
+nitidez, texto) y no forman parte de la secuencia.
+
+---
+
+## A. ESCENA GENERAL (prompt 1)
+Chat nuevo. NO se adjunta ninguna imagen: con la referencia de NODI
+adjunta, ChatGPT lo copia decenas de veces (probado). El estilo va escrito
+en el STYLE BLOCK y el RENDER ANCHOR.
+
+1. **Apertura**: el lugar y su arquitectura de felpa, en un párrafo. Cerrar
+   con "The place is in full bustle: everything is happening at once."
+2. **CAMERA AND FOCUS**: el bloque CAMERA de `bloques.md`, completando el
+   lugar y por dónde corre la vista.
+3. **THE LOCAL CROWD**: el bloque LOCAL CROWD de `bloques.md` (un mar de
+   monstruitos de una especie local que de lejos se parecen a NODI, pero
+   ninguno igual a otro), completado con los colores del familiar de la
+   escena. Después, una lista corta de 14-18 monstruitos concretos, una
+   línea cada uno (rasgo + color + acción con movimiento + dónde): los
+   PARECIDOS VIVOS de los dos nidos (atlas) y los de los imanes. Cerrar con
+   "no main character, no central group, nobody looking at the camera,
+   nobody wearing a red scarf and red earmuffs together".
 4. **UNIVERSE AND MATERIALS**: todo felpa, sin materiales duros, superficies
    escritas en blanco, pelaje liso sin puntos ni picos.
 5. **BIG SET PIECES**: las seis del atlas, cada una nombrada, blanda, de 3 a
    6 veces un monstruito, con objetos apilados contra ella.
-6. **CHAOS**: el desorden propio del lugar (atlas), blando, inofensivo y
-   apoyado.
-7. **THE OBJECT FIELD**: el campo de objetos que llena el cuadro: de todos
-   los tamaños, formas y colores de la paleta, amontonados en 4-5 planos,
-   cayéndose de las piezas grandes hasta el piso, en grupos desiguales. Incluir
-   los muchos objetos del ice blue #91d3eb exacto, sin rojo y sin cara.
-8. **HIDING SPOTS**: los escondites de cada zona, abiertos y bien
-   iluminados, vacíos de seres vivos; en varios, un objeto-hipótesis (un
-   peluche quieto con ojos de botón, una trampa, un montón #91d3eb); otros
-   vacíos y limpios.
-9. **MICRO-EVENTS**: los mini-eventos enumerados, uno por frase, casi todos
-   de objetos, todos distintos (semillas en el atlas).
-10. **COMPOSITION**: cada zona con su evento, nada en fila, sin foco único,
-    sin zona vacía.
-11. **SCALE**: todo chico salvo las seis piezas grandes y las pilas; "no
+6. **THE LOOK-ALIKE CORNERS**: los dos NIDOS del atlas (el de NODI y el
+   del familiar), cada uno en la posición que le da el atlas: un
+   rincón concreto donde varios parecidos vivos hacen la misma actividad,
+   rodeados de parecidos-objeto. Se describen como parte del lugar ("in the
+   left third, in the middle distance, a teacup stall where several small
+   ice-blue and cat-eared monsters are buying cups, among button-eyed plush
+   toys with red scarves on the counter").
+6b. **ATTENTION MAGNETS**: los IMANES del atlas (3-4), en las zonas lejos de
+   los nidos (el centro, el otro lado, el fondo): las situaciones más
+   graciosas, grandes y coloridas del cuadro, con mucho rojo y mucho
+   movimiento. Son los que el ojo ve primero.
+7. **CHAOS**: el desorden propio del lugar (atlas), blando e inofensivo.
+8. **THE OBJECT FIELD**: 14-18 montones distintos (los de la escena y los de
+   "Más montones" del atlas), cada uno de un tipo de objeto (se nombran), con tamaños y formas que contrastan, cayéndose de las piezas
+   grandes, y caminos de piso o nieve entre los grupos. Todo en colores de
+   la paleta (los objetos que de por sí salen de ella, con el color escrito).
+   Incluir muchos objetos del ice blue #91d3eb exacto, y muchas cosas que se
+   parecen a NODI por un solo lado: la misma pelusa celeste, bultos
+   regordetes con dos puntas arriba, celeste combinado con rojo.
+   Nunca "until no ground is visible".
+9. **LOOK-ALIKE TOYS AND DECOYS**: los PARECIDOS-OBJETO del atlas: 8-10
+   casi-NODIs y 4-5 casi-familiares (peluches con ojos de botón, muñecos,
+   gorros con orejas, maniquíes sin cara), más las trampas: objetos de la
+   misma felpa celeste hielo que NODI, con su forma regordete y dos bultitos
+   como orejas, con rojo donde él lleva bufanda u orejeras, sin cara ni
+   patas. Una frase por ítem, cada uno distinto. La mayoría
+   de los parecidos-objeto van en los nidos.
+10. **HIDING SPOTS**: 3-4 huecos más por zona, vacíos de seres vivos, varios
+    con un peluche quieto o una trampa adentro.
+11. **MICRO-EVENTS AND CHAIN REACTIONS**: 20-25 mini-eventos, uno por
+    frase, todos distintos: mitad de objetos y mitad de monstruitos en
+    plena acción. Entre ellos, 7-10 reacciones en cadena (algo choca con algo
+    que tira otra cosa, avalanchas blandas, cosas que se enganchan y
+    arrastran a otras, monstruitos enredados o tapados de cosas hasta la
+    cintura), siempre en las zonas de los imanes, nunca en los nidos.
+    Cerrar con "nothing hangs in the air; nobody is hurt; everything is
+    soft".
+12. **COMPOSITION**: cada zona con su evento, nada en fila, sin foco único,
+    sin zona vacía, caminos legibles entre los montones.
+13. **SCALE**: todo chico salvo las seis piezas grandes y los montones; "no
     giant or oversized figures".
-12. **SNOW AND LIGHT**: nieve solo afuera, interiores cálidos, luz de día
+14. **SNOW AND LIGHT**: nieve solo afuera, interiores cálidos, luz de día
     invernal blanca + centros ámbar, sin fuego. Cerrar con "bright warm white
     winter daylight, snow glowing softly, nothing dark or cold".
-13. **PALETTE**: paleta cerrada repartida; el rojo en muchos elementos.
-14. **DECOY PROPS**: las trampas enumeradas, una por frase, celeste hielo +
-    rojo, sin anatomía, mezcladas en los montones.
-15. **REFERENCE IMAGE**: "The attached image is an art guide only, for
-    materials, plush fur, palette and light. Do not copy its composition,
-    its character or its objects."
+15. **PALETTE**: paleta cerrada repartida; el rojo en muchos elementos.
 16. **STYLE BLOCK + RENDER ANCHOR**.
-17. **NEGATIVE**: base + agregados de pasos 1 y 2.
+17. **NEGATIVE**: base + agregado de pasos sin familia.
 
-**Escena 1 (la casa vacía)**: mismo esqueleto con tres cambios. La sección 3
-se llama "NO CHARACTERS" (sin criaturas ni personajes). La 9 se llama "EVERY
-CORNER IN ITS OWN MINI-EVENT" (todos los eventos son de objetos). En la casa
-no hay peluches con cara: los objetos-hipótesis de los escondites son solo
-trampas y montones #91d3eb. El NEGATIVE suma el agregado de la casa.
+**Escena 1 (la casa vacía)**: la sección 3 se llama "NO CHARACTERS" (sin
+seres vivos); los parecidos son solo objetos (peluches con ojos de botón,
+quietos), y la 11 tiene todos los mini-eventos de objetos. El NEGATIVE suma el
+agregado de la casa.
 
-## B. AGREGAR DENSIDAD (paso 2)
-Mismo chat, con la última imagen aprobada adjunta.
+## B. BUSCABLES (prompt 3, el último; escenas 2 a 7)
+Mismo chat, con la imagen del prompt 2 (la multitud, sin NODI ni familia).
+Adjuntos SIEMPRE en este orden: 1 la escena, 2 `nodi_v2.jpeg`, 3 la
+referencia del familiar. Prompt CORTO: nada de objetos nuevos.
 
-1. **SOURCE IMAGE**: "The attached image is the approved base: <el lugar en
-   una línea>. Keep it exactly as it is: same wide frontal three-quarter
-   camera, same framing, same horizon, same deep focus, same soft white
-   winter daylight, same warm amber accents, same palette, same textures,
-   same six big set pieces (<las seis por nombre>). Do not move, remove,
-   resize, rotate or redesign any existing object, and do not change the
-   composition, the camera or the color balance."
-2. **ADD A NEW LAYER OF OBJECTS**: objetos blandos nuevos de tamaños y formas
-   distintos (algunos tan grandes como las piezas, otros del tamaño de un
-   monstruito), en la paleta ya presente, amontonados contra las seis piezas
-   sin taparlas, por todo el cuadro hasta los bordes, con muchos del #91d3eb
-   exacto. Algunos monstruitos nuevos, chicos, del mismo tamaño que los que
-   ya están (en la casa, ninguno).
-3. **NEW MICRO-EVENTS**: mini-eventos nuevos enumerados, casi todos de
-   objetos (semillas del paso 2 en el atlas), sin repetir los anteriores.
-4. **EVERYTHING STAYS SOFT, GROUNDED AND SHARP**: todo apoyado, todo nítido,
-   todo felpa, sin fuego, texto en blanco, las seis piezas siempre visibles.
-5. **PALETTE**: la paleta ya presente; el rojo nunca solo.
-6. **FILL EVERY ZONE**: "no empty region, no blank patch of <el piso>, no
-   spotlight, no reserved space".
-7. "Keep the same style as before."
-8. **NEGATIVE**: base + agregado de densidad (+ el de la casa en la escena
-   1).
+Esta es la plantilla probada en el mercado (salió bien de una: chiquitos,
+lindos, sin deformar). Se copia tal cual y se completa solo lo que está
+entre `<...>`:
 
-Si la imagen sigue pobre después de una capa, no se corrige con un pulso: se
-agrega otra capa, o se regenera la escena general con más ítems en THE
-OBJECT FIELD y MICRO-EVENTS.
+```
+Keep this image exactly as it is: same camera, same composition, same crowd with the same designs and accessories, same stalls, same six big set pieces, same heaps, same light, same palette. Do not add any new objects and do not move or redraw anything that is already there. Add only the two small figures described below.
 
-## C. BUSCABLES (paso 3, escenas 2 a 7)
-Sobre la imagen aprobada. Adjuntar la imagen aprobada, `nodi_v2.jpeg` y la
-referencia del familiar de la escena.
+<FAMILY TRAITS de bloques.md>
 
-1. **SOURCE IMAGE**: el mismo congelamiento de B.1.
-2. **FAMILY TRAITS** (va siempre, también en la escena 7: la figura celeste
-   es Monstrix).
-3. **FORM LOCK**.
-4. **ADD TWO SMALL FIGURES**: un párrafo por figura, siempre en este orden:
-   lugar → tamaño → ficha compacta → qué hace → qué la tapa → camuflaje →
-   anti-clon. Plantilla para la figura celeste:
-   > "In the <left/right> third of the image, in the middle distance, at the
-   > base of <un montón concreto> beside <una pieza grande>: a tiny figure,
-   > no taller than the small background monsters and shorter than the
-   > <objeto concreto> next to him — <ficha compacta de NODI>. He is
-   > <sitting / standing> there, <una acción con los objetos de su zona>.
-   > <Uno o dos objetos concretos> stand in front of him, so only the top of
-   > his head, one earmuff and the edge of his scarf show above them.
-   > Plush objects of exactly his ice blue rest all around him. There is
-   > exactly one of him in the whole image: he is the only living thing
-   > wearing a red scarf and red earmuffs together."
+ADD TWO SMALL FIGURES, COPIED FROM THE REFERENCES:
+- <Lugar de NODI, elegido al azar, en la distancia media: "Right of the center, in the middle distance, near the wall of jam jars">, among the small monsters <qué hacen ahí: busy there / choosing cups>: the character from the second attached image, redrawn exactly as he is there, only much smaller — the same cute, friendly look, the same big round head almost as wide as his body, the same chubby rounded body, the same short stubby arms and legs, the same three eyes, the same round black nose, the same smile with two small fangs below the mouth line, the same cat ears, the same red scarf around his shoulders and the same red fluffy earmuffs. He is <una tarea chiquita con algo de ese lugar: holding a little jam jar>, standing next to two of the monsters but not touching or overlapping them. There is exactly one of him in the whole image.
+- <Lugar del familiar, elegido al azar, en la distancia media>, among the small monsters <qué hacen ahí>: the character from the third attached image, redrawn exactly as <she/he> is there, only much smaller — the same cute, friendly look, <la ficha compacta del familiar, cada rasgo con "the same">. <She/He> is <una tarea chiquita>, standing next to two of the monsters but not touching or overlapping them. There is exactly one of <her/him> in the whole image.
 
-   Plantilla para el familiar: igual, en el otro tercio lateral, en su lugar
-   de trabajo o actividad, con objetos del color exacto de su pelaje
-   alrededor, y solo un fragmento a la vista (un borde de la cara, una punta
-   del accesorio rojo). Cierra con "exactly one of <her/him> in the whole
-   image".
+SIZE: each of them is exactly as tall as the small monsters standing right next to them, never taller and never closer to the camera than them. The attached reference images show their design only, not their size: in this picture they are small figures in the crowd, the same scale as their neighbors.
 
-   Reglas de esta sección:
-   - Posturas relajadas: sentados o parados, apoyados, ocupados con los
-     objetos (revolviendo una pila, acomodando mercadería, mirando algo que
-     sostienen). Nunca agachados escondiéndose, espiando, con la mano en
-     alto, señalando, mirando alrededor como perdidos ni mirando a cámara.
-   - El que lo tapa siempre es un objeto DELANTE. Vocabulario: REGLA 1 de
-     SKILL.md.
-   - Los escondites siguen vacíos salvo donde están ellos dos; los
-     monstruitos de fondo siguen todos en su lugar.
-5. **SIZE LOCK** (versión con monstruitos).
-6. **EVERYTHING ELSE STAYS EXACTLY AS IT IS**: misma cámara, campo de
-   objetos, seis piezas, luz, paleta y nitidez; los monstruitos de fondo
-   intactos; el rojo nunca como único acento.
-7. "Keep the same style as before." (si es un chat nuevo: STYLE BLOCK +
-   RENDER ANCHOR).
-8. **NEGATIVE**: base + agregado de paso 3.
+FORM: shrinking them keeps them exactly as cute and well-proportioned as in their references: the whole figure gets smaller evenly, with nothing squeezed, stretched, simplified or merged. Clean, round, soft shapes, a clear and friendly face. Only the pose and the viewing angle may change. Both blend into the crowd: busy, relaxed, not waving, not looking at the camera, nothing highlighting them.
 
-### Escena 1: paso 3 en dos partes
-- **3a ESCONDITES Y TRAMPAS** (bajo pedido): SOURCE IMAGE + "ADD HIDING SPOTS
-  AND DECOYS" con los escondites y trampas del atlas (escena 1, 3a) + "the
-  house stays empty of any living being" + estilo + NEGATIVE con el agregado
-  de la casa. Solo si faltan escondites o trampas.
-- **3b LA FIGURA CELESTE EN SU CASA**: receta C con una sola figura (sin
-  familiar), en el lugar que dice el atlas (escena 1, 3b) y con el SIZE LOCK
-  de la casa. Es el único ser vivo de la imagen, pero igual va tapado y
-  rodeado de objetos de su color: nunca en un espacio libre.
+Keep the same style as before.
 
-## D. ESCENA 8: EL FINAL (paso 3)
-Sobre la imagen aprobada de la plaza. Los siete personajes están en la
-plaza, desperdigados, cada uno disfrutando el festival en su propio rincón.
-Se busca a los siete: todos chicos y difíciles de encontrar. Adjuntar la
-imagen aprobada y las siete referencias.
+NEGATIVE: <agregado de buscables de bloques.md, con el accesorio del familiar>
+```
 
-1. **SOURCE IMAGE** (como B.1).
-2. **FAMILY TRAITS** + **FORM LOCK**.
-3. **ADD SEVEN SMALL FIGURES SCATTERED AROUND THE SQUARE**: un párrafo corto
-   por figura con la misma plantilla de C.4 (lugar → tamaño → ficha compacta
-   → qué hace → qué la tapa → anti-clon). Reglas:
-   - Cada uno en una zona distinta, lejos de los otros: nunca dos juntos,
-     nunca un grupo, nunca un abrazo central.
-   - Repartidos por los dos tercios laterales y la banda lejana. Nadie en el
-     primer plano. La figura celeste en un tercio lateral, nunca en el
-     centro.
-   - Cada uno con una acción de festival con los objetos de su zona y, si
-     conviene, uno de sus gestos felices de la ficha (salvo saltar: nada en
-     el aire).
-   - Cada uno tapado en parte por un objeto delante y rodeado de objetos de
-     su propio color.
-   - "exactly one of each of these seven figures in the whole image".
-4. **SIZE LOCK** (versión con monstruitos).
-5. **EVERYTHING ELSE STAYS EXACTLY AS IT IS** (como C.6).
-6. Estilo, como en C.7.
-7. **NEGATIVE**: base + agregado de paso 3. Sacar del base cualquier "no
-   family members".
+Reglas de la plantilla (todas probadas en el mercado):
+- **Lugar al azar en cada escena**: para cada buscable se elige un grupo de
+  la multitud en cualquier zona de la DISTANCIA MEDIA (izquierda, derecha,
+  centro-izquierda, centro-derecha); juntos o lejos, del mismo lado o de
+  lados distintos. Nunca el centro exacto, nunca la banda cercana, nunca el
+  fondo lejano (allá ChatGPT lo dibuja con pocos detalles y lo deforma),
+  nunca encima de un imán, y no repetir la combinación de la escena
+  anterior. El lugar se nombra por algo que hay en la imagen (una pieza
+  grande, un puesto, un montón); si el grupo no mandó la imagen, por lo que
+  pidió el prompt 1.
+- **Copia de la referencia**: cada uno se pide como "the character from the
+  second / third attached image, redrawn exactly as he/she is there, only
+  much smaller", y cada rasgo con "the same". Así ChatGPT copia el diseño
+  en vez de inventar uno.
+- **Tamaño por los vecinos**: "exactly as tall as the small monsters
+  standing right next to them, never closer to the camera". Nunca pedir que
+  sea "lo bastante grande para que se le vea la cara" (lo agrandó) ni usar
+  "tiny" (lo deforma).
+- **Una tarea chiquita** con algo del lugar (sostener un frasco, elegir una
+  taza): da poses naturales.
+- **Al lado, no entre**: "next to two of the monsters but not touching or
+  overlapping them". Pegados, ChatGPT los funde.
+- **Ojos descritos con precisión** (en FAMILY TRAITS): el tercer ojo
+  "clearly separate from the other two". Era el que se deformaba.
+- **Después de este prompt no se edita nada más**, salvo el pulso de
+  rediseño de un personaje (`ajustes.md`). Si el resultado falla, se repite
+  este mismo prompt sobre la misma imagen de la multitud.
+
+## C. MULTITUD (prompt 2)
+Mismo chat, con la imagen del prompt 1 y nada más. Da el efecto de "mar de
+parecidos": la multitud llena todos los huecos, también techos, toldos y
+estantes. Prompt CORTO: suma solo monstruitos, nada de objetos ni eventos
+(probado: así no cambia la escena).
+
+1. **SOURCE IMAGE**: "Keep this image exactly as it is: same camera, same
+   composition, same stalls, same six big set pieces, same heaps, same
+   spills, same light, same palette, and every monster already there with
+   its design and accessories."
+2. **FILL THE GAPS WITH THE LOCAL CROWD**: "Add many more small monsters of
+   the same local species into every gap: along the walkways, between and
+   on top of the heaps, on the stall counters and shelves, on the awnings
+   and rooftops, in the far distance — until the place teems with them,
+   like a sea of small fuzzy creatures." + las reglas de variación del
+   bloque LOCAL CROWD (ojos, orejas, cuerpo, tono, un accesorio como máximo;
+   nunca la cara de tres ojos de NODI; nunca bufanda y orejeras rojas
+   juntas) + "all the same small size as the others, none in the
+   foreground".
+3. "Keep the same style as before."
+4. **NEGATIVE**: base + agregado sin familia + agregado de edición.
+
+**Más densidad (opcional, se puede repetir; siempre ANTES de los
+buscables)**: si después del prompt 2 la escena sigue con huecos, va este
+prompt corto sobre la última imagen, sin otros adjuntos. Corto a propósito:
+los prompts largos de densidad rearman la escena (probado).
+```
+Keep this image exactly as it is: same camera, same composition, same stalls, same six big set pieces, same heaps, same light, same palette, and every monster already there with its design and accessories. Change only one thing: fill every remaining bare patch — the snow along the edges of the walkways, the spaces between the heaps, the bases of the stalls and set pieces, the counters, awnings and rooftops — with more of the same: small soft heaps of plush objects (folded blankets, cushions, yarn balls, knitted hats, jam jars, snow globes, baskets) in violet, lilac, pink, ice blue and red, and more small monsters of the same local species, each different from the others in eyes, ears, body, fur shade and single accessory (never two eyes with a smaller third eye above them, never a red scarf and red earmuffs together), all the same small size as the ones already there. Everything rests on the ground or on a surface. Keep the walkways readable. Do not move, redraw or cover anything that is already there.
+Keep the same style as before.
+NEGATIVE: no changed camera, no new composition, no camera moved closer, no changed set pieces, no changed monsters, no large monsters in the foreground, no large objects in the foreground, no identical monsters, no monster with two eyes and a smaller third eye above them, no figure wearing a red scarf and red earmuffs together, no floating objects, no readable text, no logos, no blur, no darkening
+```
+
+## D. ESCENA 8: EL FINAL (prompt 3 de la plaza)
+Como B, pero con los siete personajes, cada uno en su nido de la plaza
+(atlas): siete párrafos cortos, cada uno con la plantilla de B.3. Adjuntar
+las siete referencias. Reglas extra:
+- Cada uno en un nido distinto, lejos de los otros: nunca dos juntos,
+  nunca un grupo, nunca un abrazo central.
+- La figura celeste en la posición de su nido, nunca en el centro exacto.
+- Acciones de festival tranquilas; nada en el aire.
+- "exactly one of each of these seven figures in the whole image".
+- NEGATIVE: base + agregado de buscables, sin "no family members".
 
 ## E. RETRATO DE UN PERSONAJE
 Un personaje solo, chat nuevo, formato 1:1.414 vertical. Adjuntar su
@@ -185,30 +244,34 @@ referencia.
 4. **POSE**: uno de sus gestos de la ficha, o parado de frente a tres
    cuartos.
 5. **FRAMING**: cuerpo entero centrado, con aire alrededor, fondo simple y
-   desenfocado apenas para que el personaje se lea solo.
+   apenas desenfocado para que el personaje se lea solo.
 6. **STYLE BLOCK + RENDER ANCHOR**.
 7. **NEGATIVE**: "no text, no logos, no extra arms, no extra legs, no extra
    limbs, no distorted bodies, no changed proportions, no distorted faces, no
    dots, no spikes, no bristles on the fur, no photorealism, no painting".
 
 En el retrato sí se permite el centro, el fondo levemente desenfocado y el
-gesto de saltar: no es una escena del atlas.
+gesto de saltar.
 
 ---
 
 ## CRITERIOS DE APROBACIÓN (los aplica el grupo mirando la imagen)
-**Pasos 1 y 2**
-- Cámara, encuadre y luz según la REGLA WALLY; todo nítido.
-- Lo que domina son los objetos, no la gente; las seis piezas se ven.
-- Hay escondites en cada zona y muchos objetos del celeste de NODI.
+Si un criterio falla, se repite el MISMO prompt sobre la MISMA imagen de
+entrada.
+
+**Prompt 1**
+- La multitud es variada: ningún monstruito igual a otro, ninguno con la cara de tres ojos de NODI.
+- Cámara abierta, con las seis piezas enteras y nada grande adelante.
+- Las seis piezas se ven; los dos nidos están en la distancia media, llenos
+  de parecidos haciendo lo mismo; los imanes están en otras zonas.
+- Montones distintos con caminos entre ellos; muchos monstruitos en acción.
 - Ningún texto legible, ningún color fuera de la paleta en el escenario.
 
-**Paso 3 y escena 8**
-- Contar: exactamente una figura celeste con bufanda y orejeras rojas, y
+**Prompts 2 y 3**
+- Exactamente una figura celeste con bufanda Y orejeras rojas, y
   exactamente uno de cada familiar que corresponda.
-- Antes de encontrar a cada uno, el ojo pasa por varios escondites y
-  trampas. Si alguno se ve en los primeros segundos, está en el centro o es
-  el único lugar ocupado, se repite el paso desde la imagen aprobada.
-- Ninguno más grande que los monstruitos chicos de fondo.
-- Formas y proporciones iguales a la referencia: si alguno sale deformado,
-  se repite el paso (no se corrige con pulso).
+- Cada uno dentro de su nido, mezclado con sus parecidos, del mismo tamaño
+  que ellos o más chico.
+- Formas y proporciones iguales a la referencia.
+- El ojo va primero a los imanes y pasa por varios parecidos antes de
+  encontrar a cada uno.

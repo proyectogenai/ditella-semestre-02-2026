@@ -27,9 +27,9 @@
 - Si un pulso deforma caras, cuerpos, geometría o layout, o cambia el
   encuadre: se vuelve a la imagen buena anterior y se reintenta con otra
   redacción. Nunca se sigue corrigiendo un render roto.
-- Lo que NO se arregla con pulso, se repite el paso: un personaje grande, un
-  personaje deformado o un buscable que se ve de una (ver criterios en
-  `recetas.md`).
+- Los pulsos son solo para emergencias (luz, nitidez, colores, texto). Todo
+  lo demás (un personaje grande, deformado o que se ve de una) se resuelve
+  repitiendo el mismo prompt de la secuencia (ver `recetas.md`).
 - Cada render aprobado se guarda versionado (`escena_03_v1.jpeg`, `v2`…).
 
 ## Pulsos
@@ -58,10 +58,11 @@ Keep everything exactly as it is. Change only the colors of the scenery: remove 
 Remove all text, letters, numbers and logos from every surface; keep everything else exactly as it is.
 ```
 
-**Un buscable se ve un poco de más** (no para uno que se ve de una: ese se
-repite)
+**Un buscable salió deformado pero la escena quedó muy bien** (en vez de
+repetir el prompt de buscables). Adjuntar la imagen y, como segunda, la
+referencia del personaje:
 ```
-Keep everything exactly as it is. Change only one thing: place one more soft plush object (a cushion or a folded blanket) in front of the small ice-blue figure, so only the top of his head and one earmuff show above it. Do not move, resize or reshape the figure itself.
+Keep everything exactly as it is: same camera, same composition, same crowd, same objects, same light. Change only one thing: redraw the small <ice-blue figure with the red scarf and red earmuffs> <dónde está> so that it looks exactly like the character in the second attached image — same big round head, same chubby body, same short arms and legs, same three eyes, same face, same accessories — at the same small size and in the same place. Do not move, resize or change anything else.
 ```
 
 **Imagen degradada después de 2-3 pulsos** (pulso de restauración puro)

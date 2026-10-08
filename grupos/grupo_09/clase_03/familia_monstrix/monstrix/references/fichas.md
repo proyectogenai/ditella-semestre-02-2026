@@ -5,7 +5,7 @@ dato, se cambia en las tres.
 - **Castellano**: la ficha de referencia del grupo.
 - **EN completa**: para retratos (un personaje solo en la imagen). Se copia
   tal cual.
-- **EN compacta**: para escenas (pasos 3 y escena 8). Se copia tal cual.
+- **EN compacta**: para escenas (prompt 3 de la secuencia, buscables). Se copia tal cual.
   Conserva todos los datos de identidad en una sola frase, porque una ficha
   larga hace que ChatGPT agrande al personaje. Arranca con "a small" a
   propósito.
@@ -55,7 +55,7 @@ A 12-year-old furry monster. Fur: ice blue #91d3eb covering his whole body. Face
 
 **EN compacta**
 ```
-a small ice-blue (#91d3eb) furry monster with the family's three eyes, a big head, no eyebrows, a smile with two small fangs hanging below the mouth line, a chubby neckless body, a red scarf around his shoulders and red fluffy earmuffs
+a small ice-blue (#91d3eb) furry monster with the family's three eyes, a big round head almost as wide as his body, no eyebrows, a smile with two small fangs hanging below the mouth line, a chubby rounded neckless body with short stubby arms and legs, a red scarf around his shoulders and red fluffy earmuffs
 ```
 
 ---
@@ -69,18 +69,18 @@ a small ice-blue (#91d3eb) furry monster with the family's three eyes, a big hea
   cachetes marcados
 - Boca: sonriente cerrada, sin dientes visibles, sin colmillos
 - Cuerpo: alargado, patas cortas
-- Vestuario: cartera roja
+- Vestuario: cartera roja colgada del brazo (nunca suelta al lado)
 - Gestos: enojada aprieta los puños y los dientes / feliz abre la boca y los
   ojos
 
 **EN completa**
 ```
-A 48-year-old furry monster. Fur: violet #b39ad1 covering her whole body. Face: two round white eyes with black pupils plus a smaller third eye centered between and slightly above them; cat ears; a round black nose; full rounded cheeks. Mouth: a closed smile, no visible teeth, no fangs. Body: elongated, with short legs. Outfit: a red handbag.
+A 48-year-old furry monster. Fur: violet #b39ad1 covering her whole body. Face: two round white eyes with black pupils plus a smaller third eye centered between and slightly above them; cat ears; a round black nose; full rounded cheeks. Mouth: a closed smile, no visible teeth, no fangs. Body: elongated, with short legs. Outfit: a red handbag hanging from her arm by its strap.
 ```
 
 **EN compacta**
 ```
-a small violet (#b39ad1) furry monster with the family's three eyes, full rounded cheeks, a closed smile with no teeth or fangs, an elongated body with short legs, and a red handbag
+a small violet (#b39ad1) furry monster with the family's three eyes, full rounded cheeks, a closed smile with no teeth or fangs, an elongated body with short legs, and a red handbag hanging from her arm
 ```
 
 ---

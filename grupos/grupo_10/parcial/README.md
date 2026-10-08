@@ -60,7 +60,8 @@ agente que solo leyó el `SKILL.md`.
 - **Escenas:** generadas con IA (generación de imágenes de ChatGPT) con un
   prompt de solo texto, sin imágenes de referencia. 1414 × 1000 px,
   apaisadas, para un A3 horizontal.
-- **Agrandado:** Upscayl, para llegar a la resolución de impresión.
+- **Resolución de impresión:** se le pidió a ChatGPT la versión a 300 dpi
+  (un A3 horizontal a 300 dpi son 4961 × 3508 px).
 - **Lourdes y los objetos perdidos:** su diseño es a mano (boceto y color). El
   outfit y la pose de cada fiesta y los objetos se generan aparte, con
   prompts propios, y se colocan a mano en Figma.
@@ -78,4 +79,5 @@ en el historial de commits de esta carpeta y en `proceso_lourdes.md`.
 ## Piezas extra
 
 Además del atlas, el libro lleva un crucigrama y una sopa de letras con el
-vocabulario del mundo de Lourdes.
+vocabulario del mundo de Lourdes, y un QR a una app del proyecto (en
+desarrollo).

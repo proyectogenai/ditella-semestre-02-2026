@@ -172,8 +172,9 @@ Las partes en inglés no se traducen.
   subas en vez de generar. Si pasa, sacá esas frases. (Esto vale para la
   escena y el objeto; el prompt de Lourdes sí es una edición.)
 - **Después de generar:** la imagen sale de unos 1500 px de ancho, que en
-  un A3 son unos 85 dpi. Para imprimir hay que agrandarla (Upscayl, modelo
-  de ilustración, 3× o 4×) hasta unos 3300 px de ancho como mínimo.
+  un A3 son unos 85 dpi. Para imprimir, el grupo le pide a ChatGPT la
+  versión a 300 dpi (un A3 horizontal a 300 dpi son 4961 × 3508 px).
+  Conviene comprobar los píxeles reales del archivo antes de imprimir.
 
 ## Regla de variación
 
@@ -295,7 +296,7 @@ Full body, centered, filling about 85% of the height of a tall frame, on a perfe
 NO text. NO logos. NO watermark. NO photorealism. NO 3D rendering look.
 ```
 
-Después de generarla, agrandala con Upscayl igual que las escenas, sacale
+Después de generarla, pedile a ChatGPT la versión en alta resolución, como con las escenas, sacale
 el fondo blanco en Figma y colocala según las reglas de arriba.
 
 ## Objetos perdidos (la búsqueda secundaria)

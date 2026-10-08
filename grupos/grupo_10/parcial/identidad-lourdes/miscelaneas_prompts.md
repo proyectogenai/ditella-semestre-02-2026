@@ -13,8 +13,8 @@ decorar las páginas del libro (tapa, introducción, postales, colofón):
   imágenes de referencia).
 - Salen sobre fondo blanco liso y sin sombra. En Figma, sacales el fondo
   (Remove background) y recortá cada elemento.
-- Agrandá la lámina con Upscayl antes de recortar, igual que las escenas
-  (modelo de ilustración, 3× o 4×).
+- Pedile a ChatGPT la versión a alta resolución antes de recortar, igual
+  que con las escenas.
 - Los objetos de la hoja **no repiten** los 8 objetos perdidos de Lourdes
   (zapato, sombrero, pareo, antiparras, llaves, cámara, mate y sombrilla),
   para no confundir la búsqueda del final.

@@ -289,15 +289,14 @@ siluetas de la página final.]*
 
 El prompt pide 1414 × 1000 px. En un A3 horizontal (420 × 297 mm), eso
 da unos 85 dpi: no alcanza para imprimir. Para una buena impresión hacen
-falta unos 3300 px de ancho (200 dpi) o 4961 px (300 dpi).
+falta 300 dpi, que en un A3 son 4961 × 3508 px.
 
-Por eso no pedimos más resolución dentro de ChatGPT: ahí no sube los
-píxeles de verdad, redibuja y puede cambiar caras y detalles que ya nos
-gustaban. Agrandamos las escenas con un programa aparte, Upscayl, con un
-modelo pensado para ilustración, a 3× o 4×.
+Para llegar a esa resolución le pedimos a ChatGPT la versión a 300 dpi de
+cada escena. Antes de mandar a imprimir hay que comprobar los píxeles
+reales del archivo.
 
-El orden: generar la escena, agrandarla, armar el compuesto en Figma
-(Lourdes y objetos encima) y exportar a 2× o 3×.
+El orden: generar la escena, pedir la versión de alta resolución, armar el
+compuesto en Figma (Lourdes y objetos encima) y exportar.
 
 *[Imágenes: zoom a una cara chica, antes y después de agrandar.]*
 
@@ -342,7 +341,7 @@ están en sus chats de ChatGPT y en Figma. Las que más valen:
 - [ ] Los 8 objetos perdidos, cuando estén generados
 
 **Impresión (página 12)**
-- [ ] Un zoom antes y después de agrandar con Upscayl
+- [ ] Un zoom antes y después de pedir la versión a 300 dpi
 
 Con el nombre del archivo y la fecha de cada una, el documento se arma
 rápido.
@@ -359,15 +358,14 @@ rápido.
    numeración v1-v23). Acá usé fases y fechas, que coinciden con el
    historial de git. Si el equipo cita números de versión al presentar,
    conviene unificarlos.
-3. **Upscayl.** La página 12 cuenta el plan. Si todavía no agrandaron
-   ninguna escena, conviene hacerlo con una antes de escribirla en pasado.
+3. **Resolución.** La página 12 cuenta que le pidieron a ChatGPT la versión
+   a 300 dpi. Conviene comprobar los píxeles reales del archivo (4961 × 3508
+   px en un A3 a 300 dpi) antes de mandar a imprimir.
 4. **Qué resultado tuvo la sección 02 nueva.** Escribí que las 8 escenas
    "quedaron como buscábamos" porque así lo dijiste. Si hubo algo para
    ajustar después, hay que sumarlo.
-5. **La skill.** La consigna pide además un `SKILL.md` en
-   `grupos/grupo_10/parcial/identidad-lourdes/`, y todavía no existe en
-   esa carpeta. El documento de proceso se apoya en el bloque madre, pero
-   la skill es otro entregable, con su propio peso en la nota.
+5. **La skill** ya existe en `identidad-lourdes/SKILL.md`; el documento de
+   proceso puede citarla.
 6. **Los "por qué" que deduje.** Casi todo sale de su historial y de
    `concepto.md`, pero algunos motivos los inferí de los mensajes de
    commit: la vista aérea (página 9), las sombras y texturas, la paleta

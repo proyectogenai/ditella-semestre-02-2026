@@ -263,9 +263,18 @@ por Tere (`lourdes_color.png`).
   siempre con los tres rasgos fijos a la vista.
 
 **Prompt de Lourdes (outfit y pose).** Un chat nuevo por cada Lourdes.
-Adjuntá al chat la **imagen base** (por defecto `lourdes_color.png`, o la
-Lourdes de otra fiesta que haya quedado bien) y pegá este prompt. Completá
-`[OUTFIT]` y `[POSE]`:
+Adjuntá al chat **una sola
+imagen: `lourdes_base.png`** (`imagenes/lourdes/lourdes_base.png`), y pegá
+este prompt. Completá `[OUTFIT]` y `[POSE]`.
+
+`lourdes_base.png` es una Lourdes de frente, con su ropa original y la
+bandana ya bien puesta. Se hizo una sola vez a partir de `lourdes_color.png`
+(que es el diseño original y no tiene la bandana), y es lo único que hay que
+adjuntar en cada fiesta. Si no existe, hay que crearla primero con este mismo
+prompt: adjuntá `lourdes_color.png`, pedí `OUTFIT: keep the outfit from the
+attached image` y `POSE: standing relaxed, facing the front`.
+
+Qué poner en cada campo:
 
 - **Outfit:** ropa que cuadre con esa fiesta (ropa de playa en la playa,
   abrigo en una estación de montaña…), en colores de la paleta. Siempre

@@ -221,7 +221,10 @@ narrativo, y se deja como está.
 **Cómo se la reconoce.** En cada fiesta cambia de outfit y de pose, así que
 lo que la hace reconocible son tres rasgos que **no cambian nunca**:
 - **Pelo bob castaño.**
-- **Un pañuelo negro con puntitos blancos en la cabeza** (atado sobre el bob, como una vincha).
+- **Un pañuelo negro con puntitos blancos en la cabeza:** una bandana
+  triangular que le cubre la parte de arriba de la cabeza y se ata atrás,
+  con dos puntitas colgando. El bob se ve por debajo. No es una vincha ni
+  lleva moño arriba.
 - **Una cartera** (chica).
 
 Todo lo demás (ropa, calzado, vaso, pose) es propio de cada fiesta y lo
@@ -277,7 +280,7 @@ Lourdes de otra fiesta que haya quedado bien) y pegá este prompt. Completá
 Redraw the character in the attached image for an illustrated "search and find" storybook. She is Lourdes, a young woman who loves parties. She must appear as the same character in a new outfit and a new pose, and the result will be cut out and placed by hand into a larger scene.
 
 02 — WHAT STAYS THE SAME (never change these)
-Her short brown bob haircut. A black scarf with small white polka dots worn on her head, tied over her short brown bob like a headband. A small handbag that she always carries. Keep her recognizable as the same young woman.
+Her short brown bob haircut. A black bandana with small white polka dots worn on her head like a headscarf: a triangular folded cloth covering the top of her head, tied in a small knot at the back of her head with two short pointed tails hanging. Her bob hair shows below it and frames her face. It is NOT a headband, NOT a bow on top of her head, and NOT worn around her neck. A small handbag that she always carries. Keep her recognizable as the same young woman.
 
 03 — WHAT CHANGES
 OUTFIT: [OUTFIT]

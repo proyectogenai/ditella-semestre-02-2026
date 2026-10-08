@@ -41,7 +41,7 @@ parcial/
 │   ├── proceso.pdf        ← documento de proceso
 │   └── imagenes/
 │       ├── escenas_solas/      ← las 8 escenas originales generadas con IA
-│       └── lucho_integrados/   ← las 8 páginas finales con Lucho insertado
+│       └── lucho_integrado/    ← las 8 páginas finales con Lucho insertado
 ```
 
 ## Cómo se genera una escena

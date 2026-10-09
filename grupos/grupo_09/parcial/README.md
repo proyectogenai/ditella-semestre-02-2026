@@ -21,6 +21,7 @@ monstruitos y objetos parecidos, y al familiar que vino a buscar a ese lugar.
 | `Cercado_Guzelj_Peña_G9_Proceso.pdf` | El documento de proceso: decisiones, versiones intermedias, qué falló y qué corregimos, y el colofón crítico |
 | `Cercado_Guzelj_Peña_G9_Prompts.pdf` | Los 24 prompts finales con los que generamos las ocho escenas, tal como los usamos |
 | `Cercado_Guzelj_Peña_G9_System_prompt_y_modo_de_uso.pdf` | El sistema de prompts (bloques fijos y partes que cambian) y el paso a paso para usarlo |
+| `imagenes/` | Las ocho escenas finales, generadas con la skill |
 | `identidad-familia-monstrix/` | La skill que produce las escenas |
 
 Dentro de la skill:

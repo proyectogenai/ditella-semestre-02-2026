@@ -39,13 +39,13 @@ al menos 4-5 lugares o situaciones — si no llegás, el concepto necesita más
 mundo)*
 
 1. Era Mesozoica (dinosaurios)
-2. Prehistoria / Edad de Piedra
-3. Egipto antiguo
-4. Edad Media
+2. Futuro
+3. Edad Media
+4. Edad de Piedra
 5. Edad Moderna
-6. Viejo Oeste
+6. Antiguo Egipto
 7. Actualidad
-8. Futuro
+8. Antigua Roma
 
 ---
 

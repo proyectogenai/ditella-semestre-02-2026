@@ -1,0 +1,84 @@
+# Bosque de bambú + Mei · prompt v3
+
+**Pedido: la volvió a hacer muy en primer plano, tiene que estar más lejos.** Esta vez no agrego un adjetivo de distancia. Cambio de estrategia, porque tres fracasos con la misma estrategia son evidencia, no mala suerte.
+
+## La ley que los tres fracasos demuestran
+
+| | Qué le dije | Resultado |
+|---|---|---|
+| Shibuya v1 | *"the left corner of the crossing"* | en un margen vacío, imposible de esconder |
+| Escalinata v1 | *"inside the crowd on the first steps"* | a tamaño completo, la zona más legible |
+| Escalinata v2 | *"on the upper steps"* | mejor, pero cerca del punto de fuga |
+| Bambú v1 | *"on the low wooden bridge on the left"* | muy en primer plano |
+| Bambú v2 | *"at the far end of the bridge, at the second bend"* | **volvió a primer plano** |
+
+**Cada vez que le nombré un lugar exacto, el modelo la puso en ese lugar con la prominencia de ese lugar.** La precisión de la ubicación **es** el spotlight. Un lugar nombrado es un destino que el modelo tiene que resolver; una figura que está "en la segunda curva del puente de la izquierda" es un sujeto, y a los sujetos se los dibuja grandes.
+
+## Lo que cambia: desaparecer de la gramática de ubicación
+
+En v2 su línea decía *"the low wooden bridge **on the left side of the image**, deeper along the path **at the second bend**"*. Tres topónimos. Tres razones para que el modelo la tratara como el elemento a destacar.
+
+Ahora su posición la define **la banda de multitud que ya existe**, con el mismo lenguaje que el resto:
+
+> *MEI — exactly one, **one figure inside the crowd that fills the branching paths in the middle distance, standing in the row at the far side of that stretch**...*
+
+Sin puente, sin "left side", sin "second bend", sin comparación de escala. La profundidad viene de la banda, no de un topónimo.
+
+## También saqué la comparación de escala
+
+> *"at a clearly smaller scale than the visitors cut by the bottom edge"*
+
+Es una instrucción **relativa**, y un modelo puede cumplirla de la forma más fácil: **inflando el primer plano** en vez de achicarla a ella. Es probablemente lo que pasó en v2. Las instrucciones relativas se resuelven moviendo la otra cosa. Ahora no hay comparación: hay banda.
+
+## Mejora de geometría que salió gratis
+
+En v2 le ponía *"the pale gravel and shallow water of the channel"* detrás para que el perfil se leyera. Eso ataba su posición al canal de la izquierda — otro topónimo, y encima la obligaba a un lugar. Ahora el fondo es **el ripio pálido del propio camino**, y eso es gratis: la cámara está a 40° mirando hacia abajo, así que detrás de cualquier figura de pie **el fondo es el suelo**. Geometría, no invención.
+
+## Lo que se mantiene
+
+- **Los caños cruzando a la altura del pecho** — el oclusor propio de esta página, independiente de cualquier topónimo.
+- La unicidad de las tres anclas, el bloque de ojos con su excepción, la ropa de la multitud.
+- La cámara baja, ahora **a un costado** y no al pecho: al pecho le daba un segundo foco en el torso.
+
+## Si esto tampoco funciona
+
+Ya no queda palanca en el prompt. La última salida es **fuera del prompt**: en el compose, achicar la figura y pegarla dentro de una banda densa. Es menos elegante, y es lo que corresponde cuando la dificultad la define la escala y no la oclusión.
+
+---
+
+## EL PROMPT (copiá desde acá)
+
+```
+Create a BRAND NEW image from scratch. Horizontal 16:9 landscape format, edge-to-edge composition, high detail, many people each doing something different, small details to discover on a second look, no blur, no motion blur, no glow, no vignette, no border, no frame. No petals in the air, no confetti, nothing floating or falling: all pink blossoms stay attached to the trees. No written words, no legible text, no logos, no watermark, no UI.
+
+Mei appears exactly once in this image: straight black hair falling in one smooth sheet to below her shoulder blades, a softly oversized dusty pink hoodie, ivory wide-leg trousers, a caramel brown tote bag over one shoulder.
+
+
+a monumental bamboo grove crossed by a network of broad paths that split, curve and rejoin, on a luminous filtered spring afternoon, seen from high above at a steep high angle, looking down along the paths from an elevated lookout so the whole ground plane and the crowds spread along it are visible at once: the people and the grove compete for attention, and no single area focuses solely on the crowd. High-angle framing from an elevated platform above the grove, tilted down around 40 degrees, with the main path entering broadly at the bottom edge and curving in a long S through the middle of the image toward the upper center, where it narrows and disappears inside the brightest zone of the grove, close to a very deep vanishing point; two or three secondary paths branch off from it, bend around the planted groves and merge again further back, so several separate streams of visitors are visible at the same time and all the lines — path edges, railings, hedges, stone walls and the flow of people — curve and converge toward that same background. The paths are very wide — broad paved walkways with generous margins, wide enough for six or seven visitors walking abreast and five or six bodies deep across their width, occupying most of the frame, with dozens and dozens of people visible at once, filling them from edge to edge. The bamboo does not enclose the scene in a single corridor: it grows as tall dense screens and stands in the strips between the paths, dividing them into separate lanes, and also frames the outer margins, with the green concentrated in those partitions and the walkways dominating the open areas. The flow of the crowd follows the curves of the paths, calm and ordered rather than frenetic, splitting and rejoining at the intersections. High-angle, central and deep, balanced overall but not rigid: both sides carry bamboo, vegetation and visitors, yet each side differs in specific elements. Instant reading: near crowd → curving path → branching paths with distant crowds → a pale-pink luminous zone at the far end. Every sector is packed with the landscape and its structures, not just people: dense stands of tall bamboo trunks with visible nodes planted as thick screens between the paths and along the margins, culms and hanging branches crossing overhead near the edges, clipped hedges, low stone borders and dry-stone walls edging the paths, ferns, moss, groundcover and undergrowth, gravel, garden beds, a shallow stream crossing under a small stone bridge on the left, a second low wooden bridge with a plank deck over a side channel further left, wooden railings with rope bindings that follow the curves, small wooden constructions such as shelters, teahouse porches, gates at the path entrances, stone markers, lanterns, bins, rakes, brooms, fallen leaves and bark litter on the ground, distant trunks closing the horizon, and pale-pink sakura masses near the far end. Bamboo screens, hedges, stone walls, railings, signposts, gateposts, lanterns, the corners of the wooden constructions and shadows constantly hide or half-hide bodies, so a figure could easily be camouflaged among the scene. Bottom of the frame: the nearest stretch of the broad path seen from above, curving away from the viewer, with large figures cropped by the frame and seen from behind and above — a foreground row of about twenty-five visitors cut by the bottom edge, then four parallel rows of bodies behind them, shoulder to shoulder — people looking up at the canopy, someone taking a photograph, two people talking, someone adjusting a hat, a person holding an umbrella, a child holding an adult's hand, a group stepping through a gate. Mid-ground: several paths packed edge to edge at once, about a hundred visitors in five parallel rows spread along the branching paths, some choosing one branch and some another, converging and crossing at an intersection, photographing the grove, chatting, looking up at the canopy, wearing traditional garments, standing at the railings, resting on benches, queuing at the small constructions. The crowd wears clothes described with the same precision as the character: washed indigo yukata with pale geometric patterns, oatmeal and sand-coloured coats, sage green and slate blue cardigans, charcoal trousers and indigo leggings, terracotta and muted vermilion scarves, navy backpacks, canvas tote bags in olive and faded indigo, straw hats, compact cameras around necks, plastic bags of fruit, small wheeled suitcases. No figure in this crowd is less specific than another. Background: the branching paths narrowing into the distance with progressively smaller and more compressed figures along them, then a tiny simplified crowd, pale-pink sakura and a very luminous zone where detail almost disappears. The transition between layers is gradual. Completely balanced density: heavy visual overload distributed between crowd and the surrounding landscape, naturally integrated, nothing feeling forced. Three or more overlapping layers of depth, no large empty spaces. Small secondary situations to discover on a second look, with many spots where a person stays half-hidden by an object or a shadow. Dominant color for this scene: ocre, beige, sand, cream, ivory and warm stone grey dominating the paths and the ground, warm wood brown in the railings, gates and wooden constructions, bamboo green, olive, moss green, forest green and yellowish green in the planted screens between the paths and along the margins, pale pink sakura and dusty pink as spring accents, brownish charcoal and navy in the deepest shadows; light is warm, filtered and slightly from behind and from above, so the far end of the paths and the bright zone of the grove read luminous while the crowds keep soft cool shadows.
+
+MEI — exactly one, one figure inside the crowd that fills the branching paths in the middle distance, standing in the row at the far side of that stretch, seen in profile with a sliver of her face turned toward the grove, holding her small camera lowered at her side, with bamboo culms crossing in front of her at chest height so that only her head, her shoulder and the strap of her bag show above and between them, and the pale gravel of the path behind her so the line of her profile reads. Her long black hair falls below her shoulder blades and merges with the vertical lines of the culms behind her; she wears a dusty pink hoodie, ivory trousers and a caramel tote bag over one shoulder. She is one figure among many, with no more attention on her than on any other, and no quality that sets her apart from the crowd around her. Her three anchors appear on one figure only: she is the only person in a dusty pink hoodie, the only person in ivory wide-leg trousers and the only person carrying a caramel brown tote bag, and every other figure wears a different combination of clothes.
+
+MEI IS THE SINGLE EXCEPTION to the no-protagonist rule: exactly one figure in this crowd is the character; every other figure is one more person in the multitude.
+
+Density grammar: three or more overlapping layers of depth, no large empty spaces, no sector empty and no sector focused only on the crowd; visual overload distributed equally between people and the environment, integrated naturally; visual hierarchy with no single human protagonist, characters always at a third or fourth reading level; props, structures, vegetation, furniture, branches, posts, awnings and shadows constantly hiding or half-hiding bodies, so a figure can easily be camouflaged among the scene.
+
+Character style: contemporary animated cartoon caricature, like a modern cartoon series — bold simplified shapes, exaggerated rounded proportions, overly large heads, stubby simple limbs, hair as large soft rounded masses. The figures of the foreground have big expressive cartoon eyes with a big dark pupil filling not more than half of the iris, still framed by a ring of visible white sclera, tiny noses and small mouths; expressiveness comes mainly from the eyes, body posture and head direction. The figures of the mid-ground and the background keep simple minimal features — tiny noses, small mouths, small simplified eyes — and read as compact shapes inside the crowd. Mei is the single exception to that second rule: even standing deeper in the scene at a smaller scale, her face in profile is drawn with the same big eyes and the same small mouth as the foreground figures, only reduced in size.
+
+Architecture and nature more detailed and precise than the characters, but equally illustrated, in the same crafted language.
+
+Finish: editorial travel-journal illustration, digital 2D, soft cel-shading, warm watercolor-like paper texture, clean thin and irregular linework in the color of the base form (never black, never hard outlines), handcrafted, adult and contemporary.
+
+Muted, warm, nostalgic, strongly desaturated — zero digital glow, no hard contrast, Core tokens always present: sakura pink, dusty pink, salmon and peach as spring accents; cream, ivory, beige and sand; warm wood brown, terracotta, brick red and muted vermilion as small controlled accent bursts on key objects; navy, greyish blue and washed light blue; olive green, moss green and forest green; warm stone grey and brownish charcoal.
+
+Ground and large surfaces: the asphalt of the streets, the road markings, the pavement and every large flat plane stay inside a mid-value range — warm grey and beige, never a black mass. Surfaces keep visible texture, seams, cracks, painted lines and paper grain. No ink stains, no blotches, no dark smudges, no holes of pure black, no oily gloss on the road. Dark values appear only in hair, clothing, backpacks, signage and small shadowed zones, never spread over a large area.
+
+Light is warm, natural and diffuse, with no harsh solar direction and minimal soft diffuse shadows, no hard black shadows. Dark values concentrate in hair, clothing, backpacks and shadowed zones; light values in the sky, the light sources and the most illuminated surfaces. Small contained points of warm yellow light only where the scene has real lamps or lanterns, with no halos. No dominant absolute black or optical white. Even metal, glass, water and machinery keep a slight paper-grain irregularity, and water is pictorial with fragmented brushstrokes and warm reflected highlights.
+
+Mid-century Japanese and Swiss travel posters, Jean-Jacques Sempé, Tove Jansson, Mary Blair, Heinz Edelmann, New Yorker editorial illustration and the colour-line tradition of Winsor McCay, Maira Kalman's travel-journal voice.
+
+NOT anime, NOT Ghibli, NOT Studio Ghibli, NOT Miyazaki, NOT manga, NOT Pixar or 3D render, NOT pencil animation look, NOT airbrush or 3D plastic shading. Avoid anime eye shapes, soft dreamy anime gradients and hard black outlines.
+```
+
+## El trade-off, para que esté anotado
+
+Y si el retrato queda demasiado obvio, la salida no es más texto: es aceptar que **esta página es de dificultad media** y dejar la búsqueda difícil para las páginas con oclusor estructural — el bambú mismo, que son caños verticales y paralelos, y las fachadas de Shibuya. Tres páginas, tres criterios: contraste de valor, silueta contra fondo oscuro, rostro de perfil. Que el atlas tenga una de cada uno es lo que lo hace un sistema y no ocho fotos parecidas.

@@ -1,0 +1,71 @@
+# Parcial · Identidad Generativa — "Buscando en Argentina"
+
+**Grupo 07 · Ctrl+Gen** — IA Generativa y Diseño · UTDT · Semestre 02 · 2026
+
+Integrantes: Clementina Ogallar, Delfina García Lema, Martina Isla.
+
+---
+
+## De qué se trata
+
+Un **libro educativo infantil** con la lógica de "¿Dónde está Wally?" que
+acerca Argentina a los chicos de los años de la escuela primaria. Cada doble página es un
+lugar emblemático del país en plena actividad —una celebración, una temporada
+turística, una fiesta popular o una situación cotidiana— y hay muchas personas,
+objetos y costumbres propias de ese lugar.
+
+El **elemento oculto** es **Mateo**, un personaje infantil que aparece
+siempre, integrado a la escena y con la ropa adaptada a cada lugar: la
+identidad es fija, el vestuario cambia.
+
+El universo se produce con un **bloque madre** reproducible para cada escena,
+para que cualquiera genere una escena nueva que pertenezca al mismo mundo.
+Además de ese bloque madre, para cada escena trabajamos con un **prompt
+variable por escena**, e imágenes de referencia.
+
+## El sistema visual
+
+- **Técnica:** plastilina / stop-motion (todo el mundo y los secundarios
+  comparten la materialidad — referencia: Laika / Aardman).
+- **Paleta:** rojo, naranja, amarillo, celeste, azul, verde y violeta.
+- **Formato:** 16:9, doble página. Nada clave en el centro (el pliegue).
+- **Modelo:** ChatGPT (generación de imagen).
+
+El detalle completo del sistema está en
+[`identidad-argentina/SKILL.md`](./identidad-argentina/SKILL.md).
+
+## Las nueve escenas
+
+1. Jujuy — Quebrada de Humahuaca
+2. Misiones — Cataratas del Iguazú
+3. Tucumán — La casita histórica de Tucumán
+4. Santa Fe — Monumento a la bandera (Rosario)
+5. Buenos Aires — Caminito (La Boca)
+6. Mar del Plata (BSAS) — Playa Grande
+7. Río Negro — El Cerro Catedral (Bariloche)
+8. Chubut — Puerto Madryn / Península Valdés
+9. Santa Cruz — Los Glaciares (Perito Moreno)
+
+## Contenido de esta carpeta
+
+```
+parcial/
+├── README.md                          ← este archivo
+├── G7_Editorial.pdf                   ← artes finales del libro (imprenta)
+├── G7_Pieza_extra.pdf                 ← pieza extra del proyecto
+├── G7_Proceso.pdf                     ← documento de proceso
+├── identidad-argentina/
+│   ├── SKILL.md                       ← la skill que produce el sistema
+│   └── concepto.md                    ← concepto, universo y elemento oculto
+└── imagenes/
+    ├── misiones.pdf … (las 9 escenas, una por archivo)
+    ├── personaje-mateo.png            ← el elemento oculto
+    └── personaje-mateo-por-escena.png ← Mateo con la ropa de cada lugar
+```
+
+## La skill
+
+La skill vive en [`identidad-argentina/SKILL.md`](./identidad-argentina/SKILL.md).
+Está en proceso: el equipo la actualiza antes de la entrega. Una vez lista, se
+instala en el agente (Claude Code u opencode), se indica **ChatGPT** como
+modelo y se le pide una escena nueva para que pertenezca al mismo universo.

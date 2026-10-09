@@ -88,11 +88,16 @@ ella misma elegiría, siempre rodeada de gente.
    dije de corazón rosa + cinturón ancho con hebilla grande + botas con
    hebillas y detalle arrugado en el tobillo.
 
+**Cambios en el libro final:** en cada fiesta Lourdes cambia de outfit y
+de pose, así que hay una imagen suya por escena. Lo que no cambia nunca:
+pelo bob castaño, pañuelo negro con puntitos blancos en la cabeza y cartera. Los tres
+rasgos de arriba (silueta, color y objeto) describen el diseño original.
+
 **Referencia visual:** boceto a mano de Lourdes + versión coloreada por
 Tere (acuarela/gouache suelta, lavado monocromático sepia, trazo
 expresivo con textura de pincel visible — técnica de ilustración a
-mano, no generada con IA). Referencia final para las escenas IA:
-`lourdes_referencia_parisianer.png`.
+mano, no generada con IA). Para las escenas, una versión de Lourdes por fiesta
+(`lourdes_escena_N.png`), con su outfit y su pose.
 
 ---
 
@@ -126,10 +131,9 @@ deja tirados por ahí.
 
 Este libro son esas ocho búsquedas. En cada página hay una fiesta
 distinta — un carnaval, un barco, una pileta, un rooftop — y en cada
-una, en algún lugar, está Lourdes. Se reconoce siempre por lo mismo:
-su pelo corto castaño, su top rojo, su pollera larga, su cinturón con
-hebilla, sus botas, y esa cartera con el dije de corazón que nunca
-suelta.
+una, en algún lugar, está Lourdes. Cambia de outfit en cada fiesta, pero
+se reconoce siempre por lo mismo: su pelo corto castaño, su pañuelo negro
+con puntitos blancos en la cabeza y esa cartera que nunca suelta.
 
 **¿La encontrás?**
 
@@ -140,9 +144,9 @@ a Lourdes**. Mirá con calma — nunca está sola en el medio de todo,
 está metida en el bullicio, medio tapada por alguien o por algo, como
 cualquiera de los cientos de personajes que pueblan la escena.
 
-*(Yapa para quien mire dos veces: en cada fiesta de Lourdes, alguien
-termina perdiendo sus anteojos de sol — es una maldición del grupo.
-Buscalos también, sin premio ni obligación.)*
+*(Yapa para quien mire dos veces: en cada fiesta Lourdes deja algo
+atrás. No te digo qué. Al final del libro te cuento cuáles son — y vas a
+tener que volver a buscarlos.)*
 
 Al pie de cada página vas a encontrar la postal de su amiga — el
 rastro que siguió para llegar hasta ahí.
@@ -155,9 +159,9 @@ rastro que siguió para llegar hasta ahí.
 2. **Barco:** "Un mensaje de voz de las 4 AM: 'estoy en un yate, no sé
    de quién, ¡vení!'. Para cuando llegué al puerto, ya se habían ido
    mar adentro."
-3. **Pool party:** "Encontré sus anteojos de sol tirados al lado de la
-   pileta y ningún rastro de ella. Alguien juraba haberla visto
-   zambulléndose con ropa y todo."
+3. **Pool party:** "Encontré su pareo tirado al lado de la pileta y
+   ningún rastro de ella. Alguien juraba haberla visto zambulléndose
+   con ropa y todo."
 4. **Amanecer en la playa:** "Se ve que la fiesta de anoche nunca
    terminó — la encontré (bah, casi) repartiendo cocos a las 6 de la
    mañana como si nada."
@@ -177,16 +181,34 @@ rastro que siguió para llegar hasta ahí.
 **Frase de cierre del libro:** "Yo la sigo buscando — pero, la verdad,
 tampoco tengo apuro en encontrarla. Esta fiesta también está buena."
 
-### El gag secundario — dónde aparecen los lentes perdidos
+### Los objetos perdidos — la búsqueda del final
 
-1. Carnaval: en el medio de la calle, pisoteados por la comparsa que pasa.
-2. Barco: en la cubierta, cerca de la escalera por donde sube alguien empapado.
-3. Pool party: al lado de la pileta (mismo par que menciona la postal).
-4. Amanecer en la playa: medio enterrados en la arena, cerca de la fogata apagándose.
-5. Rooftop: en el piso, enredados en la guirnalda de luces caída.
-6. Festival de música: pisoteados en el pasto, cerca del escenario.
-7. Obelisco: tirados entre el confetti y las banderas en el piso.
-8. Garden party: en el pasto, junto a las tazas que se cayeron.
+Reemplaza al gag anterior de los anteojos de sol. En cada fiesta Lourdes
+pierde un objeto. Los objetos no los dibuja la IA dentro de la escena:
+se generan aparte (ver `objetos_perdidos_prompts.md`) y se colocan a mano
+en Figma. Durante el libro nadie sabe qué buscar; los objetos se revelan
+recién en la página final.
+
+| # | Escena | Objeto perdido | Dónde aparece (ubicación sugerida) |
+|---|---|---|---|
+| 1 | Carnaval | Zapato de taco dorado | En medio de la calle, entre el confeti, por donde pasa la comparsa |
+| 2 | Barco | Sombrero de paja de ala ancha | Enganchado en un cabo del mástil, bien arriba |
+| 3 | Pool party | Pareo | Tirado al borde de la pileta, cerca de las reposeras (mismo objeto que menciona la postal) |
+| 4 | Amanecer en la playa | Antiparras de natación | En la arena, medio enterradas, cerca de la fogata que se apaga |
+| 5 | Rooftop de noche | Llaves con llavero de pompón | En el piso, enredadas en la guirnalda de luces caída |
+| 6 | Festival | Cámara descartable | En el pasto, pisoteada, cerca del escenario |
+| 7 | Obelisco | Mate con bombilla | Tirado entre el confeti y las banderas en el piso |
+| 8 | Garden party | Sombrilla de encaje | Apoyada en el pasto, junto a las tazas que se cayeron |
+
+### Página final — Lo que Lourdes dejó atrás
+
+> *Ya sabés buscar. Entonces volvé atrás: en cada fiesta, Lourdes
+> perdió algo. Un zapato, un sombrero, un pareo, unas antiparras, las
+> llaves, una cámara, un mate, una sombrilla. Ocho cosas, ocho fiestas.
+> ¿Las encontrás?*
+
+*(La página muestra las 8 siluetas en una grilla, sin decir en qué
+escena está cada una.)*
 
 ---
 
@@ -211,33 +233,13 @@ party photo, but a rich inhabited world with its own personality and
 internal logic.
 
 02 — FIXED VISUAL UNIVERSE
-Flat European editorial illustration, in the character and world design
-DNA of "The Parisianer" (Éditions de la Martinière): thin, uniform,
-confident ink outlines (NOT thick, NOT glossy), flat matte color fills
-with NO shading gradients, NO cel-shading highlights, NO gloss.
-Elongated, loose, slightly exaggerated bendy character proportions,
-dynamic mid-motion poses (running, falling, reaching, chasing). Multi-story
-cutaway building facades showing several levels of activity
-simultaneously, small animals woven naturally into the scene. The result
-must feel like a page from a real published illustrated book — witty,
-graphically confident, editorial — NEVER a generic modern flat-vector
-cartoon, NEVER a generic "AI illustration" look, NEVER glossy or
-anime-styled, NEVER photorealistic.
+Flat European editorial illustration that closely imitates the look of "The Parisianer" (Éditions de la Martinière) — a hand-drawn comic-book / gouache screen-print look, NOT a digital vector look. Linework: thin, dark, slightly irregular hand-inked pen lines (like a fine felt-tip or dip pen, with a natural hand wobble; NOT perfectly smooth, NOT thick, NOT glossy). Color: solid flat matte fills applied as clean shapes inside the lines, with NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly brush texture, NO paper grain. Between the busy groups of people, leave calm areas of one single flat color (the sky as one uniform flat tone, large walls as flat cream, roofs as flat slate-blue) so the page breathes.
 
-EVERY character in the scene — not only Lourdes — must share this exact
-graphic DNA: minimal, confident facial marks (a simple dot, dash or short
-line for eyes and mouth — NOT detailed anime eyes, NOT eyelashes, NOT
-glossy highlights, NOT cel-shaded blush), elongated loose limbs, and a
-dynamic mid-action pose. NEVER default to a generic modern anime/webtoon
-face. "Minimal" means SIMPLE, not ABSENT: a blank, featureless, or
-smudged-out face is a mistake and never acceptable, no matter how small
-or far away the character is or how dense the crowd gets — every single
-face, down to the smallest background figure, must show at least a
-visible pair of eye-marks. Each character still distinct via clothing
-color, hairstyle, body shape and specific action, but all recognizably
-belonging to the same flat, witty "Parisianer" graphic family. Vary
-hairstyles, hair colors, skin tones and body types widely across the
-crowd — no repeated identical figures.
+Buildings and structures are drawn as flat, straight-on frontal elevations, like a dollhouse cutaway: large flat-colored walls and roofs, details only as thin parallel ink lines (shutters, railings, roof tiles, planks, bricks), no realistic perspective rendering, no lighting effects. Windows and doorways glow with a flat warm yellow and each one shows a small funny story happening inside, so several levels of activity are visible at once. Add two or three small animals in the whole scene, each with one head and four legs, clearly separate from the people around them.
+
+Characters have natural, coherent anatomy — every figure has one head, two arms and two legs, with joints in the right places — drawn slim, lanky and slightly angular, with slightly long arms and legs and sharp elbows and knees, in mostly calm, clear poses with a few dynamic mid-motion poses (running, falling, reaching, chasing). Each face is a witty caricature of a specific eccentric type: tiny dot eyes, expressive eyebrows, a prominent angular nose, many faces in profile or three-quarter view. The result must feel like a page from a real published illustrated book — witty, graphically confident, editorial — NEVER a generic modern flat-vector cartoon, NEVER a generic "AI illustration" look, NEVER glossy or anime-styled, NEVER photorealistic.
+
+EVERY character in the scene must share this exact graphic DNA: the same thin wobbly ink line, the same flat fills, the same caricatured faces (a dot or dash for the eyes, a simple line or open shape for the mouth — NOT detailed anime eyes, NOT eyelashes, NOT glossy highlights, NOT cel-shaded blush) and natural, well-formed limbs. Bodies are drawn with minimal, simple detail: plain straight-ish shapes, no exaggerated curves, a natural variety of ordinary body types (slim, stocky, tall, short, round), and clothing as plain flat shapes with few folds. NEVER default to a generic modern anime/webtoon face. Most characters stand, talk, watch or hold a drink in simple, clear poses; only a few key characters per group are caught in dramatic mid-action. Each character still distinct via clothing color, hairstyle, body shape and specific action, but all recognizably belonging to the same flat, witty "Parisianer" graphic family. Vary hairstyles, hair colors, skin tones and body types widely across the crowd — no repeated identical figures.
 
 03 — MOTHER PALETTE
 Flat matte palette: mustard yellow, brick red, olive/forest green, burnt
@@ -266,34 +268,26 @@ etc.) — do not let it drift into a muted watercolor look.
 Include 3-4 secondary discoverable details (a small visual joke, a
 recurring prop, an odd character moment) scattered through the scene
 that reward close observation.
+Approximately 100-150 individually distinct characters overall.
 Characters in the foreground and middle ground must have clean,
 anatomically correct, complete bodies with clearly separated limbs.
 Characters far in the background may simplify into a dense, textured
-crowd of smaller figures (less individual anatomical precision needed at
-that distance) — this is a stylistic convention of the genre, not a
-flaw. Approximately 250-300 individually distinct figures total across
-the whole scene: a clean, anatomically correct set of characters filling
-the foreground and middle ground, PLUS a dense background crowd
-(simplified, textural, smaller) that pushes the total count much higher
-without needing individual anatomical precision. Never generic repeated
-poses in the foreground, never random unrelated filler objects.
+crowd.
 
 06 — COMPOSITION
-EXTREMELY wide, zoomed-out panoramic composition, built for a full A3
-horizontal double-page spread (the printed book opens to this size): pull
-the camera back MUCH further than feels natural, so many more people and
-much more environment fit in frame — but keep a slightly elevated,
+Wide panoramic composition, built for a full A3 horizontal double-page
+spread (the printed book opens to this size), with a slightly elevated,
 comfortable wide-angle viewpoint (like looking down a street or across a
-venue from a bit above eye level), NOT a fully aerial top-down "diorama
-from directly above" shot. The whole location and its surroundings must
-fit in frame at once, with the crowd and environment filling the entire
-frame edge to edge, activity extending toward and past all four borders,
-as if the scene keeps going beyond what's shown. Clear foreground, middle
-ground and background, with figures visibly shrinking with distance. Multiple
+venue from a bit above eye level), NOT a fully aerial top-down shot. The
+camera stays close enough that every figure is large enough for its face
+and hands to read clearly, and the scene has moderate depth — a short
+street or venue rather than a deep, distant one. Clear foreground,
+middle ground and background, with figures shrinking gently with
+distance. Activity extends toward the edges of the frame. Multiple
 visual paths for the eye to explore. Landscape format, 1414x1000px.
 
 07 — OUTPUT / EXCLUSIONS
-High-resolution polished editorial illustration in "The Parisianer" style
+High-resolution hand-inked, flat-color editorial illustration in "The Parisianer" style
 described above. Rich environmental detail. NO text. NO logos. NO
 watermark. NO photorealism. NO gloss or anime look. NO generic modern
 flat-vector cartoon look. NO random unrelated filler objects —
@@ -340,8 +334,59 @@ real brand names.
   escenas — siempre un elemento centralizador grande + un momento de
   caos/mishap, y recordatorio explícito de mantener la paleta plana
   aunque el escenario tire para lo suave.
+- **v17 — Problema: Lourdes no aparecía en las escenas** (el modelo
+  cambiaba su outfit o directamente no la dibujaba, aun con imagen de
+  referencia y chequeos obligatorios). Corrección: se decidió no pedirle
+  a la IA que la genere y sacarla por completo del bloque madre; se
+  agrega después, a mano, en Figma.
+- **v18 — Problema: ChatGPT pedía "subir una imagen base" en vez de
+  generar.** Respondió que había detectado el pedido como una edición de
+  imagen. Diagnóstico: el bloque "MANDATORY FINAL CHECK" usaba
+  vocabulario de revisión (verify, check, fix, redo, before returning),
+  que el modelo leía como edición de algo existente. Las versiones que
+  habían funcionado no lo tenían. Corrección: se eliminó esa sección;
+  el resto de la estructura numerada no era el problema.
+- **v19 — Problema: ambigüedad que inventaba objetos.** En el barco, el
+  centerpiece "inflatable sculpture" sin forma definida hacía que el
+  modelo dibujara un flamenco (cliché de fiesta de pileta). Corrección:
+  se sacó esa frase; los elementos del prompt deben ser concretos.
+- **v20 — Problema: figuras humanas deformes** (piernas, cuerpos
+  mezclados). Diagnóstico: el propio prompt pedía "bendy proportions" y
+  "elongated loose limbs", que el modelo leía como permiso para
+  deformar. Corrección: se reemplazó por "natural, coherent human
+  anatomy with slightly long arms and legs, one head, two arms, two
+  legs, joints in the right places". Probado primero solo en el barco
+  (mejoró bastante) y después aplicado a las 8 escenas.
+- **v21 — Problema: cuerpos muy detallados/curvilíneos y exceso de
+  texturas y sombras.** Se agregó una regla de cuerpos simples (formas
+  planas, sin curvas exageradas, variedad de tipos de cuerpo, ropa con
+  pocos pliegues), que se mantiene. También se probó agregar "NO cast
+  shadows, NO hatching, NO surface textures or patterned fills", pero se
+  revirtió: el pedido de planitud total le sacaba carácter al estilo.
 
 ---
+
+- **v22 — Problema: el resultado no se parecía lo suficiente a The
+  Parisianer** (se comparó una página real contra la imagen generada del
+  Carnaval: la generada salía con grano de papel, textura pictórica,
+  perspectiva con profundidad, caras genéricas y multitudes de figuras
+  chicas; la real usa línea de pluma fina e irregular, colores planos
+  lisos, cielo y paredes de un solo tono, fachadas frontales tipo casa de
+  muñecas con ventanas amarillas que cuentan mini-historias, y figuras
+  flacas y angulosas con caras caricaturescas, narigudas y de perfil).
+  Corrección: se reescribió la sección 02 del bloque madre con esos rasgos
+  y se cambió "polished" por "hand-inked, flat-color" en la sección 07.
+  Aplicado a las 8 escenas.
+
+- **v23 — Sidequest: objetos perdidos de Lourdes.** Se reemplazó el gag
+  secundario de los anteojos de sol por 8 objetos distintos, uno por
+  escena (zapato, sombrero, pareo, antiparras, llaves, cámara, mate,
+  sombrilla), elegidos por su silueta y para que no se confundan con lo
+  que ya hay en cada escena. Se generan aparte con prompts propios
+  (`objetos_perdidos_prompts.md`) y se colocan en Figma, como Lourdes; se
+  revelan recién en la página final. Se descartó la cartera porque es el
+  accesorio de Lourdes que "nunca suelta". Se ajustaron la yapa de la
+  página 3 y la postal 3.
 
 ## D.4 — Lo que presentamos al curso
 
@@ -355,19 +400,20 @@ real brand names.
 
 ## D.5 — Arrancar la skill *(si el grupo llegó a completar D.3)*
 
-**¿Le pediste al agente que arme el `SKILL.md`?** Sí / No
+**¿Le pediste al agente que arme el `SKILL.md`?** Sí
 
 **¿Qué campos quedaron completos hoy?**
 
-- [ ] Universo
-- [ ] Bloque de estilo
-- [ ] Modelo y parámetros
-- [ ] Regla de variación
-- [ ] Cómo se inserta el elemento oculto
-- [ ] Restricciones
+- [x] Universo
+- [x] Bloque de estilo
+- [x] Modelo y parámetros
+- [x] Regla de variación
+- [x] Cómo se inserta el elemento oculto
+- [x] Restricciones
 
-**Lo que falta, ¿para cuándo lo completás?** *(antes de la C6, generando ya
-la imagen madre — la C7 es la clase dedicada a llegar a las 8 escenas)*
+**Lo que falta, ¿para cuándo lo completás?** Nada. La skill está terminada
+en `SKILL.md` (esta misma carpeta) y se probó pidiéndole una escena nueva
+(una fiesta en un tren).
 
 ---
 

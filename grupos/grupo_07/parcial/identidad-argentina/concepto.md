@@ -1,0 +1,219 @@
+# Clase 5 · Ejercicios
+
+**Copiá esta carpeta a tu grupo antes de empezar:**
+
+```
+mkdir -p grupos/grupo_XX/parcial/identidad-<nombre>
+cp clases/clase_05/ejercicios.md grupos/grupo_XX/parcial/identidad-<nombre>/concepto.md
+```
+
+Completalo ahí. Es tu hoja de trabajo de la clase — y a la vez el borrador
+de tu `SKILL.md` del parcial, así que lo que escribas acá no se descarta.
+
+> 🎓 **Modo tutor, como siempre.** Lo mecánico (crear la carpeta, el
+> archivo, comandos de git) que lo resuelva el agente. El concepto, el
+> universo, el elemento oculto: eso es criterio tuyo. Frase para pegar al
+> chat si querés reforzarlo:
+> *"Trabajemos en modo tutor: guiame de a un paso por vez para definir mi
+> concepto. No decidas vos el universo ni el personaje — hacéme las
+> preguntas que necesito responder."*
+
+> ⚠️ **Hoy no se genera ninguna imagen.** Este ejercicio es 100% concepto
+> (Parte 2, módulo "manos a la obra") y, si tu grupo llega, el bloque
+> madre en texto (Parte 3, después del recreo). Generar la imagen madre y
+> las primeras escenas queda para antes de la próxima clase.
+
+---
+
+## D.1 — Tu concepto y tu universo
+
+**¿Qué elegimos?** **Producto** *(Marca / Producto / Personaje — tachar lo que no aplica)*
+
+**Concepto en 1 oración — ¿qué es este mundo?**
+Un libro educativo estilo "Buscando a Wally" que acerca Argentina a los
+chicos: cada escenario es un lugar emblemático del país en plena actividad,
+donde hay que descubrir personas, objetos y costumbres propias de ese lugar.
+
+**Si tuviéramos que mostrar 9 escenas distintas, ¿cuáles serían?** *(nombrá
+al menos 4-5 lugares o situaciones — si no llegás, el concepto necesita más
+mundo)*
+
+1. Jujuy — Quebrada de Humahuaca
+2. Misiones — Cataratas del Iguazú
+3. Tucumán — La casita histórica de Tucumán
+4. Santa Fe — Monumento a la bandera (Rosario)
+5. Buenos Aires — Caminito (La Boca)
+6. Mar del Plata (BSAS) — Playa Grande
+7. Río Negro — El Cerro Catedral (Bariloche)
+8. Chubut — Puerto Madryn / Península Valdés
+9. Santa Cruz — Los Glaciares (Perito Moreno)
+
+---
+
+## D.2 — El elemento oculto
+
+**¿Quién es, o qué es?**
+Un personaje constante, llamado **Mateo**, que aparece en las **9 escenas**.
+Su **identidad es fija** (la mochila blanca) pero su **ropa cambia** según el
+lugar donde se encuentre (se viste "de cada escenario").
+
+**¿Por qué pertenece a este universo y no a otro?**
+Porque el personaje "viaja" por toda la Argentina recorriendo y aprendiendo
+sobre nuestro país: es el hilo conductor de la exploración. Su ropa cambiante
+lo hace parte de cada lugar, pero su mochila blanca lo hace reconocible en
+todos.
+
+**¿Qué hace en cada escena? — observa, se esconde, intervien.**
+Se esconde (como en Wally), integrado en cada escena con ropa acorde al
+lugar. Puede estar participando de la actividad propia del escenario.
+
+**¿Qué tiene tu universo que "vaya a juego" con este personaje?** *(si es
+una persona, ¿hay lugares con multitudes? si tiene una personalidad
+particular, ¿el mundo tiene el tipo de escena que esa personalidad
+elegiría?)*
+Es un mundo de escenas con multitud y actividad (fiestas, temporadas,
+situaciones cotidianas), el tipo de lugar donde un personaje así encaja
+buscando colocarse "de paisano" en cada destino.
+
+**3 rasgos distintivos** *(silueta + color + objeto — tienen que reconocerse
+en una imagen chica y a través de 8 escenas)*
+
+1. **Silueta:** personaje infantil, curioso y simpático, de estética
+   artesanal y aspecto de plastilina (figura suave y redondeada).
+2. **Color:** piel cálida, pelo oscuro y grandes ojos expresivos; textura a la
+   vista de plastilina.
+3. **Objeto:** una mochila blanca, siempre presente y fija en todas las
+   escenas (la ropa varía, la mochila nunca).
+
+> **Descripción del personaje (para la skill):** A recurring child character
+> for a children's visual-search project about Argentina. Strongly stylized 3D
+> stop-motion clay / plasticine character with a charming handcrafted
+> miniature-puppet appearance. Compact chibi proportions: oversized rounded
+> head, very small and slightly chubby body, short chunky arms and legs,
+> almost no visible neck, and a soft rounded silhouette. The anatomy should
+> feel simple, playful and physically sculpted from clay rather than precisely
+> modeled. Warm light-to-medium tan skin tone. Dark brown hair made from
+> chunky, individually sculpted clay locks, slightly messy and tousled, with
+> simple rounded shapes and subtle handmade irregularities, always keeping the
+> face visible. Very large rounded white eyes with tiny black pupils, simple
+> dark eyebrows, a small rounded clay nose and a tiny gentle smile. Facial
+> features should be extremely simple, expressive and cartoon-like, with the
+> eyes integrated naturally into the rounded volume of the face. Friendly,
+> curious, calm and approachable expression. The character carries a simple
+> white backpack, ideally visible in full or at minimum through visible white
+> shoulder straps whenever the outfit allows it. The entire character must look
+> physically hand-sculpted from soft plasticine, as if it were a miniature
+> puppet created for a stop-motion animated film. Use chunky, soft and slightly
+> imperfect clay forms rather than precise or geometrically perfect CGI
+> modeling. Skin, hair, clothing, shoes, backpack and every accessory should
+> share the same tactile clay construction. Clothing should look sculpted from
+> colored plasticine rather than made from realistic fabric. Hair should look
+> like individually shaped pieces of dark clay rather than realistic hair
+> strands. Surfaces should show subtle handmade imperfections, gentle
+> unevenness, soft sculpting marks and very subtle fingerprint-like texture.
+> Materials should be predominantly matte to softly satin, with soft highlights
+> that emphasize the rounded three-dimensional volumes. Maintain strong
+> three-dimensional depth and volume through soft modeling, gentle ambient
+> shadows and warm animated-film lighting. The character should feel like a
+> tangible miniature clay puppet photographed on a physical set, while
+> remaining clean, colorful and highly readable. The overall aesthetic should
+> resemble a polished children's stop-motion clay animation: playful, tactile,
+> expressive, warm and clearly handcrafted, while avoiding the appearance of a
+> mass-produced toy or collectible figurine. This character must always remain
+> unmistakably the same person across all scenes.
+
+**Vestimenta por escena:**
+
+- **Jujuy – Quebrada de Humahuaca:** Poncho tradicional colorido, pantalón
+  beige y botas marrones.
+- **Misiones – Cataratas del Iguazú:** Piloto impermeable verde, shorts, botas
+  de trekking y binoculares.
+- **Tucumán – Casa Histórica:** Traje de época azul oscuro, camisa blanca y
+  escarapela argentina.
+- **Santa Fe – Monumento a la Bandera:** Camiseta de Argentina, shorts
+  deportivos y zapatillas.
+- **Buenos Aires – Caminito:** Buzo azul, pantalón cargo, zapatillas y cámara
+  fotográfica.
+- **Mar del Plata – Playa Grande:** Short de baño a rayas, ojotas y tabla de
+  surf.
+- **Río Negro – Cerro Catedral:** Campera de nieve azul, pantalón térmico,
+  antiparras y esquís.
+- **Chubut – Puerto Madryn:** Campera a rayas azules, pantalón abrigado,
+  bufanda y mochila.
+- **Santa Cruz – Glaciar Perito Moreno:** Campera de abrigo turquesa, pantalón
+  cargo, botas y binoculares.
+
+---
+
+## D.3 — Bloque madre *(completar después del recreo, en la parte teórica)*
+
+| Campo | Tu respuesta |
+| --- | --- |
+| **Concepto del universo** | Un libro educativo estilo "Buscando a Wally" que acerca Argentina a los chicos: cada escenario es un lugar emblemático del país en plena actividad, donde hay que descubrir personas, objetos y costumbres propias del lugar. Un personaje con mochila blanca se esconde en las 8 escenas. |
+| **Técnica de ilustración** *(específica, no "estilo ilustración")* | Plastilina / stop-motion: superficie con textura de plastilina moldeada, huellas de dedos y relieves. Todo el mundo y los personajes secundarios comparten la misma materialidad. |
+| **Paleta** *(3-5 colores, nombre o hex)* | Paleta variada y llamativa para chicos: rojo, azul, celeste, violeta, amarillo, verde y naranja |
+| **Referencia artística** *(1-2 reales)* | Laika (Coraline, ParaNorman, Missing Link) — stop-motion de plastilina |
+| **Parámetros de calidad** *(aspect ratio, detalle, restricciones)* | Aspect ratio 16:9 para doble página. Nada clave en el centro (el pliegue se lo come). Textura de plastilina bien visible. |
+
+**PROMPT MADRE (Capas 2-5 concatenadas — texto exacto para copiar sin
+modificar en cada generación, cuando arranquen a generar):**
+
+```
+Claymation / stop-motion style illustration, sculpted plasticine surfaces
+with visible fingerprints and reliefs, handmade miniature set diorama look,
+in the style of Laika studios (Coraline, ParaNorman), warm and tactile
+lighting, rich saturated editorial palette of red, blue, light blue, purple,
+yellow, green and orange, high level of detail in the scenery, many secondary
+characters and objects integrated in the same clay material, aspect ratio 16:9
+double-page spread, no text, no logos, keep the central vertical area free of
+key elements (book fold).
+```
+
+---
+
+## D.4 — Lo que presentamos al curso
+
+**¿A qué hora / en qué orden nos tocó presentar?**
+
+**Feedback que recibimos de la cátedra o de otros grupos:**
+
+**¿Qué ajustamos del concepto después del feedback, si algo?**
+
+---
+
+## D.5 — Arrancar la skill *(si el grupo llegó a completar D.3)*
+
+**¿Le pediste al agente que arme el `SKILL.md`?** Sí
+
+**¿Qué campos quedaron completos hoy?**
+
+- [x] Universo
+- [x] Bloque de estilo
+- [x] Modelo y parámetros
+- [x] Regla de variación
+- [x] Cómo se inserta el elemento oculto
+- [x] Restricciones
+
+**Lo que falta, ¿para cuándo lo completás?** *(antes de la C6, generando ya
+la imagen madre — la C7 es la clase dedicada a llegar a las 8 escenas)*
+Falta generar la imagen madre y las primeras escenas (antes de la C6). El
+`SKILL.md` quedó en `clase_05/identidad-argentina/SKILL.md`.
+
+---
+
+# Entregable
+
+En `grupos/grupo_XX/parcial/identidad-<nombre>/concepto.md`: D.1 y D.2
+completos siempre; D.3, D.4 y D.5 completos si tu grupo llegó a esa parte
+de la clase.
+
+No hay imágenes en el entregable de hoy.
+
+Y el push de siempre:
+
+```
+git pull
+git add grupos/grupo_XX/
+git commit -m "grupo XX: clase 05"
+git push
+```

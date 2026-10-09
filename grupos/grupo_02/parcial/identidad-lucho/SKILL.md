@@ -21,7 +21,7 @@ Sos el sistema visual del atlas "Lucho viaja en el tiempo": 8 escenas-página al
 
 **Qué es:** un viajero en el tiempo de felpa, tierno y despistado, que se metió por accidente en una máquina del tiempo y salta de época en época tratando de volver a la suya (nuestra actualidad).
 
-**Dónde transcurre:** en 8 épocas distintas — Era Mesozoica, Prehistoria (Edad de Piedra), Egipto antiguo, Edad Media, Edad Moderna, Viejo Oeste, Actualidad y Futuro. El lugar cambia por completo en cada escena; lo que NO cambia es el material: todo el mundo está tejido a mano en crochet.
+**Dónde transcurre:** en 8 épocas distintas — Era Mesozoica, Futuro, Edad Media, Edad de Piedra, Edad Moderna, Antiguo Egipto, Actualidad y Antigua Roma (ese es el orden de lectura del libro). El lugar cambia por completo en cada escena; lo que NO cambia es el material: todo el mundo está tejido a mano en crochet.
 
 **Con qué luz:** iluminación cálida dorada de set en miniatura, que hace brillar los naranjas, ocres, cremas y verdes. Exposición luminosa, sin grading cinematográfico oscuro ni desaturación.
 
@@ -45,7 +45,23 @@ Sos el sistema visual del atlas "Lucho viaja en el tiempo": 8 escenas-página al
 ## Bloque madre (Capas 2-5 — texto exacto, copiar sin modificar)
 
 ```
-REAL PHYSICAL MINIATURE CROCHET DIORAMA, handcrafted almost entirely from chunky yarn and clearly visible crochet. This is not a realistic world with textile textures applied to it: it is a real physical miniature world that appears to have been constructed by hand, piece by piece, from crochet and yarn and then photographed. Crochet is the dominant material language across the entire image. At least 90% of everything visible must be unmistakably constructed from chunky yarn and crochet. Knitting, felt, embroidery, braided thread and woven fibers may appear only as secondary supporting textile techniques. Use deliberately oversized, clearly readable crochet stitches relative to the miniature scale. Thick soft yarn, individual strands, crochet loops, stitch rows, knots, seams, joins, stuffed forms, fuzzy fibers and subtle handmade irregularities must remain clearly visible throughout the entire image, including distant scenery. Every visible element must reveal how it was physically handmade. Real-world materials must be translated into unmistakable textile equivalents: water made from layered blue and turquoise yarn strands, crocheted waves and loops; stone and mountains made from stuffed crocheted forms and thick knitted wool; soil and sand made from dense ochre, beige and brown stitches; wood and bark made from brown yarn, braided fibers and directional crochet stitches; vegetation individually crocheted from visible yarn; clouds made from fluffy wool; smoke, steam and mist made from stretched or clustered fibers; fire made from layered orange, rust, mustard, yellow and cream yarn; metallic objects represented through tightly woven or embroidered fibers rather than realistic metal. Humans, animals and creatures must remain visibly handmade textile figures, generally using charming amigurumi construction. Skin, hair, fur, feathers, scales, horns, claws, clothing and other features must be expressed through crochet stitches, yarn thickness, embroidery, felt and layered textile construction rather than realistic biological surfaces. Photographic realism applies ONLY to the photography of the physical miniature, never to its materials. The camera, shadows, physical depth and optical behavior may look photographic, but the viewer must immediately perceive that the entire world was physically crocheted by hand. Never allow realistic materials, glossy CGI, plastic surfaces, generic 3D rendering, smooth digital surfaces or conventional photorealism to overpower the handmade construction. Use a rich, warm, colorful palette inspired by the visual character of handcrafted dyed wool and yarn. The palette should feel VIBRANT, LUMINOUS, WARM, PLAYFUL and FULL OF LIFE — never dull, gray, faded, washed-out or excessively desaturated. The dominant color family should consistently include: rich moss green; leafy olive green; warm forest green; fresh fern green; golden ochre; sunny mustard yellow; pumpkin orange; burnt orange; warm rust; terracotta; caramel brown; chestnut brown; warm beige; creamy off-white; soft sky blue; turquoise blue; dusty blue; occasional muted lavender or dusty pink accents. Use naturally dyed yarn as the material reference, but do NOT interpret "natural" as dull or desaturated. The yarn colors should have strong chromatic presence while still feeling physically believable as dyed wool. GREEN AND ORANGE should form two of the most recognizable recurring color families throughout the book. Use multiple neighboring shades of green simultaneously — moss, olive, fern, leafy green and warm forest green — to create lush environments with chromatic richness. Use pumpkin orange, burnt orange, rust, terracotta, ochre and mustard repeatedly as warm counterpoints throughout the composition. Include soft but clearly visible blues in water, sky and appropriate environmental details to provide freshness and separation from the warm earth tones. Use cream and warm beige as balancing neutral colors rather than allowing gray or brown to dominate the image. COLOR DISTRIBUTION RULE: Color should be distributed generously throughout the entire panorama. Do not allow the environment to become predominantly brown, gray, beige or dark green. Even historically muted environments should contain a lively mixture of warm greens, ochres, oranges, creams and selective blues adapted naturally to the setting. Distribute warm orange-family colors throughout BOTH halves of the panorama and across foreground, middle ground and background. Regularly repeat: pumpkin orange; burnt orange; rust; terracotta; ochre; mustard; warm golden brown. Integrate these hues naturally into scene-appropriate objects, architecture, clothing, vegetation, animals, food, pottery, roofs, wood, soil, flowers, fire, decorations and other environmental details. No isolated small object should become visually dominant simply because it contains the only vivid orange, green or other distinctive hue in the scene. ACCENT REPETITION RULE: Whenever a noticeable color appears, echo that color family in several other small and medium details across the panorama. For example, a bright orange detail should be visually echoed through pumpkin, rust, terracotta, ochre or mustard elsewhere. A fresh green detail should be echoed through moss, olive, fern or forest green elsewhere. These repetitions should use neighboring shades rather than exact identical colors, creating a rich and organic chromatic rhythm. The goal is not low color contrast. The goal is CONTROLLED, HARMONIOUS COLOR RICHNESS. Allow clear differences between greens, oranges, yellows, blues, creams and browns while preventing any single small element from becoming uniquely conspicuous. Use texture, shape, overlap, scale and repeated color families together to create visual camouflage within the search-and-find composition. STRIPED PATTERN RULE: When striped patterns naturally and historically belong in the environment, preferentially use alternating CREAM OR OFF-WHITE and GREEN stripes. The green should be clearly recognizable while remaining compatible with the yarn palette, using tones such as: leafy green; moss green; olive green; warm forest green. These stripes may appear occasionally on contextually appropriate secondary textile elements such as market awnings, canopies, tents, curtains, blankets, clothing, sails, cushions, rugs, banners or similar objects. Distribute only a few instances across different parts of the panorama. Do not make cream-and-green stripes a dominant decorative motif or focal point. Avoid conspicuous competing striped combinations, especially saturated red-and-white, orange-and-white, vivid blue-and-white, yellow-and-black or multicolor rainbow stripes. COLOR AND LIGHT RELATIONSHIP: Lighting should enhance the richness of the yarn colors rather than mute them. Use warm golden miniature-set illumination that makes oranges, ochres, creams and greens glow softly while preserving colorful blues and cooler accents. Maintain good exposure and luminous midtones. Avoid dark cinematic grading, gray atmospheric casts, muddy shadows, excessive sepia treatment, faded vintage grading or heavy desaturation. Shadows may be warm and dimensional, but they should not drain color from the textile materials. The overall color impression should feel like a joyful handcrafted miniature world made from shelves of richly colored yarn: warm, lush, colorful, luminous, tactile, playful, harmonious, and visually abundant. SEARCH-AND-FIND VISUAL DENSITY: Do NOT interpret search-and-find as a requirement to fill every part of the image with objects, characters, buildings, or simultaneous activities. The scene may range from SIMPLE to MODERATELY COMPLEX depending on the historical setting and environment. OBJECT DENSITY and VISUAL DENSITY are different. Object density may vary. Textile visual density must remain consistently rich. Much of the visual complexity should come from the handcrafted material itself: clearly visible crochet stitches; chunky yarn loops; rows of stitches; knots; seams; braided fibers; fuzzy wool; layered crochet surfaces; variations in stitch direction; stuffed textile volume; overlapping textile pieces; subtle handmade irregularities; color variation between neighboring yarn pieces. A relatively simple landscape can still provide rich visual exploration when every mountain, tree, rock, cloud, river, building and ground surface contains clearly readable handcrafted textile construction. Favor MATERIAL COMPLEXITY over OBJECT QUANTITY. Do not add unnecessary characters, props, architecture, vegetation, or micro-events merely to make the scene appear more complex. Every object that is included should have enough visual space to preserve: recognizable form; clear crochet construction; visible stitches; readable silhouette; convincing physical textile material. If increasing the number of objects causes textile construction to become unclear, reduce the number of objects. If background complexity causes objects to lose their crochet identity, simplify the background. Material readability has higher priority than object density. Compose as a very wide horizontal approximately 2:1 panoramic DOUBLE-PAGE SPREAD for a professionally printed children's search-and-find book. Distribute visual interest from the far left edge to the far right edge and balance visual density between both pages. Treat the exact vertical center as the physical book gutter. Do not place important faces, complete small figures, essential objects or critical visual discoveries directly across the center seam. Broad terrain, sky, water, vegetation, walls and distant environmental scenery may cross it. Keep important details inside safe areas while allowing non-essential environmental textures to extend beyond the outer edges for print bleed. Maximum available resolution, extremely high environmental detail, sharp readable micro-details, clearly visible crochet stitches and individual yarn fibers, convincing physical handmade construction, strong spatial depth, consistent miniature-set lighting and professional print-quality clarity. No text, letters, numbers, captions, titles, logos, watermarks, legible signage, decorative borders, frames or interface elements. MATERIAL PRIORITY RULE: if any element could plausibly be mistaken for its real-world material, make its crochet and yarn construction more obvious. If realism competes with visible textile construction, choose visible textile construction. If cinematic lighting obscures the stitches, choose visible stitches. If fine detail hides the yarn, choose thicker yarn and larger readable loops. The desired result is NOT a realistic environment rendered with crochet textures. The desired result IS a real physical miniature environment actually built by hand from chunky crochet and yarn, then professionally photographed.
+Create a real, physical miniature crochet diorama, handcrafted piece by piece from chunky yarn and professionally photographed. At least 90% of everything visible should be unmistakably crochet or yarn. Use oversized, readable stitches at this miniature scale: visible loops, strands, stitch rows, knots, seams, joins, stuffed shapes, fuzzy fibers and slight handmade irregularities, even in distant scenery. Knitting, felt, embroidery, braiding and weaving may support the crochet, but should remain secondary.Translate every real-world material into a clearly handmade textile equivalent. Make water from layered blue and turquoise yarn, waves and loops; stone and mountains from stuffed crochet and thick wool; soil and sand from dense ochre, beige and brown stitches; wood from brown yarn and directional stitches; vegetation from individual crocheted pieces; clouds from fluffy wool; smoke, steam and mist from loose fibers; fire from layered orange, rust, mustard, yellow and cream yarn; and metal from tightly woven or embroidered fibers.
+WATER IS CRITICAL: whenever water appears — rivers, canals, streams, lakes, fountains, ponds or puddles — it must be built from layered blue and turquoise yarn strands with visible crocheted waves and loops. Never render water as a realistic glassy, reflective, cascading or photoreal surface. Water should read as thick knotted blue yarn, unmistakably handmade at every distance and scale, with individual stitches visible.
+People, animals and creatures should look like handmade textile figures, generally with charming amigurumi construction. Express skin, hair, fur, feathers, scales, horns, claws and clothing through yarn, crochet, embroidery, felt and layered fabric. Photographic realism applies to the camera, lighting and physical depth only. Avoid realistic non-textile materials, glossy CGI, plastic, smooth digital surfaces and generic 3D rendering.
+Use a vibrant, luminous, warm and playful palette inspired by richly dyed wool. Greens and oranges should be recurring color families throughout the book. Combine moss, olive, leafy, fern and warm forest greens with golden ochre, mustard, pumpkin orange, burnt orange, rust, terracotta, caramel and chestnut brown. Add warm beige and creamy off-white for balance, soft sky, turquoise and dusty blues where appropriate, and occasional muted lavender or dusty pink accents. Keep the yarn colors strong yet physically believable.
+Spread color generously across both halves of the panorama and through the foreground, middle ground and background. Avoid an overall brown, gray, beige or dark-green appearance, even in historically muted settings. Echo any noticeable accent in several other small or medium details using related shades, so no single small object becomes conspicuous solely because of its color. Use these hues naturally in objects suited to the setting, such as clothing, architecture, vegetation, food, pottery, roofs, wood, soil, flowers and decorations. Preserve clear differences between color families while keeping the whole composition harmonious.
+Where stripes suit the setting, use a few secondary textile elements with alternating cream or off-white and recognizable green stripes, such as awnings, tents, blankets, sails or clothing. Scatter these sparingly rather than making them a focal motif. Avoid conspicuous competing stripes, particularly saturated red-and-white, orange-and-white, vivid blue-and-white, yellow-and-black or rainbow combinations.
+Light the miniature set with a warm golden glow, luminous midtones and enough exposure to reveal the stitches. Preserve the richness of the greens, oranges, creams and blues. Avoid muddy shadows, gray casts, heavy sepia, dark cinematic grading and desaturation.
+Make this a children's search-and-find image with rich textile detail and a moderately crowded composition. Follow the scene layer's specified density, preserving readable silhouettes and unmistakable crochet construction even in the busiest areas. Build visual interest through a combination of meaningful scene content, stitch direction, layered crochet, stuffed volume, overlapping pieces, yarn texture and neighboring color variations. Textile texture should enrich the search experience without replacing recognizable objects, spatial layers and opportunities for partial concealment.
+Give every included object a recognizable shape, readable silhouette and visible handmade construction. If added objects or background detail obscure the crochet, simplify their construction or adjust their spacing while retaining the scene's intended density and opportunities for searching. Use texture, shape, overlap, scale and repeated color families to make discoveries rewarding without sacrificing clarity.
+Compose an approximately 2:1, very wide horizontal panorama for a professionally printed double-page spread. Balance visual interest from left to right and create several distributed points of interest. Preserve enough small and medium forms across both pages to support visual searching. Avoid letting a few oversized foreground figures or broad uninterrupted surfaces consume most of the usable search area.
+Build a continuous, layered environment with naturally overlapping forms and varied spatial pockets. Include plausible places where a small recurring character could later be integrated among existing scenery, without adding that character or reserving conspicuous empty spaces. Distribute these opportunities across both halves and at several depths, including the inner portions of each page. Maintain some calmer areas between active clusters while keeping both pages richly explorable.
+Treat the exact vertical center as the book gutter, with the restriction confined to a narrow seam rather than a broad central zone. Important faces, small figures, essential objects and discoveries must stay clear of that seam. Continue the environment naturally across it with broad, nonessential forms appropriate to the scene, such as overlapping vegetation, terrain, rocks, walls, water or distant scenery. Keep visual layering and environmental detail close to the seam on both sides.
+Do not interpret gutter safety as a request for empty space. Do not create a blank strip, a wide central clearing, an open corridor, a river or a road merely to separate the two pages. When rivers, roads or other open features belong to the scene, integrate them into the overall composition without automatically centering or widening them along the gutter. Avoid arranging all searchable content along the outer edges around a largely open middle.
+Keep important details within safe print areas and allow only nonessential scenery to extend into the outer bleed. Aim for maximum available resolution, sharp readable details, visible individual fibers, convincing physical depth and consistent miniature-set lighting.
+Include no text, letters, numbers, captions, titles, logos, watermarks, legible signs, borders, frames or interface elements. Whenever realism, fine detail or lighting makes an element look less handmade, prioritize larger visible crochet stitches and unmistakable yarn construction.
+If the scene includes a sky, construct it as a continuous, vivid azure-blue crocheted backdrop. Cover the entire visible sky with closely packed, individually readable stitch rows, creating a subtly uneven handmade texture rather than a smooth color field. Scatter small and medium puffy clouds across it, each built from overlapping, rounded crochet pieces in creamy white and warm ivory, with visible loops and soft wool fibers. If a sun fits the scene, make it a raised golden-yellow crocheted disk with concentric stitch rounds.
+Keep the sky bright, clear and distinctly blue, with gentle variation between neighboring blue yarns. The sky and even the most distant clouds must look like tangible textile pieces photographed as part of the miniature set. Keep the visible sky proportion appropriate to the scene, preserving ample space for the searchable environment. Avoid painted skies, photographic clouds, smooth gradients and digitally generated atmospheric effects.
 ```
 
 ## Modelo y parámetros
@@ -58,6 +74,269 @@ REAL PHYSICAL MINIATURE CROCHET DIORAMA, handcrafted almost entirely from chunky
 ## Regla de variación
 
 Cada pieza usa una **Capa 1 distinta** (la época/escena). Aunque la época cambie, el bloque madre queda idéntico. Densidad visual rica SIEMPRE vía el material textil (puntadas, madejas, costuras) — la densidad de objetos puede variar. Cuando aparezcan rayas, usar crema + verde como patrón preferido; las demás combinaciones de rayas quedan evitadas.
+
+## Flujo de generación (2 pasos)
+
+La generación se hace en dos pasos. El Paso 1 produce la Capa 1; el Paso 2 une Capa 1 + bloque madre. Nunca se pega el bloque madre solo, ni la Capa 1 sola.
+
+### Paso 1 — Desarrollar la escena (Capa 1)
+
+Pedir al modelo que desarrolle la época en una VARIABLE SCENE LAYER, con este prompt y `X` reemplazado por la época:
+
+```
+You are an expert art director designing environments for a children's search-and-find book about traveling through different historical periods and worlds.
+
+Your task is to DEVELOP a short SCENE provided by the user into the VARIABLE SCENE LAYER of a text-to-image prompt.
+
+
+You are responsible ONLY for determining WHAT exists in the scene and WHAT is happening.
+
+
+The project's material technique, visual aesthetic, color palette, photographic treatment, image format and production rules are defined separately in a fixed MASTER STYLE BLOCK.
+
+
+Do not describe or rewrite those characteristics.
+
+
+The user may provide something as simple as:
+
+
+SCENE: Prehistory
+SCENE: Mesozoic Era
+SCENE: Ancient Egypt
+SCENE: Middle Ages
+SCENE: Industrial Revolution
+
+
+Develop the requested setting into a visually recognizable environment.
+
+
+Determine scene-appropriate:
+
+
+- location and landscape;
+- architecture;
+- vegetation;
+- inhabitants;
+- animals or creatures;
+- clothing;
+- tools;
+- transportation;
+- everyday objects;
+- occupations;
+- environmental details;
+- a limited number of meaningful interactions.
+
+
+Favor characteristic everyday life and environmental storytelling over static or museum-like representation.
+
+
+The historical period or world should be recognizable through its environment rather than through text or labels.
+
+
+
+
+SCENE COMPLEXITY:
+
+
+Determine an appropriate level of OBJECT DENSITY for each requested environment.
+
+
+Do NOT automatically make every scene extremely crowded.
+
+
+Object density and visual richness are not the same thing.
+
+
+Choose naturally between:
+
+
+LOW OBJECT DENSITY:
+Broad environments, relatively few characters and objects, large readable environmental forms and generous spatial separation.
+
+
+MEDIUM OBJECT DENSITY:
+A balanced number of characters, objects and activities, with multiple areas to explore while maintaining clearly readable individual forms.
+
+
+HIGH OBJECT DENSITY:
+Use only when the environment naturally justifies abundant activity, such as markets, festivals, ports, ceremonies or busy urban streets.
+
+
+Never choose high density simply because this is a search-and-find book.
+
+
+When in doubt, prefer LOW or MEDIUM object density.
+
+
+
+
+SEARCH-AND-FIND LOGIC:
+
+
+Create visual exploration without requiring extreme object quantity.
+
+
+Include a LIMITED number of meaningful micro-stories appropriate to the setting.
+
+
+Prefer a few clearly readable interactions over dozens of tiny activities.
+
+
+Micro-stories should enrich the environment, not dominate it.
+
+
+Not every area needs a character, animal, object or activity.
+
+
+Quiet areas are allowed and desirable.
+
+
+Large environmental features such as mountains, rivers, vegetation, architecture, terrain, clouds, fields, walls or geological formations may occupy significant portions of the panorama.
+
+
+Create opportunities for visual searching through:
+
+
+- spatial layering;
+- overlapping forms;
+- environmental features;
+- partially obscured areas;
+- repeated shapes;
+- pathways;
+- entrances;
+- vegetation;
+- architectural details;
+- selected small objects;
+- natural visual pockets.
+
+
+Do not intentionally create obvious empty hiding spots.
+
+
+Distribute meaningful visual information across the panorama, but do not force equal object density into every area.
+
+
+Some areas may be active while others remain calmer.
+
+
+
+
+COMPOSITIONAL CONTENT:
+
+
+Develop a clear foreground, middle ground and background.
+
+
+Distribute the main environmental information across the left and right sides of the panorama.
+
+
+Avoid one oversized central protagonist or one dominant central event.
+
+
+The scene should feel like a coherent place rather than a collage of unrelated activities.
+
+
+Allow important environmental forms enough visual space to remain recognizable.
+
+
+Do not overload the scene with tiny props merely to increase complexity.
+
+
+SEARCHABLE ENVIRONMENT:
+Create numerous plausible places where a small recurring character could later be integrated into the environment, without adding the character or reserving an obvious empty space for it.
+Distribute these opportunities across both halves of the panorama and at several spatial depths. Use clusters of vegetation, rocks, roots, trunks, architectural openings, everyday objects and groups of inhabitants, as appropriate to the setting.
+Include varied partial overlaps and sheltered spaces among recognizable forms. These should arise naturally from the environment rather than appear as deliberately prepared hiding spots.
+Keep enough small and medium environmental forms throughout the scene to support searching. Avoid allowing oversized inhabitants or uninterrupted expanses of sky, water, bare ground or flat walls to consume most of the usable search area.
+Preserve broad landscape features, but vary their edges and integrate appropriate islands, banks, vegetation, outcrops, crossings or other secondary forms where plausible.
+Avoid consistently funneling open space toward the center. Let environmental clusters extend into the inner portions of both halves, creating a continuous, layered place rather than two populated edges separated by a wide empty corridor.
+
+
+HISTORICAL AND SCIENTIFIC ACCURACY:
+
+
+Preserve recognizable historical, cultural, environmental or scientific foundations.
+
+
+Avoid obvious anachronisms.
+
+
+Do not introduce technologies, architecture, clothing, transportation, species or cultural objects that clearly contradict the requested setting.
+
+
+When historical or scientific details are uncertain, prefer broadly defensible visual information rather than speculative precision.
+
+
+
+
+IMPORTANT SEPARATION OF RESPONSIBILITIES:
+
+
+The VARIABLE SCENE LAYER describes CONTENT ONLY.
+
+
+Do NOT describe:
+
+
+- crochet;
+- yarn;
+- knitting;
+- textile materials;
+- artistic technique;
+- color palette;
+- photographic style;
+- lighting style;
+- camera;
+- depth of field;
+- aspect ratio;
+- resolution;
+- printing;
+- book gutter;
+- visual references;
+- image transformation or editing.
+
+
+These belong exclusively to the fixed MASTER STYLE BLOCK and GENERATION COMMAND.
+
+
+
+
+OUTPUT:
+
+
+Return ONLY the finished VARIABLE SCENE LAYER.
+
+
+Write it as a coherent image-generation description.
+
+
+Do not add headings.
+Do not explain your decisions.
+Do not provide alternatives.
+Do not generate an image.
+
+
+Scene: X (la escena deseada)
+```
+
+La respuesta del modelo es únicamente la Capa 1: describe contenido, nunca material, paleta, luz ni formato.
+
+### Paso 2 — Generar la imagen
+
+Concatenar en un solo mensaje, en este orden:
+
+```
+[Capa 1 devuelta por el Paso 1] + [bloque madre, copiado sin modificar]
+```
+
+Pedir: "Generá esta imagen".
+
+### Reglas del flujo
+
+- El Paso 1 se repite una vez por escena (8 veces en total).
+- El bloque madre jamás se reescribe, se resume ni se adapta.
+- Si la densidad o la escena no funcionan, se corrige la Capa 1 y se repite el Paso 2. Nunca se toca el bloque madre.
+- Las imágenes originales de las 8 escenas quedan en `imagenes/` de esta carpeta.
 
 ## Restricciones (límites duros del sistema)
 

@@ -2,7 +2,7 @@
 
 Grupo 09 · Fecha: 11/09/2026
 
-Producto de la skill `familia_monstrix` (ver `grupo_09/clase_03/familia_monstrix/monstrix/SKILL.md`).
+Producto de la skill `familia_monstrix` (ver `grupo_09/parcial/identidad-familia-monstrix/SKILL.md`).
 
 ## 1. Historia / narrativa
 
@@ -26,7 +26,8 @@ Elemento oculto: NODI es el personaje buscable en las 8 escenas. Cada escena agr
 
 NODI (protagonista, hijo del medio, 12 años).
 Ficha completa en la skill: tercer ojo centrado y elevado (ojos blancos con pupila negra), pelo celeste hielo #91d3eb en todo el cuerpo, boca sonriente con colmillos solo bajo la línea, regordete sin cuello; bufanda roja y orejeras rojas peludas; tabla de expresiones con gestos.
-Pendiente: canon a color en `assets/nodi_canon.png`.
+Pendiente: el canon a color de NODI está en `monstrix/assets/nodi_v2.jpeg`
+(v2 es la versión correcta; v1 quedó descartada).
 
 ## 4. Marca: escalabilidad
 

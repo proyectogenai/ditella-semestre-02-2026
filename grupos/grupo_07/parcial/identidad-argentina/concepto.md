@@ -79,10 +79,10 @@ en una imagen chica y a través de 8 escenas)*
 
 1. **Silueta:** personaje infantil, curioso y simpático, de estética
    artesanal y aspecto de plastilina (figura suave y redondeada).
-2. **Color:** piel cálida, pelo oscuro y grandes ojos expresivos; siempre el
-   gorro rojo con pompón.
-3. **Objeto:** el gorro rojo con pompón, fijo en todas las escenas (la ropa
-   varía, el gorro nunca).
+2. **Color:** piel cálida, pelo oscuro y grandes ojos expresivos; textura a la
+   vista de plastilina.
+3. **Objeto:** su mochila siempre esta presente, fijo en todas las escenas (la
+   ropa varía, la mochila nunca).
 
 > **Descripción del personaje (para la skill):** personaje infantil, curioso
 > y simpático, de estética artesanal y aspecto de plastilina. Piel cálida,

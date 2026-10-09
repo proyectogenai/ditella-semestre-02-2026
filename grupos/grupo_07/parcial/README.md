@@ -32,7 +32,7 @@ escena**, e imágenes de referencia.
 - **Modelo:** ChatGPT (generación de imagen).
 
 El detalle completo del sistema está en
-[`identidad-argentina/SKILL.md`](./identidad-argentina/SKILL.md).
+[`identidad-mateo/SKILL.md`](./identidad-mateo/SKILL.md).
 
 ## Las nueve escenas
 
@@ -53,18 +53,19 @@ parcial/
 ├── README.md                          ← este archivo
 ├── G7_Editorial.pdf                   ← artes finales del libro (imprenta)
 ├── G7_Pieza_extra.pdf                 ← pieza extra del proyecto
-├── identidad-argentina/
-│   ├── SKILL.md                       ← la skill que produce el sistema
+├── identidad-mateo/
+│   ├── SKILL.md                       ← la skill: prompt madre + flujo + prompts por escena
 │   └── concepto.md                    ← concepto, universo y elemento oculto
 └── imagenes/
-    ├── misiones.pdf … (las 9 escenas, una por archivo)
-    ├── personaje-mateo.png            ← el elemento oculto
-    └── personaje-mateo-por-escena.png ← Mateo con la ropa de cada lugar
+    ├── escenas/                       ← las 9 escenas, una por archivo (PDF)
+    └── Mateo/
+        ├── personaje-mateo.png            ← el elemento oculto
+        └── personaje-mateo-por-escena.png ← Mateo con la ropa de cada lugar
 ```
 
 ## La skill
 
-La skill vive en [`identidad-argentina/SKILL.md`](./identidad-argentina/SKILL.md).
+La skill vive en [`identidad-mateo/SKILL.md`](./identidad-mateo/SKILL.md).
 Está en proceso: el equipo la actualiza antes de la entrega. Una vez lista, se
 instala en el agente (Claude Code u opencode), se indica **ChatGPT** como
 modelo y se le pide una escena nueva para que pertenezca al mismo universo.

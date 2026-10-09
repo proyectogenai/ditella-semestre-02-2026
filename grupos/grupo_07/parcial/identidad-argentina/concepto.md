@@ -34,18 +34,19 @@ Un libro educativo estilo "Buscando a Wally" que acerca Argentina a los
 chicos: cada escenario es un lugar emblemático del país en plena actividad,
 donde hay que descubrir personas, objetos y costumbres propias de ese lugar.
 
-**Si tuviéramos que mostrar 8 escenas distintas, ¿cuáles serían?** *(nombrá
+**Si tuviéramos que mostrar 9 escenas distintas, ¿cuáles serían?** *(nombrá
 al menos 4-5 lugares o situaciones — si no llegás, el concepto necesita más
 mundo)*
 
-1. Misiones — Cataratas del Iguazú
-2. Jujuy — Quebrada de Humahuaca
-3. Buenos Aires — Caminito (La Boca)
-4. Río Negro — Bariloche y el cerro Catedral
-5. Santa Cruz — los glaciares vistos desde un barco
-6. Santa Fe — Rosario, el monumento a la Bandera
-7. Tucumán — la casa histórica de Tucumán
+1. Jujuy — Quebrada de Humahuaca
+2. Misiones — Cataratas del Iguazú
+3. Tucumán — La casita histórica de Tucumán
+4. Santa Fe — Monumento a la bandera (Rosario)
+5. Buenos Aires — Caminito (La Boca)
+6. Mar del Plata (BSAS) — Playa Grande
+7. Río Negro — El Cerro Catedral (Bariloche)
 8. Chubut — Puerto Madryn / Península Valdés
+9. Santa Cruz — Los Glaciares (Perito Moreno)
 
 ---
 

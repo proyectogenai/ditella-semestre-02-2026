@@ -142,6 +142,18 @@ de la serie Peter NO se esconde. Aparece a la vista, como anfitrión de la
 reunión que conecta a todos los mundos anteriores — es el cierre
 narrativo, no otra ronda del juego de búsqueda.
 
+**Corrección posterior, manual (parte del sistema):** la IA no sabe
+esconder bien. Aun con las reglas de arriba, Peter suele salir repetido,
+demasiado grande o en primer plano, o rodeado de conejos casi idénticos a
+él. Por eso, después de generar la escena, el escondite se resuelve a
+mano (Photoshop o similar): se elimina el Peter que puso la IA, se vuelve
+a colocar la imagen de referencia con tamaño parecido al de los animales
+vecinos, fuera del centro y lejos del primer plano, y se ajusta caso por
+caso — cambiar el color de su ropa para que se integre al entorno, bajar
+el brillo para que no resalte, o eliminar personajes demasiado parecidos
+a él. La IA genera el mundo; dónde está Peter y qué tan difícil es
+encontrarlo lo decide una persona.
+
 ## Restricciones
 - Ningún personaje domina la composición; nunca hay un protagonista único
   evidente ni un foco central obvio.

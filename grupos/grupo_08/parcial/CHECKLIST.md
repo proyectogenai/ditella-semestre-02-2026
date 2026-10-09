@@ -10,40 +10,27 @@
 - [ ] Colofón crítico (máx 2 páginas): rol del diseñador, limitaciones, ¿qué NO delegamos a la IA y por qué?
 
 ## 2. Entregable: Skill
-- [x] `grupos/grupo_08/parcial/identidad-el-diario-de-mei/SKILL.md` existe
-- [x] `description` con qué hace y cuándo usarla
-- [x] Universo (qué es, dónde, luz, atmósfera, qué nunca es)
-- [x] Bloque de estilo con valores concretos (HEX, técnica, textura)
-- [x] Modelo y parámetros (ChatGPT Images, 16:9, sin seed, negativo embebido)
-- [x] Regla de variación (tabla + variables)
-- [x] Cómo se inserta el elemento oculto (ruta híbrida + placement)
-- [x] Restricciones + criterio de validación
+- [x] `identidad-el-diario-de-mei/SKILL.md` existe
+- [x] `description`, universo, bloque de estilo, modelo/params, variación, elemento oculto, restricciones
 
 ## 3. Entregable: Repo + Proceso
 ### En repo (`grupos/grupo_08/parcial/`)
-- [x] Commits con historial real (fecha, mensajes descriptivos)
-- [x] `README.md` del proyecto
-- [x] Imágenes originales: `imagenes/` + `imagenes/finales/` (8 escenas)
-- [ ] `PDF de artes finales` del libro (falta subir — cuando esté listo)
-- [x] `proceso.md` (documento de proceso) — prompts, decisiones, versiones, fallos/correcciones
-- [x] `prompts/escenas-finales.md` + `prompts/banco_de_prompts.md`
-- [x] `prompts/versiones/` (31 versiones intermedias)
+- [x] Commits con historial real
+- [x] `README.md`
+- [x] Imágenes originales (`imagenes/` + `imagenes/finales/`)
+- [x] `Eriksen-Laudano-LIBRO.pdf` (PDF de artes finales — comprimido)
+- [x] `Eriksen-Laudano-PROCESO.pdf` (PDF del documento de proceso)
+- [x] `proceso.md`, `proceso-resumen.md`
+- [x] `prompts/escenas-finales.md`, `prompts/banco_de_prompts.md`, `prompts/versiones/`
 
 ## 4. Requisitos técnicos
-- [x] Mei aparece exactamente 1 vez por escena
-- [x] Oclusión ≤ 40%, nunca tapada completamente
-- [x] 3 anclajes siempre legibles (buzo rosa, pantalón marfil, tote caramelo)
-- [x] Sin duplicados ("MEI IS THE ONLY COPY")
-- [x] Estilo editorial ilustrado 2D (sin fotorealismo, sin 3D)
-- [x] Formato 16:9 horizontal, edge-to-edge
-- [x] Densidad y múltiples capas de profundidad
-- [x] Sin textos legibles, logos, marcas de agua
+- [x] Mei 1 vez, oclusión ≤40%, 3 anclajes legibles, sin duplicados
+- [x] Estilo editorial ilustrado 2D, 16:9 horizontal, edge-to-edge, alta densidad
 
 ## 5. Pruebas (reproducibilidad)
-- [x] Novena escena (Jimbocho) probada — mantiene universo
-- [x] Probado con referencia `personaje-mei-final.png` adjunta (protocolo explícito)
-- [x] Ajuste "photorealism" aplicado (evita drift a foto)
+- [x] Novena escena (Jimbocho) probada
+- [x] Protocolo con referencia adjunta
 
 ## Estado general
-- Repo (sin PDF): **casi completo** 
-- Pendiente: PDF de artes finales + colofón crítico en el libro (impreso)
+- Repo: **completo**
+- Faltan solo detalles físicos: libro impreso + colofón crítico (que ya están en el PDF/impreso)

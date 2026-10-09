@@ -27,7 +27,7 @@ variable por escena**, e imágenes de referencia.
 
 - **Técnica:** plastilina / stop-motion (todo el mundo y los secundarios
   comparten la materialidad — referencia: Laika / Aardman).
-- **Paleta:** rojo, amarillo, verde y azul (misma paleta de la editorial).
+- **Paleta:** rojo, naranja, amarillo, celeste, azul, verde y violeta.
 - **Formato:** 16:9, doble página. Nada clave en el centro (el pliegue).
 - **Modelo:** ChatGPT (generación de imagen).
 

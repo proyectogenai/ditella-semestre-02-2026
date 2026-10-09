@@ -22,15 +22,15 @@ elementos característicos y propios de cada lugar. Se esconde con una
 
 **Las 9 escenas:**
 
-1. Misiones — Cataratas del Iguazú
-2. Jujuy — Quebrada de Humahuaca
-3. Buenos Aires — Caminito (La Boca)
-4. Río Negro — Bariloche y el cerro Catedral
-5. Santa Cruz — los glaciares vistos desde un barco
-6. Santa Fe — Rosario, monumento a la Bandera
-7. Tucumán — la casa histórica de Tucumán
+1. Jujuy — Quebrada de Humahuaca
+2. Misiones — Cataratas del Iguazú
+3. Tucumán — La casita histórica de Tucumán
+4. Santa Fe — Monumento a la bandera (Rosario)
+5. Buenos Aires — Caminito (La Boca)
+6. Mar del Plata (BSAS) — Playa Grande
+7. Río Negro — El Cerro Catedral (Bariloche)
 8. Chubut — Puerto Madryn / Península Valdés
-9. Buenos Aires — Mar del Plata, la playa Grande
+9. Santa Cruz — Los Glaciares (Perito Moreno)
 
 ## Bloque de estilo (va SIEMPRE, sin modificar)
 
@@ -67,23 +67,23 @@ reconocerse en una imagen chica a través de las 9 escenas.
 
 **Vestimenta por escena:**
 
-- **Puerto Madryn / Península Valdés (Chubut):** campera impermeable azul,
-  pantalón oscuro, botas y mochila — frío y viento.
-- **Cataratas del Iguazú (Misiones):** ropa de explorador, camisa, pantalón
-  corto, botas y mochila.
-- **Caminito (Buenos Aires):** look urbano y casual, buzo azul, pantalón
-  oscuro y zapatillas.
-- **Cerro Catedral (Bariloche):** ropa de ski, campera térmica, antiparras,
-  guantes, botas y esquíes.
-- **Playa Grande (Mar del Plata):** traje de baño, ojotas y tabla de surf.
 - **Quebrada de Humahuaca (Jujuy):** poncho tejido tradicional, pantalón
   oscuro y calzado cómodo.
-- **Glaciares (Santa Cruz):** abrigo de montaña, campera térmica, pantalón
-  impermeable, guantes y botas.
+- **Cataratas del Iguazú (Misiones):** ropa de explorador, camisa, pantalón
+  corto, botas y mochila.
 - **Tucumán:** atuendo gaucho: camisa, pañuelo al cuello, chaleco, pantalón
   oscuro y botas.
 - **Rosario (Santa Fe):** ropa de fútbol — remera de Argentina — en la
   multitud junto al monumento a la Bandera.
+- **Caminito (Buenos Aires):** look urbano y casual, buzo azul, pantalón
+  oscuro y zapatillas.
+- **Playa Grande (Mar del Plata):** traje de baño, ojotas y tabla de surf.
+- **Cerro Catedral (Bariloche):** ropa de ski, campera térmica, antiparras,
+  guantes, botas y esquíes.
+- **Puerto Madryn / Península Valdés (Chubut):** campera impermeable azul,
+  pantalón oscuro, botas y mochila — frío y viento.
+- **Glaciares (Santa Cruz):** abrigo de montaña, campera térmica, pantalón
+  impermeable, guantes y botas.
 
 ## Restricciones
 

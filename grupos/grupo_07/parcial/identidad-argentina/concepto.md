@@ -62,7 +62,7 @@ Porque el personaje "viaja" por toda la Argentina recorriendo y aprendiendo
 sobre nuestro país: es el hilo conductor de la exploración. Su ropa cambiante
 lo hace parte de cada lugar.
 
-**¿Qué hace en cada escena — observa, se esconde, interviene?**
+**¿Qué hace en cada escena? — observa, se esconde, intervien.**
 Se esconde (como en Wally), integrado en cada escena con ropa acorde al
 lugar. Puede estar participando de la actividad propia del escenario.
 

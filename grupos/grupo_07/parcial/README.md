@@ -34,16 +34,17 @@ escena**, e imágenes de referencia.
 El detalle completo del sistema está en
 [`identidad-argentina/SKILL.md`](./identidad-argentina/SKILL.md).
 
-## Las ocho escenas
+## Las nueve escenas
 
-1. Misiones — Cataratas del Iguazú
-2. Jujuy — Quebrada de Humahuaca
-3. Buenos Aires — Caminito (La Boca)
-4. Río Negro — Bariloche y el cerro Catedral
-5. Santa Cruz — los glaciares (Perito Moreno) desde un barco
-6. Santa Fe — Rosario, el monumento a la Bandera
-7. Tucumán — la casa histórica
+1. Jujuy — Quebrada de Humahuaca
+2. Misiones — Cataratas del Iguazú
+3. Tucumán — La casita histórica de Tucumán
+4. Santa Fe — Monumento a la bandera (Rosario)
+5. Buenos Aires — Caminito (La Boca)
+6. Mar del Plata (BSAS) — Playa Grande
+7. Río Negro — El Cerro Catedral (Bariloche)
 8. Chubut — Puerto Madryn / Península Valdés
+9. Santa Cruz — Los Glaciares (Perito Moreno)
 
 ## Contenido de esta carpeta
 
@@ -56,7 +57,7 @@ parcial/
 │   ├── SKILL.md                       ← la skill que produce el sistema
 │   └── concepto.md                    ← concepto, universo y elemento oculto
 └── imagenes/
-    ├── misiones.pdf … (las 8 escenas, una por archivo)
+    ├── misiones.pdf … (las 9 escenas, una por archivo)
     ├── personaje-mateo.png            ← el elemento oculto
     └── personaje-mateo-por-escena.png ← Mateo con la ropa de cada lugar
 ```

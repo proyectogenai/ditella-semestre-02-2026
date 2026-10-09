@@ -2,6 +2,12 @@
 
 **Entregable Clase 5** — Grupo 03 · Donna Liporace · Luca Fernández Ciatti
 
+> **Documento de la Clase 5 (4/9).** Es la primera versión del concepto y se
+> conserva como registro de proceso. Varias cosas cambiaron después: la
+> paleta dejó de estar congelada, el bloque madre se reescribió entero y el
+> Virus pasó a aparecer recién al final, en la app. El sistema vigente es el
+> de `SKILL.md`; el recorrido completo está en `../Pixelados_Proceso.pdf`.
+
 ---
 
 ## El concepto, en una oración

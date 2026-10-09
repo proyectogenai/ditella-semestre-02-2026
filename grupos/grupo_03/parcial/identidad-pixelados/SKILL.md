@@ -112,18 +112,24 @@ times across the scene,
 
 | | Valor |
 | --- | --- |
-| Escena lógica | 787 × 590 px (4:3) → recorte a 787 × 526 (3:2) |
-| Resolución de generación | 4K, sin reescalado posterior |
+| Relación de la escena | 4:3 generado → recorte a 3:2 |
+| Resolución de generación | la mayor que dé el modelo; sin reescalado posterior |
+| Composición de la página | varias generaciones empalmadas, no una sola imagen |
 | Pantalla en la doble página | 3:2, 40 × 26,7 cm |
 | Persona | 1/12 del alto de la imagen generada |
-| Bitsy | ~35 px lógicos |
-| Paleta | 24 colores por escena |
+| Bitsy | cuerpo base de 45 px |
+| Paleta | se piden 24 colores por escena |
 
 **La paleta es libre de tono pero no de comportamiento.** Cada mundo elige sus
-24 colores. Lo que se mantiene igual en las ocho páginas es el **rango de
-valor** (mismo negro más oscuro, mismo blanco más claro) y el **techo de
-saturación**. Dos mundos pueden no compartir un solo tono y leerse igual como
-el mismo libro; lo que los partiría es que uno salga pastel y el otro neón.
+colores. Lo que se mantiene igual en las ocho páginas es el **rango de valor**
+(mismo negro más oscuro, mismo blanco más claro) y el **techo de saturación**.
+Dos mundos pueden no compartir un solo tono y leerse igual como el mismo libro;
+lo que los partiría es que uno salga pastel y el otro neón.
+
+**Sobre los 24 colores.** El bloque madre los pide, pero el modelo casi nunca
+los respeta: devuelve cientos de miles. La cifra funciona como empujón hacia
+tintas planas y zonas de color definidas, no como número verificable. Está
+escrita igual porque el resultado con ella es distinto del resultado sin ella.
 
 Quedan fijos, porque los usan los personajes: el blanco de la camisa de Luca,
 el negro de la ropa de Donna, sus tonos de piel, y el blanco de Bitsy.
@@ -138,19 +144,20 @@ Pensada para **Gemini 3 Pro Image (Nano Banana Pro)**.
   y 5,5% abajo. La app no siempre ofrece 3:2, y 4:3 es la más cercana:
   el recorte cae donde el bloque ya declara que las estructuras siguen
   fuera del cuadro.
-- **Resolución:** 4K para escenas de imprenta.
+- **Resolución:** la máxima disponible. Cada página del libro se arma con
+  varias generaciones empalmadas, porque ninguna salida suelta alcanza la
+  densidad que pide una página de búsqueda a doble página.
 - **Referencias adjuntas.** No hay casilleros de slot en la app: se adjuntan las
   imágenes y se dice con palabras qué hacer con ellas. Antes del prompt va esta
   línea de operación:
 
   > The attached images are STYLE REFERENCES ONLY. Take from them the drawing
-  > style: soft internal shading with several tones per garment, no black
-  > outlines, realistic body proportions. Do NOT include these characters in
-  > the scene.
+  > style: soft internal shading with several tones per garment, realistic body
+  > proportions. Do NOT include these characters in the scene.
 
-  Para escenas: `referencias/luca.png` y `referencias/donna.png`, más la imagen
-  madre una vez que exista. De ellas se toma **el dibujo**, nunca los
-  personajes, que no se generan sino que se componen.
+  Para escenas: `referencias/imagen-madre.jpg`, que fija el dibujo del sistema.
+  De ella se toma **el modo de dibujar**, nunca los personajes: Luca y Donna no
+  se generan dentro de la escena.
 
   Para Bitsies: además `referencias/bitsy-base.png`. **Esta es la única
   referencia indispensable del sistema** — la silueta de Bitsy es un dibujo y no
@@ -170,8 +177,8 @@ alineación de grilla de 1,1 donde 1,0 es puro azar — es decir, ninguna. Los
 Eso no se corrige con palabras en el prompt: se corrige cuantizando después, y
 el grupo decidió no incorporar ese paso. Queda registrado como límite asumido,
 no como algo que se nos pasó. La consecuencia práctica es que el tamaño de píxel
-no es constante entre escenas, así que **hay que generar siempre en 4K**: es lo
-único que sostiene el detalle a tamaño de impresión.
+no es constante entre escenas, así que **hay que generar a la resolución más
+alta disponible**: es lo único que sostiene el detalle a tamaño de impresión.
 
 ---
 
@@ -196,8 +203,10 @@ central**, porque el doblez del libro pasa por el medio de la pantalla.
 
 ### Bitsy — el guía visible
 
-Aparece en cada escena, deja pistas desde el cuadro de diálogo, y lleva el
-disfraz del mundo que le toca. **Invariable:** la silueta (cabeza circular
+Abre cada mundo. En la página de presentación aparece solo, centrado, con el
+disfraz del mundo que le toca, y habla desde el cuadro de diálogo: cuenta dónde
+están, pide ayuda y deja los dos códigos. En la página de búsqueda no aparece —
+el lector lo tiene de su lado de la pantalla, no adentro de la escena. **Invariable:** la silueta (cabeza circular
 grande, cuerpo redondeado, brazos y piernas de línea fina), los dos ojos
 ovalados negros —que ningún disfraz tapa, ni máscara ni casco ni pelo— y la
 piel blanca asomando donde el disfraz no cubre.
@@ -225,11 +234,28 @@ Esa adaptación parcial es deliberada: si fueran completamente ajenos al mundo,
 el lector los encontraría barriendo la escena en busca de "lo raro", sin
 mirarlos. Los accesorios los devuelven al terreno de la observación.
 
-**No se generan nunca: se componen** desde `referencias/luca.png` y
-`referencias/donna.png`. Por eso el bloque madre pide que **la multitud se
-parezca a ellos** —sombreada, sin contorno negro, de proporciones realistas— y
-no al revés: el prompt no manda sobre los escondidos, manda sobre todo lo demás.
-Si la multitud lleva contorno y ellos no, se leen pegados encima.
+**Cómo entran a la escena.** Nunca dentro de la generación: pedirle al modelo
+que los insertara en una escena ya aprobada devolvía la página entera cambiada,
+con los colores corridos y la composición distinta. El sistema los trata en dos
+pasos.
+
+Primero se genera **una versión de cada uno por mundo**, aparte, con un prompt
+propio: se le adjunta la escena ya hecha y las fichas de `referencias/`, y se le
+pide que redibuje a Luca y a Donna *como si los hubiera dibujado el motor
+gráfico de ese mundo* —mismo tamaño de píxel, misma cantidad de tonos por
+superficie, mismo contorno o ausencia de contorno, mismas proporciones, misma
+luz—, con dos o tres accesorios de ese universo encima de la ropa base. Quedan
+guardados en `escondidos/`.
+
+Después se **componen a mano** sobre la escena: ahí se elige el lugar, la escala
+—1/12 del alto, igual que el resto de las figuras— y qué los tapa. Esa es la
+decisión de diseño, y es la que el modelo no puede tomar.
+
+La consistencia no la sostiene el dibujo, que cambia en cada mundo, sino **el
+color**: blanco arriba y negro abajo en Luca, negro de hombros a tobillos con
+zapatillas blancas en Donna. Por eso cada página de búsqueda incluye, en el
+ángulo inferior izquierdo, el recuadro con las dos versiones de ese mundo: es la
+referencia de búsqueda del lector.
 
 **Dónde nunca:** en la franja central del doblez, pegados al borde, ni sobre
 una masa de color plano donde queden obvios.
@@ -261,8 +287,9 @@ similares seguidos.
 4. **El monitor no se genera.** Se compone.
 5. **La tipografía no la genera la IA.** Títulos, folios, cartelas, cuadro de
    diálogo y colofón se componen en Figma con tipografías reales.
-6. **Toda escena se genera en 4K.** Es lo único que sostiene el detalle a
-   tamaño de impresión, dado que el píxel no está fijado por post-proceso.
+6. **Toda escena se genera a la resolución más alta disponible.** Es lo único
+   que sostiene el detalle a tamaño de impresión, dado que el píxel no está
+   fijado por post-proceso.
 7. **Ninguna escena vacía ni ningún cuadrante muerto.** Si no hay dónde
    esconderse, se descarta.
 8. **Los mundos se describen, no se nombran.** El campo `mundo` va en términos
@@ -272,22 +299,20 @@ similares seguidos.
 
 ## Estado
 
-**Cerrado:** universo, bloque madre completo, densidad, formato de pantalla y
-reglas de los tres personajes.
+**Cerrado.** El sistema produjo las ocho páginas del libro, que se imprimió en
+octubre de 2026. Universo, bloque madre, densidad, formato, paleta, reglas de
+los tres personajes y método de composición del elemento oculto están fijados y
+documentados arriba.
 
-**Pendiente:**
+**Límites asumidos**, declarados donde corresponde y no pendientes de resolver:
 
-- La **imagen madre** definitiva. Las pruebas fueron: primero isométricas y
-  con figuras chicas (se sacó eBoy), después con el tamaño de figura correcto
-  pero con un dibujo incompatible con las fichas de Luca y Donna — multitud con
-  contorno negro contra personajes sin contorno. Se sacó Paul Robertson por
-  eso. Falta regenerar con las fichas adjuntas como referencia de dibujo.
-- El **punto de vista fijo** del sistema, que hoy no está declarado.
-- Los **cuatro mundos** que faltan para llegar a ocho.
-- Qué es **el virus** y qué forma gráfica tiene **la señal**.
-- Dónde va el **cuadro de diálogo** sin tapar zona de búsqueda, y cómo se
-  resuelve el **reflejo** sin bajar el contraste donde hay que buscar.
-- **Model sheet** de Luca y Donna en varias poses: hoy hay una sola vista
-  frontal, y ocho escenas con la misma pose se leen como calcomanías.
-- Re-normalizar los personajes a 56 px (están a 72) y re-exportar los Bitsies
-  sin pedestal ni cartela.
+- El modelo no devuelve pixel art con grilla real. Se decidió no cuantizar
+  después; el píxel se sostiene con resolución y con el prompt.
+- Los 24 colores se piden y casi nunca se cumplen. La regla queda porque
+  empuja el resultado, no porque se verifique.
+- Luca y Donna no se pueden insertar por prompt. Se generan aparte y se
+  componen a mano, como describe el campo 5.
+- Cada página se arma con varias generaciones, no con una sola.
+
+El proceso completo —las pruebas, lo que falló y cómo se corrigió— está en
+`../Pixelados_Proceso.pdf`.

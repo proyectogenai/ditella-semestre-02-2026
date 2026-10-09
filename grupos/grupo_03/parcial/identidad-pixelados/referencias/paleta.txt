@@ -1,50 +1,21 @@
-# Paleta del proyecto — pegar en SKILL.md
+# Pixelados — colores fijos del sistema
+#
+# La paleta NO está congelada: cada mundo elige sus propios colores. Lo que se
+# mantiene igual en las ocho páginas es el rango de valor y el techo de
+# saturación, no los tonos. Ver "La paleta es libre de tono pero no de
+# comportamiento" en el campo 2 de SKILL.md.
+#
+# Lo único fijo son estos, porque los usan los personajes y son lo que los
+# vuelve reconocibles de una página a la otra.
 
-00  #F9F9F9
-01  #EFEEF0
-02  #E6E6E9
-03  #E0DBD9
-04  #D6D7DE
-05  #D0CDD4
-06  #B9C4C0
-07  #EAAB83
-08  #B0AEB1
-09  #D2977C
-10  #9EA1A6
-11  #949092
-12  #689274
-13  #F27827
-14  #B27665
-15  #DE5E2D
-16  #BA5839
-17  #827A7F
-18  #835E78
-19  #62727D
-20  #606369
-21  #34726C
-22  #376171
-23  #54555E
-24  #2F546C
-25  #B03E23
-26  #C01E2A
-27  #793A35
-28  #7D1A2C
-29  #4A4657
-30  #46423E
-31  #4E2E3C
-32  #2D4571
-33  #324253
-34  #35373D
-35  #2F2F35
-36  #302D2A
-37  #2E2427
-38  #1C404E
-39  #1C344A
-40  #202A3D
-41  #122A3B
-42  #212224
-43  #152132
-44  #19181B
-45  #0E1624
-46  #0D0C12
-47  #020308
+# Luca
+#F2F2F0   camisa blanca
+#1A1A1C   pantalon negro
+
+# Donna
+#1A1A1C   campera, musculosa y jean negros
+#F2F2F0   zapatillas blancas
+
+# Bitsy
+#F9F9F9   piel
+#1A1A1C   ojos y contorno

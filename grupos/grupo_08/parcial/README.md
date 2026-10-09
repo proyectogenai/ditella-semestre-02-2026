@@ -32,6 +32,7 @@ parcial/
 ├── proceso.md                   ← desarrollo completo
 ├── proceso-resumen.md           ← resumen para PDF
 ├── Eriksen-Laudano-PROCESO.pdf  ← PDF del documento de proceso
+├── Eriksen-Laudano-LIBRO.pdf
 └── CHECKLIST.md
 ```
 

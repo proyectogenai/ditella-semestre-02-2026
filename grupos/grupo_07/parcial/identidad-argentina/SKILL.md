@@ -67,23 +67,24 @@ reconocerse en una imagen chica a través de las 9 escenas.
 
 **Vestimenta por escena:**
 
-- **Quebrada de Humahuaca (Jujuy):** poncho tejido tradicional, pantalón
-  oscuro y calzado cómodo.
-- **Cataratas del Iguazú (Misiones):** ropa de explorador, camisa, pantalón
-  corto, botas y mochila.
-- **Tucumán:** atuendo gaucho: camisa, pañuelo al cuello, chaleco, pantalón
-  oscuro y botas.
-- **Rosario (Santa Fe):** ropa de fútbol — remera de Argentina — en la
-  multitud junto al monumento a la Bandera.
-- **Caminito (Buenos Aires):** look urbano y casual, buzo azul, pantalón
-  oscuro y zapatillas.
-- **Playa Grande (Mar del Plata):** traje de baño, ojotas y tabla de surf.
-- **Cerro Catedral (Bariloche):** ropa de ski, campera térmica, antiparras,
-  guantes, botas y esquíes.
-- **Puerto Madryn / Península Valdés (Chubut):** campera impermeable azul,
-  pantalón oscuro, botas y mochila — frío y viento.
-- **Glaciares (Santa Cruz):** abrigo de montaña, campera térmica, pantalón
-  impermeable, guantes y botas.
+- **Jujuy – Quebrada de Humahuaca:** Poncho tradicional colorido, pantalón
+  beige y botas marrones.
+- **Misiones – Cataratas del Iguazú:** Piloto impermeable verde, shorts, botas
+  de trekking y binoculares.
+- **Tucumán – Casa Histórica:** Traje de época azul oscuro, camisa blanca y
+  escarapela argentina.
+- **Santa Fe – Monumento a la Bandera:** Camiseta de Argentina, shorts
+  deportivos y zapatillas.
+- **Buenos Aires – Caminito:** Buzo azul, pantalón cargo, zapatillas y cámara
+  fotográfica.
+- **Mar del Plata – Playa Grande:** Short de baño a rayas, ojotas y tabla de
+  surf.
+- **Río Negro – Cerro Catedral:** Campera de nieve azul, pantalón térmico,
+  antiparras y esquís.
+- **Chubut – Puerto Madryn:** Campera a rayas azules, pantalón abrigado,
+  bufanda y mochila.
+- **Santa Cruz – Glaciar Perito Moreno:** Campera de abrigo turquesa, pantalón
+  cargo, botas y binoculares.
 
 ## Restricciones
 

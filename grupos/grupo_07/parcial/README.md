@@ -9,19 +9,19 @@ Integrantes: Clementina Ogallar, Delfina García Lema, Martina Isla.
 ## De qué se trata
 
 Un **libro educativo infantil** con la lógica de "¿Dónde está Wally?" que
-acerca Argentina a los chicos de los últimos años de primaria y primeros de
-secundaria. Cada doble página es un lugar emblemático del país en plena
-actividad —una celebración, una temporada turística, una fiesta popular o una
-situación cotidiana— y hay que descubrir personas, objetos y costumbres
-propias de ese lugar.
+acerca Argentina a los chicos los años de primaria. Cada doble página es un
+lugar emblemático del país en plena actividad —una celebración, una temporada
+turística, una fiesta popular o una situación cotidiana— y hay muchas personas,
+objetos y costumbres propias de ese lugar.
 
-El **elemento oculto** es **Mateo**, un personaje infantil con un **gorro rojo
-con pompón** que aparece siempre, integrado a la escena y con la ropa adaptada
-a cada lugar: la identidad es fija, el vestuario cambia.
+El **elemento oculto** es **Mateo**, un personaje infantil que aparece
+siempre, integrado a la escena y con la ropa adaptada a cada lugar: la
+identidad es fija, el vestuario cambia.
 
-El universo se produce con una **skill** reproducible, para que cualquiera
-genere una escena nueva que pertenezca al mismo mundo. *(La skill está en
-proceso: se actualiza antes de la entrega.)*
+El universo se produce con una **skill madre** reproducible para cada escena,
+para que cualquiera genere una escena nueva que pertenezca al mismo mundo.
+Además de esa skill madre, para cada escena trabajamos con una **skill por
+escena**, e imágenes de referencia.
 
 ## El sistema visual
 

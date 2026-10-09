@@ -53,6 +53,7 @@ parcial/
 ├── README.md                          ← este archivo
 ├── G7_Editorial.pdf                   ← artes finales del libro (imprenta)
 ├── G7_Pieza_extra.pdf                 ← pieza extra del proyecto
+├── G7_Proceso.pdf                     ← documento de proceso
 ├── identidad-argentina/
 │   ├── SKILL.md                       ← la skill que produce el sistema
 │   └── concepto.md                    ← concepto, universo y elemento oculto

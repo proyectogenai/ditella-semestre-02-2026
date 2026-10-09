@@ -53,9 +53,9 @@ mundo)*
 ## D.2 — El elemento oculto
 
 **¿Quién es, o qué es?**
-Un personaje constante que aparece en las 8 escenas. Su **identidad es fija**
-(gorrito rojo) pero su **ropa cambia** según el lugar donde se encuentre (se
-viste "de cada escenario").
+Un personaje constante, llamado **Mateo**, que aparece en las **9 escenas**.
+Su **identidad es fija** pero su **ropa cambia** según el lugar donde se
+encuentre (se viste "de cada escenario").
 
 **¿Por qué pertenece a este universo y no a otro?**
 Porque el personaje "viaja" por Argentina con los chicos: es el hilo

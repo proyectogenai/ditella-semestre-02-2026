@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0D0C12">
+<title>Bitsy Battle · Pixelados</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+<div class="crt">
+  <div class="pantalla" id="app">
+
+    <!-- CARGANDO -->
+    <section class="vista activa" id="v-cargando">
+      <div class="centro">
+        <p class="terminal" id="cargando-txt">CARGANDO SEÑAL...</p>
+      </div>
+    </section>
+
+    <!-- INICIO -->
+    <section class="vista" id="v-inicio">
+      <header class="logo">
+        <p class="logo-chico">PIXELADOS PRESENTA</p>
+        <h1 class="logo-grande">BITSY<br>BATTLE</h1>
+      </header>
+      <div class="senal" aria-label="Señal recuperada">
+        <div class="senal-barra" id="senal-barra"></div>
+        <p class="senal-txt" id="senal-txt">SEÑAL 0/8</p>
+      </div>
+      <div class="guia">
+        <img class="sprite guia-sprite" src="assets/bitsies/bitsy_base.png" alt="Bitsy">
+        <p class="globo" id="guia-txt"></p>
+      </div>
+      <nav class="menu">
+        <button class="btn btn-primario" data-ir="mapa">CAMPAÑA</button>
+        <button class="btn" data-ir="ingresar">INGRESAR SEÑAL</button>
+        <button class="btn" data-ir="coleccion">COLECCIÓN</button>
+        <button class="btn" data-accion="rapida">BATALLA RÁPIDA</button>
+        <button class="btn btn-chico" data-ir="ajustes">AJUSTES</button>
+      </nav>
+    </section>
+
+    <!-- INGRESAR SEÑAL -->
+    <section class="vista" id="v-ingresar">
+      <div class="barra-titulo"><button class="volver" data-ir="inicio">◄</button><h2>INGRESAR SEÑAL</h2></div>
+      <div class="ventana">
+        <p class="terminal">C:\PIXELADOS&gt; ESCRIBÍ LOS 4 SÍMBOLOS QUE ESTÁN AL LADO DE LUCA Y DONNA_</p>
+        <div class="casilleros" id="casilleros">
+          <span></span><span></span><span></span><span></span>
+        </div>
+        <p class="mensaje" id="ingresar-msg">&nbsp;</p>
+      </div>
+      <div class="teclado" id="teclado"></div>
+      <div class="fila-btns">
+        <button class="btn" id="btn-borrar">BORRAR</button>
+        <button class="btn btn-primario" id="btn-ok">OK</button>
+      </div>
+      <div class="guia guia-chica">
+        <img class="sprite guia-sprite" src="assets/bitsies/bitsy_base.png" alt="">
+        <p class="globo" id="ingresar-pista">Cada página tiene su código.</p>
+      </div>
+    </section>
+
+    <!-- COLECCIÓN -->
+    <section class="vista" id="v-coleccion">
+      <div class="barra-titulo"><button class="volver" data-ir="inicio">◄</button><h2>COLECCIÓN</h2><span class="contador" id="col-contador"></span></div>
+      <div class="grilla" id="col-grilla"></div>
+    </section>
+
+    <!-- MAPA -->
+    <section class="vista" id="v-mapa">
+      <div class="barra-titulo"><button class="volver" data-ir="inicio">◄</button><h2>MAPA DE MUNDOS</h2></div>
+      <div class="mapa" id="mapa"></div>
+    </section>
+
+    <!-- EQUIPO -->
+    <section class="vista" id="v-equipo">
+      <div class="barra-titulo"><button class="volver" id="equipo-volver">◄</button><h2>ELEGIR EQUIPO</h2></div>
+      <p class="sub" id="equipo-rival-txt"></p>
+      <div class="slots" id="equipo-slots"></div>
+      <p class="sub">TOCÁ UN BITSY PARA SUMARLO. LA BASE SE PUEDE REPETIR.</p>
+      <div class="grilla grilla-equipo" id="equipo-grilla"></div>
+      <button class="btn btn-primario btn-ancho" id="btn-pelear" disabled>¡A PELEAR!</button>
+    </section>
+
+    <!-- BATALLA -->
+    <section class="vista" id="v-batalla">
+      <div class="cola" id="cola" aria-label="Cola de turnos"></div>
+      <div class="lienzo-caja"><canvas id="lienzo" width="192" height="208"></canvas></div>
+      <div class="panel">
+        <p class="log" id="log">&nbsp;</p>
+        <div class="actor" id="actor"></div>
+        <div class="movs" id="movs"></div>
+      </div>
+    </section>
+
+    <!-- RESULTADO -->
+    <section class="vista" id="v-resultado">
+      <div class="centro">
+        <h2 class="resultado-titulo" id="res-titulo">VICTORIA</h2>
+        <div class="senal"><div class="senal-barra" id="res-barra"></div><p class="senal-txt" id="res-senal"></p></div>
+        <div class="guia"><img class="sprite guia-sprite" src="assets/bitsies/bitsy_base.png" alt=""><p class="globo" id="res-txt"></p></div>
+        <div class="menu">
+          <button class="btn btn-primario" id="res-seguir">CONTINUAR</button>
+          <button class="btn" id="res-reintentar">REINTENTAR</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- SALIDA -->
+    <section class="vista" id="v-salida">
+      <div class="centro">
+        <h2 class="resultado-titulo glitch-txt" id="salida-titulo">SALIDA DESBLOQUEADA</h2>
+        <div class="salida-escena">
+          <img class="sprite sprite-persona" src="assets/personajes/luca.png" alt="Luca">
+          <img class="sprite" src="assets/bitsies/bitsy_base.png" alt="Bitsy">
+          <img class="sprite sprite-persona" src="assets/personajes/donna.png" alt="Donna">
+        </div>
+        <p class="globo" id="salida-txt"></p>
+        <p class="creditos" id="salida-creditos"></p>
+        <button class="btn btn-primario" data-ir="inicio">VOLVER AL INICIO</button>
+      </div>
+    </section>
+
+    <!-- AJUSTES -->
+    <section class="vista" id="v-ajustes">
+      <div class="barra-titulo"><button class="volver" data-ir="inicio">◄</button><h2>AJUSTES</h2></div>
+      <div class="ventana">
+        <div class="menu">
+          <button class="btn" id="btn-sonido">SONIDO: SÍ</button>
+          <button class="btn btn-peligro" id="btn-borrar-partida">BORRAR PARTIDA</button>
+        </div>
+        <p class="mensaje" id="ajustes-msg">&nbsp;</p>
+        <p class="creditos" id="ajustes-creditos"></p>
+      </div>
+    </section>
+
+    <!-- FICHA (modal) -->
+    <div class="modal" id="modal" hidden>
+      <div class="ventana ficha" id="ficha"></div>
+    </div>
+
+  </div>
+  <button class="mute" id="mute" aria-label="Silenciar">♪</button>
+  <span class="monitor-marca" aria-hidden="true">PIXELADOS · PX-486</span>
+  <span class="monitor-led" aria-hidden="true"></span>
+  <span class="monitor-pie" aria-hidden="true"></span>
+</div>
+
+<script src="js/datos.js"></script>
+<script src="js/audio.js"></script>
+<script src="js/sprites.js"></script>
+<script src="js/batalla.js"></script>
+<script src="js/pantallas.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

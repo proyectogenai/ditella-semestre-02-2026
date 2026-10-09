@@ -1,0 +1,146 @@
+{
+  "_ayuda": "Cada Bitsy: stats (pv, atq, def, vel) y 3 movimientos. objetivo: rival | rivales | dos_rivales | aliado | aliados | propio. efectos: cura{pct} · veneno{turnos} · aturdir{turnos} · mod{stat, cambio} · esquiva · al_final · copiar. 'a' dice a quién va el efecto: objetivo (default) | propio | aliados.",
+  "bitsies": [
+    {
+      "id": "base",
+      "nombre": "Bitsy Base",
+      "rol": "Comodín",
+      "sprite": "assets/bitsies/bitsy_base.png",
+      "desbloqueo": "inicio",
+      "jugable": true,
+      "repetible": true,
+      "stats": { "pv": 90, "atq": 9, "def": 9, "vel": 9 },
+      "movimientos": [
+        { "id": "golpe_pixel", "nombre": "Golpe pixel", "desc": "Daño a un rival", "objetivo": "rival", "poder": 14 },
+        { "id": "reiniciar", "nombre": "Reiniciar", "desc": "Cura 20% a un aliado", "objetivo": "aliado", "efectos": [{ "tipo": "cura", "pct": 20 }] },
+        { "id": "copiar", "nombre": "Copiar", "desc": "Repite el último movimiento aliado", "objetivo": "propio", "efectos": [{ "tipo": "copiar" }] }
+      ]
+    },
+    {
+      "id": "mario",
+      "nombre": "Bitsy Mario",
+      "rol": "Atacante ágil",
+      "sprite": "assets/bitsies/bitsy_mario.png",
+      "desbloqueo": "mundo",
+      "jugable": true,
+      "stats": { "pv": 80, "atq": 12, "def": 7, "vel": 13 },
+      "movimientos": [
+        { "id": "salto", "nombre": "Salto", "desc": "Daño y esquiva el próximo golpe", "objetivo": "rival", "poder": 13, "efectos": [{ "tipo": "esquiva", "a": "propio" }] },
+        { "id": "bola_fuego", "nombre": "Bola de fuego", "desc": "Daño fuerte a un rival", "objetivo": "rival", "poder": 18 },
+        { "id": "hongo", "nombre": "Hongo", "desc": "Sube su propio ATQ", "objetivo": "propio", "efectos": [{ "tipo": "mod", "stat": "atq", "cambio": 1 }] }
+      ]
+    },
+    {
+      "id": "batman",
+      "nombre": "Bitsy Batman",
+      "rol": "Táctico",
+      "sprite": "assets/bitsies/bitsy_batman.png",
+      "desbloqueo": "mundo",
+      "jugable": true,
+      "stats": { "pv": 95, "atq": 11, "def": 11, "vel": 10 },
+      "movimientos": [
+        { "id": "batarang", "nombre": "Batarang", "desc": "Golpea a 2 rivales", "objetivo": "dos_rivales", "poder": 11 },
+        { "id": "sombra", "nombre": "Sombra", "desc": "Actúa último la próxima ronda y esquiva", "objetivo": "propio", "efectos": [{ "tipo": "al_final" }, { "tipo": "esquiva" }] },
+        { "id": "gadget", "nombre": "Gadget", "desc": "Daño y baja la DEF rival", "objetivo": "rival", "poder": 8, "efectos": [{ "tipo": "mod", "stat": "def", "cambio": -1 }] }
+      ]
+    },
+    {
+      "id": "dafne",
+      "nombre": "Bitsy Dafne",
+      "rol": "Control",
+      "sprite": "assets/bitsies/bitsy_dafne.png",
+      "desbloqueo": "mundo",
+      "jugable": true,
+      "stats": { "pv": 85, "atq": 8, "def": 10, "vel": 11 },
+      "movimientos": [
+        { "id": "trampa", "nombre": "Trampa", "desc": "Daño leve y aturde 1 turno", "objetivo": "rival", "poder": 7, "efectos": [{ "tipo": "aturdir", "turnos": 1 }] },
+        { "id": "una_pista", "nombre": "¡Una pista!", "desc": "Sube el ATQ de un aliado", "objetivo": "aliado", "efectos": [{ "tipo": "mod", "stat": "atq", "cambio": 1 }] },
+        { "id": "escape", "nombre": "Escape", "desc": "Esquiva y se cura 10%", "objetivo": "propio", "efectos": [{ "tipo": "esquiva" }, { "tipo": "cura", "pct": 10 }] }
+      ]
+    },
+    {
+      "id": "hello_kitty",
+      "nombre": "Bitsy Hello Kitty",
+      "rol": "Sanadora",
+      "sprite": "assets/bitsies/bitsy_hello_kitty.png",
+      "desbloqueo": "mundo",
+      "jugable": true,
+      "stats": { "pv": 90, "atq": 7, "def": 10, "vel": 10 },
+      "movimientos": [
+        { "id": "mono", "nombre": "Moño", "desc": "Cura 25% a un aliado", "objetivo": "aliado", "efectos": [{ "tipo": "cura", "pct": 25 }] },
+        { "id": "abrazo", "nombre": "Abrazo grupal", "desc": "Cura 10% a todo el equipo", "objetivo": "aliados", "efectos": [{ "tipo": "cura", "pct": 10 }] },
+        { "id": "golpe_tierno", "nombre": "Golpe tierno", "desc": "Daño y baja el ATQ rival", "objetivo": "rival", "poder": 10, "efectos": [{ "tipo": "mod", "stat": "atq", "cambio": -1 }] }
+      ]
+    },
+    {
+      "id": "lisa_simpson",
+      "nombre": "Bitsy Lisa Simpson",
+      "rol": "Estratega",
+      "sprite": "assets/bitsies/bitsy_lisa_simpson.png",
+      "desbloqueo": "mundo",
+      "jugable": true,
+      "stats": { "pv": 75, "atq": 10, "def": 8, "vel": 12 },
+      "movimientos": [
+        { "id": "saxofon", "nombre": "Saxofón", "desc": "Daño bajo a todos los rivales", "objetivo": "rivales", "poder": 8 },
+        { "id": "dato_correcto", "nombre": "Dato correcto", "desc": "Daño y baja la DEF rival", "objetivo": "rival", "poder": 9, "efectos": [{ "tipo": "mod", "stat": "def", "cambio": -1 }] },
+        { "id": "plan", "nombre": "Plan", "desc": "Sube la VEL de todo el equipo", "objetivo": "aliados", "efectos": [{ "tipo": "mod", "stat": "vel", "cambio": 1 }] }
+      ]
+    },
+    {
+      "id": "puca",
+      "nombre": "Bitsy Puca",
+      "rol": "Asalto",
+      "sprite": "assets/bitsies/bitsy_puca.png",
+      "desbloqueo": "mundo",
+      "jugable": true,
+      "stats": { "pv": 85, "atq": 13, "def": 8, "vel": 12 },
+      "movimientos": [
+        { "id": "persecucion", "nombre": "Persecución", "desc": "Golpea 2 veces", "objetivo": "rival", "poder": 9, "golpes": 2 },
+        { "id": "fideos", "nombre": "Fideos", "desc": "Se cura 15%", "objetivo": "propio", "efectos": [{ "tipo": "cura", "pct": 15 }] },
+        { "id": "beso_sorpresa", "nombre": "Beso sorpresa", "desc": "Daño leve y aturde 1 turno", "objetivo": "rival", "poder": 6, "efectos": [{ "tipo": "aturdir", "turnos": 1 }] }
+      ]
+    },
+    {
+      "id": "virus",
+      "nombre": "Bitsy Virus",
+      "rol": "Jefe · daño en área",
+      "sprite": "assets/bitsies/bitsy_virus.png",
+      "desbloqueo": "jefe",
+      "jugable": true,
+      "stats": { "pv": 140, "atq": 13, "def": 10, "vel": 8 },
+      "movimientos": [
+        { "id": "corromper", "nombre": "Corromper", "desc": "Daño a todos los rivales", "objetivo": "rivales", "poder": 9 },
+        { "id": "infectar", "nombre": "Infectar", "desc": "Daño y veneno por 3 turnos", "objetivo": "rival", "poder": 8, "efectos": [{ "tipo": "veneno", "turnos": 3 }] },
+        { "id": "pantallazo", "nombre": "Pantallazo azul", "desc": "Daño y aturde 1 turno", "objetivo": "rival", "poder": 8, "efectos": [{ "tipo": "aturdir", "turnos": 1 }] }
+      ]
+    },
+    {
+      "id": "fragmento",
+      "nombre": "Fragmento corrupto",
+      "rol": "Secuaz del Virus",
+      "sprite": "assets/bitsies/bitsy_base.png",
+      "desbloqueo": "nunca",
+      "jugable": false,
+      "stats": { "pv": 60, "atq": 8, "def": 7, "vel": 8 },
+      "movimientos": [
+        { "id": "mordisco", "nombre": "Mordisco de bits", "desc": "Daño a un rival", "objetivo": "rival", "poder": 12 },
+        { "id": "ruido", "nombre": "Ruido", "desc": "Daño leve y baja la DEF", "objetivo": "rival", "poder": 6, "efectos": [{ "tipo": "mod", "stat": "def", "cambio": -1 }] },
+        { "id": "parche", "nombre": "Parche", "desc": "Se cura 15%", "objetivo": "propio", "efectos": [{ "tipo": "cura", "pct": 15 }] }
+      ]
+    },
+    {
+      "id": "archivo",
+      "nombre": "Archivo corrupto",
+      "rol": "Guardián sin disfraz",
+      "sprite": "assets/bitsies/bitsy_base.png",
+      "desbloqueo": "nunca",
+      "jugable": false,
+      "stats": { "pv": 110, "atq": 11, "def": 10, "vel": 9 },
+      "movimientos": [
+        { "id": "sobrescribir", "nombre": "Sobrescribir", "desc": "Daño fuerte a un rival", "objetivo": "rival", "poder": 16 },
+        { "id": "interferencia", "nombre": "Interferencia", "desc": "Daño bajo a todos", "objetivo": "rivales", "poder": 7 },
+        { "id": "autoreparar", "nombre": "Autoreparar", "desc": "Se cura 15%", "objetivo": "propio", "efectos": [{ "tipo": "cura", "pct": 15 }] }
+      ]
+    }
+  ]
+}

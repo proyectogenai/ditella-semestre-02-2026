@@ -1,0 +1,27 @@
+{
+  "titulo": "Bitsy Battle",
+  "subtitulo": "Una app de Pixelados",
+  "inicio_bitsy": [
+    "Hola. Soy Bitsy. Luca y Donna siguen adentro de la máquina.",
+    "Cada página que resolvés en la revista me da un disfraz nuevo.",
+    "El Virus está corrompiendo los mundos. Necesito un equipo de cuatro.",
+    "Si encontrás a Luca y Donna, mirá bien: al lado hay cuatro símbolos."
+  ],
+  "pistas_error": [
+    "Ese código no existe. Buscá los cuatro símbolos pegados a Luca y Donna, no en el margen.",
+    "Error de lectura. ¿Copiaste los símbolos de izquierda a derecha?",
+    "Mmm, no. Probá mirar la escena de nuevo: Luca tiene camisa blanca, es lo primero que salta.",
+    "Señal inválida. Donna lleva capucha negra con cordones plateados: buscá eso."
+  ],
+  "error_codigo": "ERROR 0x0{n}: SEÑAL INVÁLIDA",
+  "codigo_repetido": "ESA SEÑAL YA FUE RECUPERADA",
+  "mundo_sin_variante": "Recuperaste la señal de este mundo. Todavía no tengo disfraz para acá, pero ya podés pelear su batalla.",
+  "maestro": "MODO DEMO: TODA LA SEÑAL DESBLOQUEADA",
+  "victoria": "VICTORIA",
+  "derrota": "SEÑAL PERDIDA",
+  "derrota_bitsy": "Nos desconectaron. Probá otro equipo o cambiá el orden de los ataques.",
+  "final_bloqueado": "Recuperá los 8 segmentos de señal para abrir el núcleo del Virus.",
+  "salida_titulo": "SALIDA DESBLOQUEADA",
+  "salida_texto": "La señal está completa. Luca y Donna vuelven al mundo real. El Virus quedó atrapado en tu colección.",
+  "creditos": "Pixelados · IA Generativa y Diseño · UTDT · Grupo 03: Donna Liporace, Luca Fernández Ciatti, Lucía Medina"
+}

@@ -54,13 +54,14 @@ mundo)*
 
 **¿Quién es, o qué es?**
 Un personaje constante, llamado **Mateo**, que aparece en las **9 escenas**.
-Su **identidad es fija** pero su **ropa cambia** según el lugar donde se
-encuentre (se viste "de cada escenario").
+Su **identidad es fija** (la mochila blanca) pero su **ropa cambia** según el
+lugar donde se encuentre (se viste "de cada escenario").
 
 **¿Por qué pertenece a este universo y no a otro?**
 Porque el personaje "viaja" por toda la Argentina recorriendo y aprendiendo
 sobre nuestro país: es el hilo conductor de la exploración. Su ropa cambiante
-lo hace parte de cada lugar.
+lo hace parte de cada lugar, pero su mochila blanca lo hace reconocible en
+todos.
 
 **¿Qué hace en cada escena? — observa, se esconde, intervien.**
 Se esconde (como en Wally), integrado en cada escena con ropa acorde al
@@ -81,8 +82,8 @@ en una imagen chica y a través de 8 escenas)*
    artesanal y aspecto de plastilina (figura suave y redondeada).
 2. **Color:** piel cálida, pelo oscuro y grandes ojos expresivos; textura a la
    vista de plastilina.
-3. **Objeto:** su mochila siempre esta presente, fijo en todas las escenas (la
-   ropa varía, la mochila nunca).
+3. **Objeto:** una mochila blanca, siempre presente y fija en todas las
+   escenas (la ropa varía, la mochila nunca).
 
 > **Descripción del personaje (para la skill):** A recurring child character
 > for a children's visual-search project about Argentina. Strongly stylized 3D
@@ -148,9 +149,9 @@ en una imagen chica y a través de 8 escenas)*
 
 | Campo | Tu respuesta |
 | --- | --- |
-| **Concepto del universo** | Un libro educativo estilo "Buscando a Wally" que acerca Argentina a los chicos: cada escenario es un lugar emblemático del país en plena actividad, donde hay que descubrir personas, objetos y costumbres propias del lugar. Un personaje con gorro rojo se esconde en las 8 escenas. |
+| **Concepto del universo** | Un libro educativo estilo "Buscando a Wally" que acerca Argentina a los chicos: cada escenario es un lugar emblemático del país en plena actividad, donde hay que descubrir personas, objetos y costumbres propias del lugar. Un personaje con mochila blanca se esconde en las 8 escenas. |
 | **Técnica de ilustración** *(específica, no "estilo ilustración")* | Plastilina / stop-motion: superficie con textura de plastilina moldeada, huellas de dedos y relieves. Todo el mundo y los personajes secundarios comparten la misma materialidad. |
-| **Paleta** *(3-5 colores, nombre o hex)* | Rojo, amarillo, verde y azul (misma paleta que usa la editorial) |
+| **Paleta** *(3-5 colores, nombre o hex)* | Paleta variada y llamativa para chicos: rojo, azul, celeste, violeta, amarillo, verde y naranja |
 | **Referencia artística** *(1-2 reales)* | Laika (Coraline, ParaNorman, Missing Link) — stop-motion de plastilina |
 | **Parámetros de calidad** *(aspect ratio, detalle, restricciones)* | Aspect ratio 16:9 para doble página. Nada clave en el centro (el pliegue se lo come). Textura de plastilina bien visible. |
 
@@ -161,11 +162,11 @@ modificar en cada generación, cuando arranquen a generar):**
 Claymation / stop-motion style illustration, sculpted plasticine surfaces
 with visible fingerprints and reliefs, handmade miniature set diorama look,
 in the style of Laika studios (Coraline, ParaNorman), warm and tactile
-lighting, rich saturated editorial palette of red, yellow, green and blue,
-high level of detail in the scenery, many secondary characters and objects
-integrated in the same clay material, aspect ratio 16:9 double-page spread,
-no text, no logos, keep the central vertical area free of key elements
-(book fold).
+lighting, rich saturated editorial palette of red, blue, light blue, purple,
+yellow, green and orange, high level of detail in the scenery, many secondary
+characters and objects integrated in the same clay material, aspect ratio 16:9
+double-page spread, no text, no logos, keep the central vertical area free of
+key elements (book fold).
 ```
 
 ---

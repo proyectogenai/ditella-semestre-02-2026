@@ -400,19 +400,20 @@ real brand names.
 
 ## D.5 — Arrancar la skill *(si el grupo llegó a completar D.3)*
 
-**¿Le pediste al agente que arme el `SKILL.md`?** Sí / No
+**¿Le pediste al agente que arme el `SKILL.md`?** Sí
 
 **¿Qué campos quedaron completos hoy?**
 
-- [ ] Universo
-- [ ] Bloque de estilo
-- [ ] Modelo y parámetros
-- [ ] Regla de variación
-- [ ] Cómo se inserta el elemento oculto
-- [ ] Restricciones
+- [x] Universo
+- [x] Bloque de estilo
+- [x] Modelo y parámetros
+- [x] Regla de variación
+- [x] Cómo se inserta el elemento oculto
+- [x] Restricciones
 
-**Lo que falta, ¿para cuándo lo completás?** *(antes de la C6, generando ya
-la imagen madre — la C7 es la clase dedicada a llegar a las 8 escenas)*
+**Lo que falta, ¿para cuándo lo completás?** Nada. La skill está terminada
+en `SKILL.md` (esta misma carpeta) y se probó pidiéndole una escena nueva
+(una fiesta en un tren).
 
 ---
 

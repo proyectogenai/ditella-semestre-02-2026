@@ -74,6 +74,12 @@ que en otros modelos.
 4. Seguir con "prompt 2" y "prompt 3" en el mismo chat, adjuntando lo que
    indica cada uno.
 
+La skill no se limita a las ocho escenas del libro: también se le pueden
+pedir **escenas nuevas** y **personajes nuevos** del mundo Monstrix. Por
+ejemplo: *"una escena nueva: la pista de patinaje de la aldea, prompt 1"* o
+*"un personaje nuevo: la tía de NODI"*. La skill arma el prompt con los mismos
+bloques fijos, así que el resultado pertenece al mismo universo.
+
 ## Parámetros
 
 | | |

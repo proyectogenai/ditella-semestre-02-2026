@@ -30,7 +30,7 @@ elementos característicos y propios de cada lugar. Se esconde con una
 6. Santa Fe — Rosario, monumento a la Bandera
 7. Tucumán — la casa histórica de Tucumán
 8. Chubut — Puerto Madryn / Península Valdés
-9. Buenos Aires — Mar del Plata, la playa Bristol
+9. Buenos Aires — Mar del Plata, la playa Grande
 
 ## Bloque de estilo (va SIEMPRE, sin modificar)
 
@@ -75,7 +75,7 @@ reconocerse en una imagen chica a través de las 9 escenas.
   oscuro y zapatillas.
 - **Cerro Catedral (Bariloche):** ropa de ski, campera térmica, antiparras,
   guantes, botas y esquíes.
-- **Playa Bristol (Mar del Plata):** traje de baño, ojotas y tabla de surf.
+- **Playa Grande (Mar del Plata):** traje de baño, ojotas y tabla de surf.
 - **Quebrada de Humahuaca (Jujuy):** poncho tejido tradicional, pantalón
   oscuro y calzado cómodo.
 - **Glaciares (Santa Cruz):** abrigo de montaña, campera térmica, pantalón

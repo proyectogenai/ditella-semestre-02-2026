@@ -25,7 +25,14 @@ de noche, festival de música, Obelisco de Buenos Aires y garden party.
 ```
 parcial/
 ├── README.md                      este archivo
+├── PERCAZ-MARMOL-ROBLES_GRUPO10_PARCIAL.pdf   PDF de artes finales del libro
+├── PERCAZ-MARMOL-ROBLES_GRUPO10_PROCESO.pdf   PDF del documento de proceso
 ├── proceso_lourdes.md             plan y texto del documento de proceso
+├── imagenes/
+│   ├── objetos_perdidos/          los 8 objetos perdidos
+│   ├── miscelaneas/               hoja de objetos sueltos y viñetas y adornos
+│   └── versiones_intermedias/     capturas del proceso, en orden
+├── piezas_extra/                  crucigrama, sopa de letras y respuestas
 └── identidad-lourdes/
     ├── SKILL.md                   la skill: genera una escena nueva del atlas
     ├── concepto.md                hoja de trabajo: concepto, bloque madre e historial de iteraciones
@@ -33,8 +40,13 @@ parcial/
     ├── objetos_perdidos_prompts.md los 8 prompts de los objetos perdidos
     ├── miscelaneas_prompts.md     prompts de la hoja de objetos sueltos y de viñetas y adornos
     ├── paginas_introductorias.md  textos de las páginas introductorias del libro
+    ├── pagina_sistema_visual.md   contenido de la página del sistema visual
+    ├── imagenes/escenas/          las 8 escenas finales (A3 a 300 dpi, 4961 × 3508 px)
+    ├── imagenes/poses/            las 27 poses de Lourdes
     ├── boceto_lourdes.png         boceto a mano de Lourdes
-    └── lourdes_color.png          versión coloreada de Lourdes
+    ├── lourdes_color_v1.png       versión coloreada original
+    ├── lourdes_color_v2.png       segunda versión
+    └── lourdes_base.png           Lourdes con la bandana, imagen base de los prompts
 ```
 
 ## La skill

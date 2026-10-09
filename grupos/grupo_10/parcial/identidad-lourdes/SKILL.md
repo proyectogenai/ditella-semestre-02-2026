@@ -234,7 +234,8 @@ decide quien dibuja a Lourdes para esa escena.
 escena, con el outfit y la pose de esa fiesta, que se guarda como
 `lourdes_escena_N.png` (N = número de la escena). Todas salen de su
 diseño a mano: el boceto (`boceto_lourdes.png`) y la versión coloreada
-por Tere (`lourdes_color.png`).
+por Tere (`lourdes_color_v1.png`). Hay también 27 poses ya hechas en
+`imagenes/poses/`.
 
 **Dónde puede aparecer:**
 - En el plano medio o en el fondo.
@@ -264,14 +265,14 @@ por Tere (`lourdes_color.png`).
 
 **Prompt de Lourdes (outfit y pose).** Un chat nuevo por cada Lourdes.
 Adjuntá al chat **una sola
-imagen: `lourdes_base.png`** (`imagenes/lourdes/lourdes_base.png`), y pegá
+imagen: `lourdes_base.png`** (está en la misma carpeta que este archivo), y pegá
 este prompt. Completá `[OUTFIT]` y `[POSE]`.
 
 `lourdes_base.png` es una Lourdes de frente, con su ropa original y la
-bandana ya bien puesta. Se hizo una sola vez a partir de `lourdes_color.png`
+bandana ya bien puesta. Se hizo una sola vez a partir de `lourdes_color_v1.png`
 (que es el diseño original y no tiene la bandana), y es lo único que hay que
 adjuntar en cada fiesta. Si no existe, hay que crearla primero con este mismo
-prompt: adjuntá `lourdes_color.png`, pedí `OUTFIT: keep the outfit from the
+prompt: adjuntá `lourdes_color_v1.png`, pedí `OUTFIT: keep the outfit from the
 attached image` y `POSE: standing relaxed, facing the front`.
 
 Qué poner en cada campo:

@@ -9,7 +9,7 @@ Integrantes: Clementina Ogallar, Delfina García Lema, Martina Isla.
 ## De qué se trata
 
 Un **libro educativo infantil** con la lógica de "¿Dónde está Wally?" que
-acerca Argentina a los chicos los años de primaria. Cada doble página es un
+acerca Argentina a los chicos de los años de la escuela primaria. Cada doble página es un
 lugar emblemático del país en plena actividad —una celebración, una temporada
 turística, una fiesta popular o una situación cotidiana— y hay muchas personas,
 objetos y costumbres propias de ese lugar.

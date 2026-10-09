@@ -36,6 +36,8 @@ Dentro de la skill:
 | `parcial/atlas_de_escenas.md` | Los lineamientos de cada una de las ocho escenas |
 | `assets/nodi_v2.jpeg` | La referencia canónica de NODI |
 | `assets/personajes/` | Las referencias de mamá, papá, hermana, hermano, abuelo y la mejor amiga |
+| `assets/ropa/` | Las diez prendas del ropero de NODI, generadas con ChatGPT |
+| `pieza-qr/` | El ropero de NODI: la página del juego (`index.html`), sus imágenes y el QR (`qr-vesti-a-nodi.png`) |
 
 ## Las ocho escenas
 

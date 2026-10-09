@@ -41,7 +41,7 @@ in the style of Laika studios (Coraline, ParaNorman), warm and tactile
 lighting, rich saturated editorial palette of yellow, orange, red, blue,
 light blue, green and purple, high level of detail in the scenery, many
 secondary characters and objects integrated in the same clay material,
-aspect ratio A4 landscape (297:210), no text, no logos.
+aspect ratio A4 landscape (297:210).
 ```
 
 ## Modelo y parámetros
@@ -92,6 +92,5 @@ reconocerse en una imagen chica a través de las 9 escenas.
   comparte la misma materialidad.
 - Nunca usar una paleta fuera del amarillo, naranja, rojo, azul, celeste,
   verde y violeta.
-- Nunca incluir texto ni logos dentro de la imagen.
 - Nunca cambiar la mochila blanca del personaje.
 - Mantener siempre el formato A4 horizontal de página completa.

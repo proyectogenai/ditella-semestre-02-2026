@@ -84,11 +84,42 @@ en una imagen chica y a través de 8 escenas)*
 3. **Objeto:** su mochila siempre esta presente, fijo en todas las escenas (la
    ropa varía, la mochila nunca).
 
-> **Descripción del personaje (para la skill):** personaje infantil, curioso
-> y simpático, de estética artesanal y aspecto de plastilina. Piel cálida,
-> pelo oscuro y grandes ojos expresivos, acompañado siempre por su
-> característico gorro rojo con pompón. Su vestimenta se adapta a cada lugar
-> que visita.
+> **Descripción del personaje (para la skill):** A recurring child character
+> for a children's visual-search project about Argentina. Strongly stylized 3D
+> stop-motion clay / plasticine character with a charming handcrafted
+> miniature-puppet appearance. Compact chibi proportions: oversized rounded
+> head, very small and slightly chubby body, short chunky arms and legs,
+> almost no visible neck, and a soft rounded silhouette. The anatomy should
+> feel simple, playful and physically sculpted from clay rather than precisely
+> modeled. Warm light-to-medium tan skin tone. Dark brown hair made from
+> chunky, individually sculpted clay locks, slightly messy and tousled, with
+> simple rounded shapes and subtle handmade irregularities, always keeping the
+> face visible. Very large rounded white eyes with tiny black pupils, simple
+> dark eyebrows, a small rounded clay nose and a tiny gentle smile. Facial
+> features should be extremely simple, expressive and cartoon-like, with the
+> eyes integrated naturally into the rounded volume of the face. Friendly,
+> curious, calm and approachable expression. The character carries a simple
+> white backpack, ideally visible in full or at minimum through visible white
+> shoulder straps whenever the outfit allows it. The entire character must look
+> physically hand-sculpted from soft plasticine, as if it were a miniature
+> puppet created for a stop-motion animated film. Use chunky, soft and slightly
+> imperfect clay forms rather than precise or geometrically perfect CGI
+> modeling. Skin, hair, clothing, shoes, backpack and every accessory should
+> share the same tactile clay construction. Clothing should look sculpted from
+> colored plasticine rather than made from realistic fabric. Hair should look
+> like individually shaped pieces of dark clay rather than realistic hair
+> strands. Surfaces should show subtle handmade imperfections, gentle
+> unevenness, soft sculpting marks and very subtle fingerprint-like texture.
+> Materials should be predominantly matte to softly satin, with soft highlights
+> that emphasize the rounded three-dimensional volumes. Maintain strong
+> three-dimensional depth and volume through soft modeling, gentle ambient
+> shadows and warm animated-film lighting. The character should feel like a
+> tangible miniature clay puppet photographed on a physical set, while
+> remaining clean, colorful and highly readable. The overall aesthetic should
+> resemble a polished children's stop-motion clay animation: playful, tactile,
+> expressive, warm and clearly handcrafted, while avoiding the appearance of a
+> mass-produced toy or collectible figurine. This character must always remain
+> unmistakably the same person across all scenes.
 
 **Vestimenta por escena:**
 

@@ -20,8 +20,8 @@ identidad es fija, el vestuario cambia.
 
 El universo se produce con una **skill madre** reproducible para cada escena,
 para que cualquiera genere una escena nueva que pertenezca al mismo mundo.
-Además de esa skill madre, para cada escena trabajamos con una **skill por
-escena**, e imágenes de referencia.
+Además de esa skill madre, para cada escena trabajamos con un **prompt
+variable por escena**, e imágenes de referencia.
 
 ## El sistema visual
 

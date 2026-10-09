@@ -33,6 +33,7 @@ parcial/
 ├── proceso-resumen.md           ← resumen para PDF
 ├── Eriksen-Laudano-PROCESO.pdf  ← PDF del documento de proceso
 ├── Eriksen-Laudano-LIBRO.pdf
+├── app-mei.md
 └── CHECKLIST.md
 ```
 
@@ -46,4 +47,5 @@ parcial/
 - Libro impreso entregado en mano (9/10). PDF de artes finales:
   `Eriksen-Laudano-LIBRO.pdf` (versión comprimida, subida al repo).
 - Material pesado (PSDs) queda fuera del repo por tamaño.
+- App (QR): ver `app-mei.md` con link a Figma Make.
 

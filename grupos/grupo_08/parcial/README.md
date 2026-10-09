@@ -42,8 +42,7 @@ parcial/
    congelado; solo cambia Capa 1 y placement.
 
 ## Notas
-- Libro impreso entregado en mano (9/10) — PDF de artes finales del libro
-  **NO** se subió al repo por superar el límite de 100 MB de GitHub.
-  Guardarlo localmente en Drive/link indicado en el documento.
+- Libro impreso entregado en mano (9/10). PDF de artes finales:
+  `Eriksen-Laudano-LIBRO.pdf` (versión comprimida, subida al repo).
 - Material pesado (PSDs) queda fuera del repo por tamaño.
 

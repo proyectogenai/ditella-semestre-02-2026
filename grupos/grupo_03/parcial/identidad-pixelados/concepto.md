@@ -1,6 +1,6 @@
 # Pixelados · concepto
 
-**Entregable Clase 5** — Grupo 03 · Donna Liporace · Luca Fernández Ciatti · Lucía Medina
+**Entregable Clase 5** — Grupo 03 · Donna Liporace · Luca Fernández Ciatti
 
 ---
 

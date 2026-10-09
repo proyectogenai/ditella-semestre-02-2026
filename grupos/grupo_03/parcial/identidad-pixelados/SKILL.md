@@ -5,7 +5,7 @@ description: Genera escenas del universo Pixelados — mundos colapsados dentro 
 
 # Pixelados · sistema de identidad
 
-Grupo 03 · Donna Liporace · Luca Fernández Ciatti · Lucía Medina
+Grupo 03 · Donna Liporace · Luca Fernández Ciatti
 IA Generativa y Diseño · UTDT · Clase 06
 
 ---

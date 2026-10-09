@@ -18,9 +18,9 @@ El **elemento oculto** es **Mateo**, un personaje infantil que aparece
 siempre, integrado a la escena y con la ropa adaptada a cada lugar: la
 identidad es fija, el vestuario cambia.
 
-El universo se produce con una **skill madre** reproducible para cada escena,
+El universo se produce con un **bloque madre** reproducible para cada escena,
 para que cualquiera genere una escena nueva que pertenezca al mismo mundo.
-Además de esa skill madre, para cada escena trabajamos con un **prompt
+Además de ese bloque madre, para cada escena trabajamos con un **prompt
 variable por escena**, e imágenes de referencia.
 
 ## El sistema visual

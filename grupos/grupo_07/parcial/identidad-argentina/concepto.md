@@ -58,9 +58,9 @@ Su **identidad es fija** pero su **ropa cambia** según el lugar donde se
 encuentre (se viste "de cada escenario").
 
 **¿Por qué pertenece a este universo y no a otro?**
-Porque el personaje "viaja" por Argentina con los chicos: es el hilo
-conductor de la exploración. Su ropa cambiante lo hace parte de cada lugar,
-pero su gorrito rojo lo hace reconocible en todos.
+Porque el personaje "viaja" por toda la Argentina recorriendo y aprendiendo
+sobre nuestro país: es el hilo conductor de la exploración. Su ropa cambiante
+lo hace parte de cada lugar.
 
 **¿Qué hace en cada escena — observa, se esconde, interviene?**
 Se esconde (como en Wally), integrado en cada escena con ropa acorde al

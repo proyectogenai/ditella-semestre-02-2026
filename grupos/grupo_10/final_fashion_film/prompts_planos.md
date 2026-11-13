@@ -150,7 +150,7 @@ Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the
 **Archivo:** `plano_10_caminata_garden_salida.png`
 
 ```
-[OBJETO] = Her hands are empty: the parasol is gone and she has not noticed.
+[OBJETO] = Her hands are empty and hang free at her sides, with nothing in them.
 [FONDO] = the end of a gravel garden path with the garden party tables far behind her, flat green lawn, a low sun in an orange sky and a few tiny guests waving in the distance.
 ```
 
@@ -254,7 +254,7 @@ Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the
 **Archivo:** `plano_22_caminata_mar_salida.png`
 
 ```
-[OBJETO] = Her hands are empty: the hat is gone and she has not noticed.
+[OBJETO] = Her hands are empty and hang free at her sides, with nothing in them.
 [FONDO] = the white railing of a boat deck with a coiled rope and a red and white life ring, in bright full daylight with a high sun in a clear dusty blue sky with a few small cream clouds, and a bright blue sea with small white wave crests, and a flat wooden deck strip as the ground. NO string lights, NO garlands, NO festoon lights and NO hanging lanterns anywhere in the image.
 ```
 
@@ -306,7 +306,7 @@ Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the
 **Archivo:** `plano_28_caminata_rooftop_salida.png`
 
 ```
-[OBJETO] = Her hands are empty: the keys are gone and she has not noticed.
+[OBJETO] = Her hands are empty and hang free at her sides, with nothing in them.
 [FONDO] = the edge of the rooftop with a low brick wall, a string of round festoon lights above, big potted plants, the city skyline with many small lit windows far behind, and a sky turning from deep purple-blue to a thin line of orange at the horizon.
 ```
 

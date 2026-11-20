@@ -158,7 +158,7 @@ Full-body shot of Lourdes, the character in the attached reference sheet, wearin
 **Archivo:** `plano_11_macro_tela_garden.png`
 
 ```
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the long cream dress with the green floral print filling the entire frame, the fabric rippling in the wind in soft folds. Only the fabric is visible, no person.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the long cream dress with the green floral print filling the entire frame, the fabric rippling in the wind in soft folds. Only the fabric is visible, no person. The fabric fills the whole frame, so no sky is visible. If any background shows through, it is the green lawn or the warm orange sunset sky, NEVER light blue.
 ```
 
 **Plano 12 — Detalle de accesorio** (adjuntar: `looks/outfit_gardenparty.png`)
@@ -166,7 +166,7 @@ Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the
 **Archivo:** `plano_12_detalle_cartera_garden.png`
 
 ```
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of the brown leather handbag resting on her shoulder, with its clasp and strap, one hand adjusting the strap, and the strap of her dress. The image is cropped at the chin: no face. Nothing else in her hands.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of the brown leather handbag resting on her shoulder, with its clasp and strap, one hand adjusting the strap, and the strap of her dress. The image is cropped at the chin: no face. Nothing else in her hands. The background behind her is the green garden or the warm orange sunset sky, NEVER a light blue background.
 ```
 
 **Plano 13 — Close-up de la ropa en movimiento** (adjuntar: `looks/outfit_gardenparty.png`)
@@ -242,7 +242,7 @@ Full-body shot of Lourdes, the character in the attached reference sheet, wearin
 **Archivo:** `plano_21_macro_tela_carnaval.png`
 
 ```
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the floral print of her wide-leg trousers filling the whole frame, the fabric swirling as she dances, with a few pieces of confetti passing. Only the fabric is visible, no person.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the floral print of her wide-leg trousers filling the whole frame, the fabric swirling as she dances, with a few pieces of confetti passing. Only the fabric is visible, no person. The fabric fills the whole frame. If any background shows, it is the cobblestone street and the warm orange sunset of the carnival, NEVER a light blue sky.
 ```
 
 **Plano 22 — Detalle de accesorio** (adjuntar: `looks/outfit_carnaval.png`)
@@ -250,7 +250,7 @@ Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the
 **Archivo:** `plano_22_detalle_blusa_carnaval.png`
 
 ```
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of the tie at the neckline of her floral blouse and her necklace, with a few pieces of confetti landing on her shoulder. The image is cropped at the chin: no face.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of the tie at the neckline of her floral blouse and her necklace, with a few pieces of confetti landing on her shoulder. The image is cropped at the chin: no face. The background behind her is the carnival street in warm orange sunset light, NEVER a light blue sky.
 ```
 
 **Plano 23 — Close-up de la ropa en movimiento** (adjuntar: `looks/outfit_carnaval.png`)
@@ -326,7 +326,7 @@ Medium-full shot of Lourdes, the character in the attached reference sheet, wear
 **Archivo:** `plano_31_macro_tela_mar.png`
 
 ```
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the stripes of her top and the wide white trousers fluttering in the sea wind, filling the whole frame. Only the fabric is visible, no person.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the stripes of her top and the wide white trousers fluttering in the sea wind, filling the whole frame. Only the fabric is visible, no person. The stripes are exactly blue and white as drawn in the attached reference sheet, with NO yellow.
 ```
 
 **Plano 32 — Pelo y pañuelo al viento, de espaldas** (adjuntar: `looks/outfit_boatparty.png`)
@@ -486,7 +486,7 @@ Full-body shot of Lourdes, the character in the attached reference sheet, wearin
 **Archivo:** `plano_50_macro_tela_playa.png`
 
 ```
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the knot of her orange floral sarong at her hip, the fabric moving in the breeze, filling the frame. Only the fabric is visible, no person.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the knot of her orange floral sarong at her hip, the fabric moving in the breeze, filling the frame. Only the fabric is visible, no person. The fabric fills the whole frame. If any background shows, it is only the solid saturated burnt orange sunrise sky or the sand and sea, NEVER a light blue sky and NEVER buildings, balconies or houses.
 ```
 
 **Plano 51 — Detalle de accesorio** (adjuntar: `looks/outfit_amanecerplaya.png`)
@@ -494,7 +494,7 @@ Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the
 **Archivo:** `plano_51_detalle_collares_playa.png`
 
 ```
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of her collarbone and shoulder: her layered silver necklaces with a small heart pendant and the strap of her woven straw tote bag, with strands of her bob hair moving in the wind. The image is cropped at the chin: no face. Warm orange sunrise light.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of her collarbone and shoulder: her layered silver necklaces with a small heart pendant and the strap of her woven straw tote bag, with strands of her bob hair moving in the wind. The image is cropped at the chin: no face. Warm orange sunrise light. The background behind her is only the solid saturated burnt orange sunrise sky, NEVER a light blue sky, and there are NO buildings, NO palm trees and NO string lights anywhere in the image.
 ```
 
 **Plano 52 — Close-up de la ropa en movimiento** (adjuntar: `looks/outfit_amanecerplaya.png`)

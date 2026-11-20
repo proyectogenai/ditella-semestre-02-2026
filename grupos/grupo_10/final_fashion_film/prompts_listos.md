@@ -277,7 +277,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the long cream dress with the green floral print filling the entire frame, the fabric rippling in the wind in soft folds. Only the fabric is visible, no person.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the long cream dress with the green floral print filling the entire frame, the fabric rippling in the wind in soft folds. Only the fabric is visible, no person. The fabric fills the whole frame, so no sky is visible. If any background shows through, it is the green lawn or the warm orange sunset sky, NEVER light blue.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
@@ -302,7 +302,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of the brown leather handbag resting on her shoulder, with its clasp and strap, one hand adjusting the strap, and the strap of her dress. The image is cropped at the chin: no face. Nothing else in her hands.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of the brown leather handbag resting on her shoulder, with its clasp and strap, one hand adjusting the strap, and the strap of her dress. The image is cropped at the chin: no face. Nothing else in her hands. The background behind her is the green garden or the warm orange sunset sky, NEVER a light blue background.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
@@ -527,7 +527,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the floral print of her wide-leg trousers filling the whole frame, the fabric swirling as she dances, with a few pieces of confetti passing. Only the fabric is visible, no person.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the floral print of her wide-leg trousers filling the whole frame, the fabric swirling as she dances, with a few pieces of confetti passing. Only the fabric is visible, no person. The fabric fills the whole frame. If any background shows, it is the cobblestone street and the warm orange sunset of the carnival, NEVER a light blue sky.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
@@ -552,7 +552,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of the tie at the neckline of her floral blouse and her necklace, with a few pieces of confetti landing on her shoulder. The image is cropped at the chin: no face.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of the tie at the neckline of her floral blouse and her necklace, with a few pieces of confetti landing on her shoulder. The image is cropped at the chin: no face. The background behind her is the carnival street in warm orange sunset light, NEVER a light blue sky.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
@@ -777,7 +777,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the stripes of her top and the wide white trousers fluttering in the sea wind, filling the whole frame. Only the fabric is visible, no person.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the stripes of her top and the wide white trousers fluttering in the sea wind, filling the whole frame. Only the fabric is visible, no person. The stripes are exactly blue and white as drawn in the attached reference sheet, with NO yellow.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
@@ -1252,7 +1252,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the knot of her orange floral sarong at her hip, the fabric moving in the breeze, filling the frame. Only the fabric is visible, no person.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the knot of her orange floral sarong at her hip, the fabric moving in the breeze, filling the frame. Only the fabric is visible, no person. The fabric fills the whole frame. If any background shows, it is only the solid saturated burnt orange sunrise sky or the sand and sea, NEVER a light blue sky and NEVER buildings, balconies or houses.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
@@ -1277,7 +1277,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of her collarbone and shoulder: her layered silver necklaces with a small heart pendant and the strap of her woven straw tote bag, with strands of her bob hair moving in the wind. The image is cropped at the chin: no face. Warm orange sunrise light.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of her collarbone and shoulder: her layered silver necklaces with a small heart pendant and the strap of her woven straw tote bag, with strands of her bob hair moving in the wind. The image is cropped at the chin: no face. Warm orange sunrise light. The background behind her is only the solid saturated burnt orange sunrise sky, NEVER a light blue sky, and there are NO buildings, NO palm trees and NO string lights anywhere in the image.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.

@@ -786,10 +786,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 32 — Detalle de accesorio
+## Plano 32 — Pelo y pañuelo al viento, de espaldas
 
 **Adjuntar:** `looks/outfit_boatparty.png`
-**Archivo:** `plano_32_detalle_anteojos_mar.png`
+**Archivo:** `plano_32_detalle_pelo_mar.png`
 
 ```
 01 — PURPOSE
@@ -802,7 +802,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Extreme close-up of the upper part of Lourdes's face, from the nose up, wearing her sunglasses exactly as drawn in the attached reference sheet, with the bright blue sea and sky reflected in the lenses. The tails of her bandana flutter in the wind. Full daylight. NO string lights, NO garlands, NO festoon lights and NO hanging lanterns anywhere in the image.
+Close-up of Lourdes seen from behind, cropped just below her shoulders. She is the character in the attached reference sheet, with her short brown bob and the black polka-dot bandana tied at the back of her head: the knot, the two tails of the bandana and strands of her hair blow strongly in the sea wind. Behind her, the bright blue sea and a clear sky in full daylight. Her face is NOT visible. NO string lights, NO garlands, NO festoon lights and NO hanging lanterns anywhere in the image.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.

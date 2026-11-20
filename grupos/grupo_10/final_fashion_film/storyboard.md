@@ -28,7 +28,7 @@ ropa en movimiento y la historia queda de fondo.
 - **Planos abiertos:** la cámara lejos y Lourdes chiquita en un lugar enorme,
   con composición simétrica.
 - **Tela de cerca (macro):** la estampa o la tela en movimiento, sin persona.
-- **Detalle de accesorio:** cartera, collares, anteojos, blusa; sin mostrar la cara.
+- **Detalle de accesorio:** cartera, collares, blusa, el pelo y el pañuelo al viento; sin mostrar la cara.
 - **Lo que lleva siempre Lourdes:** pelo bob castaño, pañuelo negro con puntitos
   blancos en la cabeza y cartera. El outfit cambia en cada fiesta.
 - **El objeto perdido se ve antes de perderse.** En la entrada (caminata) y en
@@ -65,7 +65,7 @@ Cada fiesta tiene diez planos (la playa, ocho):
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Garden party** | 5 | 6 | 7 | 8 | 9: se le cae la sombrilla (el viento se la lleva) | 10: camina hacia la cámara | 11: la estampa del vestido | 12: la cartera | 13 | 14 |
 | **Carnaval** | 15 | 16 | 17 | 18 | 19: baila y pierde el zapato dorado | 20: un giro completo | 21: el pantalón floral | 22: el lazo de la blusa | 23 | 24 |
-| **Alta mar** | 25 | 26 | 27 | 28 | 29: el viento se lleva su sombrero | 30: de espaldas en la baranda | 31: las rayas | 32: los anteojos | 33 | 34 |
+| **Alta mar** | 25 | 26 | 27 | 28 | 29: el viento se lleva su sombrero | 30: de espaldas en la baranda | 31: las rayas | 32: el pelo y el pañuelo al viento, de espaldas | 33 | 34 |
 | **Rooftop** | 35 | 36 | 37 | 38 | 39: se le caen las llaves | 40: silueta contra la ciudad | 41: la falda bordó | 42: el hombro y la correa | 43 | 44 |
 | **Playa** | 45 | | 47 (detalle) | 46 | 48: se le caen las antiparras | 49: de espaldas hacia el mar | 50: el nudo del pareo | 51: los collares | 52 | |
 

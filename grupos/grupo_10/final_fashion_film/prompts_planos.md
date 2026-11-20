@@ -329,12 +329,12 @@ Medium-full shot of Lourdes, the character in the attached reference sheet, wear
 Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the stripes of her top and the wide white trousers fluttering in the sea wind, filling the whole frame. Only the fabric is visible, no person.
 ```
 
-**Plano 32 — Detalle de accesorio** (adjuntar: `looks/outfit_boatparty.png`)
+**Plano 32 — Pelo y pañuelo al viento, de espaldas** (adjuntar: `looks/outfit_boatparty.png`)
 
-**Archivo:** `plano_32_detalle_anteojos_mar.png`
+**Archivo:** `plano_32_detalle_pelo_mar.png`
 
 ```
-Extreme close-up of the upper part of Lourdes's face, from the nose up, wearing her sunglasses exactly as drawn in the attached reference sheet, with the bright blue sea and sky reflected in the lenses. The tails of her bandana flutter in the wind. Full daylight. NO string lights, NO garlands, NO festoon lights and NO hanging lanterns anywhere in the image.
+Close-up of Lourdes seen from behind, cropped just below her shoulders. She is the character in the attached reference sheet, with her short brown bob and the black polka-dot bandana tied at the back of her head: the knot, the two tails of the bandana and strands of her hair blow strongly in the sea wind. Behind her, the bright blue sea and a clear sky in full daylight. Her face is NOT visible. NO string lights, NO garlands, NO festoon lights and NO hanging lanterns anywhere in the image.
 ```
 
 **Plano 33 — Close-up de la ropa en movimiento** (adjuntar: `looks/outfit_boatparty.png`)

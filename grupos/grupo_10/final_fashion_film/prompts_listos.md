@@ -6,7 +6,7 @@ chat nuevo de ChatGPT, con la imagen que dice "Adjuntar". No hay que editar
 nada.
 
 - Los prompts salen de `prompts_planos.md`. Si algo cambia, se regenera este archivo.
-- Son **40 planos**. Guardá cada imagen con el nombre de "Archivo", en `storyboard/`.
+- Son **60 planos**. Guardá cada imagen con el nombre de "Archivo", en `storyboard/`.
 - Tienen que salir en 16:9 horizontal y en buena calidad. Chequeá los píxeles.
 - Si en una caminata Lourdes sale de frente o muy grande, pegá en el mismo chat:
   `She is still too big and facing the camera. Redraw her much smaller (about 40% of the frame height), in strict side profile walking to the right.`
@@ -186,10 +186,35 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 8 — Lourdes y la sombrilla
+## Plano 8 — Plano abierto, Lourdes chiquita
 
 **Adjuntar:** `looks/outfit_gardenparty.png`
-**Archivo:** `plano_08_lourdes_sombrilla.png`
+**Archivo:** `plano_08_abierto_garden.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Very wide establishing shot with the camera far away: a garden party in the late afternoon, with a long table with a white tablecloth on the left, tall cypress trees, a green lawn and a gravel path. Lourdes, the character in the attached reference sheet, wearing the same outfit, is tiny in the center of the frame, about 12% of the frame height, walking along the path from left to right and holding a closed white lace parasol in one hand. Symmetrical composition with lots of empty lawn and sky. Warm orange sunset light as flat areas of color.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 9 — Lourdes y la sombrilla
+
+**Adjuntar:** `looks/outfit_gardenparty.png`
+**Archivo:** `plano_09_lourdes_sombrilla.png`
 
 ```
 01 — PURPOSE
@@ -211,10 +236,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 9 — Close-up de la ropa en movimiento
+## Plano 10 — Camina hacia la cámara
 
 **Adjuntar:** `looks/outfit_gardenparty.png`
-**Archivo:** `plano_09_closeup_ropa_garden.png`
+**Archivo:** `plano_10_cuerpo_garden.png`
 
 ```
 01 — PURPOSE
@@ -227,7 +252,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Shot from the waist down: she walks across the grass in her long floral dress and sandals, and the breeze lifts and swirls the skirt around her legs. Her brown leather handbag swings at her hip. Flat green lawn and a few flowers behind. In one hand she holds a closed white lace parasol.
+Full-body shot of Lourdes, the character in the attached reference sheet, wearing the same outfit, walking straight toward the camera along a gravel garden path, seen from a low angle with the camera near the ground. Her long floral dress billows in the wind, her sandals step forward, her handbag rests on her shoulder and her hands are empty and swing freely. She looks ahead with a calm, confident expression. Tall cypress trees and a warm orange sky behind her.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
@@ -236,10 +261,85 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 10 — Salida · caminata
+## Plano 11 — Tela de cerca (macro)
 
 **Adjuntar:** `looks/outfit_gardenparty.png`
-**Archivo:** `plano_10_caminata_garden_salida.png`
+**Archivo:** `plano_11_macro_tela_garden.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the long cream dress with the green floral print filling the entire frame, the fabric rippling in the wind in soft folds. Only the fabric is visible, no person.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 12 — Detalle de accesorio
+
+**Adjuntar:** `looks/outfit_gardenparty.png`
+**Archivo:** `plano_12_detalle_cartera_garden.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of the brown leather handbag resting on her shoulder, with its clasp and strap, one hand adjusting the strap, and the strap of her dress. The image is cropped at the chin: no face. Nothing else in her hands.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 13 — Close-up de la ropa en movimiento
+
+**Adjuntar:** `looks/outfit_gardenparty.png`
+**Archivo:** `plano_13_closeup_ropa_garden.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Shot from the waist down: she walks across the grass in her long floral dress and sandals, and the breeze lifts and swirls the skirt around her legs. Her brown leather handbag swings at her hip. Flat green lawn and a few flowers behind. Her hands are empty and swing freely.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 14 — Salida · caminata
+
+**Adjuntar:** `looks/outfit_gardenparty.png`
+**Archivo:** `plano_14_caminata_garden_salida.png`
 
 ```
 01 — PURPOSE
@@ -261,10 +361,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 11 — Entrada · caminata
+## Plano 15 — Entrada · caminata
 
 **Adjuntar:** `looks/outfit_carnaval.png`
-**Archivo:** `plano_11_caminata_carnaval_entrada.png`
+**Archivo:** `plano_15_caminata_carnaval_entrada.png`
 
 ```
 01 — PURPOSE
@@ -286,10 +386,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 12 — Ambiente
+## Plano 16 — Ambiente
 
 **Adjuntar:** `looks/outfit_carnaval.png`, solo como referencia de estilo
-**Archivo:** `plano_12_ambiente_carnaval.png`
+**Archivo:** `plano_16_ambiente_carnaval.png`
 
 ```
 01 — PURPOSE
@@ -311,10 +411,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 13 — Detalles de la fiesta, sin gente
+## Plano 17 — Detalles de la fiesta, sin gente
 
 **Adjuntar:** `looks/outfit_carnaval.png`, solo como referencia de estilo
-**Archivo:** `plano_13_detalle_carnaval.png`
+**Archivo:** `plano_17_detalle_carnaval.png`
 
 ```
 01 — PURPOSE
@@ -336,10 +436,35 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 14 — Lourdes baila y pierde el zapato
+## Plano 18 — Plano abierto, Lourdes chiquita
 
 **Adjuntar:** `looks/outfit_carnaval.png`
-**Archivo:** `plano_14_lourdes_zapato.png`
+**Archivo:** `plano_18_abierto_carnaval.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Very wide establishing shot with the camera far away: a long carnival street with colorful flat buildings in mustard yellow, brick red and cream, bunting hanging overhead from side to side, and a comparsa of dancers with huge feathered headdresses moving along it. Lourdes, the character in the attached reference sheet, wearing the same outfit and golden high-heeled shoes, is tiny in the foreground-center, about 12% of the frame height, walking from left to right. Symmetrical street perspective, confetti in the air, orange sunset light as flat areas of color.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 19 — Lourdes baila y pierde el zapato
+
+**Adjuntar:** `looks/outfit_carnaval.png`
+**Archivo:** `plano_19_lourdes_zapato.png`
 
 ```
 01 — PURPOSE
@@ -361,10 +486,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 15 — Close-up de la ropa en movimiento
+## Plano 20 — Giro completo
 
 **Adjuntar:** `looks/outfit_carnaval.png`
-**Archivo:** `plano_15_closeup_ropa_carnaval.png`
+**Archivo:** `plano_20_giro_carnaval.png`
 
 ```
 01 — PURPOSE
@@ -377,7 +502,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Shot from the waist down: she dances, with one foot lifted in a dance step, and her wide-leg floral trousers swing wide while the hem of her cropped blouse flutters. Confetti in the air and cobblestones as the ground. She wears golden high-heeled shoes.
+Full-body shot of Lourdes, the character in the attached reference sheet, wearing the same outfit, spinning in a twirl in the middle of a carnival street. Her wide-leg floral trousers flare out around her, the hem of her cropped blouse flies up, and her bob hair and the tails of her bandana swirl, with her arms stretched out and her hands empty. She has only one golden high-heeled shoe on one foot and the other foot is bare. Confetti in the air, colorful buildings and bunting behind her.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
@@ -386,10 +511,85 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 16 — Salida · caminata
+## Plano 21 — Tela de cerca (macro)
 
 **Adjuntar:** `looks/outfit_carnaval.png`
-**Archivo:** `plano_16_caminata_carnaval_salida.png`
+**Archivo:** `plano_21_macro_tela_carnaval.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the floral print of her wide-leg trousers filling the whole frame, the fabric swirling as she dances, with a few pieces of confetti passing. Only the fabric is visible, no person.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 22 — Detalle de accesorio
+
+**Adjuntar:** `looks/outfit_carnaval.png`
+**Archivo:** `plano_22_detalle_blusa_carnaval.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of the tie at the neckline of her floral blouse and her necklace, with a few pieces of confetti landing on her shoulder. The image is cropped at the chin: no face.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 23 — Close-up de la ropa en movimiento
+
+**Adjuntar:** `looks/outfit_carnaval.png`
+**Archivo:** `plano_23_closeup_ropa_carnaval.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Shot from the waist down: she dances, with one foot lifted in a dance step, and her wide-leg floral trousers swing wide while the hem of her cropped blouse flutters. Confetti in the air and cobblestones as the ground. She has only one golden high-heeled shoe on one foot, and the other foot is bare.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 24 — Salida · caminata
+
+**Adjuntar:** `looks/outfit_carnaval.png`
+**Archivo:** `plano_24_caminata_carnaval_salida.png`
 
 ```
 01 — PURPOSE
@@ -411,10 +611,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 17 — Entrada · caminata
+## Plano 25 — Entrada · caminata
 
 **Adjuntar:** `looks/outfit_boatparty.png`
-**Archivo:** `plano_17_caminata_mar_entrada.png`
+**Archivo:** `plano_25_caminata_mar_entrada.png`
 
 ```
 01 — PURPOSE
@@ -436,10 +636,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 18 — Ambiente
+## Plano 26 — Ambiente
 
 **Adjuntar:** `looks/outfit_boatparty.png`, solo como referencia de estilo
-**Archivo:** `plano_18_ambiente_mar.png`
+**Archivo:** `plano_26_ambiente_mar.png`
 
 ```
 01 — PURPOSE
@@ -461,10 +661,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 19 — Detalles de la fiesta, sin gente
+## Plano 27 — Detalles de la fiesta, sin gente
 
 **Adjuntar:** `looks/outfit_boatparty.png`, solo como referencia de estilo
-**Archivo:** `plano_19_detalle_mar.png`
+**Archivo:** `plano_27_detalle_mar.png`
 
 ```
 01 — PURPOSE
@@ -486,10 +686,35 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 20 — Lourdes y el sombrero
+## Plano 28 — Plano abierto, Lourdes chiquita
 
 **Adjuntar:** `looks/outfit_boatparty.png`
-**Archivo:** `plano_20_lourdes_sombrero.png`
+**Archivo:** `plano_28_abierto_mar.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Very wide establishing shot with the camera far away: a big white boat sailing on a bright blue sea in full daylight, with a high sun and a few small cream clouds. Lourdes, the character in the attached reference sheet, wearing the same outfit, is tiny at the bow of the boat, about 10% of the frame height, holding a wide-brimmed straw hat in one hand. Symmetrical composition with a lot of empty sea and sky. NO string lights, NO garlands, NO festoon lights and NO hanging lanterns anywhere in the image.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 29 — Lourdes y el sombrero
+
+**Adjuntar:** `looks/outfit_boatparty.png`
+**Archivo:** `plano_29_lourdes_sombrero.png`
 
 ```
 01 — PURPOSE
@@ -511,10 +736,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 21 — Close-up de la ropa en movimiento
+## Plano 30 — De espaldas en la baranda
 
 **Adjuntar:** `looks/outfit_boatparty.png`
-**Archivo:** `plano_21_closeup_ropa_mar.png`
+**Archivo:** `plano_30_espaldas_mar.png`
 
 ```
 01 — PURPOSE
@@ -527,7 +752,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Shot from the chest to the knees: the strong sea wind makes her wide white trousers billow and flutter and ruffles the hem of her striped top, while one hand grips the boat railing and the other hand holds a wide-brimmed straw hat by its brim. The bright blue sea behind her.
+Medium-full shot of Lourdes, the character in the attached reference sheet, wearing the same outfit, seen from behind, leaning on the white railing of a boat and looking out at the bright blue sea in full daylight. Her hair, the tails of her bandana and her wide white trousers blow strongly in the wind. Her hands rest on the railing with nothing in them. NO string lights, NO garlands, NO festoon lights and NO hanging lanterns anywhere in the image.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
@@ -536,10 +761,85 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 22 — Salida · caminata
+## Plano 31 — Tela de cerca (macro)
 
 **Adjuntar:** `looks/outfit_boatparty.png`
-**Archivo:** `plano_22_caminata_mar_salida.png`
+**Archivo:** `plano_31_macro_tela_mar.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the stripes of her top and the wide white trousers fluttering in the sea wind, filling the whole frame. Only the fabric is visible, no person.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 32 — Detalle de accesorio
+
+**Adjuntar:** `looks/outfit_boatparty.png`
+**Archivo:** `plano_32_detalle_anteojos_mar.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Extreme close-up of the upper part of Lourdes's face, from the nose up, wearing her sunglasses exactly as drawn in the attached reference sheet, with the bright blue sea and sky reflected in the lenses. The tails of her bandana flutter in the wind. Full daylight. NO string lights, NO garlands, NO festoon lights and NO hanging lanterns anywhere in the image.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 33 — Close-up de la ropa en movimiento
+
+**Adjuntar:** `looks/outfit_boatparty.png`
+**Archivo:** `plano_33_closeup_ropa_mar.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Shot from the chest to the knees: the strong sea wind makes her wide white trousers billow and flutter and ruffles the hem of her striped top, while both hands grip the boat railing. The bright blue sea behind her.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 34 — Salida · caminata
+
+**Adjuntar:** `looks/outfit_boatparty.png`
+**Archivo:** `plano_34_caminata_mar_salida.png`
 
 ```
 01 — PURPOSE
@@ -561,10 +861,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 23 — Entrada · caminata
+## Plano 35 — Entrada · caminata
 
 **Adjuntar:** `looks/outfit_rooftop.png`
-**Archivo:** `plano_23_caminata_rooftop_entrada.png`
+**Archivo:** `plano_35_caminata_rooftop_entrada.png`
 
 ```
 01 — PURPOSE
@@ -586,10 +886,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 24 — Ambiente
+## Plano 36 — Ambiente
 
 **Adjuntar:** `looks/outfit_rooftop.png`, solo como referencia de estilo
-**Archivo:** `plano_24_ambiente_rooftop.png`
+**Archivo:** `plano_36_ambiente_rooftop.png`
 
 ```
 01 — PURPOSE
@@ -611,10 +911,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 25 — Detalles de la fiesta, sin gente
+## Plano 37 — Detalles de la fiesta, sin gente
 
 **Adjuntar:** `looks/outfit_rooftop.png`, solo como referencia de estilo
-**Archivo:** `plano_25_detalle_rooftop.png`
+**Archivo:** `plano_37_detalle_rooftop.png`
 
 ```
 01 — PURPOSE
@@ -636,10 +936,35 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 26 — Lourdes y las llaves
+## Plano 38 — Plano abierto, Lourdes chiquita
 
 **Adjuntar:** `looks/outfit_rooftop.png`
-**Archivo:** `plano_26_lourdes_llaves.png`
+**Archivo:** `plano_38_abierto_rooftop.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Very wide establishing shot with the camera far away: a city rooftop terrace before dawn, with a string of round festoon lights hanging in symmetrical arcs, big potted plants, a brick-red wall and a city skyline full of small lit windows. Lourdes, the character in the attached reference sheet, wearing the same outfit, is tiny near the edge of the terrace, about 12% of the frame height, holding a small bunch of keys with a red pompom keychain in one hand. Deep purple-blue sky with a thin line of orange on the horizon. NO sea, NO boat, NO ropes, NO life rings.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 39 — Lourdes y las llaves
+
+**Adjuntar:** `looks/outfit_rooftop.png`
+**Archivo:** `plano_39_lourdes_llaves.png`
 
 ```
 01 — PURPOSE
@@ -661,10 +986,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 27 — Close-up de la ropa en movimiento
+## Plano 40 — Silueta contra la ciudad
 
 **Adjuntar:** `looks/outfit_rooftop.png`
-**Archivo:** `plano_27_closeup_ropa_rooftop.png`
+**Archivo:** `plano_40_silueta_rooftop.png`
 
 ```
 01 — PURPOSE
@@ -677,7 +1002,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Shot from the waist to the feet: she turns around quickly and her long dark red skirt swirls, the side slit opening as one leg steps forward in a flat sandal. A flat concrete floor and glowing string lights behind. In one hand she holds a small bunch of keys with a red pompom keychain.
+Full-body shot of Lourdes, the character in the attached reference sheet, standing in front of the city skyline, seen as a dark silhouette backlit by the thin line of orange on the horizon, with only a few lines drawn inside the silhouette. Her long skirt, her hair and the tails of her bandana are blown by the wind and her hands are empty. Deep purple-blue sky, small lit windows far behind. NO sea, NO boat.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
@@ -686,10 +1011,85 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 28 — Salida · caminata
+## Plano 41 — Tela de cerca (macro)
 
 **Adjuntar:** `looks/outfit_rooftop.png`
-**Archivo:** `plano_28_caminata_rooftop_salida.png`
+**Archivo:** `plano_41_macro_tela_rooftop.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of her long dark red skirt with the side slit, the fabric swaying and opening in soft folds under the glow of the string lights, filling the frame. Only the fabric is visible, no person.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 42 — Detalle de accesorio
+
+**Adjuntar:** `looks/outfit_rooftop.png`
+**Archivo:** `plano_42_detalle_hombro_rooftop.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of her shoulder with the thin black strap of her top, a thin chain necklace and the strap of her bag, a strand of her hair blowing in the wind. The image is cropped at the chin: no face.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 43 — Close-up de la ropa en movimiento
+
+**Adjuntar:** `looks/outfit_rooftop.png`
+**Archivo:** `plano_43_closeup_ropa_rooftop.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Shot from the waist to the feet: she turns around quickly and her long dark red skirt swirls, the side slit opening as one leg steps forward in a flat sandal. A flat concrete floor and glowing string lights behind. Her hands are empty and swing freely.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 44 — Salida · caminata
+
+**Adjuntar:** `looks/outfit_rooftop.png`
+**Archivo:** `plano_44_caminata_rooftop_salida.png`
 
 ```
 01 — PURPOSE
@@ -711,10 +1111,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 29 — Entrada · caminata
+## Plano 45 — Entrada · caminata
 
 **Adjuntar:** `looks/outfit_amanecerplaya.png`
-**Archivo:** `plano_29_caminata_playa_entrada.png`
+**Archivo:** `plano_45_caminata_playa_entrada.png`
 
 ```
 01 — PURPOSE
@@ -736,10 +1136,35 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 30 — Detalles de la fiesta, sin gente
+## Plano 46 — Plano abierto, Lourdes chiquita
+
+**Adjuntar:** `looks/outfit_amanecerplaya.png`
+**Archivo:** `plano_46_abierto_playa.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Very wide establishing shot with the camera far away: a huge empty beach at sunrise with a flat sand strip, a calm sea and a big round pale yellow sun low on the horizon. Lourdes, the character in the attached reference sheet, wearing the same outfit, is tiny, walking along the shoreline, about 8% of the frame height, holding a pair of swimming goggles in one hand. A lot of empty space around her. The sky is a solid, saturated burnt orange from the top edge of the picture down to the horizon, with a pale yellow sun; never cream, never pale or washed out.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 47 — Detalles de la fiesta, sin gente
 
 **Adjuntar:** `looks/outfit_amanecerplaya.png`, solo como referencia de estilo
-**Archivo:** `plano_30_detalle_playa.png`
+**Archivo:** `plano_47_detalle_playa.png`
 
 ```
 01 — PURPOSE
@@ -761,10 +1186,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 31 — Lourdes sola
+## Plano 48 — Lourdes sola
 
 **Adjuntar:** `looks/outfit_amanecerplaya.png`
-**Archivo:** `plano_31_lourdes_antiparras.png`
+**Archivo:** `plano_48_lourdes_antiparras.png`
 
 ```
 01 — PURPOSE
@@ -786,10 +1211,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 32 — Close-up de la ropa en movimiento
+## Plano 49 — De espaldas hacia el mar
 
 **Adjuntar:** `looks/outfit_amanecerplaya.png`
-**Archivo:** `plano_32_closeup_ropa_playa.png`
+**Archivo:** `plano_49_espaldas_playa.png`
 
 ```
 01 — PURPOSE
@@ -802,7 +1227,7 @@ Flat European editorial illustration in the look of "The Parisianer" (Éditions 
 Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
 
 04 — SHOT
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Shot from the waist to the feet: she walks along the wet sand of the shoreline, her orange floral sarong skirt flutters in the breeze and a small wave touches her lace-up sandals. The orange sunrise is reflected on the wet sand. In one hand she holds a pair of swimming goggles by the strap. The sky is a solid, saturated burnt orange from the top edge of the picture down to the horizon, with a pale yellow sun; never cream, never pale or washed out.
+Full-body shot of Lourdes, the character in the attached reference sheet, wearing the same outfit, seen from behind, walking toward the calm sea at sunrise with the big round sun in front of her. Her orange floral sarong flutters in the breeze, her bag is on her shoulder and her hands are empty. The sky is a solid, saturated burnt orange from the top edge of the picture down to the horizon, with a pale yellow sun; never cream, never pale or washed out.
 
 05 — CAMERA
 Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
@@ -811,10 +1236,85 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 33 — La amiga aparece
+## Plano 50 — Tela de cerca (macro)
+
+**Adjuntar:** `looks/outfit_amanecerplaya.png`
+**Archivo:** `plano_50_macro_tela_playa.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of the knot of her orange floral sarong at her hip, the fabric moving in the breeze, filling the frame. Only the fabric is visible, no person.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 51 — Detalle de accesorio
+
+**Adjuntar:** `looks/outfit_amanecerplaya.png`
+**Archivo:** `plano_51_detalle_collares_playa.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of her collarbone and shoulder: her layered silver necklaces with a small heart pendant and the strap of her woven straw tote bag, with strands of her bob hair moving in the wind. The image is cropped at the chin: no face. Warm orange sunrise light.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 52 — Close-up de la ropa en movimiento
+
+**Adjuntar:** `looks/outfit_amanecerplaya.png`
+**Archivo:** `plano_52_closeup_ropa_playa.png`
+
+```
+01 — PURPOSE
+One single still image: a shot from an illustrated fashion short film. The image will later be animated into a 3-second video clip, so it must have one clear subject, a clear foreground, middle ground and background, and room for natural movement (hair, fabric, wind). Horizontal landscape format in an exact 16:9 aspect ratio (2560x1440px), in high quality and sharp detail, composed for the full frame with no borders or margins.
+
+02 — STYLE
+Flat European editorial illustration in the look of "The Parisianer" (Éditions de la Martinière): thin, dark, slightly irregular hand-inked pen outline (natural hand wobble, NOT perfectly smooth, NOT thick, NOT glossy) and solid flat matte color fills applied as clean shapes inside the lines. Caricature-like faces: tiny dot eyes, expressive eyebrows, small angular nose. Slim, slightly angular bodies with natural anatomy. NO shading gradients, NO cel-shading highlights, NO gloss, NO painterly texture, NO paper grain, NO cast shadow, NO anime look. Match the drawing style, line and colors of the attached reference image exactly. If Lourdes appears in the shot, she keeps her short brown bob and wears the black polka-dot bandana on her head like a headscarf, tied in a small knot at the back, never around her neck, unless the shot says otherwise.
+
+03 — PALETTE
+Use only these flat matte colors plus the dark ink line: mustard yellow, brick red, olive/forest green, burnt orange, dusty blue-grey, warm cream, plus the black of the head scarf and the brown of the hair. NO pink, NO neon.
+
+04 — SHOT
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Shot from the waist to the feet: she walks along the wet sand of the shoreline, her orange floral sarong skirt flutters in the breeze and a small wave touches her lace-up sandals. The orange sunrise is reflected on the wet sand. Her hands are empty and swing freely. The sky is a solid, saturated burnt orange from the top edge of the picture down to the horizon, with a pale yellow sun; never cream, never pale or washed out.
+
+05 — CAMERA
+Eye-level camera, straight on, never an aerial view, unless the shot says otherwise. Flat color zones for walls, sky and ground so the picture breathes.
+
+06 — EXCLUSIONS
+NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
+```
+
+## Plano 53 — La amiga aparece
 
 **Adjuntar:** `looks/look_amiga_lourdes.png` (la hoja de la amiga)
-**Archivo:** `plano_33_amiga_aparece.png`
+**Archivo:** `plano_53_amiga_aparece.png`
 
 ```
 01 — PURPOSE
@@ -836,10 +1336,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 34 — La bolsa con los objetos
+## Plano 54 — La bolsa con los objetos
 
 **Adjuntar:** `looks/look_amiga_lourdes.png` (la hoja de la amiga)
-**Archivo:** `plano_34_bolsa_objetos.png`
+**Archivo:** `plano_54_bolsa_objetos.png`
 
 ```
 01 — PURPOSE
@@ -861,10 +1361,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 35 — Lourdes la ve
+## Plano 55 — Lourdes la ve
 
 **Adjuntar:** `looks/outfit_amanecerplaya.png`
-**Archivo:** `plano_35_lourdes_la_ve.png`
+**Archivo:** `plano_55_lourdes_la_ve.png`
 
 ```
 01 — PURPOSE
@@ -886,10 +1386,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 36 — La amiga llegó
+## Plano 56 — La amiga llegó
 
 **Adjuntar:** `looks/look_amiga_lourdes.png` (la hoja de la amiga)
-**Archivo:** `plano_36_amiga_llego.png`
+**Archivo:** `plano_56_amiga_llego.png`
 
 ```
 01 — PURPOSE
@@ -911,10 +1411,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 37 — Le devuelve los objetos
+## Plano 57 — Le devuelve los objetos
 
 **Adjuntar:** `looks/referencia_encuentro.png` (Lourdes en la playa, en 3 poses, y la amiga en 3 vistas, lado a lado)
-**Archivo:** `plano_37_devuelve_objetos.png`
+**Archivo:** `plano_57_devuelve_objetos.png`
 
 ```
 01 — PURPOSE
@@ -936,10 +1436,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 38 — Se abrazan
+## Plano 58 — Se abrazan
 
 **Adjuntar:** `looks/referencia_encuentro.png` (Lourdes en la playa, en 3 poses, y la amiga en 3 vistas, lado a lado)
-**Archivo:** `plano_38_abrazo.png`
+**Archivo:** `plano_58_abrazo.png`
 
 ```
 01 — PURPOSE
@@ -961,10 +1461,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 39 — Bailan en la orilla
+## Plano 59 — Bailan en la orilla
 
 **Adjuntar:** `looks/referencia_encuentro.png` (Lourdes en la playa, en 3 poses, y la amiga en 3 vistas, lado a lado)
-**Archivo:** `plano_39_bailan_orilla.png`
+**Archivo:** `plano_59_bailan_orilla.png`
 
 ```
 01 — PURPOSE
@@ -986,10 +1486,10 @@ Eye-level camera, straight on, never an aerial view, unless the shot says otherw
 NO text. NO letters. NO numbers. NO logos. NO watermark. NO photorealism. NO 3D rendering look. NO cup, NO drink in anyone's hands, unless the shot asks for it. NO people other than those named or described in the shot.
 ```
 
-## Plano 40 — Final
+## Plano 60 — Final
 
 **Adjuntar:** `looks/referencia_encuentro.png` (Lourdes en la playa, en 3 poses, y la amiga en 3 vistas, lado a lado)
-**Archivo:** `plano_40_final.png`
+**Archivo:** `plano_60_final.png`
 
 ```
 01 — PURPOSE

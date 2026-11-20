@@ -66,265 +66,425 @@ Slow push-in camera. The guests laugh, talk, pass dishes and raise their hands. 
 Slow sideways dolly along the table. The tablecloth flutters, a few petals fall from the flowers and the string lights twinkle. No people appear. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 8 — Lourdes y la sombrilla
+## Plano 8 — Plano abierto, Lourdes chiquita
 
-**Imagen:** `plano_08_lourdes_sombrilla.png.png`   **Video:** `plano_08_lourdes_sombrilla.png.mp4`
+**Imagen:** `plano_08_abierto_garden.png.png`   **Video:** `plano_08_abierto_garden.png.mp4`
+
+```
+Very slow push-in. Tiny Lourdes walks along the path from left to right, the cypress branches and the tablecloth move in the wind and the guests at the table move slightly. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 9 — Lourdes y la sombrilla
+
+**Imagen:** `plano_09_lourdes_sombrilla.png.png`   **Video:** `plano_09_lourdes_sombrilla.png.mp4`
 
 ```
 Slow camera that follows her. She walks between the tables holding the closed lace parasol when a strong gust of wind blows it out of her hand. The parasol flies through the air, tumbling and drifting away behind her, and finally lands on the grass, while she keeps walking without noticing. Her dress, her hair and the tails of her bandana blow in the wind, and a guest behind her waves. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 9 — Close-up de la ropa en movimiento
+## Plano 10 — Camina hacia la cámara
 
-**Imagen:** `plano_09_closeup_ropa_garden.png.png`   **Video:** `plano_09_closeup_ropa_garden.png.mp4`
+**Imagen:** `plano_10_cuerpo_garden.png.png`   **Video:** `plano_10_cuerpo_garden.png.mp4`
 
 ```
-Low camera tracking slowly from left to right. She walks across the grass, the breeze lifts and swirls the skirt of the long dress around her legs, the handbag swings at her hip, the closed parasol swings in her hand and her sandals step. Her face never appears. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+The camera, at ground level, moves slowly backward as she walks toward it. Her dress billows and her hair moves in the wind, with a slow-motion feel. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 10 — Salida · caminata
+## Plano 11 — Tela de cerca (macro)
 
-**Imagen:** `plano_10_caminata_garden_salida.png.png`   **Video:** `plano_10_caminata_garden_salida.png.mp4`
+**Imagen:** `plano_11_macro_tela_garden.png.png`   **Video:** `plano_11_macro_tela_garden.png.mp4`
+
+```
+Locked camera. The fabric ripples and waves in the wind in slow motion, and the flowers of the print shift gently. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 12 — Detalle de accesorio
+
+**Imagen:** `plano_12_detalle_cartera_garden.png.png`   **Video:** `plano_12_detalle_cartera_garden.png.mp4`
+
+```
+Locked close-up. The handbag swings slightly with her steps, her hand adjusts the strap and the strap of her dress moves in the breeze. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 13 — Close-up de la ropa en movimiento
+
+**Imagen:** `plano_13_closeup_ropa_garden.png.png`   **Video:** `plano_13_closeup_ropa_garden.png.mp4`
+
+```
+Low camera tracking slowly from left to right. She walks across the grass, the breeze lifts and swirls the skirt of the long dress around her legs, the handbag swings at her hip, her free hand swings and her sandals step. Her face never appears. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 14 — Salida · caminata
+
+**Imagen:** `plano_14_caminata_garden_salida.png.png`   **Video:** `plano_14_caminata_garden_salida.png.mp4`
 
 ```
 Locked camera that tracks her sideways at her own walking speed, so she stays centered in the frame while the background slowly slides to the left. Lourdes walks from left to right in strict side profile with a natural, steady walk cycle: legs alternate, arms swing, her clothes sway with each step. Her hands are empty and hang free at her sides, with nothing in them. In the background the sun is low, the guests wave in the distance and the grass moves slightly. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 11 — Entrada · caminata
+## Plano 15 — Entrada · caminata
 
-**Imagen:** `plano_11_caminata_carnaval_entrada.png.png`   **Video:** `plano_11_caminata_carnaval_entrada.png.mp4`
+**Imagen:** `plano_15_caminata_carnaval_entrada.png.png`   **Video:** `plano_15_caminata_carnaval_entrada.png.mp4`
 
 ```
 Locked camera that tracks her sideways at her own walking speed, so she stays centered in the frame while the background slowly slides to the left. Lourdes walks from left to right in strict side profile with a natural, steady walk cycle: legs alternate, arms swing, her clothes sway with each step. Her golden high-heeled shoes step in a steady rhythm. In the background the bunting flutters and the small dancers move. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 12 — Ambiente
+## Plano 16 — Ambiente
 
-**Imagen:** `plano_12_ambiente_carnaval.png.png`   **Video:** `plano_12_ambiente_carnaval.png.mp4`
+**Imagen:** `plano_16_ambiente_carnaval.png.png`   **Video:** `plano_16_ambiente_carnaval.png.mp4`
 
 ```
 Slow push-in camera. The dancers' feathered costumes shake and sway as they dance toward the camera, the drummers play, confetti falls and the bunting flutters. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 13 — Detalles de la fiesta, sin gente
+## Plano 17 — Detalles de la fiesta, sin gente
 
-**Imagen:** `plano_13_detalle_carnaval.png.png`   **Video:** `plano_13_detalle_carnaval.png.mp4`
+**Imagen:** `plano_17_detalle_carnaval.png.png`   **Video:** `plano_17_detalle_carnaval.png.mp4`
 
 ```
 Slow sideways dolly. Confetti drifts down, the feathers stir in the breeze and the bunting flutters. No people appear. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 14 — Lourdes baila y pierde el zapato
+## Plano 18 — Plano abierto, Lourdes chiquita
 
-**Imagen:** `plano_14_lourdes_zapato.png.png`   **Video:** `plano_14_lourdes_zapato.png.mp4`
+**Imagen:** `plano_18_abierto_carnaval.png.png`   **Video:** `plano_18_abierto_carnaval.png.mp4`
+
+```
+Very slow push-in. The comparsa moves along the street, the feathers shake, confetti falls and tiny Lourdes walks from left to right. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 19 — Lourdes baila y pierde el zapato
+
+**Imagen:** `plano_19_lourdes_zapato.png.png`   **Video:** `plano_19_lourdes_zapato.png.mp4`
 
 ```
 Camera that follows her gently. She dances with her arms up and spins slightly, one golden high-heeled shoe flies off her foot and tumbles in the air, confetti falls, the dancers sway around her and she laughs. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 15 — Close-up de la ropa en movimiento
+## Plano 20 — Giro completo
 
-**Imagen:** `plano_15_closeup_ropa_carnaval.png.png`   **Video:** `plano_15_closeup_ropa_carnaval.png.mp4`
+**Imagen:** `plano_20_giro_carnaval.png.png`   **Video:** `plano_20_giro_carnaval.png.mp4`
 
 ```
-Low camera, lively. She does a dance step in her golden heels, her wide-leg trousers swing wide, the hem of her blouse flutters and confetti floats in the air. Her face never appears. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+Locked camera. She spins one full turn in slow motion, her trousers flaring and the confetti swirling around her. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 16 — Salida · caminata
+## Plano 21 — Tela de cerca (macro)
 
-**Imagen:** `plano_16_caminata_carnaval_salida.png.png`   **Video:** `plano_16_caminata_carnaval_salida.png.mp4`
+**Imagen:** `plano_21_macro_tela_carnaval.png.png`   **Video:** `plano_21_macro_tela_carnaval.png.mp4`
+
+```
+Locked macro. The fabric swirls as in a spin, in slow motion, while confetti passes by. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 22 — Detalle de accesorio
+
+**Imagen:** `plano_22_detalle_blusa_carnaval.png.png`   **Video:** `plano_22_detalle_blusa_carnaval.png.mp4`
+
+```
+Locked close-up. The tie of the neckline flutters, confetti falls onto her shoulder and the necklace swings. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 23 — Close-up de la ropa en movimiento
+
+**Imagen:** `plano_23_closeup_ropa_carnaval.png.png`   **Video:** `plano_23_closeup_ropa_carnaval.png.mp4`
+
+```
+Low camera, lively. She does a dance step with one golden shoe and one bare foot, her wide-leg trousers swing wide, the hem of her blouse flutters and confetti floats in the air. Her face never appears. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 24 — Salida · caminata
+
+**Imagen:** `plano_24_caminata_carnaval_salida.png.png`   **Video:** `plano_24_caminata_carnaval_salida.png.mp4`
 
 ```
 Locked camera that tracks her sideways at her own walking speed, so she stays centered in the frame while the background slowly slides to the left. Lourdes walks from left to right in strict side profile with a natural, steady walk cycle: legs alternate, arms swing, her clothes sway with each step. She walks happily on one shoe and one bare foot. In the background confetti falls, the bunting sways and the comparsa moves far away. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 17 — Entrada · caminata
+## Plano 25 — Entrada · caminata
 
-**Imagen:** `plano_17_caminata_mar_entrada.png.png`   **Video:** `plano_17_caminata_mar_entrada.png.mp4`
+**Imagen:** `plano_25_caminata_mar_entrada.png.png`   **Video:** `plano_25_caminata_mar_entrada.png.mp4`
 
 ```
 Locked camera that tracks her sideways at her own walking speed, so she stays centered in the frame while the background slowly slides to the left. Lourdes walks from left to right in strict side profile with a natural, steady walk cycle: legs alternate, arms swing, her clothes sway with each step. The straw hat swings in her hand while the wind moves its brim and the tails of her bandana. In the background the sun glints on the water and small waves move at the dock. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 18 — Ambiente
+## Plano 26 — Ambiente
 
-**Imagen:** `plano_18_ambiente_mar.png.png`   **Video:** `plano_18_ambiente_mar.png.mp4`
+**Imagen:** `plano_26_ambiente_mar.png.png`   **Video:** `plano_26_ambiente_mar.png.mp4`
 
 ```
 Slow push-in camera. The guests dance and talk, the flag on the mast flutters, the wind blows hair and clothes strongly, the sunlit sea sparkles and a few small clouds drift. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 19 — Detalles de la fiesta, sin gente
+## Plano 27 — Detalles de la fiesta, sin gente
 
-**Imagen:** `plano_19_detalle_mar.png.png`   **Video:** `plano_19_detalle_mar.png.mp4`
+**Imagen:** `plano_27_detalle_mar.png.png`   **Video:** `plano_27_detalle_mar.png.mp4`
 
 ```
 Slow sideways dolly. The flag on the mast flutters, the end of the rope moves in the wind, the life ring sways slightly, small waves sparkle in the bright sea and a few small clouds drift. No people appear. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 20 — Lourdes y el sombrero
+## Plano 28 — Plano abierto, Lourdes chiquita
 
-**Imagen:** `plano_20_lourdes_sombrero.png.png`   **Video:** `plano_20_lourdes_sombrero.png.mp4`
+**Imagen:** `plano_28_abierto_mar.png.png`   **Video:** `plano_28_abierto_mar.png.mp4`
+
+```
+Very slow push-in. The boat cuts through the water, the waves move, small clouds drift and tiny Lourdes holds her hat in the wind. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 29 — Lourdes y el sombrero
+
+**Imagen:** `plano_29_lourdes_sombrero.png.png`   **Video:** `plano_29_lourdes_sombrero.png.mp4`
 
 ```
 Static medium shot. The wind snatches the straw hat out of her hand and it flies away over the sea, while her hair, the tails of her bandana and her trousers blow in the wind. She laughs and reaches out her hand. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 21 — Close-up de la ropa en movimiento
+## Plano 30 — De espaldas en la baranda
 
-**Imagen:** `plano_21_closeup_ropa_mar.png.png`   **Video:** `plano_21_closeup_ropa_mar.png.mp4`
+**Imagen:** `plano_30_espaldas_mar.png.png`   **Video:** `plano_30_espaldas_mar.png.mp4`
 
 ```
-Locked medium close-up. The strong sea wind makes her wide white trousers billow and flutter and ruffles the hem of her striped top, while one hand grips the railing and the other holds the straw hat, its brim fluttering, and the bright blue sea moves behind. Her face never appears. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+Slow push-in from behind. The wind blows her hair, the tails of her bandana and her trousers, and the sea moves. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 22 — Salida · caminata
+## Plano 31 — Tela de cerca (macro)
 
-**Imagen:** `plano_22_caminata_mar_salida.png.png`   **Video:** `plano_22_caminata_mar_salida.png.mp4`
+**Imagen:** `plano_31_macro_tela_mar.png.png`   **Video:** `plano_31_macro_tela_mar.png.mp4`
+
+```
+Locked macro. The stripes and the white fabric flutter in the wind. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 32 — Detalle de accesorio
+
+**Imagen:** `plano_32_detalle_anteojos_mar.png.png`   **Video:** `plano_32_detalle_anteojos_mar.png.mp4`
+
+```
+Locked close-up. The tails of the bandana flutter, the reflection in the lenses shimmers and a strand of hair moves. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 33 — Close-up de la ropa en movimiento
+
+**Imagen:** `plano_33_closeup_ropa_mar.png.png`   **Video:** `plano_33_closeup_ropa_mar.png.mp4`
+
+```
+Locked medium close-up. The strong sea wind makes her wide white trousers billow and flutter and ruffles the hem of her striped top, while her hands grip the railing and the bright blue sea moves behind. Her face never appears. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 34 — Salida · caminata
+
+**Imagen:** `plano_34_caminata_mar_salida.png.png`   **Video:** `plano_34_caminata_mar_salida.png.mp4`
 
 ```
 Locked camera that tracks her sideways at her own walking speed, so she stays centered in the frame while the background slowly slides to the left. Lourdes walks from left to right in strict side profile with a natural, steady walk cycle: legs alternate, arms swing, her clothes sway with each step. Her hands are empty and hang free at her sides, with nothing in them. In the background the sea ripples and the rope sways. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 23 — Entrada · caminata
+## Plano 35 — Entrada · caminata
 
-**Imagen:** `plano_23_caminata_rooftop_entrada.png.png`   **Video:** `plano_23_caminata_rooftop_entrada.png.mp4`
+**Imagen:** `plano_35_caminata_rooftop_entrada.png.png`   **Video:** `plano_35_caminata_rooftop_entrada.png.mp4`
 
 ```
 Locked camera that tracks her sideways at her own walking speed, so she stays centered in the frame while the background slowly slides to the left. Lourdes walks from left to right in strict side profile with a natural, steady walk cycle: legs alternate, arms swing, her clothes sway with each step. The bunch of keys with the pompom swings in her hand. In the background a few lit windows twinkle in the skyline and the string lights above sway. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 24 — Ambiente
+## Plano 36 — Ambiente
 
-**Imagen:** `plano_24_ambiente_rooftop.png.png`   **Video:** `plano_24_ambiente_rooftop.png.mp4`
+**Imagen:** `plano_36_ambiente_rooftop.png.png`   **Video:** `plano_36_ambiente_rooftop.png.mp4`
 
 ```
 Slow push-in camera. The people talk and laugh around the bar, the string lights glow and sway, their clothes move in the wind and the small windows of the skyline twinkle. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 25 — Detalles de la fiesta, sin gente
+## Plano 37 — Detalles de la fiesta, sin gente
 
-**Imagen:** `plano_25_detalle_rooftop.png.png`   **Video:** `plano_25_detalle_rooftop.png.mp4`
+**Imagen:** `plano_37_detalle_rooftop.png.png`   **Video:** `plano_37_detalle_rooftop.png.mp4`
 
 ```
 Slow sideways dolly along the bar. The string lights twinkle, the leaves of the plant rustle and the windows of the skyline twinkle. No people appear. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 26 — Lourdes y las llaves
+## Plano 38 — Plano abierto, Lourdes chiquita
 
-**Imagen:** `plano_26_lourdes_llaves.png.png`   **Video:** `plano_26_lourdes_llaves.png.mp4`
+**Imagen:** `plano_38_abierto_rooftop.png.png`   **Video:** `plano_38_abierto_rooftop.png.mp4`
+
+```
+Very slow push-in. The string lights sway, the windows of the skyline twinkle and tiny Lourdes stands with her hair moving in the wind. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 39 — Lourdes y las llaves
+
+**Imagen:** `plano_39_lourdes_llaves.png.png`   **Video:** `plano_39_lourdes_llaves.png.mp4`
 
 ```
 Static medium shot. She laughs with her friends and leans on the stool, while a bunch of keys with a pompom keychain slips out of her hand and falls to the floor without her noticing. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 27 — Close-up de la ropa en movimiento
+## Plano 40 — Silueta contra la ciudad
 
-**Imagen:** `plano_27_closeup_ropa_rooftop.png.png`   **Video:** `plano_27_closeup_ropa_rooftop.png.mp4`
+**Imagen:** `plano_40_silueta_rooftop.png.png`   **Video:** `plano_40_silueta_rooftop.png.mp4`
 
 ```
-Quick low camera. She turns around and her long dark red skirt swirls, the slit opens as one leg steps forward, the bunch of keys swings in her hand, and the string lights glow behind. Her face never appears. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+Locked camera. The skirt and her hair blow slowly in the wind while the thin orange line on the horizon slowly brightens. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 28 — Salida · caminata
+## Plano 41 — Tela de cerca (macro)
 
-**Imagen:** `plano_28_caminata_rooftop_salida.png.png`   **Video:** `plano_28_caminata_rooftop_salida.png.mp4`
+**Imagen:** `plano_41_macro_tela_rooftop.png.png`   **Video:** `plano_41_macro_tela_rooftop.png.mp4`
+
+```
+Locked macro. The skirt sways and opens with the slit while the lights flicker. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 42 — Detalle de accesorio
+
+**Imagen:** `plano_42_detalle_hombro_rooftop.png.png`   **Video:** `plano_42_detalle_hombro_rooftop.png.mp4`
+
+```
+Locked close-up. The strap and the necklace sway and a strand of hair moves in the wind. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 43 — Close-up de la ropa en movimiento
+
+**Imagen:** `plano_43_closeup_ropa_rooftop.png.png`   **Video:** `plano_43_closeup_ropa_rooftop.png.mp4`
+
+```
+Quick low camera. She turns around and her long dark red skirt swirls, the slit opens as one leg steps forward, her free hand swings, and the string lights glow behind. Her face never appears. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 44 — Salida · caminata
+
+**Imagen:** `plano_44_caminata_rooftop_salida.png.png`   **Video:** `plano_44_caminata_rooftop_salida.png.mp4`
 
 ```
 Locked camera that tracks her sideways at her own walking speed, so she stays centered in the frame while the background slowly slides to the left. Lourdes walks from left to right in strict side profile with a natural, steady walk cycle: legs alternate, arms swing, her clothes sway with each step. Her hands are empty and hang free at her sides, with nothing in them. In the background the string lights sway and the horizon glows slowly from blue to orange. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 29 — Entrada · caminata
+## Plano 45 — Entrada · caminata
 
-**Imagen:** `plano_29_caminata_playa_entrada.png.png`   **Video:** `plano_29_caminata_playa_entrada.png.mp4`
+**Imagen:** `plano_45_caminata_playa_entrada.png.png`   **Video:** `plano_45_caminata_playa_entrada.png.mp4`
 
 ```
 Locked camera that tracks her sideways at her own walking speed, so she stays centered in the frame while the background slowly slides to the left. Lourdes walks from left to right in strict side profile with a natural, steady walk cycle: legs alternate, arms swing, her clothes sway with each step. The swimming goggles dangle and swing from her hand. In the background the sun rises very slowly and small waves roll at the shore. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 30 — Detalles de la fiesta, sin gente
+## Plano 46 — Plano abierto, Lourdes chiquita
 
-**Imagen:** `plano_30_detalle_playa.png.png`   **Video:** `plano_30_detalle_playa.png.mp4`
+**Imagen:** `plano_46_abierto_playa.png.png`   **Video:** `plano_46_abierto_playa.png.mp4`
+
+```
+Very slow pull-back. Tiny Lourdes walks along the shoreline, small waves roll and the sun rises slowly. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 47 — Detalles de la fiesta, sin gente
+
+**Imagen:** `plano_47_detalle_playa.png.png`   **Video:** `plano_47_detalle_playa.png.mp4`
 
 ```
 Slow low camera gliding forward over the sand. A small wave arrives and recedes over the footprints, the sun rises slightly and its reflection shimmers on the water. No people appear. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 31 — Lourdes sola
+## Plano 48 — Lourdes sola
 
-**Imagen:** `plano_31_lourdes_antiparras.png.png`   **Video:** `plano_31_lourdes_antiparras.png.mp4`
+**Imagen:** `plano_48_lourdes_antiparras.png.png`   **Video:** `plano_48_lourdes_antiparras.png.mp4`
 
 ```
 Wide shot with a very slow push-in. She walks along the shoreline, a small wave rolls behind her, and the swimming goggles slip out of her hand and fall onto the sand without her noticing. The sun rises slowly. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 32 — Close-up de la ropa en movimiento
+## Plano 49 — De espaldas hacia el mar
 
-**Imagen:** `plano_32_closeup_ropa_playa.png.png`   **Video:** `plano_32_closeup_ropa_playa.png.mp4`
+**Imagen:** `plano_49_espaldas_playa.png.png`   **Video:** `plano_49_espaldas_playa.png.mp4`
 
 ```
-Low camera that follows her feet. She walks on the wet sand with the goggles dangling from her hand, her sarong skirt flutters and a small wave touches her sandals and recedes. Her face never appears. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+The camera follows slowly from behind as she walks toward the sea, her sarong fluttering while the sun rises. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 33 — La amiga aparece
+## Plano 50 — Tela de cerca (macro)
 
-**Imagen:** `plano_33_amiga_aparece.png.png`   **Video:** `plano_33_amiga_aparece.png.mp4`
+**Imagen:** `plano_50_macro_tela_playa.png.png`   **Video:** `plano_50_macro_tela_playa.png.mp4`
+
+```
+Locked macro. The knot and the fabric flutter in the breeze. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 51 — Detalle de accesorio
+
+**Imagen:** `plano_51_detalle_collares_playa.png.png`   **Video:** `plano_51_detalle_collares_playa.png.mp4`
+
+```
+Locked close-up. The necklaces sway, the strap shifts and strands of hair blow, while the sunlight glows. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 52 — Close-up de la ropa en movimiento
+
+**Imagen:** `plano_52_closeup_ropa_playa.png.png`   **Video:** `plano_52_closeup_ropa_playa.png.mp4`
+
+```
+Low camera that follows her feet. She walks on the wet sand, her sarong skirt flutters and a small wave touches her sandals and recedes. Her face never appears. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
+```
+
+## Plano 53 — La amiga aparece
+
+**Imagen:** `plano_53_amiga_aparece.png.png`   **Video:** `plano_53_amiga_aparece.png.mp4`
 
 ```
 Static wide shot. Far in the background, the friend runs along the shoreline from left to right, her tote bag bouncing, her raincoat flying. The sun rises slowly and small waves move. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 34 — La bolsa con los objetos
+## Plano 54 — La bolsa con los objetos
 
-**Imagen:** `plano_34_bolsa_objetos.png.png`   **Video:** `plano_34_bolsa_objetos.png.mp4`
+**Imagen:** `plano_54_bolsa_objetos.png.png`   **Video:** `plano_54_bolsa_objetos.png.mp4`
 
 ```
 Close-up camera tracking sideways at running speed. The tote bag bounces with every stride and the five objects shake and stick out of it, while the hand grips the strap and the raincoat flutters. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 35 — Lourdes la ve
+## Plano 55 — Lourdes la ve
 
-**Imagen:** `plano_35_lourdes_la_ve.png.png`   **Video:** `plano_35_lourdes_la_ve.png.mp4`
+**Imagen:** `plano_55_lourdes_la_ve.png.png`   **Video:** `plano_55_lourdes_la_ve.png.mp4`
 
 ```
 Static close-up with a very slow push-in. Her eyebrows rise with surprise and then a big smile grows. Her eyes stay exactly as drawn, as simple black dots. Her hair moves in the wind. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 36 — La amiga llegó
+## Plano 56 — La amiga llegó
 
-**Imagen:** `plano_36_amiga_llego.png.png`   **Video:** `plano_36_amiga_llego.png.mp4`
+**Imagen:** `plano_56_amiga_llego.png.png`   **Video:** `plano_56_amiga_llego.png.mp4`
 
 ```
 Static close-up with a slow push-in. She is out of breath, her shoulders rise and fall, her hair moves, the beret stays a little crooked, and a huge relieved smile grows. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 37 — Le devuelve los objetos
+## Plano 57 — Le devuelve los objetos
 
-**Imagen:** `plano_37_devuelve_objetos.png.png`   **Video:** `plano_37_devuelve_objetos.png.mp4`
+**Imagen:** `plano_57_devuelve_objetos.png.png`   **Video:** `plano_57_devuelve_objetos.png.mp4`
 
 ```
 Static medium shot. The friend opens her tote bag and holds out the objects one by one, while Lourdes puts both hands on her cheeks and laughs. Wind in their hair and clothes. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 38 — Se abrazan
+## Plano 58 — Se abrazan
 
-**Imagen:** `plano_38_abrazo.png.png`   **Video:** `plano_38_abrazo.png.mp4`
+**Imagen:** `plano_58_abrazo.png.png`   **Video:** `plano_58_abrazo.png.mp4`
 
 ```
 Slow sideways tracking. They rush into a tight hug and sway from side to side, the tote bag swings and small waves move behind them. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 39 — Bailan en la orilla
+## Plano 59 — Bailan en la orilla
 
-**Imagen:** `plano_39_bailan_orilla.png.png`   **Video:** `plano_39_bailan_orilla.png.mp4`
+**Imagen:** `plano_59_bailan_orilla.png.png`   **Video:** `plano_59_bailan_orilla.png.mp4`
 
 ```
 Slow camera orbit around them. They laugh and dance holding hands, spinning in the shallow water with small splashes, their clothes and hair in motion. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.
 ```
 
-## Plano 40 — Final
+## Plano 60 — Final
 
-**Imagen:** `plano_40_final.png.png`   **Video:** `plano_40_final.png.mp4`
+**Imagen:** `plano_60_final.png.png`   **Video:** `plano_60_final.png.mp4`
 
 ```
 Very slow pull-back, the camera moves away from them. They stand still seen from behind, the friend's arm around Lourdes's shoulder, while the sun rises slowly and glows brighter and their hair and clothes move slightly in the wind. Small waves roll. 4 seconds, 2D flat hand-drawn illustration animation with smooth, simple movement. Keep the drawing style, outlines, flat matte colors, outfits, faces and hair exactly as in the image. Keep the faces exactly as drawn: tiny black dot eyes, simple eyebrows and a simple line for the mouth, with NO eyelashes, NO irises, NO shiny eyes, NO blush, NO colored lips, and NOT an anime or realistic face. NO 3D, NO shading, NO photorealism, NO camera shake. No music and no voices. No text, and no new people or objects appearing except what is described.

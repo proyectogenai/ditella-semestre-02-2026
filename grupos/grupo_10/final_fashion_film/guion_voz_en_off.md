@@ -1,4 +1,36 @@
-# Guion de la voz en off — "A dónde vamos" (borrador)
+# Voz en off — "A dónde vamos" (versión actual)
+
+**Corrección de los profes:** la voz no tiene que narrar todo lo que pasa. Solo
+**una frase al principio y una al final**, y el film tiene que ser más
+fashion film y menos relato. La que habla sigue siendo la amiga.
+
+## Las dos frases (audios ya hechos)
+
+| Frase | Audio | Dura | Dónde va |
+|---|---|---|---|
+| **A, al principio** | `voz_01c_despertar` | 4,7 s | Sobre los planos 3 y 4 (el pañuelo y la cartera), unos 4 segundos después de arrancar. |
+| **B, al final** | `voz_08_cierre` | 5,8 s | Sobre los planos 58 a 60 (el abrazo, el baile y el final), terminando justo al cierre. |
+
+**A:** "A Lourdes le gusta un poco todo, y cuando una fiesta termina, ya hay otra."
+
+**B:** "La verdad, tampoco tenía apuro en encontrarla. Esta fiesta también está buena."
+
+Con planos de 2 segundos, el film dura unos 2 minutos. En el medio no hay voz:
+queda la música, los sonidos y la ropa en movimiento.
+
+## Lo que ya no se usa
+
+Estos audios quedan guardados, pero fuera del film por ahora: `voz_01a_despertar`,
+`voz_02_garden`, `voz_03_carnaval`, `voz_04_mar`, `voz_05_rooftop`,
+`voz_06_playa` y `voz_07_encuentro`.
+
+**Pendiente de decidir:** `voz_01b_mensaje_celular` ("Lourdes, ¿dónde estás?").
+No es narración sino un mensaje de voz dentro de la escena (plano 2), así que
+puede quedarse o no.
+
+---
+
+## Guion anterior (ya no se usa, queda como archivo)
 
 Narra **la amiga**, en primera persona, con la misma voz del libro (la que
 persigue a Lourdes y siempre llega un rato tarde). Cuenta el recorrido mirando

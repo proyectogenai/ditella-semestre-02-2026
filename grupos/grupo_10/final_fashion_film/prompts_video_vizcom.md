@@ -413,7 +413,7 @@ She laughs with her friends and leans on the stool, while a bunch of keys with a
 **Frase de cámara (si no usás preset):** Locked camera.
 
 ```
-The skirt and her hair blow slowly in the wind while the thin orange line on the horizon slowly brightens. Keep the flat hand-drawn illustration style, outlines, flat colors, outfits and faces exactly as in the image: tiny black dot eyes, no eyelashes, no blush, not anime. No 3D, no shading, no camera shake, no music or voices, no text, and no new people or objects appearing except what is described.
+The skirt and her hair blow slowly in the wind while the thin orange line on the horizon glows softly. Keep the flat hand-drawn illustration style, outlines, flat colors, outfits and faces exactly as in the image: tiny black dot eyes, no eyelashes, no blush, not anime. No 3D, no shading, no camera shake, no music or voices, no text, and no new people or objects appearing except what is described.
 ```
 
 ## Plano 41 — Tela de cerca (macro)
@@ -453,7 +453,7 @@ She turns around and her long dark red skirt swirls, the slit opens as one leg s
 **Frase de cámara (si no usás preset):** Locked camera that tracks her sideways at her own walking speed, so she stays centered in the frame while the background slowly slides to the left.
 
 ```
-Lourdes walks from left to right in strict side profile with a natural, steady walk cycle: legs alternate, arms swing, her clothes sway with each step. Her hands are empty and hang free at her sides, with nothing in them. In the background the string lights sway and the horizon glows slowly from blue to orange. Keep the flat hand-drawn illustration style, outlines, flat colors, outfits and faces exactly as in the image: tiny black dot eyes, no eyelashes, no blush, not anime. No 3D, no shading, no camera shake, no music or voices, no text, and no new people or objects appearing except what is described.
+Lourdes walks from left to right in strict side profile with a natural, steady walk cycle: legs alternate, arms swing, her clothes sway with each step. Her hands are empty and hang free at her sides, with nothing in them. In the background the string lights sway and the thin orange line on the horizon glows softly. Keep the flat hand-drawn illustration style, outlines, flat colors, outfits and faces exactly as in the image: tiny black dot eyes, no eyelashes, no blush, not anime. No 3D, no shading, no camera shake, no music or voices, no text, and no new people or objects appearing except what is described.
 ```
 
 ## Plano 45 — Entrada · caminata

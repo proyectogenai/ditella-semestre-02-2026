@@ -362,7 +362,7 @@ Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the
 
 ```
 [OBJETO] = She holds a small bunch of keys with a red pompom keychain in one hand, clearly visible, dangling as she walks.
-[FONDO] = the door of a stairwell on a rooftop terrace with big potted plants, a brick-red wall, a water tank and antennas, a skyline of buildings full of small lit windows behind, a deep purple-blue sky before dawn, a string of round festoon lights hanging above, and a flat concrete ground strip.
+[FONDO] = the door of a stairwell on a rooftop terrace with big potted plants, a brick-red wall, a water tank and antennas, a skyline of buildings full of small lit windows behind, a string of round festoon lights hanging above, and a flat concrete ground strip. The sky is always exactly the same in every shot: a solid, flat deep violet-blue from the top edge of the picture down to the horizon, with one thin straight band of burnt orange glowing right along the horizon line. Never black, never light blue, never pink, never all orange, never a gradient.
 ```
 
 **Plano 36 — Ambiente** (adjuntar: `looks/outfit_rooftop.png`, solo como referencia de estilo)
@@ -370,7 +370,7 @@ Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the
 **Archivo:** `plano_36_ambiente_rooftop.png`
 
 ```
-Lourdes is NOT in this shot; the attached image is only a style reference. A rooftop party on a city building seen at eye level: about six people talking and laughing around a small bar with bottles and glasses, a string of round festoon lights above them, big plants in pots, a brick-red wall, a water tank and antennas, and a city skyline full of small lit windows behind. Deep purple-blue sky before dawn with a thin line of orange on the horizon. NO sea, NO boat, NO ropes, NO life rings. Their clothes and the string lights move in the wind.
+Lourdes is NOT in this shot; the attached image is only a style reference. A rooftop party on a city building seen at eye level: about six people talking and laughing around a small bar with bottles and glasses, a string of round festoon lights above them, big plants in pots, a brick-red wall, a water tank and antennas, and a city skyline full of small lit windows behind. The sky is always exactly the same in every shot: a solid, flat deep violet-blue from the top edge of the picture down to the horizon, with one thin straight band of burnt orange glowing right along the horizon line. Never black, never light blue, never pink, never all orange, never a gradient. NO sea, NO boat, NO ropes, NO life rings. Their clothes and the string lights move in the wind.
 ```
 
 **Plano 37 — Detalles de la fiesta, sin gente** (adjuntar: `looks/outfit_rooftop.png`, solo como referencia de estilo)
@@ -378,7 +378,7 @@ Lourdes is NOT in this shot; the attached image is only a style reference. A roo
 **Archivo:** `plano_37_detalle_rooftop.png`
 
 ```
-Lourdes and all other people are NOT in this shot: there are NO people at all in the image. The attached image is only a style reference. A detail shot of a rooftop bar at night, at eye level, close to the camera: a counter with bottles, empty glasses, an ice bucket and a bowl of lemon slices, a string of round festoon lights glowing above, a plant in a big pot, a brick-red wall and the city skyline with many small lit windows far behind. Deep purple-blue sky. NO sea, NO boat, NO ropes, NO life rings.
+Lourdes and all other people are NOT in this shot: there are NO people at all in the image. The attached image is only a style reference. A detail shot of a rooftop bar before dawn, at eye level, close to the camera: a counter with bottles, empty glasses, an ice bucket and a bowl of lemon slices, a string of round festoon lights glowing above, a plant in a big pot, a brick-red wall and the city skyline with many small lit windows far behind. The sky is always exactly the same in every shot: a solid, flat deep violet-blue from the top edge of the picture down to the horizon, with one thin straight band of burnt orange glowing right along the horizon line. Never black, never light blue, never pink, never all orange, never a gradient. NO sea, NO boat, NO ropes, NO life rings.
 ```
 
 **Plano 38 — Plano abierto, Lourdes chiquita** (adjuntar: `looks/outfit_rooftop.png`)
@@ -386,7 +386,7 @@ Lourdes and all other people are NOT in this shot: there are NO people at all in
 **Archivo:** `plano_38_abierto_rooftop.png`
 
 ```
-Very wide establishing shot with the camera far away: a city rooftop terrace before dawn, with a string of round festoon lights hanging in symmetrical arcs, big potted plants, a brick-red wall and a city skyline full of small lit windows. Lourdes, the character in the attached reference sheet, wearing the same outfit, is tiny near the edge of the terrace, about 12% of the frame height, holding a small bunch of keys with a red pompom keychain in one hand. Deep purple-blue sky with a thin line of orange on the horizon. NO sea, NO boat, NO ropes, NO life rings.
+Very wide establishing shot with the camera far away: a city rooftop terrace before dawn, with a string of round festoon lights hanging in symmetrical arcs, big potted plants, a brick-red wall and a city skyline full of small lit windows. Lourdes, the character in the attached reference sheet, wearing the same outfit, is tiny near the edge of the terrace, about 12% of the frame height, holding a small bunch of keys with a red pompom keychain in one hand. The sky is always exactly the same in every shot: a solid, flat deep violet-blue from the top edge of the picture down to the horizon, with one thin straight band of burnt orange glowing right along the horizon line. Never black, never light blue, never pink, never all orange, never a gradient. NO sea, NO boat, NO ropes, NO life rings.
 ```
 
 **Plano 39 — Lourdes y las llaves** (adjuntar: `looks/outfit_rooftop.png`)
@@ -394,7 +394,7 @@ Very wide establishing shot with the camera far away: a city rooftop terrace bef
 **Archivo:** `plano_39_lourdes_llaves.png`
 
 ```
-Medium shot of Lourdes, the character in the attached reference sheet, wearing the same outfit, leaning on a high stool at the bar and laughing with two friends. A small bunch of keys with a pompom keychain is slipping out of her hand and falling toward the floor, and she has not noticed.
+Medium shot of Lourdes, the character in the attached reference sheet, wearing the same outfit, leaning on a high stool at the bar and laughing with two friends. A small bunch of keys with a pompom keychain is slipping out of her hand and falling toward the floor, and she has not noticed. The sky is always exactly the same in every shot: a solid, flat deep violet-blue from the top edge of the picture down to the horizon, with one thin straight band of burnt orange glowing right along the horizon line. Never black, never light blue, never pink, never all orange, never a gradient.
 ```
 
 **Plano 40 — Silueta contra la ciudad** (adjuntar: `looks/outfit_rooftop.png`)
@@ -402,7 +402,7 @@ Medium shot of Lourdes, the character in the attached reference sheet, wearing t
 **Archivo:** `plano_40_silueta_rooftop.png`
 
 ```
-Full-body shot of Lourdes, the character in the attached reference sheet, standing in front of the city skyline, seen as a dark silhouette backlit by the thin line of orange on the horizon, with only a few lines drawn inside the silhouette. Her long skirt, her hair and the tails of her bandana are blown by the wind and her hands are empty. Deep purple-blue sky, small lit windows far behind. NO sea, NO boat.
+Full-body shot of Lourdes, the character in the attached reference sheet, standing in front of the city skyline, seen as a dark silhouette backlit by the thin line of orange on the horizon, with only a few lines drawn inside the silhouette. Her long skirt, her hair and the tails of her bandana are blown by the wind and her hands are empty. Small lit windows far behind. The sky is always exactly the same in every shot: a solid, flat deep violet-blue from the top edge of the picture down to the horizon, with one thin straight band of burnt orange glowing right along the horizon line. Never black, never light blue, never pink, never all orange, never a gradient. NO sea, NO boat.
 ```
 
 **Plano 41 — Tela de cerca (macro)** (adjuntar: `looks/outfit_rooftop.png`)
@@ -410,7 +410,7 @@ Full-body shot of Lourdes, the character in the attached reference sheet, standi
 **Archivo:** `plano_41_macro_tela_rooftop.png`
 
 ```
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of her long dark red skirt with the side slit, the fabric swaying and opening in soft folds under the glow of the string lights, filling the frame. Only the fabric is visible, no person.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Extreme close-up of her long dark red skirt with the side slit, the fabric swaying and opening in soft folds under the glow of the string lights, filling the frame. Only the fabric is visible, no person. The fabric fills the whole frame, so no sky is visible. If any background shows through behind the skirt, it is the dark violet-blue of the pre-dawn rooftop, NEVER light blue. The sky is always exactly the same in every shot: a solid, flat deep violet-blue from the top edge of the picture down to the horizon, with one thin straight band of burnt orange glowing right along the horizon line. Never black, never light blue, never pink, never all orange, never a gradient.
 ```
 
 **Plano 42 — Detalle de accesorio** (adjuntar: `looks/outfit_rooftop.png`)
@@ -418,7 +418,7 @@ Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the
 **Archivo:** `plano_42_detalle_hombro_rooftop.png`
 
 ```
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of her shoulder with the thin black strap of her top, a thin chain necklace and the strap of her bag, a strand of her hair blowing in the wind. The image is cropped at the chin: no face.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Close-up of her shoulder with the thin black strap of her top, a thin chain necklace and the strap of her bag, a strand of her hair blowing in the wind. The image is cropped at the chin: no face. Behind her shoulder, where the background is visible, it is the sky described here, NEVER a light blue background. The sky is always exactly the same in every shot: a solid, flat deep violet-blue from the top edge of the picture down to the horizon, with one thin straight band of burnt orange glowing right along the horizon line. Never black, never light blue, never pink, never all orange, never a gradient.
 ```
 
 **Plano 43 — Close-up de la ropa en movimiento** (adjuntar: `looks/outfit_rooftop.png`)
@@ -426,7 +426,7 @@ Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the
 **Archivo:** `plano_43_closeup_ropa_rooftop.png`
 
 ```
-Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Shot from the waist to the feet: she turns around quickly and her long dark red skirt swirls, the side slit opening as one leg steps forward in a flat sandal. A flat concrete floor and glowing string lights behind. Her hands are empty and swing freely.
+Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the character in the attached reference sheet: reproduce her outfit exactly as drawn in the sheet, with the same print and colors, even if they differ from the palette. Shot from the waist to the feet: she turns around quickly and her long dark red skirt swirls, the side slit opening as one leg steps forward in a flat sandal. A flat concrete floor and glowing string lights behind. Her hands are empty and swing freely. The background behind her is the dark violet-blue pre-dawn rooftop, NEVER light blue. The sky is always exactly the same in every shot: a solid, flat deep violet-blue from the top edge of the picture down to the horizon, with one thin straight band of burnt orange glowing right along the horizon line. Never black, never light blue, never pink, never all orange, never a gradient.
 ```
 
 **Plano 44 — Salida · caminata** (adjuntar: `looks/outfit_rooftop.png`)
@@ -435,7 +435,7 @@ Close-up of Lourdes's clothes in motion; her face is NOT in the shot. She is the
 
 ```
 [OBJETO] = Her hands are empty and hang free at her sides, with nothing in them.
-[FONDO] = the edge of the rooftop with a low brick wall, a string of round festoon lights above, big potted plants, the city skyline with many small lit windows far behind, and a sky turning from deep purple-blue to a thin line of orange at the horizon.
+[FONDO] = the edge of the rooftop with a low brick wall, a string of round festoon lights above, big potted plants, the city skyline with many small lit windows far behind. The sky is always exactly the same in every shot: a solid, flat deep violet-blue from the top edge of the picture down to the horizon, with one thin straight band of burnt orange glowing right along the horizon line. Never black, never light blue, never pink, never all orange, never a gradient.
 ```
 
 ## Playa (amanecer)
